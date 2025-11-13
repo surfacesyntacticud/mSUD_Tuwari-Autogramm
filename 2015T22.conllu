@@ -307,7 +307,7 @@
 5	teto	teto	VERB	v	_	0	root	_	Gloss=to_hit
 
 # sent_id = 2015T22_10
-# text = mwe tete -nami mami -no fo -lo mami -no fo -lo mami -mo -lo mu- nuane m- u -ne ko teia mamo mo- fu -ne o kelia -sapo nomo ianu -le mo- to -ne -nami fu ni -tano m- alo -nami mami -mo heno ni -ma heno -wu
+# text = mwe tete -nami mami -no =fo -lo mami -no fo -lo mami -mo -lo mu- nuane m- u -ne ko teia mamo mo- fu -ne o kelia -sapo nomo ianu -le mo- to -ne -nami fu ni -tano m- alo -nami mami -mo heno ni -ma heno -wu
 # text_en = Having shot it, he carry this rat  together with the pig, put them there in the garden, after we cut some wood  we light the fire int the house and put the pig one the fire.
 # doc_id = 2015T22
 # doc_title = 2015T22++
@@ -316,15 +316,15 @@
 3	-nami	-nami	ADV	v:(Chaining)	_	16	conj:chain	_	Gloss=after
 4	mami	mami_1	NOUN	n  (mo)	_	6	comp:det	_	Gloss=pig
 5	-no	-no_2	PRON	n:Tout	PronType=Dem	4	comp:det	_	Gloss=-DEM2
-6	fo	fo_1	NOUN	n	_	7	comp	_	Gloss=bush_rat
-7	-lo	-lo_3	NOUN	n	Case=Com	16	comp:obj	_	Gloss=-COM
+6	=fo	=fo_1	NOUN	n	_	10	conj:dicto	_	Gloss=bush_rat
+7	-lo	-lo_3	NOUN	n	Case=Com	6	cc	_	Gloss=-COM
 8	mami	mami_1	NOUN	n  (mo)	_	10	comp:det	_	Gloss=pig
 9	-no	-no_2	PRON	n:Tout	PronType=Dem	8	comp:det	_	Gloss=-DEM2
-10	fo	fo_1	NOUN	n	_	11	comp	_	Gloss=bush_rat
-11	-lo	-lo_3	NOUN	n	Case=Com	16	comp:obj	_	Gloss=-COM
+10	fo	fo_1	NOUN	n	_	13	conj:coord	_	Gloss=bush_rat
+11	-lo	-lo_3	NOUN	n	Case=Com	10	cc	_	Gloss=-COM
 12	mami	mami_1	NOUN	n  (mo)	_	_	_	_	Gloss=pig
-13	-mo	-mo_1	DET	n:(NounGenderNumber)	Number=Sing	_	_	_	Gloss=-III.SG|NounClass=Tww3
-14	-lo	-lo_3	NOUN	n	Case=Com	_	_	_	Gloss=-COM
+13	-mo	-mo_1	DET	n:(NounGenderNumber)	Number=Sing	16	comp:obj	_	Gloss=-III.SG|NounClass=Tww3
+14	-lo	-lo_3	NOUN	n	Case=Com	13	cc	_	Gloss=-COM
 15	mu-	mu-	AUX	v:(dir-)	_	_	_	_	Gloss=up-
 16	nuane	nuane	VERB	v	_	19	conj:chain	_	Gloss=to_carry
 17	m-	m-	AUX	v:(Modality1)	_	_	_	_	Gloss=?-
@@ -378,7 +378,7 @@
 # doc_title = 2015T22++
 1	meinami	meinami	ADV	adv	_	9	mod	_	Gloss=so_that
 2	fefe	fefe	NOUN	n  (mo)	_	3	comp:det	_	Gloss=taro
-3	niolo	niolo	VERB	v	_	9	comp:obl	_	_
+3	niolo	niolo	VERB	v	_	5	conj	_	_
 4	mami	mami_1	NOUN	n  (mo)	_	5	comp:det	_	Gloss=pig
 5	niolo	niolo	VERB	v	_	9	comp:obj	_	_
 6	nisopu	nesopu	NOUN	n  (mo)	_	7	comp:det	_	Gloss=braising

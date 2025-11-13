@@ -39,7 +39,7 @@
 2	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	10	conj:chain	_	Gloss=-MED
 3	sumwari	sumwari	PROPN	PN_toponyme	_	4	comp	_	Gloss=Sumwari
 4	-ma	-ma_1	ADP	n:Tout	Case=All	10	mod	_	Gloss=-ALL
-5	i	i	VERB	light verb	_	6	_:svc	_	Gloss=to_go|VerbType=Light
+5	i	i	VERB	light verb	_	6	compound:svc	_	Gloss=to_go|VerbType=Light
 6	tete	teto	VERB	v	_	7	comp:aux	_	Gloss=kamap_sanap
 7	-nai	-nai	AUX	v:(Aspect/Modality2)	Mood=Irr	10	comp:aux	_	Gloss=-IRR
 8	-m	-me_5	PRON	_	PronType=Dem	9	comp:det	_	Gloss=-DEM1

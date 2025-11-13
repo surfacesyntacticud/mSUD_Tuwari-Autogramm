@@ -55,7 +55,7 @@
 # doc_title = 141111_01_T31
 1	nomuel	nomuele	PROPN	PN	_	2	comp:det	_	Gloss=Nomuele
 2	-we	-we_1	DET	n:(NounGenderNumber)	Gender=Masc|Number=Sing	3	subj	_	Gloss=-M.SG|NounClass=Tww1
-3	m-	m-	AUX	v:(Modality1)	_	5	discourse	_	Gloss=?-
+3	m-	m-	AUX	v:(Modality1)	_	5	parataxis:insert	_	Gloss=?-
 4	etaulei	tetaolei	VERB	v	_	3	comp:aux	_	Gloss=to_ask
 5	nasi	nasi	PRON	interrog	PronType=Int	6	comp:aux	_	Gloss=what
 6	-no	-no_1	AUX	v:(Mood)	Case=Int	0	root	_	Gloss=-Q
@@ -111,7 +111,7 @@
 # doc_title = 141111_01_T31
 1	futi	futei	VERB	v	_	_	_	_	Gloss=to_cook_with_stone
 2	-nami	-nami	ADV	v:(Chaining)	_	_	_	_	Gloss=after
-3	mutu	motu_1	VERB	v	_	4	comp:svc	_	Gloss=put_leaves_for_braising
+3	mutu	motu_1	VERB	v	_	4	compound:svc	_	Gloss=put_leaves_for_braising
 4	tete	tete_1	NOUN	n	_	0	root	_	Gloss=food
 
 # sent_id = 1.11

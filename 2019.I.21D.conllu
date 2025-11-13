@@ -24,12 +24,12 @@
 # text_en = I'm not good.
 # doc_id = 2019.I.21D
 # doc_title = Dialog 2.7: mi sori lo yu! husat i mekim displa sua?
-1	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	7	subj	_	Gloss=1SG
-2	peisa	peisa	ADV	adv	_	7	mod	_	Gloss=good
-3	honu	honu	ADV	adv	Case=Loc	7	mod	_	Gloss=LOC:here;there
+1	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=1SG
+2	peisa	peisa	ADV	adv	_	_	_	_	Gloss=good
+3	honu	honu	ADV	adv	Case=Loc	_	_	_	Gloss=LOC:here;there
 4	lamla	lei_1	VERB	v	_	_	_	_	Gloss=to_look
-5	fe-	fe-	AUX	v:(Polarity)	Polarity=NEG	7	comp:aux	_	Gloss=NEG-
-6	solo	sele_1	VERB	v	_	5	comp:aux	_	Gloss=to_be(in_such_condition)
+5	fe-	fe-	AUX	v:(Polarity)	Polarity=NEG	_	_	_	Gloss=NEG-
+6	solo	sele_1	VERB	v	_	_	_	_	Gloss=to_be(in_such_condition)
 7	-ne	-ne_9	AUX	v:(Polarity2)	Polarity=NEG	0	root	_	Gloss=-NEG2
 
 # sent_id = 2.3
@@ -38,12 +38,12 @@
 # doc_id = 2019.I.21D
 # doc_title = Dialog 2.7: mi sori lo yu! husat i mekim displa sua?
 1	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	8	subj	_	Gloss=1SG
-2	helefe	helefe	NOUN	n	_	5	mod:poss	_	Gloss=leg
-3	epalu	hopalu	NOUN	n  (mo)	_	5	comp:det	_	Gloss=wound
-4	kali	kali_2	ADJ	adj	_	3	mod	_	Gloss=big
+2	helefe	helefe	NOUN	n	_	_	_	_	Gloss=leg
+3	epalu	hopalu	NOUN	n  (mo)	_	_	_	_	Gloss=wound
+4	kali	kali_2	ADJ	adj	_	_	_	_	Gloss=big
 5	-mo	-mo_1	DET	n:(NounGenderNumber)	Number=Sing	8	comp:obj	_	Gloss=-III.SG|NounClass=Tww3
 6	lo	lo_2	VERB	v	_	_	_	_	Gloss=to_have
-7	lo	lo_2	VERB	v	_	8	comp:aux	_	Gloss=to_be
+7	lo	lo_2	VERB	v	_	_	_	_	Gloss=to_be
 8	-wo	-io_1	AUX	v:(Chaining)	VerbForm=Fin	0	root	_	Gloss=-FIN
 
 # sent_id = 2.4
