@@ -6,7 +6,7 @@
 2	-li	-li_1	Pro-form	_	_	_	_	_	Gloss=-?
 3	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
 4	opsono	opsono	n	_	_	_	_	_	Gloss=village
-5	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+5	lo	lo_2	v	_	_	0	root	_	Gloss=to_be
 
 # sent_id = 2021.1__2
 # text = kile
