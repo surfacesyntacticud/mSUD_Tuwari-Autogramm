@@ -1,0 +1,217 @@
+# sent_id = 2014.II.S10__1
+# text = a nemeli -lei
+# text_en = I feel cold
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	nemeli	nemeli_2	v	_	_	_	_	_	Gloss=be_cold
+3	-lei	-lei_2	Verb	_	_	_	_	_	Gloss=_?
+
+# sent_id = 2014.II.S10__2
+# text = heiasi
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 2
+1	heiasi	heiasi	interj	_	_	_	_	_	Gloss=shit!
+
+# sent_id = 2014.II.S10__3
+# text = nasine
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 3
+1	nasine	nasine	interrog	_	_	_	_	_	Gloss=why
+
+# sent_id = 2014.II.S10__4
+# text = noswaia
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 4
+1	noswaia	naswaia	interrog	_	_	_	_	_	_
+
+# sent_id = 2014.II.S10__5
+# text = a iani -fe tiapi -e moi- tou nemesi -he usia
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 5
+1	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+2	iani	iani	n  (fe)	_	_	_	_	_	Gloss=hand
+3	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+4	tiapi	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+5	-e	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+6	moi-	moi-	Verb	_	_	_	_	_	Gloss=?(to)-
+7	tou	tou_1	v	_	_	_	_	_	Gloss=to_cut
+8	nemesi	nemesi	n	_	_	_	_	_	Gloss=blood
+9	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+10	usia	usia_2	v	_	_	_	_	_	Gloss=go_outside
+
+# sent_id = 2014.II.S10__6
+# text = a nemeli -lei
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 6
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	nemeli	nemeli_2	v	_	_	_	_	_	Gloss=be_cold
+3	-lei	-lei_2	Verb	_	_	_	_	_	Gloss=_?
+
+# sent_id = 2014.II.S10__7
+# text = ita a helefe soli -fe moi- tou
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 7
+1	ita	ita	n	_	_	_	_	_	Gloss=father
+2	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+3	helefe	helefe	n	_	_	_	_	_	Gloss=leg
+4	soli	soli	n  (fe)	_	_	_	_	_	Gloss=axe
+5	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+6	moi-	moi-	Verb	_	_	_	_	_	Gloss=?(to)-
+7	tou	tou_1	v	_	_	_	_	_	Gloss=to_cut
+
+# sent_id = 2014.II.S10__8
+# text = a mi -o moi- tou soli -fe -ma
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 8
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	moi-	moi-	Verb	_	_	_	_	_	Gloss=?(to)-
+5	tou	tou_1	v	_	_	_	_	_	Gloss=to_cut
+6	soli	soli	n  (fe)	_	_	_	_	_	Gloss=axe
+7	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+8	-ma	-ma_1	n	_	_	_	_	_	Gloss=-INSTR
+
+# sent_id = 2014.II.S10__9
+# text = a soli -fe mi kali -o iowe tou
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 9
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	soli	soli	n  (fe)	_	_	_	_	_	Gloss=axe
+3	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+4	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+5	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+6	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+7	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+8	tou	tou_1	v	_	_	_	_	_	Gloss=to_cut
+
+# sent_id = 2014.II.S10__10
+# text = a otoiso mi -o to -ni
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 10
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	otoiso	otoiso	adv	_	_	_	_	_	Gloss=tomorrow
+3	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+4	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+5	to	tou_1	v	_	_	_	_	_	Gloss=to_cut
+6	-ni	-ni_2	v:(Tense)	_	_	_	_	_	Gloss=FUT.PURP.S1S.CRAST
+
+# sent_id = 2014.II.S10__11
+# text = a ho mi -o tou
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 11
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ho	ho_1	adv	_	_	_	_	_	Gloss=yesterday
+3	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+4	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+5	tou	tou_1	v	_	_	_	_	_	Gloss=to_cut
+
+# sent_id = 2014.II.S10__12
+# text = o -mena wale ka- fa -na
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 12
+1	o	o_3	n	_	_	_	_	_	Gloss=child
+2	-mena	_	_	_	_	_	_	_	_
+3	wale	hale	n	_	_	_	_	_	Gloss=a_cry
+4	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+5	fa	fa_1	v	_	_	_	_	_	Gloss=to_cry
+6	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2014.II.S10__13
+# text = walese wale fe -io
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 13
+1	walese	welese	n	_	_	_	_	_	Gloss=little_girl
+2	wale	hale	n	_	_	_	_	_	Gloss=a_cry
+3	fe	fa_1	v	_	_	_	_	_	Gloss=to_cry
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S10__14
+# text = owe wale fe -io
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 14
+1	owe	owei	n	_	_	_	_	_	Gloss=little_boy
+2	wale	hale	n	_	_	_	_	_	Gloss=a_cry
+3	fe	fa_1	v	_	_	_	_	_	Gloss=to_cry
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S10__15
+# text = me nasine wesi fe -i
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 15
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	nasine	nasine	interrog	_	_	_	_	_	Gloss=why
+3	wesi	wesle	n	_	_	_	_	_	Gloss=wale?
+4	fe	fa_1	v	_	_	_	_	_	Gloss=to_cry
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S10__16
+# text = he namele we -s -le fe -i -no
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 16
+1	he	he_2	pers	_	_	_	_	_	Gloss=2SG.F
+2	namele	namele	interrog	_	_	_	_	_	Gloss=for_what?
+3	we	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+4	-s	se_4	v:Tout	_	_	_	_	_	Gloss=DEM3.INDEF.Q
+5	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+6	fe	fa_1	v	_	_	_	_	_	Gloss=to_cry
+7	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+8	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2014.II.S10__17
+# text = wale ka- fa -na
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 17
+1	wale	hale	n	_	_	_	_	_	Gloss=a_cry
+2	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+3	fa	fa_1	v	_	_	_	_	_	Gloss=to_cry
+4	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2014.II.S10__18
+# text = a o -sapo hauso
+# text_en = I clean the house.
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 18
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+3	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+4	hauso	hauso	v	_	_	_	_	_	Gloss=to_clean
+
+# sent_id = 2014.II.S10__19
+# text = haone
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 19
+1	haone	haone	n	_	_	_	_	_	Gloss=bee
+
+# sent_id = 2014.II.S10__20
+# text = a mami -mo fena kono -wo
+# doc_id = 2014.II.S10
+# doc_title = 2014.II.S10
+# origin_s_id = 20
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	fena	feni_1	n  (fo)	_	_	_	_	_	Gloss=thought
+5	kono	kono_1	v	_	_	_	_	_	Gloss=to_like
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

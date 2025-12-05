@@ -1,0 +1,270 @@
+# sent_id = 2013T21__1
+# text = aio
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.1
+1	aio	aio_1	interj	_	_	_	_	_	Gloss=ay!
+
+# sent_id = 2013T21__2
+# text = honu m- u -ne -io m- i -se -io ife homuheli ma- ia -io
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.2
+1	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+2	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+3	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	-io	-io_1	v:Tout	_	_	_	_	_	Gloss=-MED+?
+6	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+7	i	i	light verb	_	_	_	_	_	Gloss=to_go
+8	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+9	-io	-io_1	v:Tout	_	_	_	_	_	Gloss=-MED+?
+10	ife	ife	adv	_	_	_	_	_	Gloss=upstream
+11	homuheli	_	_	_	_	_	_	_	_
+12	ma-	ma-_2	v:(dir-)	_	_	_	_	_	Gloss=down?-
+13	ia	ia_1	v	_	_	_	_	_	Gloss=to_go
+14	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T21__3
+# text = m- i -se -ne -io helina u -tanoi upase -mo mi- teti a -io
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.3
+1	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	i	i	light verb	_	_	_	_	_	Gloss=to_go
+3	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	-io	-io_1	v:Tout	_	_	_	_	_	Gloss=-MED+?
+6	helina	elinau	PN_toponyme	_	_	_	_	_	Gloss=Elinau
+7	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+8	-tanoi	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+9	upase	upase	n  (he)	_	_	_	_	_	Gloss=sand_bank
+10	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+11	mi-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+12	teti	teto	v	_	_	_	_	_	Gloss=to_stand_up
+13	a	a_1	v	_	_	_	_	_	Gloss=to_go
+14	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T21__4
+# text = mi- teti -nami -o
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.4
+1	mi-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	teti	teto	v	_	_	_	_	_	Gloss=to_stand_up
+3	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+4	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T21__5
+# text = wuise -mi wo- to -wa -io
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.5
+1	wuise	wiise	n  (mo)	_	_	_	_	_	Gloss=sago
+2	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+3	wo-	wo-	Verb	_	_	_	_	_	Gloss=?-
+4	to	tou_1	v	_	_	_	_	_	Gloss=to_cut
+5	-wa	-ia_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PST_also?
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T21__6
+# text = wuise -mi
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.6
+1	wuise	wiise	n  (mo)	_	_	_	_	_	Gloss=sago
+2	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+
+# sent_id = 2013T21__7
+# text = tofu la -mo
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.7
+1	tofu	tofu_2	v	_	_	_	_	_	Gloss=to_arrive
+2	la	lei_1	v	_	_	_	_	_	Gloss=to_look
+3	-mo	-mo_6	v	_	_	_	_	_	Gloss=-MED2_perception_previousness
+
+# sent_id = 2013T21__8
+# text = tete taleli uwe la -io
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.8
+1	tete	tete_1	n	_	_	_	_	_	Gloss=food
+2	taleli	taleli	adj	_	_	_	_	_	Gloss=PRIVATION
+3	uwe	uwe_1	v	_	_	_	_	_	Gloss=?
+4	la	lei_1	v	_	_	_	_	_	Gloss=to_look
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T21__9
+# text = waa -le mi
+# text_en = [alone]
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.9
+1	 waa	waai_1	adj	_	_	_	_	_	Gloss=one
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+
+# sent_id = 2013T21__10
+# text = meiamo mi kaharu sihomo olua -na
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.10
+1	meiamo	meiamo	adv	_	_	_	_	_	Gloss=And_then
+2	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+3	kaharu	kaharu	n	_	_	_	_	_	Gloss=kaharu
+4	sihomo	sihomo	n	_	_	_	_	_	Gloss=work
+5	olua	holua	v	_	_	_	_	_	Gloss=to_work
+6	-na	-na_3	Noun	_	_	_	_	_	Gloss=-DEM2orAssDiwai
+
+# sent_id = 2013T21__11
+# text = waa -le heitomu mi -lo kemia kemia kemia tu-
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.11
+1	 waa	waai_1	adj	_	_	_	_	_	Gloss=together
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	heitomu	heitomu	v	_	_	_	_	_	Gloss=hungry
+4	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+5	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+6	kemia	kemia	n	_	_	_	_	_	Gloss=red_pandanus
+7	kemia	kemia	n	_	_	_	_	_	Gloss=red_pandanus
+8	kemia	kemia	n	_	_	_	_	_	Gloss=red_pandanus
+9	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+
+# sent_id = 2013T21__12
+# text = hao
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.12
+1	hao	hao	n  (fo)	_	_	_	_	_	Gloss=fish
+
+# sent_id = 2013T21__13
+# text = hao
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.13
+1	hao	hao	n  (fo)	_	_	_	_	_	Gloss=fish
+
+# sent_id = 2013T21__14
+# text = mamu walo
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.14
+1	mamu	mamu	adv	_	_	_	_	_	Gloss=LOC:there
+2	walo	waro	PN	_	_	_	_	_	Gloss=Waro
+
+# sent_id = 2013T21__15
+# text = mutano ma- se -ne no soluso hefia haio
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.15
+1	mutano	mutaano	v	_	_	_	_	_	Gloss=to_stay
+2	ma-	ma-_2	v:(dir-)	_	_	_	_	_	Gloss=down?-
+3	se	se_2	v	_	_	_	_	_	Gloss=to_go
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+6	soluso	selisa	cardnum	_	_	_	_	_	Gloss=three
+7	hefia	hefia	v	_	_	_	_	_	Gloss=to_count
+8	haio	_	_	_	_	_	_	_	_
+
+# sent_id = 2013T21__16
+# text = soso kaharu pesia homu heli afi soso homu heli li kaharu pesia io -wo
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.16
+1	soso	soso	n	_	_	_	_	_	Gloss=time
+2	kaharu	kaharu	n	_	_	_	_	_	Gloss=kaharu
+3	pesia	pesia	v	_	_	_	_	_	Gloss=to_fetch
+4	homu	homu	n	_	_	_	_	_	Gloss=foot_of_plant
+5	heli	heli_2	v	_	_	_	_	_	Gloss=to_think
+6	afi	_	_	_	_	_	_	_	_
+7	soso	soso	n	_	_	_	_	_	Gloss=time
+8	homu	homu	n	_	_	_	_	_	Gloss=foot_of_plant
+9	heli	heli_2	v	_	_	_	_	_	Gloss=to_think
+10	li	lei_1	v	_	_	_	_	_	Gloss=to_look
+11	kaharu	kaharu	n	_	_	_	_	_	Gloss=kaharu
+12	pesia	pesia	v	_	_	_	_	_	Gloss=to_fetch
+13	io	o_4	v	_	_	_	_	_	Gloss=to_eat
+14	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T21__17
+# text = u -wo lia -no mami o
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.17
+1	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+2	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+3	lia	lia	v	_	_	_	_	_	Gloss=to_spend_time
+4	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+5	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+6	o	o_3	n	_	_	_	_	_	Gloss=child
+
+# sent_id = 2013T21__18
+# text = ko ho tei mamo hale moho tou
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.18
+1	ko	ko	adv	_	_	_	_	_	Gloss=top
+2	ho	ho_1	adv	_	_	_	_	_	Gloss=yesterday
+3	tei	tei_2	pers	_	_	_	_	_	Gloss=2PL
+4	mamo	mamu	adv	_	_	_	_	_	Gloss=over_there
+5	hale	hale	n	_	_	_	_	_	Gloss=a_cry
+6	moho	_	_	_	_	_	_	_	_
+7	tou	tou_2	n  (ei)	_	_	_	_	_	Gloss=night
+
+# sent_id = 2013T21__19
+# text = me- iafe -ne
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.19
+1	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	iafe	iefi	v	_	_	_	_	_	Gloss=to_shoot
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2013T21__20
+# text = m- a meli mio- se mio- se m- a heta
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.20
+1	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	a	a_1	v	_	_	_	_	_	Gloss=to_come
+3	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+4	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+5	se	se_2	v	_	_	_	_	_	Gloss=to_go
+6	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+7	se	se_2	v	_	_	_	_	_	Gloss=to_go
+8	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+9	a	a_1	v	_	_	_	_	_	Gloss=to_come
+10	heta	heta	_	_	_	_	_	_	Gloss=?
+
+# sent_id = 2013T21__21
+# text = -tano u -mo
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.21
+1	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+2	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+3	-mo	-mo_6	v	_	_	_	_	_	Gloss=-MED2previousness
+
+# sent_id = 2013T21__22
+# text = -tano u -mo m- a mio -wa -io ma- sele
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.22
+1	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+2	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+3	-mo	-mo_4	Noun	_	_	_	_	_	Gloss=alongside_of
+4	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	a	a_1	v	_	_	_	_	_	Gloss=to_come
+6	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+7	-wa	-ia_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PST_also?
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+9	ma-	ma-_2	v:(dir-)	_	_	_	_	_	Gloss=down?-
+10	sele	sele_1	v	_	_	_	_	_	Gloss=to_sit
+
+# sent_id = 2013T21__23
+# doc_id = 2013T21
+# doc_title = 2013T21 Une histoire mal transcrite de Mathias TODO
+# origin_s_id = 1.23
+

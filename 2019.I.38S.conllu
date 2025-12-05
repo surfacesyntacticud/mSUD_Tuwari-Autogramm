@@ -1,0 +1,54 @@
+# sent_id = 2019.I.38S__1
+# text = me ife -ma m- i -ne wa- mio -wo
+# doc_id = 2019.I.38S
+# origin_s_id = 1.1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	ife	ife	adv	_	_	_	_	_	Gloss=upstream
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+7	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+8	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+9	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.38S__2
+# text = me wafe -ma m- i -ne wa i ia -io
+# doc_id = 2019.I.38S
+# origin_s_id = 1.2
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	wafe	wafe_1	adv	_	_	_	_	_	Gloss=downstream
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+7	wa	wa_2	v	_	_	_	_	_	Gloss=back
+8	i	i	light verb	_	_	_	_	_	Gloss=to_go
+9	ia	ia_1	v	_	_	_	_	_	Gloss=kam_upstream
+10	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.38S__3
+# text = tale m- afeteli -ne wafe -ma mio -wo
+# doc_id = 2019.I.38S
+# origin_s_id = 2.1
+1	tale	tale	pers	_	_	_	_	_	Gloss=1DU.brother
+2	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+3	afeteli	afetei	v	_	_	_	_	_	Gloss=to_leave
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	wafe	wafe_1	adv	_	_	_	_	_	Gloss=downstream
+6	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+7	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.38S__4
+# text = m- io -ne tali soaso -u -wo
+# doc_id = 2019.I.38S
+# origin_s_id = 2.2
+1	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	io	io	v	_	_	_	_	_	Gloss=go_down
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+4	tali	tali	pers	_	_	_	_	_	Gloss=all_of_us
+5	soaso	suaso	v	_	_	_	_	_	Gloss=to_meet
+6	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=now_sharp
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

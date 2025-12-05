@@ -1,0 +1,286 @@
+# sent_id = 2019.I.37T__1
+# text = waro nomu mihamolo mihamolo mwe
+# doc_id = 2019.I.37T
+# origin_s_id = 1
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+3	mihamolo	mihamolo	v	_	_	_	_	_	Gloss=to_follow
+4	mihamolo	mihamolo	v	_	_	_	_	_	Gloss=to_follow
+5	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+
+# sent_id = 2019.I.37T__2
+# text = ita laitini keli osesia le nami
+# doc_id = 2019.I.37T
+# origin_s_id = 2.1
+1	ita	ita	n	_	_	_	_	_	Gloss=father
+2	laitini	laitini	n	_	_	_	_	_	Gloss=light(torsh)
+3	keli	kali_2	adj	_	_	_	_	_	Gloss=big
+4	osesia	osisia	v	_	_	_	_	_	Gloss=to_light
+5	le	lo_2	v	_	_	_	_	_	Gloss=to_be_laying_sitting(to be put)
+6	nami	nami	adv	_	_	_	_	_	Gloss=then
+
+# sent_id = 2019.I.37T__3
+# text = a mehe -lia -no -wo fali heneli -fo m- le teli
+# doc_id = 2019.I.37T
+# origin_s_id = 2.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mehe	mehe	pers	_	_	_	_	_	Gloss=DEM1:DEM4_it
+3	-lia	-lia	v:(Tense2)	_	_	_	_	_	Gloss=-?
+4	-no	-no_8	v	_	_	_	_	_	Gloss=-INTL
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+6	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+7	heneli	heneli_1	n  (fo)	_	_	_	_	_	Gloss=sun
+8	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+9	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+10	le	lo_2	v	_	_	_	_	_	Gloss=to_have
+11	teli	-tele	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=completely
+
+# sent_id = 2019.I.37T__4
+# text = walio m- le teli nihapo heneli -fo ulei -ale fe- hele -ne
+# doc_id = 2019.I.37T
+# origin_s_id = 3
+1	walio	walio	PN_hydronym	_	_	_	_	_	Gloss=Waro
+2	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+3	le	lo_2	v	_	_	_	_	_	Gloss=to_be_laying_sitting(to be put)
+4	teli	-tele	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=completely
+5	nihapo	nihapo	_	_	_	_	_	_	Gloss=?
+6	heneli	heneli_1	n  (fo)	_	_	_	_	_	Gloss=sun
+7	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+8	ulei	ulei_1	n	_	_	_	_	_	Gloss=clan
+9	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+10	fe-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+11	hele	alu	v	_	_	_	_	_	Gloss=to_light_fire
+12	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2019.I.37T__5
+# text = ita mwe heneli nasi nle -fa
+# doc_id = 2019.I.37T
+# origin_s_id = 4.1
+1	ita	ita	n	_	_	_	_	_	Gloss=father
+2	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+3	heneli	heneli_1	n  (fo)	_	_	_	_	_	Gloss=watch
+4	nasi	nasi	interrog	_	_	_	_	_	Gloss=what
+5	nle	nle	dem	_	_	_	_	_	Gloss=DEM2:PL
+6	-fa	-fa_3	Pro-form	_	_	_	_	_	Gloss=-DISTR
+
+# sent_id = 2019.I.37T__6
+# text = ei -maa mali -lo -fa mwe tehejesi -nai -mwi -i a -io hene -i tiheliheli -io
+# doc_id = 2019.I.37T
+# origin_s_id = 4.2
+1	ei	ei	pers	_	_	_	_	_	Gloss=2PL
+2	-maa	_	_	_	_	_	_	_	_
+3	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+4	-lo	-lo_4	v:(Tense)	_	_	_	_	_	Gloss=-PST
+5	-fa	-fa_3	Adverb	_	_	_	_	_	Gloss=-CONTRAST
+6	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+7	tehejesi	_	_	_	_	_	_	_	_
+8	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+9	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+10	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+11	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+12	-io	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+13	hene	hene_2	dem	_	_	_	_	_	Gloss=DEM4:DEM2
+14	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+15	tiheliheli	_	_	_	_	_	_	_	_
+16	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.37T__7
+# text = tasol nua -ne efe a -nai hono
+# doc_id = 2019.I.37T
+# origin_s_id = 4.3
+1	tasol	tasol	adv	_	_	_	_	_	Gloss=only
+2	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+4	efe	efe_1	n  (mo)	_	_	_	_	_	Gloss=road
+5	a	a_1	v	_	_	_	_	_	Gloss=to_come
+6	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+7	hono	hene_2	dem	_	_	_	_	_	Gloss=DEM4:DEM2
+
+# sent_id = 2019.I.37T__8
+# text = iowe kene -mou -mwi -i
+# doc_id = 2019.I.37T
+# origin_s_id = 4.4
+1	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+2	kene	kono_2	v	_	_	_	_	_	Gloss=to_make
+3	-mou	_	_	_	_	_	_	_	_
+4	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.37T__9
+# text = titione nou -mo hajleili a -nai henehe keno -mou -mwi -i
+# doc_id = 2019.I.37T
+# origin_s_id = 5
+1	titione	titione	PN	_	_	_	_	_	Gloss=Titione
+2	nou	nou_1	n  (mo)	_	_	_	_	_	Gloss=bilum
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	hajleili	ailile	adv	_	_	_	_	_	Gloss=heavy
+5	a	a_1	v	_	_	_	_	_	Gloss=to_come
+6	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+7	henehe	henolo	dem	_	_	_	_	_	Gloss=DEM
+8	keno	kono_1	v	_	_	_	_	_	Gloss=NC_feel?__no_good
+9	-mou	_	_	_	_	_	_	_	_
+10	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+11	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.37T__10
+# text = ta eita -o tenaai ia -le u -ne -nehe kene -mou -mwi -i
+# doc_id = 2019.I.37T
+# origin_s_id = 6
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	eita	_	_	_	_	_	_	_	_
+3	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	tenaai	_	_	_	_	_	_	_	_
+5	ia	ia_1	v	_	_	_	_	_	Gloss=to_go
+6	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+7	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+8	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+9	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+10	kene	kono_2	v	_	_	_	_	_	Gloss=to_make
+11	-mou	_	_	_	_	_	_	_	_
+12	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+13	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.37T__11
+# text = ita mwe pamo -li a -mwi -io ufe nomu mutaano m- a -se -ne
+# doc_id = 2019.I.37T
+# origin_s_id = 7
+1	ita	ita	n	_	_	_	_	_	Gloss=father
+2	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+3	pamo	pamo	adv	_	_	_	_	_	Gloss=before
+4	-li	-li_1	Pro-form	_	_	_	_	_	Gloss=-?
+5	a	a_1	v	_	_	_	_	_	Gloss=to_come
+6	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+8	ufe	ufe	?	_	_	_	_	_	Gloss=?nambis_bush?
+9	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+10	mutaano	mutaano	v	_	_	_	_	_	Gloss=to_stay
+11	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+12	a	a_1	v	_	_	_	_	_	Gloss=to_come
+13	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+14	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2019.I.37T__12
+# text = titione wiwak -ma wa i -io
+# doc_id = 2019.I.37T
+# origin_s_id = 8
+1	titione	titione	PN	_	_	_	_	_	Gloss=Titione
+2	wiwak	wiwa	PN_toponyme	_	_	_	_	_	Gloss=Wewak
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	wa	wa_2	v	_	_	_	_	_	Gloss=back
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.37T__13
+# text = ita no ho -lo honu sle -nai no hema -mu wa- me- sle -lia -ma -we
+# doc_id = 2019.I.37T
+# origin_s_id = 9
+1	ita	ita	n	_	_	_	_	_	Gloss=father
+2	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+3	ho	ho_3	v	_	_	_	_	_	Gloss=to_sing
+4	-lo	-lo_4	v:(Tense)	_	_	_	_	_	Gloss=-PST
+5	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+6	sle	sele_1	v	_	_	_	_	_	Gloss=to_stay
+7	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+8	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+9	hema	hema_1	n	_	_	_	_	_	Gloss=LOC:there(away)
+10	-mu	-mu_2	Noun	_	_	_	_	_	Gloss=-LOC/ABL?
+11	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+12	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+13	sle	sele_1	v	_	_	_	_	_	Gloss=to_sit
+14	-lia	-lia	v:(Tense2)	_	_	_	_	_	Gloss=-LONG_TIME
+15	-ma	-ma_2	v	_	_	_	_	_	Gloss=-MVT
+16	-we	-we_5	v:Tout	_	_	_	_	_	Gloss=-M.SG
+
+# sent_id = 2019.I.37T__14
+# text = titione no solu so soluluiia
+# doc_id = 2019.I.37T
+# origin_s_id = 10.1
+1	titione	titione	PN	_	_	_	_	_	Gloss=Titione
+2	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+3	solu	solu	v	_	_	_	_	_	Gloss=to_fall(eye)
+4	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+5	soluluiia	_	_	_	_	_	_	_	_
+
+# sent_id = 2019.I.37T__15
+# text = mwe honu u -na no soluluiia
+# doc_id = 2019.I.37T
+# origin_s_id = 10.2
+1	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+2	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+3	u	u_2	v	_	_	_	_	_	Gloss=to_stay
+4	-na	-na_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?INTSFIER?
+5	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+6	soluluiia	_	_	_	_	_	_	_	_
+
+# sent_id = 2019.I.37T__16
+# text = mwe honu u -na no
+# doc_id = 2019.I.37T
+# origin_s_id = 10.3
+1	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+2	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+3	u	u_2	v	_	_	_	_	_	Gloss=to_stay
+4	-na	-na_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?INTSFIER?
+5	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+
+# sent_id = 2019.I.37T__17
+# text = mwe
+# doc_id = 2019.I.37T
+# origin_s_id = 10.4
+1	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+
+# sent_id = 2019.I.37T__18
+# text = sesa -mi -ne -se wa- meli -ma -se uweio
+# doc_id = 2019.I.37T
+# origin_s_id = 10.5
+1	sesa	sesa	n	_	_	_	_	_	Gloss=wife
+2	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+3	-ne	-ne_2	Possessive pronoun	_	_	_	_	_	Gloss=-POSSor
+4	-se	-se_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-F.SG
+5	wa-	wa-_2	_	_	_	_	_	_	Gloss=now-
+6	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+7	-ma	-ma_2	v:(Tense)	_	_	_	_	_	Gloss=-NOW
+8	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+9	uweio	uweio_1	adv	_	_	_	_	_	Gloss=no
+
+# sent_id = 2019.I.37T__19
+# text = me no nle motomo
+# doc_id = 2019.I.37T
+# origin_s_id = 10.6
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+3	nle	nle	dem	_	_	_	_	_	Gloss=DEM2:PL
+4	motomo	_	_	_	_	_	_	_	_
+
+# sent_id = 2019.I.37T__20
+# text = tuwa -ia -io
+# doc_id = 2019.I.37T
+# origin_s_id = 10.7
+1	tuwa	tuane	v	_	_	_	_	_	Gloss=to_turn_round
+2	-ia	-ia_2	v:(Tense)	_	_	_	_	_	Gloss=-PST
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.37T__21
+# text = me no henelo lo nle fali
+# doc_id = 2019.I.37T
+# origin_s_id = 11.1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+3	henelo	honlo	dem	_	_	_	_	_	Gloss=the_same
+4	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+5	nle	nle	dem	_	_	_	_	_	Gloss=DEM2:PL
+6	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+
+# sent_id = 2019.I.37T__22
+# text = ia honu ho -lo sle -nai no hema -mu
+# doc_id = 2019.I.37T
+# origin_s_id = 11.2
+1	ia	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+2	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+3	ho	ho_3	v	_	_	_	_	_	Gloss=to_sing
+4	-lo	-lo_4	v:(Tense)	_	_	_	_	_	Gloss=-PST
+5	sle	sele_1	v	_	_	_	_	_	Gloss=to_stay
+6	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+7	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+8	hema	hema_1	n	_	_	_	_	_	Gloss=LOC:there(away)
+9	-mu	-mu_2	Noun	_	_	_	_	_	Gloss=-LOC/ABL?
+

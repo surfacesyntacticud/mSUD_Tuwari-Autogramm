@@ -1,0 +1,33 @@
+# sent_id = 2014E2__1
+# text = motou moteinami toulei saanami snaetia heitofo kape watelo ienipe ieniso tiooi tuwasi nou tuia tihoi ieniso ieniso ienipe watelo kape heitofo motou moteinami toulei snaetia itofo kape
+# doc_id = 2014E2
+# doc_title = 2014E2
+# origin_s_id = 1
+1	motou	motou	cardnum	_	_	_	_	_	Gloss=one
+2	moteinami	motounami	cardnum	_	_	_	_	_	Gloss=two
+3	toulei	toulei	cardnum	_	_	_	_	_	Gloss=three
+4	saanami	saalenami	cardnum	_	_	_	_	_	Gloss=four
+5	snaetia	sinaetia	cardnum	_	_	_	_	_	Gloss=five
+6	heitofo	heitofo	cardnum	_	_	_	_	_	Gloss=six
+7	kape	kape	cardnum	_	_	_	_	_	Gloss=seven
+8	watelo	watelito	cardnum	_	_	_	_	_	Gloss=eight
+9	ienipe	ienipe	cardnum	_	_	_	_	_	Gloss=nine
+10	ieniso	ieniso	cardnum	_	_	_	_	_	Gloss=ten
+11	tiooi	tioi	cardnum	_	_	_	_	_	Gloss=eleven
+12	tuwasi	tuasi	cardnum	_	_	_	_	_	Gloss=twelve
+13	nou	nou_2	cardnum	_	_	_	_	_	Gloss=thirteen
+14	tuia	tuia	cardnum	_	_	_	_	_	Gloss=fourteen
+15	tihoi	tioi	cardnum	_	_	_	_	_	Gloss=eleven
+16	ieniso	ieniso	cardnum	_	_	_	_	_	Gloss=ten
+17	ieniso	ieniso	cardnum	_	_	_	_	_	Gloss=ten
+18	ienipe	ienipe	cardnum	_	_	_	_	_	Gloss=nine
+19	watelo	watelito	cardnum	_	_	_	_	_	Gloss=eight
+20	kape	kape	cardnum	_	_	_	_	_	Gloss=seven
+21	heitofo	heitofo	cardnum	_	_	_	_	_	Gloss=six
+22	motou	motou	cardnum	_	_	_	_	_	Gloss=one
+23	moteinami	motounami	cardnum	_	_	_	_	_	Gloss=two
+24	toulei	toulei	cardnum	_	_	_	_	_	Gloss=three
+25	snaetia	sinaetia	cardnum	_	_	_	_	_	Gloss=five
+26	itofo	_	_	_	_	_	_	_	_
+27	kape	kape	cardnum	_	_	_	_	_	Gloss=seven
+

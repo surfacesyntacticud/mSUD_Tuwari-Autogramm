@@ -1,0 +1,145 @@
+# sent_id = 2014.I.S10__1
+# text = nou -mo si -ni
+# text_en = To make a bilum
+# doc_id = 2014.I.S10
+# doc_title = 2014.I.S10 a/o a = passé
+# origin_s_id = 1
+1	nou	nou_1	n  (mo)	_	_	_	_	_	Gloss=bilum
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	si	se_1	v	_	_	_	_	_	Gloss=to_make
+4	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+
+# sent_id = 2014.I.S10__2
+# text = ana ta -i -to fefe efe -le suwe -io
+# text_en = Mother and I are pealing the taro
+# doc_id = 2014.I.S10
+# doc_title = 2014.I.S10 a/o a = passé
+# origin_s_id = 2
+1	ana	ana	n	_	_	_	_	_	Gloss=mother
+2	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+3	-i	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	-to	-to_2	pers:Tout	_	_	_	_	_	Gloss=-DU.parent_and_child
+5	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+6	efe	efe_2	n  (mo)	_	_	_	_	_	Gloss=skin
+7	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+8	suwe	suwe_1	v	_	_	_	_	_	Gloss=to_sharpen
+9	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S10__3
+# text = ni -tano oluo
+# text_en = to make fire
+# doc_id = 2014.I.S10
+# doc_title = 2014.I.S10 a/o a = passé
+# origin_s_id = 3
+1	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+2	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+3	oluo	alu	v	_	_	_	_	_	Gloss=to_close_door
+
+# sent_id = 2014.I.S10__4
+# text = sopute -le fu -o
+# text_en = to smoke
+# doc_id = 2014.I.S10
+# doc_title = 2014.I.S10 a/o a = passé
+# origin_s_id = 4
+1	sopute	sopute	n	_	_	_	_	_	Gloss=tabac
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	fu	fu_2	v	_	_	_	_	_	Gloss=to_smoke
+4	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S10__5
+# text = fefe -le fali o -u -wo
+# text_en = Cooking the taro.
+# doc_id = 2014.I.S10
+# doc_title = 2014.I.S10 a/o a = passé
+# origin_s_id = 5
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+4	o	o_1	v	_	_	_	_	_	Gloss=to_cook
+5	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S10__6
+# text = a helefe kokua lo -wo
+# text_en = My leg make pain.
+# doc_id = 2014.I.S10
+# doc_title = 2014.I.S10 a/o a = passé
+# origin_s_id = 6
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	helefe	helefe	n	_	_	_	_	_	Gloss=leg
+3	kokua	kokua	adj	_	_	_	_	_	Gloss=bad
+4	lo	lo_2	v	_	_	_	_	_	Gloss=COP
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S10__7
+# text = a henele -io
+# text_en = I am suffering.
+# doc_id = 2014.I.S10
+# doc_title = 2014.I.S10 a/o a = passé
+# origin_s_id = 7
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	henele	henele	v	_	_	_	_	_	Gloss=to_make_pain
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S10__8
+# text = me a fau -nai -mwii
+# text_en = You will fight me.
+# doc_id = 2014.I.S10
+# doc_title = 2014.I.S10 a/o a = passé
+# origin_s_id = 8
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	fau	fao	v	_	_	_	_	_	Gloss=to_fight
+4	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.I.S10__9
+# text = me a helefe otoi -nai -mwiio
+# text_en = You will fight my leg.
+# doc_id = 2014.I.S10
+# doc_title = 2014.I.S10 a/o a = passé
+# origin_s_id = 9
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+3	helefe	helefe	n	_	_	_	_	_	Gloss=leg
+4	otoi	otei	v	_	_	_	_	_	Gloss=to_fight
+5	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+6	-mwiio	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.I.S10__10
+# text = ita ana me -le -to fonane wafe -ma i -nai -li -io
+# text_en = Father, mother, all are going dowstream today.
+# doc_id = 2014.I.S10
+# doc_title = 2014.I.S10 a/o a = passé
+# origin_s_id = 10
+1	ita	ita	n	_	_	_	_	_	Gloss=father
+2	ana	ana	n	_	_	_	_	_	Gloss=mother
+3	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	-to	-to_2	pers:Tout	_	_	_	_	_	Gloss=-DU.parent_and_child
+6	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+7	wafe	wafe_1	adv	_	_	_	_	_	Gloss=downstream
+8	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+9	i	i	light verb	_	_	_	_	_	Gloss=to_go
+10	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+11	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PST_(this_morning)
+12	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S10__11
+# text = fonane honu a -li -lo me -lo daniel u -nai -lii
+# text_en = you will sleep with Daniel (alone) here now.
+# doc_id = 2014.I.S10
+# doc_title = 2014.I.S10 a/o a = passé
+# origin_s_id = 11
+1	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+2	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+3	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+4	-li	-li_1	Pro-form	_	_	_	_	_	Gloss=-?
+5	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+6	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+7	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+8	daniel	daniel	PN	_	_	_	_	_	Gloss=Daniel
+9	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+10	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+11	-lii	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+

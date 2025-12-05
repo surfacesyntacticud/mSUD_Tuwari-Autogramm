@@ -1,0 +1,22 @@
+# sent_id = 2013.III.S6__1
+# text = sipamo iaioplino yu -tano elepi -tano telipausi sapu -tano hasi -tano si hali tlibausi weti hali
+# doc_id = 2013.III.S6
+# doc_title = Toponyms
+# origin_s_id = 1
+1	sipamo	sipamo	PN_hydronym	_	_	_	_	_	Gloss=Sipamo
+2	iaioplino	iaioplino	PN_toponyme	_	_	_	_	_	Gloss=Iaioplino
+3	yu	iu	PN_hydronym	_	_	_	_	_	Gloss=River_Yu
+4	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+5	elepi	elepi	PN	_	_	_	_	_	Gloss=River_Elepi
+6	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+7	telipausi	telipausi	PN_oronym	_	_	_	_	_	Gloss=Mountain_Telipausi
+8	sapu	sapu_2	PN_hydronym	_	_	_	_	_	Gloss=NPr
+9	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+10	hasi	asi	PN_hydronym	_	_	_	_	_	Gloss=Asi_river
+11	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+12	si	si_6	PN_oronym	_	_	_	_	_	Gloss=NPr
+13	hali	hali_1	n	_	_	_	_	_	Gloss=summit
+14	tlibausi	tlibowsi	PN_oronym	_	_	_	_	_	Gloss=Moutain_Tlibowsi
+15	weti	weti	PN_oronym	_	_	_	_	_	Gloss=Moutain_Weti
+16	hali	hali_1	n	_	_	_	_	_	Gloss=summit
+

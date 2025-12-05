@@ -1,0 +1,68 @@
+# sent_id = 2015T41com__1
+# text = he -fa hei -le hei -o
+# doc_id = 2015T41com
+# doc_title = 2015T41com
+# origin_s_id = 1
+1	he	he_2	pers	_	_	_	_	_	Gloss=2SG.F
+2	-fa	-fa_3	Pro-form	_	_	_	_	_	Gloss=-DISTR
+3	hei	hei_2	n  (mo)	_	_	_	_	_	Gloss=the_laugh
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	hei	hei_7	v	_	_	_	_	_	Gloss=to_laugh
+6	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T41com__2
+# text = ia kalia -he -i
+# doc_id = 2015T41com
+# doc_title = 2015T41com
+# origin_s_id = 2.1
+1	ia	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+2	kalia	kaliia	adj	_	_	_	_	_	Gloss=long
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T41com__3
+# text = ia keitia -ha -i
+# doc_id = 2015T41com
+# doc_title = 2015T41com
+# origin_s_id = 2.2
+1	ia	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+2	keitia	keitia	adj	_	_	_	_	_	Gloss=short
+3	-ha	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T41com__4
+# text = wa- mio fu -a -io mio fu -wo
+# doc_id = 2015T41com
+# doc_title = 2015T41com
+# origin_s_id = 3
+1	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+2	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+3	fu	fu_2	v	_	_	_	_	_	Gloss=to_put
+4	-a	-ia_2	v:(Tense)	_	_	_	_	_	Gloss=-PST_yesterday
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+6	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+7	fu	fu_2	v	_	_	_	_	_	Gloss=to_put
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T41com__5
+# text = a ho mio- -wa -io
+# doc_id = 2015T41com
+# doc_title = 2015T41com
+# origin_s_id = 4.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ho	ho_1	adv	_	_	_	_	_	Gloss=yesterday
+3	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+4	-wa	-ia_2	v:(Tense)	_	_	_	_	_	Gloss=-PST_yesterday
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T41com__6
+# text = a ofa toiso mio- -wo
+# doc_id = 2015T41com
+# doc_title = 2015T41com
+# origin_s_id = 4.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ofa	ofa	adv	_	_	_	_	_	Gloss=today
+3	toiso	toiso	n	_	_	_	_	_	Gloss=morning
+4	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

@@ -1,0 +1,15 @@
+# sent_id = 2013T9__1
+# text = so -nehe heneli -fo ti mio- -lo -wo
+# text_en = It's sunset time.
+# doc_id = 2013T9
+# doc_title = 2013T9
+# origin_s_id = 1
+1	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+2	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+3	heneli	heneli_1	n  (fo)	_	_	_	_	_	Gloss=sun
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+5	ti	ti_1	v	_	_	_	_	_	Gloss=to_go_down
+6	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+7	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

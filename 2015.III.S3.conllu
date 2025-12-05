@@ -1,0 +1,75 @@
+# sent_id = 2015.III.S3__1
+# text = efe nahaso -mo -i
+# doc_id = 2015.III.S3
+# doc_title = 2015.III.S3
+# origin_s_id = 1
+1	efe	efe_1	n  (mo)	_	_	_	_	_	Gloss=road
+2	nahaso	_	_	_	_	_	_	_	_
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S3__2
+# text = eise
+# doc_id = 2015.III.S3
+# doc_title = 2015.III.S3
+# origin_s_id = 2
+1	eise	eise	n	_	_	_	_	_	Gloss=board
+
+# sent_id = 2015.III.S3__3
+# text = upemi -mo -i
+# doc_id = 2015.III.S3
+# doc_title = 2015.III.S3
+# origin_s_id = 3
+1	upemi	upemi	n  (mo)	_	_	_	_	_	Gloss=ladder
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S3__4
+# text = efenahaso iolua -i
+# doc_id = 2015.III.S3
+# doc_title = 2015.III.S3
+# origin_s_id = 4
+1	efenahaso	efenahaso	n	_	_	_	_	_	Gloss=door
+2	iolua	iolua	cardnum	_	_	_	_	_	Gloss=two
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S3__5
+# text = upemi iolua -i
+# doc_id = 2015.III.S3
+# doc_title = 2015.III.S3
+# origin_s_id = 5
+1	upemi	upemi	n  (mo)	_	_	_	_	_	Gloss=ladder
+2	iolua	iolua	cardnum	_	_	_	_	_	Gloss=two
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S3__6
+# text = o ne -sapo upemi iolua -i
+# doc_id = 2015.III.S3
+# doc_title = 2015.III.S3
+# origin_s_id = 6
+1	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+2	ne	no_3	dem	_	_	_	_	_	Gloss=DEM2
+3	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+4	upemi	upemi	n  (mo)	_	_	_	_	_	Gloss=ladder
+5	iolua	iolua	cardnum	_	_	_	_	_	Gloss=two
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S3__7
+# text = o homi -tei mitlo mipesle mioluhapi miosaeiopu mihapapa hemesi owowanulei hemesi topasu -foi
+# doc_id = 2015.III.S3
+# doc_title = 2015.III.S3
+# origin_s_id = 7
+1	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+2	homi	homi	n	_	_	_	_	_	Gloss=pole
+3	-tei	-tei	Noun	_	_	_	_	_	Gloss=-PL
+4	mitlo	mitlo	n	_	_	_	_	_	Gloss=pole
+5	mipesle	mipesle	n	_	_	_	_	_	Gloss=house_wood_crosspiece
+6	mioluhapi	mioluhapi	n	_	_	_	_	_	Gloss=house_wood_crosspiece
+7	miosaeiopu	miosaeiopu	n	_	_	_	_	_	Gloss=house_wood_crosspiece
+8	mihapapa	mihapapa	n	_	_	_	_	_	Gloss=house_wood_crosspiece
+9	hemesi	hemesi	n	_	_	_	_	_	Gloss=bark_floor
+10	owowanulei	owowanulei	n	_	_	_	_	_	Gloss=limbum_blo_nambis
+11	hemesi	hemesi	n	_	_	_	_	_	Gloss=bark_floor
+12	topasu	tepasu	n	_	_	_	_	_	Gloss=limbum_blo_mountain
+13	-foi	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+

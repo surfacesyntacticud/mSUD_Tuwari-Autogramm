@@ -1,0 +1,58 @@
+# sent_id = 2019.II.77__1
+# text = o ho mi -fo -i
+# doc_id = 2019.II.77
+# origin_s_id = 1.1
+1	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+2	ho	he_3	dem	_	_	_	_	_	Gloss=DEM4
+3	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.77__2
+# text = o -sapo o ho mi -fo -i
+# text_en = [done with this wood]
+# doc_id = 2019.II.77
+# origin_s_id = 1.2
+1	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+2	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+3	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+4	ho	he_3	dem	_	_	_	_	_	Gloss=DEM4
+5	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+6	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+7	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.77__3
+# text = tema mi -fo -i
+# text_en = [done with this wood]
+# doc_id = 2019.II.77
+# origin_s_id = 1.3
+1	tema	tema	n  (fo)	_	_	_	_	_	Gloss=fence
+2	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.77__4
+# text = a mami tuwe kali -mi o -mwi -i
+# doc_id = 2019.II.77
+# origin_s_id = 2.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+3	tuwe	tuwe	adv	_	_	_	_	_	Gloss=half
+4	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+5	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+6	o	o_4	v	_	_	_	_	_	Gloss=to_eat
+7	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+8	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.77__5
+# text = a mami kali -mo iefi -mwi -i
+# doc_id = 2019.II.77
+# origin_s_id = 2.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	iefi	iefi	v	_	_	_	_	_	Gloss=to_shoot
+6	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+7	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

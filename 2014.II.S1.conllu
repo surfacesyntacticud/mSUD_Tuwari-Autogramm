@@ -1,0 +1,140 @@
+# sent_id = 2014.II.S1__1
+# text = welese wele fe -i
+# doc_id = 2014.II.S1
+# doc_title = 2014.II.S1
+# origin_s_id = 1
+1	welese	welese	n	_	_	_	_	_	Gloss=little_girl
+2	wele	wele	n	_	_	_	_	_	Gloss=weeping
+3	fe	fe_1	v	_	_	_	_	_	Gloss=to_sing
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S1__2
+# text = erike -we welese wele fe -i
+# doc_id = 2014.II.S1
+# doc_title = 2014.II.S1
+# origin_s_id = 2
+1	erike	erike	PN	_	_	_	_	_	Gloss=Erik
+2	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+3	welese	welese	n	_	_	_	_	_	Gloss=little_girl
+4	wele	wele	n	_	_	_	_	_	Gloss=weeping
+5	fe	fe_1	v	_	_	_	_	_	Gloss=to_sing
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S1__3
+# text = nemeli -mo a -io
+# doc_id = 2014.II.S1
+# doc_title = 2014.II.S1
+# origin_s_id = 3
+1	nemeli	nemeli_1	n  (mo)	_	_	_	_	_	Gloss=wind
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	a	a_1	v	_	_	_	_	_	Gloss=to_go
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S1__4
+# text = fefe -mo nemaiono -mwii
+# doc_id = 2014.II.S1
+# doc_title = 2014.II.S1
+# origin_s_id = 4
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	nemaiono	_	_	_	_	_	_	_	_
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.II.S1__5
+# text = timoti -we fefe -mo nemaionu -mwii
+# doc_id = 2014.II.S1
+# doc_title = 2014.II.S1
+# origin_s_id = 5
+1	timoti	timoti	PN	_	_	_	_	_	Gloss=Timothy
+2	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+3	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	nemaionu	_	_	_	_	_	_	_	_
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.II.S1__6
+# text = a wafe -ma ii
+# doc_id = 2014.II.S1
+# doc_title = 2014.II.S1
+# origin_s_id = 6
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	wafe	wafe_1	adv	_	_	_	_	_	Gloss=downstream
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	ii	io	v	_	_	_	_	_	Gloss=to_go
+
+# sent_id = 2014.II.S1__7
+# text = a waai -ma me- a -i
+# doc_id = 2014.II.S1
+# doc_title = 2014.II.S1
+# origin_s_id = 7
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	waai	waai_2	n	_	_	_	_	_	Gloss=other_side(of river)
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	a	a_1	v	_	_	_	_	_	Gloss=to_go
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S1__8
+# text = a waai -ma i
+# doc_id = 2014.II.S1
+# doc_title = 2014.II.S1
+# origin_s_id = 8
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	waai	waai_2	n	_	_	_	_	_	Gloss=other_side(of river)
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	i	i	light verb	_	_	_	_	_	Gloss=to_go
+
+# sent_id = 2014.II.S1__9
+# text = heiso to m -solua iaame -lei
+# doc_id = 2014.II.S1
+# doc_title = 2014.II.S1
+# origin_s_id = 9
+1	heiso	heiso_1	n	_	_	_	_	_	Gloss=woman
+2	to	to_1	n	_	_	_	_	_	Gloss=man
+3	m	mo_1	pers	_	_	_	_	_	Gloss=DEM1.3SG.NOT_HUM
+4	-solua	-solua	Personal pronoun	_	_	_	_	_	Gloss=DU_two_spouses
+5	iaame	iaame	v	_	_	_	_	_	Gloss=to_be_angry
+6	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2014.II.S1__10
+# text = a iiaama -lei
+# doc_id = 2014.II.S1
+# doc_title = 2014.II.S1
+# origin_s_id = 10
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	iiaama	iaame	v	_	_	_	_	_	Gloss=to_be_angry
+3	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2014.II.S1__11
+# text = waai me -he nemehe
+# doc_id = 2014.II.S1
+# doc_title = 2014.II.S1
+# origin_s_id = 11
+1	waai	waai_1	cardnum	_	_	_	_	_	Gloss=one
+2	me	mo_1	pers	_	_	_	_	_	Gloss=DEM1.3SG.NOT_HUM
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	nemehe	nemehe	pro	_	_	_	_	_	Gloss=DEM2:DEM1:DEM4_this
+
+# sent_id = 2014.II.S1__12
+# text = ia waai mei- a nemehe
+# doc_id = 2014.II.S1
+# doc_title = 2014.II.S1
+# origin_s_id = 12
+1	ia	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+2	waai	waai_1	cardnum	_	_	_	_	_	Gloss=one
+3	mei-	mei-	v:Tout	_	_	_	_	_	Gloss=to_go_up(stream)-
+4	a	a_1	v	_	_	_	_	_	Gloss=to_come
+5	nemehe	nemehe	pro	_	_	_	_	_	Gloss=DEM2:DEM1:DEM4_this
+
+# sent_id = 2014.II.S1__13
+# text = daniele -we o -nonu ne -io
+# doc_id = 2014.II.S1
+# doc_title = 2014.II.S1
+# origin_s_id = 13
+1	daniele	daniel	PN	_	_	_	_	_	Gloss=Daniel
+2	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+3	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+4	-nonu	-nonu	n:Loc	_	_	_	_	_	Gloss=-DEM2:LOC.inside
+5	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

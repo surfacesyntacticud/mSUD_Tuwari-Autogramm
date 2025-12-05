@@ -1,0 +1,42 @@
+# sent_id = 2014T22com__1
+# text = uwai
+# doc_id = 2014T22com
+# doc_title = 141108_10_T22 com
+# origin_s_id = 1
+1	uwai	uwai	v	_	_	_	_	_	Gloss=cant
+
+# sent_id = 2014T22com__2
+# text = tia nepia -ma
+# doc_id = 2014T22com
+# doc_title = 141108_10_T22 com
+# origin_s_id = 2
+1	tia	tia_1	v	_	_	_	_	_	Gloss=to_sit
+2	nepia	nepia	adj	_	_	_	_	_	Gloss=far_away
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+
+# sent_id = 2014T22com__3
+# doc_id = 2014T22com
+# doc_title = 141108_10_T22 com
+# origin_s_id = 3
+
+# sent_id = 2014T22com__4
+# text = uwai nemlo ka- hane -na
+# doc_id = 2014T22com
+# doc_title = 141108_10_T22 com
+# origin_s_id = 4
+1	uwai	uwai	v	_	_	_	_	_	Gloss=cant
+2	nemlo	nemlo	dem	_	_	_	_	_	Gloss=thus
+3	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+4	hane	ano_2	v	_	_	_	_	_	Gloss=to_make
+5	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2014T22com__5
+# text = me fonane otei -ni
+# doc_id = 2014T22com
+# doc_title = 141108_10_T22 com
+# origin_s_id = 5
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+3	otei	otei	v	_	_	_	_	_	Gloss=to_fight
+4	-ni	-ni_2	v:Tout	_	_	_	_	_	Gloss=-want.2S
+

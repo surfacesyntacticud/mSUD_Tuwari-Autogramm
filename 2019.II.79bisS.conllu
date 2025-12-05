@@ -1,0 +1,32 @@
+# sent_id = 2019.II.79bisS__1
+# text = hemesi ne -fo fle- esiei -io
+# doc_id = 2019.II.79bisS
+# origin_s_id = 1
+1	hemesi	hemesi	n	_	_	_	_	_	Gloss=bark_floor
+2	ne	no_3	dem	_	_	_	_	_	Gloss=DEM2
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	fle-	fle-	v:(Modality1)	_	_	_	_	_	Gloss=NOW
+5	esiei	esiei	adj	_	_	_	_	_	Gloss=dry
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.79bisS__2
+# text = wiise no -o fa- aleme mau -o -i
+# doc_id = 2019.II.79bisS
+# origin_s_id = 2.1
+1	wiise	wiise	n  (mo)	_	_	_	_	_	Gloss=sago
+2	no	no_3	dem	_	_	_	_	_	Gloss=DEM2
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	fa-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+5	aleme	aleme	v	_	_	_	_	_	Gloss=to_start
+6	mau	malo	v	_	_	_	_	_	Gloss=to_grow
+7	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+8	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.79bisS__3
+# text = olulu -ale a
+# doc_id = 2019.II.79bisS
+# origin_s_id = 2.2
+1	olulu	ololu	adj	_	_	_	_	_	Gloss=slow
+2	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+3	a	o_4	v	_	_	_	_	_	Gloss=to_eat
+

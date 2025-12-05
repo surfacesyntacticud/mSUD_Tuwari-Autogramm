@@ -1,0 +1,11 @@
+# sent_id = 2013M4__1
+# text = heneli -lo hou -wo
+# text_en = It's hot (?)
+# doc_id = 2013M4
+# doc_title = 2013M4
+# origin_s_id = 1
+1	heneli	heneli_1	n  (fo)	_	_	_	_	_	Gloss=sun
+2	-lo	-lo_3	n	_	_	_	_	_	Gloss=-INS
+3	hou	hou_2	v	_	_	_	_	_	Gloss=to_burn
+4	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

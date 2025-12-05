@@ -1,0 +1,143 @@
+# sent_id = 2015T10__1
+# text = erik sosupese ha neme -he -lo neme -he -lo nemla mwe mia- mle -io to -ne ne male
+# doc_id = 2015T10
+# doc_title = 2015T10 Discussion sur le vol d'une marmite REPRENDRE
+# origin_s_id = 1
+1	erik	erik	PN	_	_	_	_	_	Gloss=Erik
+2	sosupese	sosupese	n	_	_	_	_	_	Gloss=cooking_pot
+3	ha	ha_1	adj	_	_	_	_	_	Gloss=small
+4	neme	neme_2	dem	_	_	_	_	_	Gloss=DEM2:DEM1
+5	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+6	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+7	neme	neme_2	dem	_	_	_	_	_	Gloss=DEM2:DEM1
+8	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+9	-lo	-lo_1	Demonstrative	_	_	_	_	_	Gloss=-DEM
+10	nemla	nemlo	dem	_	_	_	_	_	Gloss=thus
+11	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+12	mia-	mia-	v:(dir-)	_	_	_	_	_	Gloss=down?-
+13	mle	lei_1	v	_	_	_	_	_	Gloss=to_look
+14	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+15	to	to_1	n	_	_	_	_	_	Gloss=man
+16	-ne	-ne_3	Noun	_	_	_	_	_	Gloss=-?
+17	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+18	male	_	_	_	_	_	_	_	_
+
+# sent_id = 2015T10__2
+# text = ana henehe ialo honua -nwe -nehe ialo lo -nehe a -li homo -ma -mu fali mene -lo
+# doc_id = 2015T10
+# doc_title = 2015T10 Discussion sur le vol d'une marmite REPRENDRE
+# origin_s_id = 2
+1	ana	ana	n	_	_	_	_	_	Gloss=mother
+2	henehe	henolo	dem	_	_	_	_	_	Gloss=DEM
+3	ialo	ialo	?	_	_	_	_	_	Gloss=COMP
+4	honua	honua	n	_	_	_	_	_	Gloss=elder
+5	-nwe	-nwe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-DEM2:SG.M
+6	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+7	ialo	ialo	?	_	_	_	_	_	Gloss=COMP
+8	lo	lo_2	v	_	_	_	_	_	Gloss=COP
+9	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+10	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+11	-li	-li_1	Pro-form	_	_	_	_	_	Gloss=-?
+12	homo	homo	adv	_	_	_	_	_	Gloss=here
+13	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+14	-mu	-mu_2	Noun	_	_	_	_	_	Gloss=-LOC/ABL?
+15	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+16	mene	mene_1	v	_	_	_	_	_	Gloss=to_go
+17	-lo	-lo_4	v:(Tense)	_	_	_	_	_	Gloss=-PST
+
+# sent_id = 2015T10__3
+# text = erik io- o
+# doc_id = 2015T10
+# doc_title = 2015T10 Discussion sur le vol d'une marmite REPRENDRE
+# origin_s_id = 3.1
+1	erik	erik	PN	_	_	_	_	_	Gloss=Erik
+2	io-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+3	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+
+# sent_id = 2015T10__4
+# text = mehe -lia
+# doc_id = 2015T10
+# doc_title = 2015T10 Discussion sur le vol d'une marmite REPRENDRE
+# origin_s_id = 3.2
+1	mehe	mehe	pers	_	_	_	_	_	Gloss=DEM1:DEM4_it
+2	-lia	-liia	Noun	_	_	_	_	_	Gloss=-?
+
+# sent_id = 2015T10__5
+# text = ita
+# doc_id = 2015T10
+# doc_title = 2015T10 Discussion sur le vol d'une marmite REPRENDRE
+# origin_s_id = 4
+1	ita	ita	n	_	_	_	_	_	Gloss=father
+
+# sent_id = 2015T10__6
+# text = erik nemle -io fali me- ne -ne to nene -le hemalo me- ne -ne
+# doc_id = 2015T10
+# doc_title = 2015T10 Discussion sur le vol d'une marmite REPRENDRE
+# origin_s_id = 5.1
+1	erik	erik	PN	_	_	_	_	_	Gloss=Erik
+2	nemle	_	_	_	_	_	_	_	_
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+5	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	to	to_1	n	_	_	_	_	_	Gloss=man
+9	nene	_	_	_	_	_	_	_	_
+10	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+11	hemalo	hamalo	v	_	_	_	_	_	Gloss=to steal
+12	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+13	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+14	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2015T10__7
+# text = mle eisefe m- usi fu -o -lo -mle efe efe heifo -le hetaale -ne usi efe -mo wa- m- usi fu olo -mle
+# doc_id = 2015T10
+# doc_title = 2015T10 Discussion sur le vol d'une marmite REPRENDRE
+# origin_s_id = 5.2
+1	mle	mle	pers	_	_	_	_	_	Gloss=DEM1:PL
+2	eisefe	eisefe	adv	_	_	_	_	_	Gloss=back
+3	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	usi	usi	adv	_	_	_	_	_	Gloss=inside
+5	fu	fu_2	v	_	_	_	_	_	Gloss=to_put
+6	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+7	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+8	-mle	-mle	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:PL
+9	efe	efe_3	n  (mo)	_	_	_	_	_	Gloss=door
+10	efe	efe_3	n  (mo)	_	_	_	_	_	Gloss=door
+11	heifo	heifo_1	n  (mo)	_	_	_	_	_	Gloss=dog
+12	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+13	hetaale	_	_	_	_	_	_	_	_
+14	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+15	usi	usi	adv	_	_	_	_	_	Gloss=inside
+16	efe	efe_3	n  (mo)	_	_	_	_	_	Gloss=door
+17	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+18	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+19	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+20	usi	usi	adv	_	_	_	_	_	Gloss=inside
+21	fu	fu_2	v	_	_	_	_	_	Gloss=to_put
+22	olo	alu	v	_	_	_	_	_	Gloss=to_close_door
+23	-mle	-mle	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:PL
+
+# sent_id = 2015T10__8
+# text = kri sau nle -fa soli nefe -lo sesepese nle -fa efe haula -papo fu -wo -lo -mle
+# doc_id = 2015T10
+# doc_title = 2015T10 Discussion sur le vol d'une marmite REPRENDRE
+# origin_s_id = 5.3
+1	kri	_	_	_	_	_	_	_	_
+2	sau	sau	n	_	_	_	_	_	Gloss=thing
+3	nle	nle	dem	_	_	_	_	_	Gloss=DEM2:PL
+4	-fa	-fa_3	Pro-form	_	_	_	_	_	Gloss=-DISTR
+5	soli	soli	n  (fe)	_	_	_	_	_	Gloss=axe
+6	nefe	nefe_2	n  (fo)	_	_	_	_	_	Gloss=tooth
+7	-lo	-lo_3	n	_	_	_	_	_	Gloss=-INS
+8	sesepese	sosupese	n	_	_	_	_	_	Gloss=cooking_pot
+9	nle	nle	dem	_	_	_	_	_	Gloss=DEM2:PL
+10	-fa	-fa_3	Pro-form	_	_	_	_	_	Gloss=-DISTR
+11	efe	efe_1	n  (mo)	_	_	_	_	_	Gloss=road
+12	haula	_	_	_	_	_	_	_	_
+13	-papo	-papo	_	_	_	_	_	_	Gloss=-?
+14	fu	fu_2	v	_	_	_	_	_	Gloss=to_put
+15	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+16	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+17	-mle	-mle	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:PL
+

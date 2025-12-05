@@ -1,0 +1,82 @@
+# sent_id = 2014T51__1
+# text = ta sihomo -lo holua -nami
+# text_en = We worked
+# doc_id = 2014T51
+# doc_title = 2014T51 Sali : A day in the garden
+# origin_s_id = 1.1
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	sihomo	sihomo	n	_	_	_	_	_	Gloss=work
+3	-lo	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	holua	holua	v	_	_	_	_	_	Gloss=to_work
+5	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+
+# sent_id = 2014T51__2
+# text = holua -aple -nami nisopu -mo tu
+# text_en = then we made momu
+# doc_id = 2014T51
+# doc_title = 2014T51 Sali : A day in the garden
+# origin_s_id = 1.2
+1	holua	holua	v	_	_	_	_	_	Gloss=to_work
+2	-aple	-aple	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PRF
+3	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+4	nisopu	nesopu	n  (mo)	_	_	_	_	_	Gloss=braising
+5	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+6	tu	tu_1	v	_	_	_	_	_	Gloss=cook
+
+# sent_id = 2014T51__3
+# text = tete -nami tia
+# text_en = After standing we sat down
+# doc_id = 2014T51
+# doc_title = 2014T51 Sali : A day in the garden
+# origin_s_id = 1.3
+1	tete	teto	v	_	_	_	_	_	Gloss=kamap_sanap
+2	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+3	tia	tia_1	v	_	_	_	_	_	Gloss=to_sit
+
+# sent_id = 2014T51__4
+# text = -nami nisopu -mo ta -nami
+# text_en = After making mumu
+# doc_id = 2014T51
+# doc_title = 2014T51 Sali : A day in the garden
+# origin_s_id = 1.4
+1	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+2	nisopu	nesopu	n  (mo)	_	_	_	_	_	Gloss=braising
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	ta	tu_1	v	_	_	_	_	_	Gloss=cook
+5	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+
+# sent_id = 2014T51__5
+# text = sihomo -lo holua -aple -ne
+# text_en = and finishing work
+# doc_id = 2014T51
+# doc_title = 2014T51 Sali : A day in the garden
+# origin_s_id = 1.5
+1	sihomo	sihomo	n	_	_	_	_	_	Gloss=work
+2	-lo	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	holua	holua	v	_	_	_	_	_	Gloss=to_work
+4	-aple	-aple	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PRF
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2014T51__6
+# text = otue nasmene a plen -io
+# text_en = and eating planty food
+# doc_id = 2014T51
+# doc_title = 2014T51 Sali : A day in the garden
+# origin_s_id = 1.6
+1	otue	otue	n	_	_	_	_	_	Gloss=food
+2	nasmene	nasmene	adj	_	_	_	_	_	Gloss=planty
+3	a	o_4	v	_	_	_	_	_	Gloss=to_eat
+4	plen	_	_	_	_	_	_	_	_
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014T51__7
+# text = onoma i -nai -lii
+# text_en = we will come back to the house.
+# doc_id = 2014T51
+# doc_title = 2014T51 Sali : A day in the garden
+# origin_s_id = 1.7
+1	onoma	onoma	adv	_	_	_	_	_	Gloss=to_house
+2	i	i	light verb	_	_	_	_	_	Gloss=to_go
+3	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+4	-lii	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+

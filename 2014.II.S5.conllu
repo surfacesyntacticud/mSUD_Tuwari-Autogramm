@@ -1,0 +1,79 @@
+# sent_id = 2014.II.S5__1
+# text = kapi he osua
+# doc_id = 2014.II.S5
+# doc_title = 2014.II.S5
+# origin_s_id = 1
+1	kapi	kapi_1	n	_	_	_	_	_	Gloss=banana
+2	he	he_1	n	_	_	_	_	_	Gloss=shoot
+3	osua	osua	v	_	_	_	_	_	Gloss=to_plant_with_digging_stick
+
+# sent_id = 2014.II.S5__2
+# text = fefe he eli -nai -lei
+# doc_id = 2014.II.S5
+# doc_title = 2014.II.S5
+# origin_s_id = 2
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	he	he_1	n	_	_	_	_	_	Gloss=shoot
+3	eli	eli_1	v	_	_	_	_	_	Gloss=to_plant
+4	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+5	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2014.II.S5__3
+# text = sinali fu -nai -lei
+# doc_id = 2014.II.S5
+# doc_title = 2014.II.S5
+# origin_s_id = 3
+1	sinali	sinali	n	_	_	_	_	_	Gloss=sweet_potato
+2	fu	fu_2	v	_	_	_	_	_	Gloss=to_scatter
+3	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+4	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2014.II.S5__4
+# text = peinale he -le ti tia -nei -lei
+# doc_id = 2014.II.S5
+# doc_title = 2014.II.S5
+# origin_s_id = 4
+1	peinale	painale	n  (fo)	_	_	_	_	_	Gloss=coconut
+2	he	he_1	n	_	_	_	_	_	Gloss=shoot
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	ti	ti_1	v	_	_	_	_	_	Gloss=to_go_down
+5	tia	tia_1	v	_	_	_	_	_	Gloss=to_sit
+6	-nei	-nei	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-go?
+7	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2014.II.S5__5
+# text = ho he -le eli -nai -mwii
+# doc_id = 2014.II.S5
+# doc_title = 2014.II.S5
+# origin_s_id = 5
+1	ho	ho_2	n	_	_	_	_	_	Gloss=sugar_cane
+2	he	he_1	n	_	_	_	_	_	Gloss=shoot
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	eli	eli_1	v	_	_	_	_	_	Gloss=to_plant
+5	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.II.S5__6
+# text = fofo si -le fu -nai -mwii
+# doc_id = 2014.II.S5
+# doc_title = 2014.II.S5
+# origin_s_id = 6
+1	fofo	fufu	n  (fo)	_	_	_	_	_	Gloss=papaye
+2	si	si_1	n  (ei)	_	_	_	_	_	Gloss=seed
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	fu	fu_2	v	_	_	_	_	_	Gloss=to_scatter
+5	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.II.S5__7
+# text = fofo si -le owow -nai -lei
+# doc_id = 2014.II.S5
+# doc_title = 2014.II.S5
+# origin_s_id = 7
+1	fofo	fufu	n  (fo)	_	_	_	_	_	Gloss=papaye
+2	si	si_1	n  (ei)	_	_	_	_	_	Gloss=seed
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	owow	owow	v	_	_	_	_	_	Gloss=to_sow
+5	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+6	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+

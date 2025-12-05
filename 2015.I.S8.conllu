@@ -1,0 +1,23 @@
+# sent_id = 2015.I.S8__1
+# text = tetono olsa kesia -le ka- i -na
+# doc_id = 2015.I.S8
+# doc_title = 2015.I.S8
+# origin_s_id = 1
+1	tetono	tetono	n	_	_	_	_	_	Gloss=children
+2	olsa	olsa	_	_	_	_	_	_	Gloss=all
+3	kesia	kesia	n	_	_	_	_	_	Gloss=play
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+6	i	i	light verb	_	_	_	_	_	Gloss=to_be
+7	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2015.I.S8__2
+# text = hou peisa -mo -i
+# doc_id = 2015.I.S8
+# doc_title = 2015.I.S8
+# origin_s_id = 2
+1	hou	hou_3	n	_	_	_	_	_	Gloss=smell
+2	peisa	peisa	adv	_	_	_	_	_	Gloss=good
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

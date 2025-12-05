@@ -1,0 +1,53 @@
+# sent_id = 2019.II.59S__1
+# text = kulakula 'aː -io kulakula aːhaa kulakula aha
+# doc_id = 2019.II.59S
+# origin_s_id = 1
+1	kulakula	kulakula	ideo	_	_	_	_	_	Gloss=quick
+2	'aː	a_1	v	_	_	_	_	_	Gloss=to_come
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	kulakula	kulakula	ideo	_	_	_	_	_	Gloss=quick
+5	aːhaa	nahaa	v	_	_	_	_	_	Gloss=to_gather
+6	kulakula	kulakula	ideo	_	_	_	_	_	Gloss=quick
+7	aha	nahaa	v	_	_	_	_	_	Gloss=to_gather
+
+# sent_id = 2019.II.59S__2
+# text = ta aː haa
+# doc_id = 2019.II.59S
+# origin_s_id = 2
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	aː	a_1	v	_	_	_	_	_	Gloss=to_come
+3	haa	nahaa	v	_	_	_	_	_	Gloss=to_gather
+
+# sent_id = 2019.II.59S__3
+# text = ta ti -ai iː haa
+# doc_id = 2019.II.59S
+# origin_s_id = 3
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	ti	te_2	v	_	_	_	_	_	Gloss=to_go
+3	-ai	-ai_2	v	_	_	_	_	_	Gloss=-PL
+4	iː	i	light verb	_	_	_	_	_	Gloss=to_go
+5	haa	nahaa	v	_	_	_	_	_	Gloss=to_gather
+
+# sent_id = 2019.II.59S__4
+# text = mi helimefe -oi
+# doc_id = 2019.II.59S
+# origin_s_id = 4.1
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	helimefe	helimefe	n	_	_	_	_	_	Gloss=tree_species
+3	-oi	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+
+# sent_id = 2019.II.59S__5
+# text = mi fuefe -oi
+# doc_id = 2019.II.59S
+# origin_s_id = 4.2
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	fuefe	fuefe	n	_	_	_	_	_	Gloss=tree_species
+3	-oi	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+
+# sent_id = 2019.II.59S__6
+# text = fonane ywe
+# doc_id = 2019.II.59S
+# origin_s_id = 4.3
+1	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+2	ywe	uwe_3	adv	_	_	_	_	_	Gloss=no
+

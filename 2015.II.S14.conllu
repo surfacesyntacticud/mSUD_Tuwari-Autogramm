@@ -1,0 +1,71 @@
+# sent_id = 2015.II.S14__1
+# text = feni
+# doc_id = 2015.II.S14
+# doc_title = 2015.II.S14 Dictionnaire 3.2
+# origin_s_id = 1.1
+1	feni	feni_1	n  (fo)	_	_	_	_	_	Gloss=heart
+
+# sent_id = 2015.II.S14__2
+# text = a me feni
+# doc_id = 2015.II.S14
+# doc_title = 2015.II.S14 Dictionnaire 3.2
+# origin_s_id = 1.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+3	feni	feni_1	n  (fo)	_	_	_	_	_	Gloss=sorry
+
+# sent_id = 2015.II.S14__3
+# text = a me feni -io
+# doc_id = 2015.II.S14
+# doc_title = 2015.II.S14 Dictionnaire 3.2
+# origin_s_id = 1.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+3	feni	feni_1	n  (fo)	_	_	_	_	_	Gloss=sorry
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.II.S14__4
+# text = a me feni -mwii
+# doc_id = 2015.II.S14
+# doc_title = 2015.II.S14 Dictionnaire 3.2
+# origin_s_id = 1.4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+3	feni	feni_1	n  (fo)	_	_	_	_	_	Gloss=sorry
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.II.S14__5
+# text = a ei feni
+# doc_id = 2015.II.S14
+# doc_title = 2015.II.S14 Dictionnaire 3.2
+# origin_s_id = 1.5
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ei	mei	?	_	_	_	_	_	Gloss=QUOTED_SPEECH
+3	feni	feni_1	n  (fo)	_	_	_	_	_	Gloss=sorry
+
+# sent_id = 2015.II.S14__6
+# text = a ofa toiso me feni i -li -io
+# doc_id = 2015.II.S14
+# doc_title = 2015.II.S14 Dictionnaire 3.2
+# origin_s_id = 1.6
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ofa	ofa	adv	_	_	_	_	_	Gloss=today
+3	toiso	toiso	n	_	_	_	_	_	Gloss=morning
+4	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+5	feni	feni_1	n  (fo)	_	_	_	_	_	Gloss=sorry
+6	i	i	light verb	_	_	_	_	_	Gloss=to_be
+7	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PST_(this_morning)
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.II.S14__7
+# text = a ho me feni -lo -wo
+# doc_id = 2015.II.S14
+# doc_title = 2015.II.S14 Dictionnaire 3.2
+# origin_s_id = 1.7
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ho	ho_1	adv	_	_	_	_	_	Gloss=yesterday
+3	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+4	feni	feni_1	n  (fo)	_	_	_	_	_	Gloss=thought
+5	-lo	-lo_4	v:(Tense)	_	_	_	_	_	Gloss=-PST
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

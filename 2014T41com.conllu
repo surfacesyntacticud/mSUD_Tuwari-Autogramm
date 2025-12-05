@@ -1,0 +1,106 @@
+# sent_id = 2014T41com__1
+# text = tiao tete -ne efe -lei
+# text_en = mi wake up, stand up, and walk.
+# doc_id = 2014T41com
+# doc_title = 2014T41com
+# origin_s_id = 1
+1	tiao	tiao	v	_	_	_	_	_	Gloss=to_killap
+2	tete	teto	v	_	_	_	_	_	Gloss=to_stand_up
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+4	efe	efe_1	n  (mo)	_	_	_	_	_	Gloss=road
+5	-lei	-lei_2	Verb	_	_	_	_	_	Gloss=_?
+
+# sent_id = 2014T41com__2
+# text = tiao sle -ne
+# text_en = I wake up and sit.
+# doc_id = 2014T41com
+# doc_title = 2014T41com
+# origin_s_id = 2
+1	tiao	tiao	v	_	_	_	_	_	Gloss=to_killap
+2	sle	sele_1	v	_	_	_	_	_	Gloss=to_sit
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2014T41com__3
+# text = alu -ni
+# doc_id = 2014T41com
+# doc_title = 2014T41com
+# origin_s_id = 3
+1	alu	alu	v	_	_	_	_	_	Gloss=to_light_fire
+2	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+
+# sent_id = 2014T41com__4
+# text = ni omo kali -ma alu -ni
+# doc_id = 2014T41com
+# doc_title = 2014T41com
+# origin_s_id = 4
+1	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+2	omo	omo_3	n	_	_	_	_	_	Gloss=light
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	alu	alu	v	_	_	_	_	_	Gloss=to_light_fire
+6	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+
+# sent_id = 2014T41com__5
+# text = moho
+# doc_id = 2014T41com
+# doc_title = 2014T41com
+# origin_s_id = 5
+1	moho	_	_	_	_	_	_	_	_
+
+# sent_id = 2014T41com__6
+# text = tiho
+# doc_id = 2014T41com
+# doc_title = 2014T41com
+# origin_s_id = 6
+1	tiho	tiho_2	v	_	_	_	_	_	_
+
+# sent_id = 2014T41com__7
+# text = ni -tano fali moho -so -mwi -io
+# doc_id = 2014T41com
+# doc_title = 2014T41com
+# origin_s_id = 7
+1	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+2	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+3	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+4	moho	moho	v	_	_	_	_	_	Gloss=dry
+5	-so	_	_	_	_	_	_	_	_
+6	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014T41com__8
+# text = esei heneli pula pula le -io
+# doc_id = 2014T41com
+# doc_title = 2014T41com
+# origin_s_id = 8
+1	esei	esei	n	_	_	_	_	_	Gloss=water
+2	heneli	heneli_2	adj	_	_	_	_	_	Gloss=hot
+3	pula	pula	v	_	_	_	_	_	Gloss=to_boil
+4	pula	pula	v	_	_	_	_	_	Gloss=to_boil
+5	le	lo_2	v	_	_	_	_	_	Gloss=to_be
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014T41com__9
+# text = mehe pula pula le -io
+# doc_id = 2014T41com
+# doc_title = 2014T41com
+# origin_s_id = 9
+1	mehe	mehe	pers	_	_	_	_	_	Gloss=DEM1:DEM4_it
+2	pula	pula	v	_	_	_	_	_	Gloss=to_boil
+3	pula	pula	v	_	_	_	_	_	Gloss=to_boil
+4	le	lo_2	v	_	_	_	_	_	Gloss=to_be
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014T41com__10
+# text = a ho ai -ne inane -le i -mwii
+# doc_id = 2014T41com
+# doc_title = 2014T41com
+# origin_s_id = 10
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ho	ho_1	adv	_	_	_	_	_	Gloss=yesterday
+3	ai	_	_	_	_	_	_	_	_
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	inane	inane	n	_	_	_	_	_	Gloss=garden
+6	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+7	i	i	light verb	_	_	_	_	_	Gloss=to_go
+8	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

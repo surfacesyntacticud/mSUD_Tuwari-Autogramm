@@ -1,0 +1,12 @@
+# sent_id = 141112_08_T40__1
+# text = mine ta iowe a -mu
+# text_en = then I come (will come?)
+# doc_id = 141112_08_T40
+# doc_title = 141112_08_T40
+# origin_s_id = 1
+1	mine	meinami	adv	_	_	_	_	_	Gloss=after
+2	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+3	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+4	a	a_1	v	_	_	_	_	_	Gloss=to_go
+5	-mu	-mu_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+

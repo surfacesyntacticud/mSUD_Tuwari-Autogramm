@@ -1,0 +1,9 @@
+# sent_id = 2015.I.S1__1
+# text = awa daniel -mwii
+# doc_id = 2015.I.S1
+# doc_title = 2015.I.S1
+# origin_s_id = 1
+1	awa	awa	n	_	_	_	_	_	Gloss=sibling
+2	daniel	daniel	PN	_	_	_	_	_	Gloss=Daniel
+3	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

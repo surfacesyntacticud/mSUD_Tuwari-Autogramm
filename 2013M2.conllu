@@ -1,0 +1,18 @@
+# sent_id = 2013M2__1
+# text = helehi -io
+# doc_id = 2013M2
+# doc_title = 2013M2
+# origin_s_id = 1.1
+1	helehi	helehi	v	_	_	_	_	_	Gloss=to_flatten
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013M2__2
+# text = fefe -mi helehi -io
+# doc_id = 2013M2
+# doc_title = 2013M2
+# origin_s_id = 1.2
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+3	helehi	helehi	v	_	_	_	_	_	Gloss=to_flatten
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

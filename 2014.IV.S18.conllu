@@ -1,0 +1,128 @@
+# sent_id = 2014.IV.S18__1
+# text = tei honu hefafe
+# doc_id = 2014.IV.S18
+# doc_title = 2014.IV.S18
+# origin_s_id = 1.1
+1	tei	tei_2	pers	_	_	_	_	_	Gloss=2PL
+2	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+3	hefafe	hefafe	v	_	_	_	_	_	Gloss=to_hear
+
+# sent_id = 2014.IV.S18__2
+# text = a waitman suwe f- i -ne
+# doc_id = 2014.IV.S18
+# doc_title = 2014.IV.S18
+# origin_s_id = 1.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	waitman	waitman	n	_	_	_	_	_	Gloss=white_man
+3	suwe	suwe_2	v	_	_	_	_	_	Gloss=?
+4	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+5	i	i	light verb	_	_	_	_	_	Gloss=COP
+6	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+
+# sent_id = 2014.IV.S18__3
+# text = a tau -tano pase -ma u -mwii
+# doc_id = 2014.IV.S18
+# doc_title = 2014.IV.S18
+# origin_s_id = 1.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	tau	tau	PN_hydronym	_	_	_	_	_	Gloss=Tau
+3	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	pase	pase	n	_	_	_	_	_	Gloss=sand
+5	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+6	u	u_3	v	_	_	_	_	_	Gloss=COP_to_belong_to_a_place
+7	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.IV.S18__4
+# text = a to honou uso -mwii
+# doc_id = 2014.IV.S18
+# doc_title = 2014.IV.S18
+# origin_s_id = 1.4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	to	to_1	n	_	_	_	_	_	Gloss=man
+3	honou	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+4	uso	uso	n	_	_	_	_	_	Gloss=originate(as_place)
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.IV.S18__5
+# text = mnefu
+# doc_id = 2014.IV.S18
+# doc_title = 2014.IV.S18
+# origin_s_id = 2
+1	mnefu	mnefu	n	_	_	_	_	_	Gloss=testicule
+
+# sent_id = 2014.IV.S18__6
+# text = waamene
+# doc_id = 2014.IV.S18
+# doc_title = 2014.IV.S18
+# origin_s_id = 3
+1	waamene	waamene	n	_	_	_	_	_	Gloss=penis
+
+# sent_id = 2014.IV.S18__7
+# text = opapeni
+# doc_id = 2014.IV.S18
+# doc_title = 2014.IV.S18
+# origin_s_id = 4
+1	opapeni	opapeni	n  (mi)	_	_	_	_	_	Gloss=vagina
+
+# sent_id = 2014.IV.S18__8
+# text = tuplaei hono kapaile fu -mo
+# doc_id = 2014.IV.S18
+# doc_title = 2014.IV.S18
+# origin_s_id = 5
+1	tuplaei	tuplaei	_	_	_	_	_	_	Gloss=?
+2	hono	hono_1	n	_	_	_	_	_	Gloss=hole
+3	kapaile	kapaile	n	_	_	_	_	_	Gloss=excreta/shit
+4	fu	fu_2	v	_	_	_	_	_	Gloss=to_urinate_excrate
+5	-mo	-mo_6	v	_	_	_	_	_	Gloss=-MED2causal
+
+# sent_id = 2014.IV.S18__9
+# text = a meno kapaile fu -ne i -io
+# doc_id = 2014.IV.S18
+# doc_title = 2014.IV.S18
+# origin_s_id = 6.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	meno	meno	n	_	_	_	_	_	Gloss=pis
+3	kapaile	kapaile	n	_	_	_	_	_	Gloss=excreta/shit
+4	fu	fu_2	v	_	_	_	_	_	Gloss=to_blow
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	i	i	light verb	_	_	_	_	_	Gloss=to_go
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S18__10
+# text = a meno u -le fu -ne i -io
+# doc_id = 2014.IV.S18
+# doc_title = 2014.IV.S18
+# origin_s_id = 6.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	meno	meno	n	_	_	_	_	_	Gloss=pis
+3	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	fu	fu_2	v	_	_	_	_	_	Gloss=to_urinate_excrate
+6	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+7	i	i	light verb	_	_	_	_	_	Gloss=to_go
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S18__11
+# text = a kapaile fu -ne i -io
+# doc_id = 2014.IV.S18
+# doc_title = 2014.IV.S18
+# origin_s_id = 6.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	kapaile	kapaile	n	_	_	_	_	_	Gloss=excreta/shit
+3	fu	fu_2	v	_	_	_	_	_	Gloss=to_urinate_excrate
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S18__12
+# text = a sihomo kali -mi holii -mwii
+# doc_id = 2014.IV.S18
+# doc_title = 2014.IV.S18
+# origin_s_id = 7
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	sihomo	sihomo	n	_	_	_	_	_	Gloss=work
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+5	holii	holua	v	_	_	_	_	_	Gloss=to_work
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

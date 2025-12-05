@@ -1,0 +1,12 @@
+# sent_id = 2013.III.S2__1
+# text = eni -mo mi- tehe titu i -io
+# doc_id = 2013.III.S2
+# origin_s_id = 1
+1	eni	eni	n  (mo)	_	_	_	_	_	Gloss=rope
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	mi-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	tehe	_	_	_	_	_	_	_	_
+5	titu	tetueli	v	_	_	_	_	_	Gloss=to_rope
+6	i	i	light verb	_	_	_	_	_	Gloss=to_be
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

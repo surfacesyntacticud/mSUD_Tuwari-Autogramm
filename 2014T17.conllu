@@ -1,0 +1,26 @@
+# sent_id = 2014T17__1
+# text = m- eli -aple -ne me- ia -ne -nami mia- mle -io sosise hao piliena -mi totu o -lo -wo
+# text_en = planting finished I came antap and see Sosise who was boilim a piliena fish
+# doc_id = 2014T17
+# doc_title = 141108_05_T17 A day (3/4)
+# origin_s_id = 1
+1	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	eli	eli_1	v	_	_	_	_	_	Gloss=to_plant
+3	-aple	-aple	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PRF
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	ia	ia_1	v	_	_	_	_	_	Gloss=kam_antap
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+9	mia-	mia-	v:(dir-)	_	_	_	_	_	Gloss=down?-
+10	mle	lei_1	v	_	_	_	_	_	Gloss=to_look
+11	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+12	sosise	sosise	PN	_	_	_	_	_	Gloss=Sosi
+13	hao	hao	n  (fo)	_	_	_	_	_	Gloss=fish
+14	piliena	filienani	n	_	_	_	_	_	Gloss=fish_specie
+15	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+16	totu	totu_1	n	_	_	_	_	_	Gloss=pot
+17	o	o_1	v	_	_	_	_	_	Gloss=to_cook
+18	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+19	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

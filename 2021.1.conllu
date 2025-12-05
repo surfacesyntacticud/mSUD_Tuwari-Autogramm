@@ -1,0 +1,140 @@
+# sent_id = 2021.1__1
+# text = pamo -li -nehe opsono lo
+# doc_id = 2021.1
+# origin_s_id = 1.1
+1	pamo	pamo	adv	_	_	_	_	_	Gloss=before
+2	-li	-li_1	Pro-form	_	_	_	_	_	Gloss=-?
+3	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+4	opsono	opsono	n	_	_	_	_	_	Gloss=village
+5	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+
+# sent_id = 2021.1__2
+# text = kile
+# doc_id = 2021.1
+# origin_s_id = 1.2
+1	kile	kile	n  (fo)	_	_	_	_	_	Gloss=mountain
+
+# sent_id = 2021.1__3
+# text = mo lo -mo -i
+# doc_id = 2021.1
+# origin_s_id = 2.1
+1	mo	mo_1	pers	_	_	_	_	_	Gloss=DEM1.3SG.NOT_HUM
+2	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2021.1__4
+# text = mo o -sapo -mo -i
+# doc_id = 2021.1
+# origin_s_id = 2.2
+1	mo	mo_1	pers	_	_	_	_	_	Gloss=DEM1.3SG.NOT_HUM
+2	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+3	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2021.1__5
+# text = o -n -sapo taleli lo -mo -i
+# doc_id = 2021.1
+# origin_s_id = 3.1
+1	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+2	-n	-no_2	n:Tout	_	_	_	_	_	Gloss=-DEM2
+3	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+4	taleli	taleli	adj	_	_	_	_	_	Gloss=PRIVATION
+5	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+6	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+7	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2021.1__6
+# text = mo
+# doc_id = 2021.1
+# origin_s_id = 3.2
+1	mo	mo_1	pers	_	_	_	_	_	Gloss=DEM1.3SG.NOT_HUM
+
+# sent_id = 2021.1__7
+# text = -nehe fu -fo
+# doc_id = 2021.1
+# origin_s_id = 4.1
+1	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+2	fu	fu_1	n  (fo)	_	_	_	_	_	Gloss=stone
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+
+# sent_id = 2021.1__8
+# text = o -n -sapo no o -nonu -we
+# doc_id = 2021.1
+# origin_s_id = 4.2
+1	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+2	-n	-no_2	n:Tout	_	_	_	_	_	Gloss=-DEM2
+3	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+4	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+5	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+6	-nonu	-nonu	n:Loc	_	_	_	_	_	Gloss=-DEM2:LOC.inside
+7	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+
+# sent_id = 2021.1__9
+# text = mo -nehe o -nonu
+# doc_id = 2021.1
+# origin_s_id = 4.3
+1	mo	mo_1	pers	_	_	_	_	_	Gloss=DEM1.3SG.NOT_HUM
+2	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+3	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+4	-nonu	-nonu	n:Loc	_	_	_	_	_	Gloss=-DEM2:LOC.inside
+
+# sent_id = 2021.1__10
+# text = -nehe -o -i
+# doc_id = 2021.1
+# origin_s_id = 5.1
+1	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+2	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2021.1__11
+# text = mo homo -ma -nehe o -nonu
+# doc_id = 2021.1
+# origin_s_id = 5.2
+1	mo	mo_1	pers	_	_	_	_	_	Gloss=DEM1.3SG.NOT_HUM
+2	homo	homo	n	_	_	_	_	_	Gloss=bush
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+5	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+6	-nonu	-nonu	n:Loc	_	_	_	_	_	Gloss=-DEM2:LOC.inside
+
+# sent_id = 2021.1__12
+# text = -nehe -o -i
+# doc_id = 2021.1
+# origin_s_id = 6.1
+1	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+2	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2021.1__13
+# text = mo homo -ma ei -nehe -we -mo -i
+# doc_id = 2021.1
+# origin_s_id = 6.2
+1	mo	mo_1	pers	_	_	_	_	_	Gloss=DEM1.3SG.NOT_HUM
+2	homo	homo	n	_	_	_	_	_	Gloss=bush
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	ei	mei	?	_	_	_	_	_	Gloss=QUOTED_SPEECH
+5	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+6	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+7	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+8	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2021.1__14
+# text = opo no tefeli lo -o -i tete no taha -o -i -o -i
+# doc_id = 2021.1
+# origin_s_id = 6.3
+1	opo	opo	n	_	_	_	_	_	Gloss=bird
+2	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+3	tefeli	tafeli	v	_	_	_	_	_	Gloss=to_know
+4	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+5	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+7	tete	teto	v	_	_	_	_	_	Gloss=to_stand_up
+8	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+9	taha	taa_1	n  (he)	_	_	_	_	_	Gloss=side
+10	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+11	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+12	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+13	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

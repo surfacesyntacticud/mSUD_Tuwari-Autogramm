@@ -1,0 +1,63 @@
+# sent_id = 2015.V.S7__1
+# text = wea tamtali si -nehe hei -mo tamtali hei
+# doc_id = 2015.V.S7
+# doc_title = 2015.V.S7
+# origin_s_id = 1
+1	wea	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+2	tamtali	tamtali	PN_oronym	_	_	_	_	_	Gloss=Tamtali
+3	si	si_5	n  (he)	_	_	_	_	_	Gloss=land
+4	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+5	hei	hei_2	n  (mo)	_	_	_	_	_	Gloss=name
+6	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+7	tamtali	tamtali	PN_oronym	_	_	_	_	_	Gloss=Tamtali
+8	hei	hei_2	n  (mo)	_	_	_	_	_	Gloss=name
+
+# sent_id = 2015.V.S7__2
+# text = to -nwe si -nehe wise -he tofu -lei tamtali -ma
+# doc_id = 2015.V.S7
+# doc_title = 2015.V.S7
+# origin_s_id = 2
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	-nwe	-nwe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-DEM2:SG.M
+3	si	si_5	n  (he)	_	_	_	_	_	Gloss=land
+4	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+5	wise	wiise	n  (mo)	_	_	_	_	_	Gloss=sago
+6	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+7	tofu	tofu_1	v	_	_	_	_	_	Gloss=to_wash
+8	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+9	tamtali	tamtali	PN_oronym	_	_	_	_	_	Gloss=Tamtali
+10	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+
+# sent_id = 2015.V.S7__3
+# text = to -nwe oumo mlene onoma si'a -mwii
+# doc_id = 2015.V.S7
+# doc_title = 2015.V.S7
+# origin_s_id = 3
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	-nwe	-nwe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-DEM2:SG.M
+3	oumo	oumo	n	_	_	_	_	_	Gloss=wound?
+4	mlene	mlene	correlconn	_	_	_	_	_	Gloss=also
+5	onoma	onoma	adv	_	_	_	_	_	Gloss=to_house
+6	si'a	sele_1	v	_	_	_	_	_	Gloss=to_stay
+7	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.V.S7__4
+# text = nalo ilonino
+# doc_id = 2015.V.S7
+# doc_title = 2015.V.S7
+# origin_s_id = 4
+1	nalo ilonino	nalo ilonino	n	_	_	_	_	_	Gloss=hard_to_walk(bad_place?
+
+# sent_id = 2015.V.S7__5
+# text = ouwo -e fi -sapo ow -u -wo
+# doc_id = 2015.V.S7
+# doc_title = 2015.V.S7
+# origin_s_id = 5
+1	ouwo	ouwo	n	_	_	_	_	_	Gloss=tumbuna
+2	-e	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+3	fi	fe_1	n  (sapoi)sapo	_	_	_	_	_	Gloss=song
+4	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+5	ow	ho_3	v	_	_	_	_	_	Gloss=to_sing
+6	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

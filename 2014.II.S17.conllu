@@ -1,0 +1,42 @@
+# sent_id = 2014.II.S17__1
+# text = me toiso -he sisomu -he moi- tou
+# text_en = this morning i cut grass.
+# doc_id = 2014.II.S17
+# doc_title = 2014.II.S17
+# origin_s_id = 1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	toiso	toiso	n	_	_	_	_	_	Gloss=morning
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	sisomu	sisomumi	n	_	_	_	_	_	Gloss=grass
+5	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+6	moi-	moi-	Verb	_	_	_	_	_	Gloss=?(to)-
+7	tou	tou_1	v	_	_	_	_	_	Gloss=to_cut
+
+# sent_id = 2014.II.S17__2
+# text = toiso osaalehei
+# text_en = good morning!
+# doc_id = 2014.II.S17
+# doc_title = 2014.II.S17
+# origin_s_id = 2
+1	toiso osaalehei	toiso osaalehei	interj	_	_	_	_	_	Gloss=good_morning
+
+# sent_id = 2014.II.S17__3
+# text = pusia atiafo -mo -io
+# doc_id = 2014.II.S17
+# doc_title = 2014.II.S17
+# origin_s_id = 3
+1	pusia	pusia	_	_	_	_	_	_	Gloss=?
+2	atiafo	atiafoi	v	_	_	_	_	_	Gloss=to_cough
+3	-mo	-mo_2	v:(GenderNumber)	_	_	_	_	_	Gloss=?
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S17__4
+# text = a atiafoi -mu -io
+# doc_id = 2014.II.S17
+# doc_title = 2014.II.S17
+# origin_s_id = 4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	atiafoi	atiafoi	v	_	_	_	_	_	Gloss=to_cough
+3	-mu	-mu_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

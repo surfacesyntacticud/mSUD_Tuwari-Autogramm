@@ -1,0 +1,33 @@
+# sent_id = 119__1
+# text = tiape mau
+# doc_id = 119
+# doc_title = 141111_02_T34 com
+# origin_s_id = 1
+1	tiape	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+2	mau	mau	v	_	_	_	_	_	Gloss=to_die
+
+# sent_id = 119__2
+# text = fali waflo
+# doc_id = 119
+# doc_title = 141111_02_T34 com
+# origin_s_id = 2
+1	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+2	waflo	waflo	v	_	_	_	_	_	Gloss=to_lay
+
+# sent_id = 119__3
+# text = fali
+# doc_id = 119
+# doc_title = 141111_02_T34 com
+# origin_s_id = 3
+1	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+
+# sent_id = 119__4
+# doc_id = 119
+# doc_title = 141111_02_T34 com
+# origin_s_id = 4
+
+# sent_id = 119__5
+# doc_id = 119
+# doc_title = 141111_02_T34 com
+# origin_s_id = 5
+

@@ -1,0 +1,20 @@
+# sent_id = 2013T13__1
+# text = ta fonane ia -nehe efe napumai -mwe -lo mali tihomene -nai -ʔe -i
+# text_en = today we will teach the white man how to speak.
+# doc_id = 2013T13
+# doc_title = 2013T13
+# origin_s_id = 1
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+3	ia	ia_2	n	_	_	_	_	_	Gloss=language
+4	-nehe	-nehe	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM2:DEM4
+5	efe	efe_2	n  (mo)	_	_	_	_	_	Gloss=skin
+6	napumai	napumai	adj	_	_	_	_	_	Gloss=white
+7	-mwe	-mwe_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=DEM1:3SG.M
+8	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+9	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+10	tihomene	tiomene	v	_	_	_	_	_	Gloss=to_learn
+11	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+12	-ʔe	-he_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+13	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

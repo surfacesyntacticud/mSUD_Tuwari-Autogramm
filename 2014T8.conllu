@@ -1,0 +1,16 @@
+# sent_id = 2014T8__1
+# text = aio a halile -io waai mahe -lia nemehe -io
+# text_en = I'm tired, that's all.
+# doc_id = 2014T8
+# doc_title = 141105_05_T8
+# origin_s_id = 1
+1	aio	aio_1	interj	_	_	_	_	_	Gloss=ay!
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	halile	hahalei	v	_	_	_	_	_	Gloss=to_be_tired
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+5	waai	waai_1	cardnum	_	_	_	_	_	Gloss=one
+6	mahe	mehe	pers	_	_	_	_	_	Gloss=DEM1:DEM4_it
+7	-lia	-lia	v:(Tense2)	_	_	_	_	_	Gloss=-?
+8	nemehe	nemehe	pro	_	_	_	_	_	Gloss=DEM2:DEM1:DEM4_this
+9	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

@@ -1,0 +1,715 @@
+# sent_id = 2013.II.S5__1
+# text = wafe -ma
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 1
+1	wafe	wafe_1	adv	_	_	_	_	_	Gloss=downstream
+2	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+
+# sent_id = 2013.II.S5__2
+# text = ni -tanoi
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 2
+1	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+2	-tanoi	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+
+# sent_id = 2013.II.S5__3
+# text = ni -tano alu -o
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 3
+1	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+2	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+3	alu	alu	v	_	_	_	_	_	Gloss=to_light_fire
+4	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__4
+# text = homo si
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 4
+1	homo si	homo si	n	_	_	_	_	_	Gloss=bush
+
+# sent_id = 2013.II.S5__5
+# text = si -fo
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 5
+1	si	si_2	n  (fo)	_	_	_	_	_	Gloss=bush_ground
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+
+# sent_id = 2013.II.S5__6
+# text = nemeli
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 6
+1	nemeli	nemeli_1	n  (mo)	_	_	_	_	_	Gloss=wind
+
+# sent_id = 2013.II.S5__7
+# text = ofatu nemeli kali -mi fu -wo
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 7
+1	ofatu	ofatu	adv	_	_	_	_	_	Gloss=?
+2	nemeli	nemeli_1	n  (mo)	_	_	_	_	_	Gloss=wind
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+5	fu	fu_2	v	_	_	_	_	_	Gloss=to_blow
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__8
+# text = sumaa -oi
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 8
+1	sumaa	sumoo	n  (he)	_	_	_	_	_	Gloss=rain
+2	-oi	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+
+# sent_id = 2013.II.S5__9
+# text = ofatu sumao kali -mi sou -wo
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 9
+1	ofatu	ofatu	adv	_	_	_	_	_	Gloss=?
+2	sumao	sumoo	n  (he)	_	_	_	_	_	Gloss=rain
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+5	sou	sou	v	_	_	_	_	_	Gloss=to_rain
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__10
+# text = so -ho fali
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 10
+1	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+2	-ho	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+3	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+
+# sent_id = 2013.II.S5__11
+# text = wea kali -foi
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 11
+1	wea	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-foi	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+
+# sent_id = 2013.II.S5__12
+# text = wea ha -fo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 12
+1	wea	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+2	ha	ha_1	adj	_	_	_	_	_	Gloss=small
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__13
+# text = heneli -fo fe- henele
+# text_en = the sun isn't hot.
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 13
+1	heneli	heneli_1	n  (fo)	_	_	_	_	_	Gloss=sun
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	fe-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+4	henele	henele	v	_	_	_	_	_	Gloss=to_be_hot
+
+# sent_id = 2013.II.S5__14
+# text = si kali -he -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 14
+1	si	si_5	n  (he)	_	_	_	_	_	Gloss=land
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__15
+# text = usomo kali -he -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 15
+1	usomo	usomo	n	_	_	_	_	_	Gloss=dust
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__16
+# text = upalu kali -mi
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 16
+1	upalu	upalu	n  (mi)	_	_	_	_	_	Gloss=mud
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+
+# sent_id = 2013.II.S5__17
+# text = weale kali -he -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 17
+1	weale	weale	n  (he)	_	_	_	_	_	Gloss=sand
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__18
+# text = pase -ma
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 18
+1	pase	pase	n	_	_	_	_	_	Gloss=sand
+2	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+
+# sent_id = 2013.II.S5__19
+# text = upase kali -he -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 19
+1	upase	upase	n  (he)	_	_	_	_	_	Gloss=sand_bank
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__20
+# text = soulo
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 20
+1	soulo	soulo	n	_	_	_	_	_	Gloss=sand
+
+# sent_id = 2013.II.S5__21
+# text = kile kali -fo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 21
+1	kile	kile	n  (fo)	_	_	_	_	_	Gloss=mountain
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__22
+# text = ti'o kali -mi
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 22
+1	ti'o	ti'o	n	_	_	_	_	_	Gloss=cliff?
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+
+# sent_id = 2013.II.S5__23
+# text = oloei kali -fo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 23
+1	oloei	oloei	n	_	_	_	_	_	Gloss=plain
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__24
+# text = oloei
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 24
+1	oloei	oloei	n	_	_	_	_	_	Gloss=plain
+
+# sent_id = 2013.II.S5__25
+# text = totetolo kali -fo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 25
+1	totetolo	tutolo	n	_	_	_	_	_	Gloss=island
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__26
+# text = tutolo
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 26
+1	tutolo	tutolo	n	_	_	_	_	_	Gloss=island
+
+# sent_id = 2013.II.S5__27
+# text = se keli -e -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 27
+1	se	si_5	n  (he)	_	_	_	_	_	Gloss=land
+2	keli	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-e	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__28
+# text = ute kali -he -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 28
+1	ute	ute	n  (he)	_	_	_	_	_	Gloss=shore
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__29
+# text = ute -ma -ia
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 29
+1	ute	ute	n  (he)	_	_	_	_	_	Gloss=shore
+2	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+3	-ia	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__30
+# text = u kali -tanoi
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 30
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-tanoi	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+
+# sent_id = 2013.II.S5__31
+# text = une kali -mo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 31
+1	une	une_1	n	_	_	_	_	_	Gloss=sea
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S5__32
+# text = pipihele
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 32
+1	pipihele	pipihele	adj	_	_	_	_	_	Gloss=rough
+
+# sent_id = 2013.II.S5__33
+# text = fifia asei
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 33
+1	fifia asei	fifia asei	n	_	_	_	_	_	Gloss=ocean
+
+# sent_id = 2013.II.S5__34
+# text = u -pao kali hemaale -fo -i
+# text_en = lake
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 34
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	-pao	-pao	Noun	_	_	_	_	_	Gloss=deep
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	hemaale	hemaale	_	_	_	_	_	_	Gloss=steril_stagnant
+5	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__35
+# text = u kali kali kali komoamo
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 35
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=small
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+5	komoamo	komoamo	_	_	_	_	_	_	Gloss=?
+
+# sent_id = 2013.II.S5__36
+# text = une kali teihoplow
+# text_en = lagoon
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 36
+1	une	une_1	n	_	_	_	_	_	Gloss=sea
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	teihoplow	teihoplow	_	_	_	_	_	_	Gloss=?
+
+# sent_id = 2013.II.S5__37
+# text = uefe kali -he -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 37
+1	uefe	uefe	n  (he)	_	_	_	_	_	Gloss=waveNON2019.I.11com
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__38
+# text = u keli
+# text_en = tide
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 38
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	keli	kali_2	adj	_	_	_	_	_	Gloss=big
+
+# sent_id = 2013.II.S5__39
+# text = u -tanoi mo- hono -anoi
+# text_en = low tide
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 39
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	-tanoi	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+3	mo-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	hono	hono_2	adj	_	_	_	_	_	Gloss=dry
+5	-anoi	_	_	_	_	_	_	_	_
+
+# sent_id = 2013.II.S5__40
+# text = u keli -tanoi
+# text_en = river stream
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 40
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	keli	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-tanoi	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+
+# sent_id = 2013.II.S5__41
+# text = holopo kali -fo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 41
+1	holopo	holopo	n	_	_	_	_	_	Gloss=swamp
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__42
+# text = wati'o kali -mo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 42
+1	wati'o	wati'o	n	_	_	_	_	_	Gloss=water_fall
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S5__43
+# text_en = tree
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 43
+
+# sent_id = 2013.II.S5__44
+# text = omohele kali -mo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 44
+1	omohele	omohele	n	_	_	_	_	_	Gloss=forest_bush
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S5__45
+# text = fo keli -fo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 45.1
+1	fo	fu_1	n  (fo)	_	_	_	_	_	Gloss=stone
+2	keli	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__46
+# text = fu
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 45.2
+1	fu	fu_1	n  (fo)	_	_	_	_	_	Gloss=stone
+
+# sent_id = 2013.II.S5__47
+# text = weienefe kali -mo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 46
+1	weienefe	weienefe	n	_	_	_	_	_	Gloss=earthquake
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S5__48
+# text = selese kali -mo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 47
+1	selese	selese	n	_	_	_	_	_	Gloss=sky
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S5__49
+# text = heneli kali -fo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 48
+1	heneli	heneli_1	n  (fo)	_	_	_	_	_	Gloss=sun
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__50
+# text = touano kali -fo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 49
+1	touano	touano	n  (fo)	_	_	_	_	_	Gloss=moon
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__51
+# text = selmaine kali -fo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 50
+1	selmaine	selmaine	n	_	_	_	_	_	Gloss=star
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__52
+# text = soii kali -mo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 51
+1	soii	soilia	n	_	_	_	_	_	Gloss=storm
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S5__53
+# text = soilia kali -mi
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 52
+1	soilia	soilia	n	_	_	_	_	_	Gloss=storm
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+
+# sent_id = 2013.II.S5__54
+# text = la'umo kali -mo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 53
+1	la'umo	la'umo	n	_	_	_	_	_	Gloss=rainbow
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S5__55
+# text = touteli
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 54
+1	touteli	touteli	adj	_	_	_	_	_	Gloss=dark_black
+
+# sent_id = 2013.II.S5__56
+# text = nenomu'ale kali -mo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 55
+1	nenomu'ale	nenomu'ale	n	_	_	_	_	_	Gloss=shadow
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S5__57
+# text = semoohanehanikali -mo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 56
+1	semoohanehanikali	semoohanehanikali	n	_	_	_	_	_	Gloss=dew
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S5__58
+# text = nemeli kali -mo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 57
+1	nemeli	nemeli_1	n  (mo)	_	_	_	_	_	Gloss=wind
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S5__59
+# text = honolu kali -mo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 58
+1	honolu	honolu	n	_	_	_	_	_	Gloss=wind
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S5__60
+# text = sapu -mo
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 59
+1	sapu	sapu_1	n  (mo)	_	_	_	_	_	Gloss=cloud
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+
+# sent_id = 2013.II.S5__61
+# text = sapu -mo kali -mo
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 60
+1	sapu	sapu_1	n  (mo)	_	_	_	_	_	Gloss=cloud
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+
+# sent_id = 2013.II.S5__62
+# text = sumoo kali -he -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 61
+1	sumoo	sumoo	n  (he)	_	_	_	_	_	Gloss=rain
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__63
+# text = la'umo fo -u -wo
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 62
+1	la'umo	la'umo	n	_	_	_	_	_	Gloss=snow
+2	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+3	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+4	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__64
+# text = nemeli kali -mo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 63
+1	nemeli	nemeli_1	n  (mo)	_	_	_	_	_	Gloss=wind
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S5__65
+# text = topolo kali -mo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 64
+1	topolo	topolu	n	_	_	_	_	_	Gloss=freeze_cold
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__66
+# text = so -nehe kali -he -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 65
+1	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+2	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__67
+# text = ni kali -tano
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 66
+1	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+
+# sent_id = 2013.II.S5__68
+# text = ni -tano ni omo -lei -io nene omo kali -mo mau -wo
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 67
+1	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+2	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+3	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+4	omo	omo_3	n	_	_	_	_	_	Gloss=light
+5	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+7	nene	_	_	_	_	_	_	_	_
+8	omo	omo_3	n	_	_	_	_	_	Gloss=light
+9	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+10	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+11	mau	mau	v	_	_	_	_	_	Gloss=to_die
+12	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__69
+# text = ni na'u kali -mo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 68
+1	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+2	na'u	nau	n	_	_	_	_	_	Gloss=smoke
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__70
+# text = u henele kali -tanoi
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 69
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	henele	henele	v	_	_	_	_	_	Gloss=to_be_hot
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-tanoi	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+
+# sent_id = 2013.II.S5__71
+# text = ni sa'o kali -mo -i
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 70
+1	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+2	sa'o	sa'o	n	_	_	_	_	_	Gloss=ashes
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__72
+# text = pula pula kali -mi -io
+# text_en = ember
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 71
+1	pula	pula	v	_	_	_	_	_	Gloss=to_boil
+2	pula	pula	v	_	_	_	_	_	Gloss=to_boil
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__73
+# text = heneli -fo ti'a -io
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 72
+1	heneli	heneli_1	n  (fo)	_	_	_	_	_	Gloss=sun
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	ti'a	tea	v	_	_	_	_	_	Gloss=to_kam
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S5__74
+# text = so'a'uwo
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 73
+1	so'a'uwo	so'a'uwo	n	_	_	_	_	_	Gloss=dray_season
+
+# sent_id = 2013.II.S5__75
+# text = somo'o'uleio
+# doc_id = 2013.II.S5
+# doc_title = 2013.II.S5 the physical world
+# origin_s_id = 74
+1	somo'o'uleio	somo'o'uleio	n	_	_	_	_	_	Gloss=wet_season
+

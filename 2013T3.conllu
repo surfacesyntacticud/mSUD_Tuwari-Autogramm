@@ -1,0 +1,19 @@
+# sent_id = 2013T3__1
+# text = a u -le me- hei -tele -ne eisefe onoma wa- ia -io
+# text_en = I went wash and came back home
+# doc_id = 2013T3
+# doc_title = 2013T3
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	hei	hei_1	v	_	_	_	_	_	Gloss=to_go_in_water
+6	-tele	-tele	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=completely
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	eisefe	eisefe	adv	_	_	_	_	_	Gloss=back
+9	onoma	onoma	adv	_	_	_	_	_	Gloss=to_house
+10	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+11	ia	ia_6	v	_	_	_	_	_	Gloss=to_go.PST
+12	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

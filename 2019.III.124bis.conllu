@@ -1,0 +1,23 @@
+# sent_id = 2019.III.124bis__1
+# text = martin -we
+# doc_id = 2019.III.124bis
+# origin_s_id = 1
+1	martin	martin	PN	_	_	_	_	_	Gloss=Martin
+2	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+
+# sent_id = 2019.III.124bis__2
+# text = hema -mu teto -ma -we hema -mu slo -ma -we
+# text_en = He is standing over there ~ he is sitting over there
+# doc_id = 2019.III.124bis
+# origin_s_id = 2
+1	hema	hema_1	n	_	_	_	_	_	Gloss=LOC:there(away)
+2	-mu	-mu_2	Noun	_	_	_	_	_	Gloss=-LOC/ABL?
+3	teto	teto	v	_	_	_	_	_	Gloss=to_be_standing
+4	-ma	-ma_4	v:(Chaining)	_	_	_	_	_	Gloss=-?
+5	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+6	hema	hema_1	n	_	_	_	_	_	Gloss=LOC:there(away)
+7	-mu	-mu_2	Noun	_	_	_	_	_	Gloss=-LOC/ABL?
+8	slo	sele_1	v	_	_	_	_	_	Gloss=to_sit(be sitting)
+9	-ma	-ma_4	v:(Chaining)	_	_	_	_	_	Gloss=-?
+10	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+

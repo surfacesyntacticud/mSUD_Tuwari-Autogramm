@@ -1,0 +1,29 @@
+# sent_id = 141108_13_T23ter__1
+# text = ta september -mo honu kesia -le m- i -se
+# text_en = We play here in september.
+# doc_id = 141108_13_T23ter
+# doc_title = 141108_13_T23ter
+# origin_s_id = 1.1
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	september	september	n	_	_	_	_	_	Gloss=september
+3	-mo	-mo_5	n:Tout	_	_	_	_	_	Gloss=-TIME
+4	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+5	kesia	kesia	n	_	_	_	_	_	Gloss=play
+6	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+7	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+8	i	i	light verb	_	_	_	_	_	Gloss=to_go
+9	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+
+# sent_id = 141108_13_T23ter__2
+# text = ta win -fe uwe i -io
+# text_en = We win.
+# doc_id = 141108_13_T23ter
+# doc_title = 141108_13_T23ter
+# origin_s_id = 1.2
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	win	win	n	_	_	_	_	_	Gloss=victory_to_win
+3	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+4	uwe	uwe_1	v	_	_	_	_	_	Gloss=?
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

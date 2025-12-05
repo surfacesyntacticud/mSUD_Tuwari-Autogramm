@@ -1,0 +1,60 @@
+# sent_id = 2019.I.26__1
+# text = me iefla -mo la -ni a -io
+# doc_id = 2019.I.26
+# origin_s_id = 1.1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	iefla	iefa	n  (mo)	_	_	_	_	_	Gloss=canoe
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	la	lei_1	v	_	_	_	_	_	Gloss=to_look
+5	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+6	a	a_1	v	_	_	_	_	_	Gloss=to_go
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.26__2
+# text = me iefla -mo to -le suwe -fi -ma la -ni -io
+# doc_id = 2019.I.26
+# origin_s_id = 1.2
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	iefla	iefa	n  (mo)	_	_	_	_	_	Gloss=canoe
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	to	to_1	n	_	_	_	_	_	Gloss=man
+5	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+6	suwe	suwe_1	v	_	_	_	_	_	Gloss=to_sharpen
+7	-fi	-fi	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+8	-ma	-ma_4	v:(Chaining)	_	_	_	_	_	Gloss=-?
+9	la	lei_1	v	_	_	_	_	_	Gloss=to_look
+10	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+11	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.26__3
+# text = a opo -o slaani a -io mene opo -o iefi -io
+# doc_id = 2019.I.26
+# origin_s_id = 2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	opo	opo	n	_	_	_	_	_	Gloss=bird
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	slaani	_	_	_	_	_	_	_	_
+5	a	a_1	v	_	_	_	_	_	Gloss=to_go
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+7	mene	mene_1	v	_	_	_	_	_	Gloss=to_go
+8	opo	opo	n	_	_	_	_	_	Gloss=bird
+9	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+10	iefi	iefi	v	_	_	_	_	_	Gloss=to_shoot
+11	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.26__4
+# text = a opo -o hefafe m- io -ne hefafe -ni a -io
+# doc_id = 2019.I.26
+# origin_s_id = 3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	opo	opo	n	_	_	_	_	_	Gloss=bird
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	hefafe	hefafe	v	_	_	_	_	_	Gloss=to_hear
+5	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	io	io	v	_	_	_	_	_	Gloss=go_down
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	hefafe	hefafe	v	_	_	_	_	_	Gloss=to_hear
+9	-ni	-ni_2	v:Tout	_	_	_	_	_	Gloss=-after
+10	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+11	-io	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+

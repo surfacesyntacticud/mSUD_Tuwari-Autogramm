@@ -1,0 +1,206 @@
+# sent_id = 141110_01_T30__1
+# text = honu a -io tete
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.1
+1	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+2	a	a_1	v	_	_	_	_	_	Gloss=to_go
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	tete	teto	v	_	_	_	_	_	Gloss=to_stand_up
+
+# sent_id = 141110_01_T30__2
+# text = he honu hefafe
+# text_en = You listen hear.
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.2
+1	he	he_2	pers	_	_	_	_	_	Gloss=2SG.F
+2	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+3	hefafe	hefafe	v	_	_	_	_	_	Gloss=to_hear
+
+# sent_id = 141110_01_T30__3
+# text = honua hefafe meli -a
+# text_en = You listen here my words.
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.3
+1	honua	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+2	hefafe	hefafe	v	_	_	_	_	_	Gloss=to_hear
+3	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+4	-a	-a_1	v:(Tense)	_	_	_	_	_	Gloss=-?
+
+# sent_id = 141110_01_T30__4
+# text = a -li mali -nai -nehe
+# text_en = I will talk.
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	-li	-li_1	pro-form	_	_	_	_	_	Gloss=yet
+3	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+4	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+5	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+
+# sent_id = 141110_01_T30__5
+# text = he tiapi -he iani -fe meli neselia
+# text_en = You talk about the knife marking your hand.
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.5
+1	he	he_2	pers	_	_	_	_	_	Gloss=2SG.F
+2	tiapi	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	iani	iani	n  (fe)	_	_	_	_	_	Gloss=hand
+5	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+6	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+7	neselia	_	_	_	_	_	_	_	_
+
+# sent_id = 141110_01_T30__6
+# text = fonane mwo -ne so -o -i
+# text_en = Now it's his time.
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.6
+1	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+2	mwo	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+3	-ne	-ne_2	Possessive pronoun	_	_	_	_	_	Gloss=-POSSor
+4	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+5	-o	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 141110_01_T30__7
+# text = he use iowe lamla -io mwe a se -he fe- meli -ne -mu -wo
+# text_en = You get out to spy him; nothing, I won't say another story.
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.7
+1	he	he_2	pers	_	_	_	_	_	Gloss=2SG.F
+2	use	usi	adv	_	_	_	_	_	Gloss=inside
+3	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+4	lamla	lei_1	v	_	_	_	_	_	Gloss=to_look
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+6	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+7	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+8	se	se_4	n	_	_	_	_	_	Gloss=DEM3:other_one
+9	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+10	fe-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+11	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+12	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+13	-mu	-mu_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+14	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 141110_01_T30__8
+# text = mwo -ne omiamwiino tiapi -he munwene heli
+# text_en = He took a stick and a nife and was about to fight.
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.8
+1	mwo	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+2	-ne	-ne_2	Possessive pronoun	_	_	_	_	_	Gloss=-POSSor
+3	omiamwiino	_	_	_	_	_	_	_	_
+4	tiapi	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+5	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+6	munwene	_	_	_	_	_	_	_	_
+7	heli	heli_2	v	_	_	_	_	_	Gloss=to_think
+
+# sent_id = 141110_01_T30__9
+# text = nemehe he -ne so -o -i
+# text_en = Now it's your time
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.9
+1	nemehe	nemehe	pro	_	_	_	_	_	Gloss=DEM2:DEM1:DEM4_this
+2	he	he_2	poss	_	_	_	_	_	Gloss=2SG.F.POSS
+3	-ne	-ne_2	Possessive pronoun	_	_	_	_	_	Gloss=-POSSor
+4	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+5	-o	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 141110_01_T30__10
+# text = a a -noi
+# text_en = You sould came to me.
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.10
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	a	a_1	v	_	_	_	_	_	Gloss=to_go
+3	-noi	_	_	_	_	_	_	_	_
+
+# sent_id = 141110_01_T30__11
+# text = walo -we -lo ano mali
+# text_en = talk with Waro.
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.11
+1	walo	waro	PN	_	_	_	_	_	Gloss=Waro
+2	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+3	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+4	ano	ano_2	v	_	_	_	_	_	Gloss=to_make
+5	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+
+# sent_id = 141110_01_T30__12
+# text_en = no.
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.12
+
+# sent_id = 141110_01_T30__13
+# text = ta fali mali omol wii nuliaio me- tiau -ne a tiapi a -lo
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.13
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+4	omol	_	_	_	_	_	_	_	_
+5	wii	_	_	_	_	_	_	_	_
+6	nuliaio	nulia	adv	_	_	_	_	_	Gloss=adversatif_temporel_but
+7	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+8	tiau	tiao	v	_	_	_	_	_	Gloss=to_killap
+9	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+10	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+11	tiapi	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+12	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+13	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+
+# sent_id = 141110_01_T30__14
+# text = ano -wo
+# text_en = We have fixed everything.
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.14
+1	ano	ano_1	v	_	_	_	_	_	Gloss=to_want
+2	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 141110_01_T30__15
+# text_en = You will ask him money.
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.15
+
+# sent_id = 141110_01_T30__16
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.16
+
+# sent_id = 141110_01_T30__17
+# text = ta ano -wo k
+# text_en = We will do that way.
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.17
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	ano	ano_1	v	_	_	_	_	_	Gloss=to_want
+3	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	k	ko	adv	_	_	_	_	_	Gloss=top
+
+# sent_id = 141110_01_T30__18
+# text = he fali hefafe
+# text_en = Have you heard?
+# doc_id = 141110_01_T30
+# doc_title = 141110_01_T30 Erik judging Loi's wife
+# origin_s_id = 1.18
+1	he	he_2	pers	_	_	_	_	_	Gloss=2SG.F
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	hefafe	hefafe	v	_	_	_	_	_	Gloss=to_hear
+

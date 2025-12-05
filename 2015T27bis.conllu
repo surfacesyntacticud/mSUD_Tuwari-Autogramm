@@ -1,0 +1,19 @@
+# sent_id = 2015T27bis__1
+# text = ita -we homo -ma i -mo a mami o -mo nemiamle i -mwii
+# doc_id = 2015T27bis
+# doc_title = 2015T27bis
+# origin_s_id = 1
+1	ita	ita	n	_	_	_	_	_	Gloss=father
+2	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+3	homo	homo	n	_	_	_	_	_	Gloss=bush
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	-mo	-mo_6	v	_	_	_	_	_	Gloss=-MED2simultaneous
+7	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+8	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+9	o	o_3	n	_	_	_	_	_	Gloss=child
+10	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+11	nemiamle	nemiamlei	v	_	_	_	_	_	Gloss=to_watch
+12	i	i	light verb	_	_	_	_	_	Gloss=to_make
+13	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

@@ -1,0 +1,21 @@
+# sent_id = 2019.II.53S__1
+# text = opo neisi o -fo -i
+# doc_id = 2019.II.53S
+# origin_s_id = 1
+1	opo	opo	n	_	_	_	_	_	Gloss=bird
+2	neisi	neisi	n	_	_	_	_	_	Gloss=cassoari
+3	o	o_3	n	_	_	_	_	_	Gloss=child
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.53S__2
+# text = mami -fo -i mami -mo -i
+# doc_id = 2019.II.53S
+# origin_s_id = 2
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+5	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

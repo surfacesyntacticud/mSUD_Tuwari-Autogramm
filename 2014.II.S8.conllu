@@ -1,0 +1,123 @@
+# sent_id = 2014.II.S8__1
+# text = a tefeli -mwii
+# text_en = I know.
+# doc_id = 2014.II.S8
+# doc_title = 2014.II.S8
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	tefeli	tafeli	v	_	_	_	_	_	Gloss=to_know
+3	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.II.S8__2
+# text = a me hei -mo tafli -mwii me saki -wii
+# doc_id = 2014.II.S8
+# doc_title = 2014.II.S8
+# origin_s_id = 2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	me	me_1	poss	_	_	_	_	_	Gloss=2SGM.POSS
+3	hei	hei_2	n  (mo)	_	_	_	_	_	Gloss=name
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	tafli	tafeli	v	_	_	_	_	_	Gloss=to_know
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+7	me	me_1	poss	_	_	_	_	_	Gloss=2SGM.POSS
+8	saki	saki	PN	_	_	_	_	_	Gloss=Saki
+9	-wii	_	_	_	_	_	_	_	_
+
+# sent_id = 2014.II.S8__3
+# doc_id = 2014.II.S8
+# doc_title = 2014.II.S8
+# origin_s_id = 3
+
+# sent_id = 2014.II.S8__4
+# doc_id = 2014.II.S8
+# doc_title = 2014.II.S8
+# origin_s_id = 4
+
+# sent_id = 2014.II.S8__5
+# text = nou a maa- -mo -i
+# doc_id = 2014.II.S8
+# doc_title = 2014.II.S8
+# origin_s_id = 5
+1	nou	nou_1	n  (mo)	_	_	_	_	_	Gloss=bilum
+2	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+3	maa-	maa-_2	Adverb	_	_	_	_	_	Gloss=yet-
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S8__6
+# text = o a maa- -sapo -i
+# doc_id = 2014.II.S8
+# doc_title = 2014.II.S8
+# origin_s_id = 6
+1	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+2	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+3	maa-	maa-_2	Adverb	_	_	_	_	_	Gloss=yet-
+4	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S8__7
+# text = u -tano ko mna -ma fu -fo tu- -no -ma
+# text_en = the water is on top, the stone is under.
+# doc_id = 2014.II.S8
+# doc_title = 2014.II.S8
+# origin_s_id = 7
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+3	ko	ko	adv	_	_	_	_	_	Gloss=top
+4	mna	mna	n	_	_	_	_	_	Gloss=?
+5	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+6	fu	fu_1	n  (fo)	_	_	_	_	_	Gloss=stone
+7	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+8	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+9	-no	-no_3	adv	_	_	_	_	_	Gloss=-inside
+10	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+
+# sent_id = 2014.II.S8__8
+# text = me fali u -le me- hei -tele -ne a -no
+# doc_id = 2014.II.S8
+# doc_title = 2014.II.S8
+# origin_s_id = 8
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	hei	hei_1	v	_	_	_	_	_	Gloss=to_go_in_water
+7	-tele	-tele	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=completely
+8	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+9	a	a_1	v	_	_	_	_	_	Gloss=to_come
+10	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2014.II.S8__9
+# text = me u -le me- hei -tele -ne iowe a -no
+# doc_id = 2014.II.S8
+# doc_title = 2014.II.S8
+# origin_s_id = 9
+1	me	me_1	poss	_	_	_	_	_	Gloss=2SGM.POSS
+2	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	hei	hei_1	v	_	_	_	_	_	Gloss=to_go_in_water
+6	-tele	-tele	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=completely
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+9	a	a_1	v	_	_	_	_	_	Gloss=to_go
+10	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2014.II.S8__10
+# text = yoho a fali u -le me- hei -tele -ne a -io
+# doc_id = 2014.II.S8
+# doc_title = 2014.II.S8
+# origin_s_id = 10
+1	yoho	yoho	adv	_	_	_	_	_	Gloss=yes
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+4	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+5	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+6	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+7	hei	hei_1	v	_	_	_	_	_	Gloss=to_go_in_water
+8	-tele	-tele	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=completely
+9	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+10	a	a_1	v	_	_	_	_	_	Gloss=to_go
+11	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

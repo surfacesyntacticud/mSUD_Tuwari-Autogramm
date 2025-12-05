@@ -1,0 +1,194 @@
+# sent_id = 2014.I.S12__1
+# text = heneli -fo haari helo
+# text_en = The sun light strongly.
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 1
+1	heneli	heneli_1	n  (fo)	_	_	_	_	_	Gloss=sun
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	haari	haari	adv	_	_	_	_	_	Gloss=strongly
+4	helo	helo_1	v	_	_	_	_	_	Gloss=to_shine
+
+# sent_id = 2014.I.S12__2
+# text = heneli -fo henele -lo -wo
+# text_en = The sun is hot.
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 2
+1	heneli	heneli_1	n  (fo)	_	_	_	_	_	Gloss=sun
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	henele	henele	v	_	_	_	_	_	Gloss=to_be_hot
+4	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S12__3
+# text = u tau -tanoi heneli -le -lo
+# text_en = The River Tau is hot.
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 3
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	tau	tau	PN_hydronym	_	_	_	_	_	Gloss=Tau
+3	-tanoi	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	heneli	henele	v	_	_	_	_	_	Gloss=to_be_hot
+5	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+6	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2014.I.S12__4
+# text = u tau -tanoi topolu -lo
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 4
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	tau	tau	PN_hydronym	_	_	_	_	_	Gloss=Tau
+3	-tanoi	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	topolu	topolu	adj	_	_	_	_	_	Gloss=cold
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2014.I.S12__5
+# text = nepia
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 5
+1	nepia	nepia	adj	_	_	_	_	_	Gloss=far_away
+
+# sent_id = 2014.I.S12__6
+# text = siso
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 6
+1	siso	siso	adv	_	_	_	_	_	Gloss=close
+
+# sent_id = 2014.I.S12__7
+# text = heneli -le -lo
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 7
+1	heneli	henele	v	_	_	_	_	_	Gloss=to_be_hot
+2	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+3	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2014.I.S12__8
+# text = heneli -lo hou
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 8
+1	heneli	henele	v	_	_	_	_	_	Gloss=to_be_hot
+2	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+3	hou	hou_2	v	_	_	_	_	_	Gloss=to_burn
+
+# sent_id = 2014.I.S12__9
+# text = taei heneli -lo hou
+# text_en = The mouth is hot!
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 9
+1	taei	taai_2	n  (he)	_	_	_	_	_	Gloss=mouth
+2	heneli	henele	v	_	_	_	_	_	Gloss=to_be_hot
+3	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+4	hou	hou_2	v	_	_	_	_	_	Gloss=to_burn
+
+# sent_id = 2014.I.S12__10
+# text = ianu waei -fe hou
+# text_en = A piece of firewood burn mi.
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 10
+1	ianu	ianu_1	n  (fe)	_	_	_	_	_	Gloss=fire_wood
+2	waei	waai_1	cardnum	_	_	_	_	_	Gloss=one
+3	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+4	hou	hou_2	v	_	_	_	_	_	Gloss=to_burn
+
+# sent_id = 2014.I.S12__11
+# text = ianu waai -fe a helefe hou
+# text_en = A piece of firewood is burning my leg.
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 11
+1	ianu	ianu_1	n  (fe)	_	_	_	_	_	Gloss=fire_wood
+2	waai	waai_1	cardnum	_	_	_	_	_	Gloss=one
+3	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+4	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+5	helefe	helefe	n	_	_	_	_	_	Gloss=leg
+6	hou	hou_2	v	_	_	_	_	_	Gloss=to_burn
+
+# sent_id = 2014.I.S12__12
+# text = helefe ni -tano hou
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 12
+1	helefe	helefe	n	_	_	_	_	_	Gloss=leg
+2	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+3	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	hou	hou_2	v	_	_	_	_	_	Gloss=to_burn
+
+# sent_id = 2014.I.S12__13
+# text = iane -fe ni -tano hou
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 13
+1	iane	iani	n  (fe)	_	_	_	_	_	Gloss=hand
+2	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+3	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+4	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+5	hou	hou_2	v	_	_	_	_	_	Gloss=to_burn
+
+# sent_id = 2014.I.S12__14
+# text = tia pamo -li a ni -tano hou -mwii
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 14
+1	tia	tiia	adv	_	_	_	_	_	Gloss=long(_before)
+2	pamo	pamo	adv	_	_	_	_	_	Gloss=before
+3	-li	-li_1	Pro-form	_	_	_	_	_	Gloss=-?
+4	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+5	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+6	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+7	hou	hou_2	v	_	_	_	_	_	Gloss=to_burn
+8	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.I.S12__15
+# text = mesi
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 15
+1	mesi	mesi_1	n	_	_	_	_	_	Gloss=apasde
+
+# sent_id = 2014.I.S12__16
+# text = ni -tano kali -mo -se -se -i
+# text_en = ???
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 16
+1	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+2	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+6	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+7	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S12__17
+# text = tuafe a ni -tano hou -mwii
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 17
+1	tuafe	tuafe	adv	_	_	_	_	_	Gloss=behind
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+4	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+5	hou	hou_2	v	_	_	_	_	_	Gloss=to_burn
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.I.S12__18
+# text = a nepia -ma u -mesei
+# text_en = I sleep a long time.
+# doc_id = 2014.I.S12
+# doc_title = 2014.I.S12
+# origin_s_id = 18
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	nepia	nepia	adj	_	_	_	_	_	Gloss=far_away
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+5	-mesei	-msei	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.F
+

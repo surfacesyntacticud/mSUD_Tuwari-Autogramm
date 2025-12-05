@@ -1,0 +1,24 @@
+# sent_id = 2019.III.106__1
+# text = a seneu -ale u -le -he -i
+# doc_id = 2019.III.106
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	seneu	senia	?	_	_	_	_	_	Gloss=naked?
+3	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+4	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+5	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+6	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+7	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.III.106__2
+# text = a wamana -ale u -le -he -i
+# doc_id = 2019.III.106
+# origin_s_id = 2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	wamana	waamene	n	_	_	_	_	_	Gloss=penis
+3	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+4	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+5	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+6	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+7	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

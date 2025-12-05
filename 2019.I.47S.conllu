@@ -1,0 +1,235 @@
+# sent_id = 2019.I.47S__1
+# text = wowei
+# doc_id = 2019.I.47S
+# origin_s_id = 1
+1	wowei	wowei	n	_	_	_	_	_	Gloss=tree_species
+
+# sent_id = 2019.I.47S__2
+# text = mi toni -oi
+# doc_id = 2019.I.47S
+# origin_s_id = 2
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	toni	toni_1	n	_	_	_	_	_	Gloss=tree_species
+3	-oi	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+
+# sent_id = 2019.I.47S__3
+# text = mi meniaalapo -oi
+# doc_id = 2019.I.47S
+# origin_s_id = 3
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	meniaalapo	meniaalapo	n	_	_	_	_	_	Gloss=tree_species
+3	-oi	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+
+# sent_id = 2019.I.47S__4
+# text = mi paso
+# doc_id = 2019.I.47S
+# origin_s_id = 4
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	paso	paso	n	_	_	_	_	_	Gloss=tree_species
+
+# sent_id = 2019.I.47S__5
+# text = hemesi tepasu
+# doc_id = 2019.I.47S
+# origin_s_id = 5
+1	hemesi	hemesi	n	_	_	_	_	_	Gloss=bark_floor
+2	tepasu	tepasu	n	_	_	_	_	_	Gloss=nambis bilum
+
+# sent_id = 2019.I.47S__6
+# text = mi aumase -o -i
+# doc_id = 2019.I.47S
+# origin_s_id = 7.1
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	aumase	aumase	n	_	_	_	_	_	Gloss=tree_species
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.47S__7
+# text = si
+# doc_id = 2019.I.47S
+# origin_s_id = 7.2
+1	si	si_1	n  (ei)	_	_	_	_	_	Gloss=seed
+
+# sent_id = 2019.I.47S__8
+# text = opo iitoo mau -o -i
+# doc_id = 2019.I.47S
+# origin_s_id = 7.3
+1	opo	opo	n	_	_	_	_	_	Gloss=bird
+2	iitoo	iitoo	n	_	_	_	_	_	Gloss=bird_species
+3	mau	mau	v	_	_	_	_	_	Gloss=to_die
+4	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.47S__9
+# text = mi uwaia -o -i
+# doc_id = 2019.I.47S
+# origin_s_id = 8
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	uwaia	uwaia	n	_	_	_	_	_	Gloss=tree_species
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.47S__10
+# text = mi iainafi
+# doc_id = 2019.I.47S
+# origin_s_id = 9
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	iainafi	iainafee	n	_	_	_	_	_	Gloss=tree_specie
+
+# sent_id = 2019.I.47S__11
+# text = mi tenaali -o -i
+# doc_id = 2019.I.47S
+# origin_s_id = 10
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	tenaali	tenaali	n	_	_	_	_	_	Gloss=tree_species
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.47S__12
+# text = mi heisou -o -i
+# doc_id = 2019.I.47S
+# origin_s_id = 11.1
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	heisou	heisou	n	_	_	_	_	_	Gloss=tree_species
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.47S__13
+# text = naai
+# doc_id = 2019.I.47S
+# origin_s_id = 11.2
+1	naai	naai	n	_	_	_	_	_	Gloss=vegetable
+
+# sent_id = 2019.I.47S__14
+# text = mi keisimau
+# doc_id = 2019.I.47S
+# origin_s_id = 12
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	keisimau	keisimau	n	_	_	_	_	_	Gloss=tree_species
+
+# sent_id = 2019.I.47S__15
+# text = mi elimei -o -i
+# doc_id = 2019.I.47S
+# origin_s_id = 13
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	elimei	elimei	n	_	_	_	_	_	Gloss=tree_species
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.47S__16
+# text = mi senepaau -o -i
+# doc_id = 2019.I.47S
+# origin_s_id = 14
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	senepaau	senepaau	n	_	_	_	_	_	Gloss=tree_species
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.47S__17
+# text = mi sanmeri -o -i
+# doc_id = 2019.I.47S
+# origin_s_id = 15
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	sanmeri	saneme	n	_	_	_	_	_	Gloss=tulip
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.47S__18
+# text = mi howeli -o -i
+# doc_id = 2019.I.47S
+# origin_s_id = 16.1
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	howeli	houeli	n	_	_	_	_	_	Gloss=tree_species
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.47S__19
+# text = houeli
+# doc_id = 2019.I.47S
+# origin_s_id = 16.2
+1	houeli	houeli	n	_	_	_	_	_	Gloss=tree_species
+
+# sent_id = 2019.I.47S__20
+# text = mi pouame -o -i
+# doc_id = 2019.I.47S
+# origin_s_id = 17.1
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	pouame	pouame	n	_	_	_	_	_	Gloss=tree_species
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.47S__21
+# text = mi peiafe -o -i
+# doc_id = 2019.I.47S
+# origin_s_id = 17.2
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	peiafe	peiafe	n	_	_	_	_	_	Gloss=tree_species
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.47S__22
+# text = wiisei no -a mi kali no o teienale nomu toto mo -o
+# doc_id = 2019.I.47S
+# origin_s_id = 17.3
+1	wiisei	wiise	n  (mo)	_	_	_	_	_	Gloss=sago
+2	no	no_3	dem	_	_	_	_	_	Gloss=DEM2
+3	-a	-a_2	n:Tout	_	_	_	_	_	Gloss=-?
+4	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+5	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+6	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+7	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+8	teienale	teinale	adp	_	_	_	_	_	Gloss=middle
+9	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+10	toto	teto	v	_	_	_	_	_	Gloss=to_stand_up
+11	mo	mo_1	pers	_	_	_	_	_	Gloss=DEM1.3SG.NOT_HUM
+12	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+
+# sent_id = 2019.I.47S__23
+# text = me nomo -waia toto -mwi -i a honu -waia toto -mwi -i mse teienale -ma toto -mse -i
+# doc_id = 2019.I.47S
+# origin_s_id = 18
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	nomo	nomu	adv	_	_	_	_	_	Gloss=LOC:here(in front of me)
+3	-waia	-waia	adv:Tout	_	_	_	_	_	Gloss=?
+4	toto	teto	v	_	_	_	_	_	Gloss=to_stand_up
+5	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+7	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+8	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+9	-waia	-waia	adv:Tout	_	_	_	_	_	Gloss=?
+10	toto	teto	v	_	_	_	_	_	Gloss=to_stand_up
+11	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+12	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+13	mse	mse	pers	_	_	_	_	_	Gloss=DEM1:3SG.F
+14	teienale	teinale	_	_	_	_	_	_	Gloss=between
+15	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+16	toto	teto	v	_	_	_	_	_	Gloss=to_stand_up
+17	-mse	-mse_1	n:Tout	_	_	_	_	_	Gloss=-DEM1:SG.F
+18	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.47S__24
+# text = mi neiau -o -i
+# doc_id = 2019.I.47S
+# origin_s_id = 19.1
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	neiau	neiau	n  (fo)	_	_	_	_	_	Gloss=kapiok
+3	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.47S__25
+# text = mi neiau -fo -i
+# doc_id = 2019.I.47S
+# origin_s_id = 19.2
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	neiau	neiau	n  (fo)	_	_	_	_	_	Gloss=kapiok
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.47S__26
+# text = mi tete -fo -i
+# doc_id = 2019.I.47S
+# origin_s_id = 19.3
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	tete	tete_1	n	_	_	_	_	_	Gloss=food
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

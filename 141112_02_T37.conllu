@@ -1,0 +1,20 @@
+# sent_id = 141112_02_T37__1
+# text = mle iale mali -no -wo te- me- nahaa -li -ia -io opsono honu
+# text_en = They are all ready to come gather and talk in the ples.
+# doc_id = 141112_02_T37
+# doc_title = 141112_02_T37
+# origin_s_id = 1
+1	mle	mle	pers	_	_	_	_	_	Gloss=DEM1:PL
+2	iale	iale_1	n	_	_	_	_	_	Gloss=talk
+3	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+4	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PURP
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+6	te-	te-_2	v:Tout	_	_	_	_	_	Gloss=ready-
+7	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+8	nahaa	nahaa	v	_	_	_	_	_	Gloss=to_gather
+9	-li	-li_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+10	-ia	-ia_2	v:(Tense)	_	_	_	_	_	Gloss=-PST
+11	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+12	opsono	opsono	n	_	_	_	_	_	Gloss=village
+13	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+

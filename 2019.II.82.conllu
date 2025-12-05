@@ -1,0 +1,25 @@
+# sent_id = 2019.II.82__1
+# text = ejpasi nikjej
+# doc_id = 2019.II.82
+# origin_s_id = 1
+1	ejpasi	ejpasi	PN_toponyme	_	_	_	_	_	Gloss=Ejpasi
+2	nikjej	nikjej	PN_toponyme	_	_	_	_	_	Gloss=Nikjej
+
+# sent_id = 2019.II.82__2
+# text = ou sinali -he -i
+# doc_id = 2019.II.82
+# origin_s_id = 2.1
+1	ou	ou_1	n  (he)	_	_	_	_	_	Gloss=snake
+2	sinali	sinali	n	_	_	_	_	_	Gloss=snake_species
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.82__3
+# text = ou iame -he -i
+# doc_id = 2019.II.82
+# origin_s_id = 2.2
+1	ou	ou_1	n  (he)	_	_	_	_	_	Gloss=snake
+2	iame	iame	n	_	_	_	_	_	Gloss=snake_species
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

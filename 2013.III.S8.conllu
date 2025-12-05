@@ -1,0 +1,70 @@
+# sent_id = 2013.III.S8__1
+# text = o -nue awe m- otei
+# doc_id = 2013.III.S8
+# origin_s_id = 1.1
+1	o	o_3	n	_	_	_	_	_	Gloss=child
+2	-nue	-nwe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-DEM2:SG.M
+3	awe	awii	interrog	_	_	_	_	_	Gloss=who
+4	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	otei	otei	v	_	_	_	_	_	Gloss=to_fight
+
+# sent_id = 2013.III.S8__2
+# text = mwe wele fe -i
+# doc_id = 2013.III.S8
+# origin_s_id = 1.2
+1	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+2	wele	wele	n	_	_	_	_	_	Gloss=weeping
+3	fe	fe_1	v	_	_	_	_	_	Gloss=to_sing
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.III.S8__3
+# text = o -nue awe
+# doc_id = 2013.III.S8
+# origin_s_id = 2
+1	o	o_3	n	_	_	_	_	_	Gloss=child
+2	-nue	-nwe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-DEM2:SG.M
+3	awe	awii	interrog	_	_	_	_	_	Gloss=who
+
+# sent_id = 2013.III.S8__4
+# text = eifo -mo mosi
+# doc_id = 2013.III.S8
+# origin_s_id = 3
+1	eifo	heifo_1	n  (mo)	_	_	_	_	_	Gloss=dog
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	mosi	mosi	v	_	_	_	_	_	Gloss=to_singout
+
+# sent_id = 2013.III.S8__5
+# text = a esei -le
+# doc_id = 2013.III.S8
+# origin_s_id = 4.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	esei	esei	n	_	_	_	_	_	Gloss=water
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2013.III.S8__6
+# text = a esei -le
+# doc_id = 2013.III.S8
+# origin_s_id = 4.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	esei	esei	n	_	_	_	_	_	Gloss=water
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2013.III.S8__7
+# text = a esei -le
+# doc_id = 2013.III.S8
+# origin_s_id = 4.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	esei	esei	n	_	_	_	_	_	Gloss=water
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2013.III.S8__8
+# text = a esei -le m- a -ne
+# doc_id = 2013.III.S8
+# origin_s_id = 5
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	esei	esei	n	_	_	_	_	_	Gloss=water
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	a	a_1	v	_	_	_	_	_	Gloss=to_come
+6	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+

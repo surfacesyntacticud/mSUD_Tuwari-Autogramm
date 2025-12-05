@@ -1,0 +1,21 @@
+# sent_id = 2014T7__1
+# text = ta sumwari o -ma otoiso -wo otoiso -wo tau -tano pase -ma i -nai -mwii
+# doc_id = 2014T7
+# doc_title = 141105_04_T7
+# origin_s_id = 1
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	sumwari	sumwari	PN_toponyme	_	_	_	_	_	Gloss=Sumwari
+3	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	otoiso	otoiso	adv	_	_	_	_	_	Gloss=tomorrow
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+7	otoiso	otoiso	adv	_	_	_	_	_	Gloss=tomorrow
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+9	tau	tau	PN_hydronym	_	_	_	_	_	Gloss=Tau
+10	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+11	pase	pase	n	_	_	_	_	_	Gloss=sand
+12	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+13	i	i	light verb	_	_	_	_	_	Gloss=to_go
+14	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+15	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

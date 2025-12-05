@@ -1,0 +1,18 @@
+# sent_id = 141112_05_T38__1
+# text = ta si -fo -i m- atle -nami fefe -le eli -mu
+# text_en = We cleaned bush and planted taro sticks
+# doc_id = 141112_05_T38
+# doc_title = 141112_05_T38
+# origin_s_id = 1
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	si	si_2	n  (fo)	_	_	_	_	_	Gloss=bush_ground
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+5	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	atle	ateli	v	_	_	_	_	_	Gloss=to_weed
+7	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+8	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+9	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+10	eli	eli_1	v	_	_	_	_	_	Gloss=to_plant
+11	-mu	-mu_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+

@@ -1,0 +1,22 @@
+# sent_id = 2019.I.12Dcom__1
+# text = nou awole lo -wo nou autale lo -wo
+# doc_id = 2019.I.12Dcom
+# doc_title = 2019.I.12Dcom
+# origin_s_id = 1
+1	nou	nou_1	n  (mo)	_	_	_	_	_	Gloss=bilum
+2	awole	ailile	adv	_	_	_	_	_	Gloss=heavy
+3	lo	lo_2	v	_	_	_	_	_	Gloss=COP
+4	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+5	nou	nou_1	n  (mo)	_	_	_	_	_	Gloss=bilum
+6	autale	autale	adj	_	_	_	_	_	Gloss=light(vs heavy)
+7	lo	lo_2	v	_	_	_	_	_	Gloss=COP
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.12Dcom__2
+# text = kalia kaitiia
+# doc_id = 2019.I.12Dcom
+# doc_title = 2019.I.12Dcom
+# origin_s_id = 2
+1	kalia	kaliia	adj	_	_	_	_	_	Gloss=long
+2	kaitiia	keitia	adj	_	_	_	_	_	Gloss=short
+

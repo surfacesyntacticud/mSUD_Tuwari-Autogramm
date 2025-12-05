@@ -1,0 +1,14 @@
+# sent_id = 2015T19biscom__1
+# text = a ni -tano neiau -fo o -nai -mwii
+# doc_id = 2015T19biscom
+# doc_title = 2015T19biscom
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+3	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	neiau	neiau	n  (fo)	_	_	_	_	_	Gloss=kapiok
+5	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+6	o	o_1	v	_	_	_	_	_	Gloss=to_cook
+7	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+8	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

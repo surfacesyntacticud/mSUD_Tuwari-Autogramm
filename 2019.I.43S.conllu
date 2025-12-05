@@ -1,0 +1,14 @@
+# sent_id = 2019.I.43S__1
+# text = wa j hefafe
+# doc_id = 2019.I.43S
+# origin_s_id = 1.1
+1	wa	wa_2	v	_	_	_	_	_	Gloss=back
+2	j	_	_	_	_	_	_	_	_
+3	hefafe	hefafe	v	_	_	_	_	_	Gloss=to_hear
+
+# sent_id = 2019.I.43S__2
+# text = weo
+# doc_id = 2019.I.43S
+# origin_s_id = 1.2
+1	weo	uio	PN_hydronym	_	_	_	_	_	Gloss=Weo
+

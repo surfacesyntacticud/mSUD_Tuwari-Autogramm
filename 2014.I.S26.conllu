@@ -1,0 +1,90 @@
+# sent_id = 2014.I.S26__1
+# text = fonane fina -lo -wo
+# text_en = enough!
+# doc_id = 2014.I.S26
+# doc_title = 2014.I.S26
+# origin_s_id = 1
+1	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+2	fina	fihami	interj	_	_	_	_	_	Gloss=enough
+3	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+4	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S26__2
+# text = so -nehe suwa -a muno -we -io
+# doc_id = 2014.I.S26
+# doc_title = 2014.I.S26
+# origin_s_id = 2
+1	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+2	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+3	suwa	_	_	_	_	_	_	_	_
+4	-a	-a_1	v:(Tense)	_	_	_	_	_	Gloss=-?
+5	muno	_	_	_	_	_	_	_	_
+6	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S26__3
+# text = opo liama liare iou -wo
+# doc_id = 2014.I.S26
+# doc_title = 2014.I.S26
+# origin_s_id = 3
+1	opo liama	opo liama	n	_	_	_	_	_	Gloss=bird_of_paradise
+2	liare	iale_1	n	_	_	_	_	_	Gloss=song(bird)
+3	iou	iowa	v	_	_	_	_	_	Gloss=to_sing_a
+4	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S26__4
+# text = awa -wo i -io
+# text_en = my brother
+# doc_id = 2014.I.S26
+# doc_title = 2014.I.S26
+# origin_s_id = 4
+1	awa	awa	n	_	_	_	_	_	Gloss=sibling
+2	-wo	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+3	i	i	light verb	_	_	_	_	_	Gloss=to_be
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S26__5
+# text = tiape -wo i -io
+# text_en = my nife
+# doc_id = 2014.I.S26
+# doc_title = 2014.I.S26
+# origin_s_id = 5
+1	tiape	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+2	-wo	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+3	i	i	light verb	_	_	_	_	_	Gloss=to_be
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S26__6
+# text = me waai nomu ti a -io
+# doc_id = 2014.I.S26
+# doc_title = 2014.I.S26
+# origin_s_id = 6
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	waai	waai_2	n	_	_	_	_	_	Gloss=other_side(of river)
+3	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+4	ti	te_2	v	_	_	_	_	_	Gloss=to_go
+5	a	a_1	v	_	_	_	_	_	Gloss=to_go
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S26__7
+# text = mese tuasi -ai ee mooio -mesei
+# doc_id = 2014.I.S26
+# doc_title = 2014.I.S26
+# origin_s_id = 7
+1	mese	mse	pers	_	_	_	_	_	Gloss=3SG.F
+2	tuasi	tuasi	n  (ai)	_	_	_	_	_	Gloss=ear
+3	-ai	-ai_1	n:(Class)	_	_	_	_	_	Gloss=-CL20
+4	ee	_	_	_	_	_	_	_	_
+5	mooio	mooio	v	_	_	_	_	_	Gloss=deaf
+6	-mesei	-msei	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.F
+
+# sent_id = 2014.I.S26__8
+# text = ti -io -wo
+# text_en = go!
+# doc_id = 2014.I.S26
+# doc_title = 2014.I.S26
+# origin_s_id = 8
+1	ti	te_2	v	_	_	_	_	_	Gloss=to_go
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+3	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

@@ -1,0 +1,25 @@
+# sent_id = 2015.III.S24__1
+# text = saa -lo
+# text_en = [it's strong]
+# doc_id = 2015.III.S24
+# doc_title = 2015.III.S24
+# origin_s_id = 1
+1	saa	saa_1	adj	_	_	_	_	_	Gloss=strong
+2	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2015.III.S24__2
+# text = imaa
+# doc_id = 2015.III.S24
+# doc_title = 2015.III.S24
+# origin_s_id = 2.1
+1	imaa	imaa	PN_demonym	_	_	_	_	_	Gloss=Imaa
+
+# sent_id = 2015.III.S24__3
+# text = imaa waai -ale
+# doc_id = 2015.III.S24
+# doc_title = 2015.III.S24
+# origin_s_id = 2.2
+1	imaa	imaa	PN_demonym	_	_	_	_	_	Gloss=Imaa
+2	waai	waai_4	n	_	_	_	_	_	Gloss=clan
+3	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+

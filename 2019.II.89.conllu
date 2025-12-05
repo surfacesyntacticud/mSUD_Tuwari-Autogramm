@@ -1,0 +1,31 @@
+# sent_id = 2019.II.89__1
+# text = meli -io
+# doc_id = 2019.II.89
+# origin_s_id = 1.1
+1	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.89__2
+# text = toto -mwi -i
+# text_en = _
+# doc_id = 2019.II.89
+# origin_s_id = 1.2
+1	toto	teto	v	_	_	_	_	_	Gloss=to_stand_up
+2	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.89__3
+# text = f- a -ne fa- pamo homou -mi mjamle -mwi -io
+# doc_id = 2019.II.89
+# origin_s_id = 2
+1	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+2	a	a_1	v	_	_	_	_	_	Gloss=to_go
+3	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+4	fa-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+5	pamo	pamo	adv	_	_	_	_	_	Gloss=before
+6	homou	homou	n	_	_	_	_	_	Gloss=picture
+7	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+8	mjamle	_	_	_	_	_	_	_	_
+9	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+10	-io	_	_	_	_	_	_	_	_
+

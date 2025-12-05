@@ -1,0 +1,18 @@
+# sent_id = 2014T16__1
+# text = a ofa mio- -ne fefe he tema mi fo -li -io
+# text_en = Today I went down and make a fence for the taro sticks.
+# doc_id = 2014T16
+# doc_title = 141108_02_T16 A day (1/4)
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ofa	ofa	adv	_	_	_	_	_	Gloss=today
+3	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+6	he	he_1	n	_	_	_	_	_	Gloss=shoot
+7	tema	tema	n  (fo)	_	_	_	_	_	Gloss=fence
+8	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+9	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+10	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PST_(this_morning)
+11	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

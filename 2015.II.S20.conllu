@@ -1,0 +1,54 @@
+# sent_id = 2015.II.S20__1
+# text = me maa- i
+# doc_id = 2015.II.S20
+# doc_title = 2015.II.S20 transcription phonétique
+# origin_s_id = 1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	maa-	maa-_2	_	_	_	_	_	_	Gloss=one-
+3	i	i	light verb	_	_	_	_	_	Gloss=to_go
+
+# sent_id = 2015.II.S20__2
+# text = neiau omo
+# doc_id = 2015.II.S20
+# doc_title = 2015.II.S20 transcription phonétique
+# origin_s_id = 2
+1	neiau	neiau	n  (fo)	_	_	_	_	_	Gloss=kapiok
+2	omo	omo_1	n	_	_	_	_	_	Gloss=seed (kapiok)
+
+# sent_id = 2015.II.S20__3
+# text = tiau -ne i -nai -mwii
+# doc_id = 2015.II.S20
+# doc_title = 2015.II.S20 transcription phonétique
+# origin_s_id = 3
+1	tiau	tiao	v	_	_	_	_	_	Gloss=to_killap
+2	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+3	i	i	light verb	_	_	_	_	_	Gloss=to_be
+4	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.II.S20__4
+# text = a tiao slo -wo
+# doc_id = 2015.II.S20
+# doc_title = 2015.II.S20 transcription phonétique
+# origin_s_id = 4.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	tiao	tiao	v	_	_	_	_	_	Gloss=to_killap
+3	slo	sele_1	v	_	_	_	_	_	Gloss=to_sit
+4	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.II.S20__5
+# text = te- tiao
+# doc_id = 2015.II.S20
+# doc_title = 2015.II.S20 transcription phonétique
+# origin_s_id = 4.2
+1	te-	te-_2	v:(Modality1)	_	_	_	_	_	Gloss=2S
+2	tiao	tiao	v	_	_	_	_	_	Gloss=to_killap
+
+# sent_id = 2015.II.S20__6
+# text = kola tiao
+# doc_id = 2015.II.S20
+# doc_title = 2015.II.S20 transcription phonétique
+# origin_s_id = 4.3
+1	kola	kola	v	_	_	_	_	_	Gloss=quick
+2	tiao	tiao	v	_	_	_	_	_	Gloss=to_killap
+

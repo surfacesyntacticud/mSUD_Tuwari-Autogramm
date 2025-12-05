@@ -1,0 +1,125 @@
+# sent_id = 2013.III.S9__1
+# text = inapi
+# doc_id = 2013.III.S9
+# origin_s_id = 1
+1	inapi	inapi	n	_	_	_	_	_	Gloss=tree_species
+
+# sent_id = 2013.III.S9__2
+# text = upale upale
+# doc_id = 2013.III.S9
+# origin_s_id = 2
+1	upale	upale	n	_	_	_	_	_	Gloss=tree_species
+2	upale	upale	n	_	_	_	_	_	Gloss=tree_species
+
+# sent_id = 2013.III.S9__3
+# text = mango
+# doc_id = 2013.III.S9
+# origin_s_id = 3
+1	mango	mango	n	_	_	_	_	_	Gloss=mango
+
+# sent_id = 2013.III.S9__4
+# text = toni
+# doc_id = 2013.III.S9
+# origin_s_id = 4
+1	toni	toni_1	n	_	_	_	_	_	Gloss=tree_species
+
+# sent_id = 2013.III.S9__5
+# text = palpale
+# doc_id = 2013.III.S9
+# origin_s_id = 5
+1	palpale	palpale	n	_	_	_	_	_	Gloss=tree_species
+
+# sent_id = 2013.III.S9__6
+# text = kamia
+# doc_id = 2013.III.S9
+# origin_s_id = 6
+1	kamia	kemia	n	_	_	_	_	_	Gloss=red_pandanus
+
+# sent_id = 2013.III.S9__7
+# text = hesose
+# doc_id = 2013.III.S9
+# origin_s_id = 7
+1	hesose	hesose	n	_	_	_	_	_	Gloss=tree_species
+
+# sent_id = 2013.III.S9__8
+# text = neiau
+# doc_id = 2013.III.S9
+# origin_s_id = 8
+1	neiau	neiau	n  (fo)	_	_	_	_	_	Gloss=kapiok
+
+# sent_id = 2013.III.S9__9
+# text = si
+# doc_id = 2013.III.S9
+# origin_s_id = 9
+1	si	si_7	n	_	_	_	_	_	Gloss=tree_species
+
+# sent_id = 2013.III.S9__10
+# text = iambo -o -i
+# doc_id = 2013.III.S9
+# origin_s_id = 10
+1	iambo	iambo	n	_	_	_	_	_	Gloss=tree_species
+2	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.III.S9__11
+# text = laolao -o -i
+# doc_id = 2013.III.S9
+# origin_s_id = 11
+1	laolao	laolao	n	_	_	_	_	_	Gloss=tree_species
+2	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.III.S9__12
+# text = malemale -o -i
+# doc_id = 2013.III.S9
+# origin_s_id = 12
+1	malemale	malemale	n	_	_	_	_	_	Gloss=tree_species
+2	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.III.S9__13
+# text = neiau -o -i
+# doc_id = 2013.III.S9
+# origin_s_id = 13
+1	neiau	neiau	n  (fo)	_	_	_	_	_	Gloss=kapiok
+2	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.III.S9__14
+# text = kelase -o -i
+# doc_id = 2013.III.S9
+# origin_s_id = 14
+1	kelase	kelase	n	_	_	_	_	_	Gloss=tree_species
+2	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.III.S9__15
+# text = ota'o -o -i
+# doc_id = 2013.III.S9
+# origin_s_id = 15
+1	ota'o	ota'o	_	_	_	_	_	_	Gloss=tree_species
+2	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.III.S9__16
+# text = iapo'aimalemi
+# doc_id = 2013.III.S9
+# origin_s_id = 16
+1	iapo'aimalemi	iapo'aimalemi	n	_	_	_	_	_	Gloss=tree_species
+
+# sent_id = 2013.III.S9__17
+# text = wowei -o -i
+# doc_id = 2013.III.S9
+# origin_s_id = 17
+1	wowei	wowei	n	_	_	_	_	_	Gloss=tree_species
+2	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.III.S9__18
+# text = eli -fo -i
+# doc_id = 2013.III.S9
+# origin_s_id = 18
+1	eli	eli_2	n	_	_	_	_	_	Gloss=buai
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

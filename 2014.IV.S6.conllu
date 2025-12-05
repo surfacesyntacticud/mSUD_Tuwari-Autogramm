@@ -1,0 +1,82 @@
+# sent_id = 2014.IV.S6__1
+# text = a mutaanu -se mutaanu -se fali wa- ma- teto
+# doc_id = 2014.IV.S6
+# doc_title = 2014.IV.S6
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mutaanu	mutaano	v	_	_	_	_	_	Gloss=to_stay
+3	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+4	mutaanu	mutaano	v	_	_	_	_	_	Gloss=to_stay
+5	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+6	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+7	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+8	ma-	ma-_2	v:(dir-)	_	_	_	_	_	Gloss=down?-
+9	teto	teto	v	_	_	_	_	_	Gloss=to_arrive
+
+# sent_id = 2014.IV.S6__2
+# text = a mutaanu -se f- o -ne -nami fali ma- teto -wo
+# doc_id = 2014.IV.S6
+# doc_title = 2014.IV.S6
+# origin_s_id = 2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mutaanu	mutaano	v	_	_	_	_	_	Gloss=to_stay
+3	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+4	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+5	o	o_6	v	_	_	_	_	_	Gloss=COP
+6	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+7	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+8	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+9	ma-	ma-_2	v:(dir-)	_	_	_	_	_	Gloss=down?-
+10	teto	teto	v	_	_	_	_	_	Gloss=to_arrive
+11	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S6__3
+# text = ita -we -lo awa -we -lo a -lo meli fali mali tiomene
+# doc_id = 2014.IV.S6
+# doc_title = 2014.IV.S6
+# origin_s_id = 3
+1	ita	ita	n	_	_	_	_	_	Gloss=father
+2	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+3	-lo	-lo_3	n:Tout	_	_	_	_	_	Gloss=-BEN
+4	awa	awa	n	_	_	_	_	_	Gloss=sibling
+5	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+6	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+7	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+8	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+9	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+10	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+11	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+12	tiomene	tiomene	v	_	_	_	_	_	Gloss=to_learn
+
+# sent_id = 2014.IV.S6__4
+# text = tia pamo -li
+# doc_id = 2014.IV.S6
+# doc_title = 2014.IV.S6
+# origin_s_id = 4
+1	tia	tiia	adv	_	_	_	_	_	Gloss=long(_before)
+2	pamo	pamo	adv	_	_	_	_	_	Gloss=before
+3	-li	-li_1	Pro-form	_	_	_	_	_	Gloss=-?
+
+# sent_id = 2014.IV.S6__5
+# text = tono -mi ko lofo -ni
+# text_en = to carry on the shoulders.
+# doc_id = 2014.IV.S6
+# doc_title = 2014.IV.S6
+# origin_s_id = 5
+1	tono	tono	v	_	_	_	_	_	Gloss=to_carry
+2	-mi	-mi_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+3	ko	ko	adv	_	_	_	_	_	Gloss=top
+4	lofo	_	_	_	_	_	_	_	_
+5	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+
+# sent_id = 2014.IV.S6__6
+# text = soso soas -u -ni -o
+# doc_id = 2014.IV.S6
+# doc_title = 2014.IV.S6
+# origin_s_id = 6
+1	soso	soso	n	_	_	_	_	_	Gloss=time
+2	soas	suaso	v	_	_	_	_	_	Gloss=to_meet
+3	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+4	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+5	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

@@ -1,0 +1,283 @@
+# sent_id = 2014.I.S13__1
+# text = daniel me ni tosi -s -tano ti- lo
+# text_en = Daniel, to you have a torch?
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 1
+1	daniel	daniel	PN	_	_	_	_	_	Gloss=Daniel
+2	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+3	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+4	tosi	tosi_1	n	_	_	_	_	_	Gloss=torch
+5	-s	se_4	v:Tout	_	_	_	_	_	Gloss=DEM3.INDEF.Q
+6	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+7	ti-	te-_2	v:Tout	_	_	_	_	_	Gloss=2S.INTERRO-
+8	lo	lo_2	v	_	_	_	_	_	Gloss=to_have
+
+# sent_id = 2014.I.S13__2
+# text = a ni tosi -tano kouwa -le -lo
+# text_en = I don't have a torch.
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+3	tosi	tosi_1	n	_	_	_	_	_	Gloss=torch
+4	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+5	kouwa	kowa	v	_	_	_	_	_	Gloss=have_not
+6	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+7	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2014.I.S13__3
+# text = me ni tosi -s -tano te- lo
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 3
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+3	tosi	tosi_1	n	_	_	_	_	_	Gloss=torch
+4	-s	se_4	v:Tout	_	_	_	_	_	Gloss=DEM3.INDEF.Q
+5	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+6	te-	te-_2	v:Tout	_	_	_	_	_	Gloss=2S.INTERRO-
+7	lo	lo_2	v	_	_	_	_	_	Gloss=to_have
+
+# sent_id = 2014.I.S13__4
+# text = mi fali lo
+# text_en = I have one
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 4
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	lo	lo_2	v	_	_	_	_	_	Gloss=to_have
+
+# sent_id = 2014.I.S13__5
+# text = sylvain
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 5
+1	sylvain	sylvain	PN	_	_	_	_	_	Gloss=Sylvain
+
+# sent_id = 2014.I.S13__6
+# text = nasi -no
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 6.1
+1	nasi	nasi	interrog	_	_	_	_	_	Gloss=what
+2	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2014.I.S13__7
+# text = te- mali
+# text_en = tolk!
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 6.2
+1	te-	te-_2	v:(Modality1)	_	_	_	_	_	Gloss=JUSS-
+2	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+
+# sent_id = 2014.I.S13__8
+# text = tos -tano
+# text_en = the torch!
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 7
+1	tos	tosi_1	n	_	_	_	_	_	Gloss=torch
+2	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+
+# sent_id = 2014.I.S13__9
+# text = sana
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 8
+1	sana	sana	PN	_	_	_	_	_	Gloss=Sana
+
+# sent_id = 2014.I.S13__10
+# text = wa
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 9
+1	wa	wa_1	interj	_	_	_	_	_	Gloss=what?
+
+# sent_id = 2014.I.S13__11
+# text = tiape sicalapa nia -io
+# text_en = give the knife-scalpel
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 10
+1	tiape	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+2	sicalapa	sicalapa	n	_	_	_	_	_	Gloss=scalpel
+3	nia	nia	v	_	_	_	_	_	Gloss=to_give
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S13__12
+# text = uweio
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 11.1
+1	uweio	uweio_1	adv	_	_	_	_	_	Gloss=no
+
+# sent_id = 2014.I.S13__13
+# text = kowua -le -lo -wo
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 11.2
+1	kowua	kowa	v	_	_	_	_	_	Gloss=have_not
+2	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+3	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+4	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S13__14
+# text = a me fe- nefi -nai -ne -mwii
+# text_en = I won't give it to you
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 11.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+3	fe-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+4	nefi	nefi_1	v	_	_	_	_	_	Gloss=to_give
+5	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+6	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+7	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.I.S13__15
+# text = a me tii nefi -nai -mwii
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 12
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+3	tii	tii	v	_	_	_	_	_	Gloss=?
+4	nefi	nefi_1	v	_	_	_	_	_	Gloss=to_give
+5	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.I.S13__16
+# text = miaai me- tehesi -mwii
+# text_en = To write with a pen
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 13
+1	miaai	miaai	n	_	_	_	_	_	Gloss=pen
+2	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+3	tehesi	tehasi	v	_	_	_	_	_	Gloss=to_write
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.I.S13__17
+# text = nofua -foi
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 14
+1	nofua	nofua	n  (fo)	_	_	_	_	_	Gloss=book
+2	-foi	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+
+# sent_id = 2014.I.S13__18
+# text = eni saa -mo -i
+# text_en = a strong rope
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 15
+1	eni	eni	n  (mo)	_	_	_	_	_	Gloss=rope
+2	saa	saa_1	adj	_	_	_	_	_	Gloss=strong
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S13__19
+# text = me eni -so te- lo
+# text_en = Do you have a rope?
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 16
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	eni	eni	n  (mo)	_	_	_	_	_	Gloss=rope
+3	-so	_	_	_	_	_	_	_	_
+4	te-	te-_2	v:Tout	_	_	_	_	_	Gloss=2S.INTERRO-
+5	lo	lo_2	v	_	_	_	_	_	Gloss=to_have
+
+# sent_id = 2014.I.S13__20
+# text = nou -so
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 17
+1	nou	nou_1	n  (mo)	_	_	_	_	_	Gloss=bilum
+2	-so	_	_	_	_	_	_	_	_
+
+# sent_id = 2014.I.S13__21
+# text = me menia menio -lo -fo niolo -wo
+# text_en = Are you wearing shirt?
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 18
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	menia	menia	n  (fo)	_	_	_	_	_	Gloss=clothes
+3	menio	menio	n	_	_	_	_	_	Gloss=t-shirt
+4	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+5	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+6	niolo	niolo	v	_	_	_	_	_	Gloss=put_down
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S13__22
+# text = a fali menio -lo
+# text_en = I have put it.
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 19
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	menio	menio	n	_	_	_	_	_	Gloss=t-shirt
+4	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2014.I.S13__23
+# text = me menia menio -lo -fo ti- me- niolo -no
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 20
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	menia	menia	n  (fo)	_	_	_	_	_	Gloss=clothes
+3	menio	menio	n	_	_	_	_	_	Gloss=t-shirt
+4	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+5	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+6	ti-	te-_2	v:(Modality1)	_	_	_	_	_	Gloss=too_also
+7	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+8	niolo	niolo	v	_	_	_	_	_	Gloss=put_down
+9	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2014.I.S13__24
+# text = uweio
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 21.1
+1	uweio	uweio_1	adv	_	_	_	_	_	Gloss=no
+
+# sent_id = 2014.I.S13__25
+# text = a fa fe- niolo -ne
+# text_en = I havn't put it yet.
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 21.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fa	fa_2	adv	_	_	_	_	_	Gloss=yet
+3	fe-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+4	niolo	niolo	v	_	_	_	_	_	Gloss=put_down
+5	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+
+# sent_id = 2014.I.S13__26
+# text = uweio
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 22.1
+1	uweio	uweio_1	adv	_	_	_	_	_	Gloss=no
+
+# sent_id = 2014.I.S13__27
+# text = a fa fefe -mo fe- talu -ne
+# text_en = I havn't finished cooking the taro yet.
+# doc_id = 2014.I.S13
+# doc_title = 2014.I.S13
+# origin_s_id = 22.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fa	fa_2	adv	_	_	_	_	_	Gloss=yet
+3	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	fe-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+6	talu	talu	v	_	_	_	_	_	Gloss=to_cook
+7	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+

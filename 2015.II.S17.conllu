@@ -1,0 +1,60 @@
+# sent_id = 2015.II.S17__1
+# text = a ho wafe -ma m- io -ne opsono -ma wa- me- ia teta -io
+# doc_id = 2015.II.S17
+# origin_s_id = 1.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ho	ho_1	adv	_	_	_	_	_	Gloss=yesterday
+3	wafe	wafe_1	adv	_	_	_	_	_	Gloss=downstream
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	io	io	v	_	_	_	_	_	Gloss=go_down
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	opsono	opsono	n	_	_	_	_	_	Gloss=village
+9	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+10	wa-	wa-_1	v:(dir-)	_	_	_	_	_	Gloss=again
+11	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+12	ia	ia_1	v	_	_	_	_	_	Gloss=kam_antap
+13	teta	teto	v	_	_	_	_	_	Gloss=kamap_sanap
+14	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.II.S17__2
+# text = a ho ife -ma m- i -ne opsono -ma wa- m- io teta -io
+# doc_id = 2015.II.S17
+# origin_s_id = 1.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ho	ho_1	adv	_	_	_	_	_	Gloss=yesterday
+3	ife	ife	adv	_	_	_	_	_	Gloss=upstream
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	i	i	light verb	_	_	_	_	_	Gloss=to_go
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	opsono	opsono	n	_	_	_	_	_	Gloss=village
+9	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+10	wa-	wa-_1	v:(dir-)	_	_	_	_	_	Gloss=again
+11	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+12	io	io	v	_	_	_	_	_	Gloss=go_down
+13	teta	teto	v	_	_	_	_	_	Gloss=kamap_sanap
+14	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.II.S17__3
+# text = a solo u heino
+# doc_id = 2015.II.S17
+# origin_s_id = 2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	solo	solo	v	_	_	_	_	_	Gloss=to_sleep
+3	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+4	heino	heino	adv	_	_	_	_	_	Gloss=sometime
+
+# sent_id = 2015.II.S17__4
+# text = wa- tiau -nai -metoi wa- tiai -nai -metoi
+# doc_id = 2015.II.S17
+# origin_s_id = 3
+1	wa-	wa-_1	v:(dir-)	_	_	_	_	_	Gloss=again
+2	tiau	tiao	v	_	_	_	_	_	Gloss=to_killap
+3	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+4	-metoi	_	_	_	_	_	_	_	_
+5	wa-	wa-_1	v:(dir-)	_	_	_	_	_	Gloss=again
+6	tiai	tia_1	v	_	_	_	_	_	Gloss=to_sit
+7	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+8	-metoi	_	_	_	_	_	_	_	_
+

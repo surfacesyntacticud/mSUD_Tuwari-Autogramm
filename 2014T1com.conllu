@@ -1,0 +1,23 @@
+# sent_id = 2014T1com__1
+# text = me opo ialo tuano
+# doc_id = 2014T1com
+# doc_title = 2014T1com How Sali lost his leg (commentary)
+# origin_s_id = 1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	opo	opo	n	_	_	_	_	_	Gloss=bird
+3	ialo	ialo	?	_	_	_	_	_	Gloss=COMP
+4	tuano	tuano	v	_	_	_	_	_	Gloss=to_fly
+
+# sent_id = 2014T1com__2
+# text = otou heneli -fo nua -ne a
+# text_en = [next time bring a watch.]
+# doc_id = 2014T1com
+# doc_title = 2014T1com How Sali lost his leg (commentary)
+# origin_s_id = 2
+1	otou	otou	adv	_	_	_	_	_	Gloss=behind
+2	heneli	heneli_1	n  (fo)	_	_	_	_	_	Gloss=watch
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	a	a_1	v	_	_	_	_	_	Gloss=to_come
+

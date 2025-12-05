@@ -1,0 +1,18 @@
+# sent_id = 2013T14a__1
+# text = ta otoiso kalase -le sa -tano pase -ma i -ri -nai -lei
+# doc_id = 2013T14a
+# doc_title = 2013T14a
+# origin_s_id = 1
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	otoiso	otoiso	adv	_	_	_	_	_	Gloss=tomorrow
+3	kalase	kalase	n	_	_	_	_	_	Gloss=fish_specie
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	sa	sa_1	n	_	_	_	_	_	Gloss=River_sa
+6	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+7	pase	pase	n	_	_	_	_	_	Gloss=sand
+8	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+9	i	i	light verb	_	_	_	_	_	Gloss=to_go
+10	-ri	-li_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+11	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+12	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+

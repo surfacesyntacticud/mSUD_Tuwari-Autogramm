@@ -1,0 +1,21 @@
+# sent_id = 2019.II.93S__1
+# text = kapi kalapua kali -oi
+# doc_id = 2019.II.93S
+# origin_s_id = 1
+1	kapi	kapi_1	n	_	_	_	_	_	Gloss=banana
+2	kalapua	kalapua	n	_	_	_	_	_	Gloss=banana_bunch
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-oi	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+
+# sent_id = 2019.II.93S__2
+# text = fonane a tema -fo fo -li -io
+# doc_id = 2019.II.93S
+# origin_s_id = 2
+1	fonane	fonane	adv	_	_	_	_	_	Gloss=this_morning
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	tema	tema	n  (fo)	_	_	_	_	_	Gloss=fence
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+5	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+6	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PRS
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

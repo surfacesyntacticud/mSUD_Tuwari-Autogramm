@@ -1,0 +1,184 @@
+# sent_id = 2015.I.S4__1
+# text = pe -sapo -i
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 1
+1	pe	pe_1	n  (sapoi)sapo	_	_	_	_	_	Gloss=bed
+2	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S4__2
+# text = sa -po
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 2
+1	sa	sa_2	n  (pe)	_	_	_	_	_	Gloss=raft
+2	-po	-pe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VIII.SG
+
+# sent_id = 2015.I.S4__3
+# text = u elinau -tanoi
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 3
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	elinau	elinau	PN_toponyme	_	_	_	_	_	Gloss=Elinau
+3	-tanoi	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+
+# sent_id = 2015.I.S4__4
+# text = u iele -tanoi
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 4
+1	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+2	iele	iele	PN_hydronym	_	_	_	_	_	Gloss=Iele
+3	-tanoi	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+
+# sent_id = 2015.I.S4__5
+# text = ine -tanoi
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 5
+1	ine	ine	PN_hydronym	_	_	_	_	_	Gloss=Ine
+2	-tanoi	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+
+# sent_id = 2015.I.S4__6
+# text = pinawei
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 6
+1	pinawei	pinawii	PN_oronym	_	_	_	_	_	Gloss=Pinawii
+
+# sent_id = 2015.I.S4__7
+# text = u elifo -tanoi
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 7
+1	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+2	elifo	elifo	PN_hydronym	_	_	_	_	_	Gloss=Elifo
+3	-tanoi	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+
+# sent_id = 2015.I.S4__8
+# text = tauneaki -tanoi
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 8
+1	tauneaki	tauneaki	PN_hydronym	_	_	_	_	_	Gloss=Tauneaki
+2	-tanoi	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+
+# sent_id = 2015.I.S4__9
+# text = tousi totolu
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 9
+1	tousi	tousi	PN_toponyme	_	_	_	_	_	Gloss=Tousi
+2	totolu	totolo	n  (fo)	_	_	_	_	_	Gloss=island
+
+# sent_id = 2015.I.S4__10
+# text = mase totolu
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 10
+1	mase	mase	PN_toponyme	_	_	_	_	_	Gloss=Mase
+2	totolu	totolo	n  (fo)	_	_	_	_	_	Gloss=island
+
+# sent_id = 2015.I.S4__11
+# text = kooi
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 11.1
+1	kooi	kooi	n	_	_	_	_	_	Gloss=insecte
+
+# sent_id = 2015.I.S4__12
+# text = ieli
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 11.2
+1	ieli	ieli	n	_	_	_	_	_	Gloss=grasshopper
+
+# sent_id = 2015.I.S4__13
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 12
+
+# sent_id = 2015.I.S4__14
+# text = hao
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 13
+1	hao	hao	n  (fo)	_	_	_	_	_	Gloss=fish
+
+# sent_id = 2015.I.S4__15
+# text = hao
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 14
+1	hao	hao	n  (fo)	_	_	_	_	_	Gloss=fish
+
+# sent_id = 2015.I.S4__16
+# text = hao
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 15
+1	hao	hao	n  (fo)	_	_	_	_	_	Gloss=fish
+
+# sent_id = 2015.I.S4__17
+# text = sa -pe sawe -ma hei -io
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 16.1
+1	sa	sa_2	n  (pe)	_	_	_	_	_	Gloss=raft
+2	-pe	-pe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VIII.SG
+3	sawe	sawa	n  (he)	_	_	_	_	_	Gloss=fr. paggaie
+4	-ma	-ma_1	n	_	_	_	_	_	Gloss=-INSTR
+5	hei	hei_1	v	_	_	_	_	_	Gloss=to_go_in_water
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S4__18
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 16.2
+
+# sent_id = 2015.I.S4__19
+# text = te- me -li
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 17.1
+1	te-	te-_2	v:(Modality1)	_	_	_	_	_	Gloss=?yet-
+2	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+3	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PRS
+
+# sent_id = 2015.I.S4__20
+# text = teheli
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 17.2
+1	teheli	_	_	_	_	_	_	_	_
+
+# sent_id = 2015.I.S4__21
+# text = mi nasi
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 18
+1	mi	mi_5	pers	_	_	_	_	_	Gloss=3S.Q
+2	nasi	nasi	interrog	_	_	_	_	_	Gloss=what
+
+# sent_id = 2015.I.S4__22
+# text = u namoi
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 19
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	namoi	namoi	n	_	_	_	_	_	Gloss=wave
+
+# sent_id = 2015.I.S4__23
+# text = taa topu taa topu le -i
+# doc_id = 2015.I.S4
+# doc_title = 2015.I.S4
+# origin_s_id = 20
+1	taa	taa_1	n  (he)	_	_	_	_	_	Gloss=side
+2	topu	topu	correlconn	_	_	_	_	_	Gloss=DISTR
+3	taa	taa_1	n  (he)	_	_	_	_	_	Gloss=side
+4	topu	topu	correlconn	_	_	_	_	_	Gloss=DISTR
+5	le	lo_2	v	_	_	_	_	_	Gloss=to_have
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

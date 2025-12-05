@@ -1,0 +1,29 @@
+# sent_id = 2019.I.30__1
+# text = salus -we m- a -ne meli oloː -mwe
+# doc_id = 2019.I.30
+# origin_s_id = 1
+1	salus	salus	PN	_	_	_	_	_	Gloss=Salus
+2	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+3	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	a	a_1	v	_	_	_	_	_	Gloss=to_come
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+7	oloː	_	_	_	_	_	_	_	_
+8	-mwe	-mwe_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=DEM1:3SG.M
+
+# sent_id = 2019.I.30__2
+# text = to saju meli mle u kapjo ifujo -ma tej -le -i
+# doc_id = 2019.I.30
+# origin_s_id = 2
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	saju	saju	PN_demonym	_	_	_	_	_	Gloss=Sisimin_tribe
+3	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+4	mle	mle	pers	_	_	_	_	_	Gloss=DEM1:PL
+5	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+6	kapjo	kapjo	PN_hydronym	_	_	_	_	_	Gloss=Wario
+7	ifujo	_	_	_	_	_	_	_	_
+8	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+9	tej	tei_1	v	_	_	_	_	_	Gloss=to_go
+10	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+11	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

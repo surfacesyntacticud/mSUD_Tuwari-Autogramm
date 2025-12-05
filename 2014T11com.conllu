@@ -1,0 +1,17 @@
+# sent_id = 2014T11com__1
+# text = ta hao teta ali -s -le hema -mu m- afteli -o
+# doc_id = 2014T11com
+# doc_title = 141105_10_T11 com
+# origin_s_id = 1
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	hao	hao	n  (fo)	_	_	_	_	_	Gloss=fish
+3	teta	teta	pro-form	_	_	_	_	_	Gloss=the_other
+4	ali	ali_3	pers	_	_	_	_	_	Gloss=all
+5	-s	se_4	n:Tout	_	_	_	_	_	Gloss=DEM3:INDEF_QUANTITY
+6	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+7	hema	hema_1	n	_	_	_	_	_	Gloss=LOC:there(away)
+8	-mu	-mu_2	Noun	_	_	_	_	_	Gloss=-LOC/ABL?
+9	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+10	afteli	afetei	v	_	_	_	_	_	Gloss=to_leave
+11	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

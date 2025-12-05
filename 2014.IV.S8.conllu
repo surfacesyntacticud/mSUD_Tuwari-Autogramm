@@ -1,0 +1,196 @@
+# sent_id = 2014.IV.S8__1
+# text = a me tetaolei
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+3	tetaolei	tetaolei	v	_	_	_	_	_	Gloss=to_ask
+
+# sent_id = 2014.IV.S8__2
+# text = a sihomo holo -wiinle
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 2.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	sihomo	sihomo	n	_	_	_	_	_	Gloss=work
+3	holo	holua	v	_	_	_	_	_	Gloss=to_work
+4	-wiinle	_	_	_	_	_	_	_	_
+
+# sent_id = 2014.IV.S8__3
+# text = daniel -we  waa -le m- iasano
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 2.2
+1	daniel	daniel	PN	_	_	_	_	_	Gloss=Daniel
+2	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+3	 waa	waai_1	adv	_	_	_	_	_	Gloss=yet_together
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	iasano	iasane	v	_	_	_	_	_	Gloss=to_help
+
+# sent_id = 2014.IV.S8__4
+# text = ta tuwali -lei
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 3.1
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	tuwali	tuwali_1	PN_demonym	_	_	_	_	_	Gloss=Tuwari
+3	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2014.IV.S8__5
+# text = dranima ulei
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 3.2
+1	dranima	dranima	PN_demonym	_	_	_	_	_	Gloss=Duranmin
+2	ulei	ulei_1	n	_	_	_	_	_	Gloss=clan
+
+# sent_id = 2014.IV.S8__6
+# text = a si fe- meli -ne
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	si	_	_	_	_	_	_	_	_
+3	fe-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+4	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+5	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+
+# sent_id = 2014.IV.S8__7
+# text = tono ilo -s -le ma- tofu -o
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 5
+1	tono	to_1	n	_	_	_	_	_	Gloss=man
+2	ilo	ilo	adj	_	_	_	_	_	Gloss=new
+3	-s	se_4	v:Tout	_	_	_	_	_	Gloss=DEM3.INDEF.Q
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	ma-	ma-_2	v:(dir-)	_	_	_	_	_	Gloss=down?-
+6	tofu	tofu_2	v	_	_	_	_	_	Gloss=to_arrive
+7	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S8__8
+# text = eiso -s -le ma- tofu -o
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 6
+1	eiso	heiso_1	n	_	_	_	_	_	Gloss=woman
+2	-s	se_4	n:Tout	_	_	_	_	_	Gloss=DEM3:INDEF_QUANTITY
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	ma-	ma-_2	v:(dir-)	_	_	_	_	_	Gloss=down?-
+5	tofu	tofu_2	v	_	_	_	_	_	Gloss=to_arrive
+6	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S8__9
+# text = to -s -le ma- tofu -o
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 7
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	-s	se_4	n:(NounGenderNumber)	_	_	_	_	_	Gloss=DEM3.INDEF
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	ma-	ma-_2	v:(dir-)	_	_	_	_	_	Gloss=down?-
+5	tofu	tofu_2	v	_	_	_	_	_	Gloss=to_arrive
+6	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S8__10
+# text = mle -na sle -no
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 8.1
+1	mle	mle	pers	_	_	_	_	_	Gloss=DEM1:PL
+2	-na	-na_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?INTSFIER?
+3	sle	sele_1	v	_	_	_	_	_	Gloss=to_sit
+4	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2014.IV.S8__11
+# text = he mali -o
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 8.2
+1	he	he_2	pers	_	_	_	_	_	Gloss=2SG.F
+2	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+3	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S8__12
+# text = so fonane -nehe
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 9
+1	so	so_1	n	_	_	_	_	_	Gloss=time(occurrence)
+2	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+3	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+
+# sent_id = 2014.IV.S8__13
+# text = te -mse iowe nefi -io
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 10.1
+1	te	te_1	n	_	_	_	_	_	Gloss=woman->wife?
+2	-mse	-mse_1	n:Tout	_	_	_	_	_	Gloss=-DEM1:SG.F
+3	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+4	nefi	nefi_1	v	_	_	_	_	_	Gloss=to_give
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S8__14
+# text = hao kali -si f- i -ne
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 10.2
+1	hao	hao	n  (fo)	_	_	_	_	_	Gloss=fish
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-si	se_4	n:Tout	_	_	_	_	_	Gloss=DEM3.INDEF.NEG
+4	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+5	i	i	light verb	_	_	_	_	_	Gloss=COP
+6	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+
+# sent_id = 2014.IV.S8__15
+# text = fefe a tue -si nia
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 11.1
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	tue	tuwe	adv	_	_	_	_	_	Gloss=half
+4	-si	se_4	v:Tout	_	_	_	_	_	Gloss=DEM3.INDEF.Q
+5	nia	nia	v	_	_	_	_	_	Gloss=to_give
+
+# sent_id = 2014.IV.S8__16
+# text = kali -si f- i -ne
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 11.2
+1	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+2	-si	se_4	n:Tout	_	_	_	_	_	Gloss=DEM3.INDEF.NEG
+3	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+4	i	i	light verb	_	_	_	_	_	Gloss=COP
+5	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+
+# sent_id = 2014.IV.S8__17
+# text = kowa tetaola -na
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 12
+1	kowa	kowa	?	_	_	_	_	_	Gloss=NEG.existantial
+2	tetaola	tetaolei	v	_	_	_	_	_	Gloss=to_ask
+3	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2014.IV.S8__18
+# text = a maa- fali o -wo
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 13
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	maa-	maa-_2	_	_	_	_	_	_	Gloss=one-
+3	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+4	o	o_4	v	_	_	_	_	_	Gloss=to_eat
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S8__19
+# text = sosolo
+# doc_id = 2014.IV.S8
+# doc_title = 2014.IV.S8
+# origin_s_id = 14
+1	sosolo	sosolo	adv	_	_	_	_	_	Gloss=behind
+

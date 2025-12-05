@@ -1,0 +1,47 @@
+# sent_id = 2019.II.87__1
+# text = u miali -tano -i
+# doc_id = 2019.II.87
+# origin_s_id = 1.1
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	miali	miali	PN_hydronym	_	_	_	_	_	Gloss=Waibu_River
+3	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.87__2
+# text = u te -tano -i
+# doc_id = 2019.II.87
+# origin_s_id = 1.2
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	te	te_3	PN_hydronym	_	_	_	_	_	Gloss=River_te
+3	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.87__3
+# text = u esi -tano -i
+# doc_id = 2019.II.87
+# origin_s_id = 1.3
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	esi	esi_2	PN_hydronym	_	_	_	_	_	Gloss=esi_River
+3	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.87__4
+# text = u asi -tano -i
+# doc_id = 2019.II.87
+# origin_s_id = 1.4
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	asi	asi	PN_hydronym	_	_	_	_	_	Gloss=Asi_river
+3	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.87__5
+# text = heifo tusani -mwii heifo tete -mwii
+# doc_id = 2019.II.87
+# origin_s_id = 2
+1	heifo	heifo_1	n  (mo)	_	_	_	_	_	Gloss=dog
+2	tusani	tusani	n	_	_	_	_	_	Gloss=male(animal)
+3	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+4	heifo	heifo_1	n  (mo)	_	_	_	_	_	Gloss=dog
+5	tete	tete_4	n	_	_	_	_	_	Gloss=female(animal)
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

@@ -1,0 +1,286 @@
+# sent_id = 2015.II.S9__1
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 1
+
+# sent_id = 2015.II.S9__2
+# text = nofua -fo ko muanuo -ma lo
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 2
+1	nofua	nofua	n  (fo)	_	_	_	_	_	Gloss=book
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	ko	_	Noun	_	_	_	_	_	Gloss=above-
+4	muanuo	muanuo	n  (mo)	_	_	_	_	_	Gloss=wood
+5	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+6	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+
+# sent_id = 2015.II.S9__3
+# text = muanua
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 3
+1	muanua	muanuo	n  (mo)	_	_	_	_	_	Gloss=wood
+
+# sent_id = 2015.II.S9__4
+# text = muanuo
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 4
+1	muanuo	muanuo	n  (mo)	_	_	_	_	_	Gloss=wood
+
+# sent_id = 2015.II.S9__5
+# text = muanuo kali -mo
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 5
+1	muanuo	muanuo	n  (mo)	_	_	_	_	_	Gloss=wood
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+
+# sent_id = 2015.II.S9__6
+# text = ko wea -ma
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 6
+1	ko	_	Noun	_	_	_	_	_	Gloss=above-
+2	wea	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+
+# sent_id = 2015.II.S9__7
+# text = ko na -ma
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 7
+1	ko	_	Noun	_	_	_	_	_	Gloss=above-
+2	na	_	_	_	_	_	_	_	_
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+
+# sent_id = 2015.II.S9__8
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 8
+
+# sent_id = 2015.II.S9__9
+# text = menia -fo ko mitamaai -ma muate -li -lo
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 9
+1	menia	menia	n  (fo)	_	_	_	_	_	Gloss=clothes
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	ko	ko	adv	_	_	_	_	_	Gloss=top
+4	mitamaai	mitamaai	n	_	_	_	_	_	Gloss=small_piece_of_wood
+5	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+6	muate	mowate	v	_	_	_	_	_	Gloss=to_hang
+7	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PRS
+8	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2015.II.S9__10
+# text = mitamaai
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 10
+1	mitamaai	mitamaai	n	_	_	_	_	_	Gloss=small_piece_of_wood
+
+# sent_id = 2015.II.S9__11
+# text = mitamaai muate -li -lo -mwii
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 11
+1	mitamaai	mitamaai	n	_	_	_	_	_	Gloss=small_piece_of_wood
+2	muate	mowate	v	_	_	_	_	_	Gloss=to_hang
+3	-li	-li_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+4	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.II.S9__12
+# text = a mami helefe opule -ne
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 12.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+3	helefe	helefe	n	_	_	_	_	_	Gloss=leg
+4	opule	opule	v	_	_	_	_	_	Gloss=to_hang
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2015.II.S9__13
+# text = a mami helefe ko mna -ma opulo
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 12.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+3	helefe	helefe	n	_	_	_	_	_	Gloss=leg
+4	ko	ko	adv	_	_	_	_	_	Gloss=top
+5	mna	mna	n	_	_	_	_	_	Gloss=?
+6	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+7	opulo	opule	v	_	_	_	_	_	Gloss=to_hang
+
+# sent_id = 2015.II.S9__14
+# text = a nofua -fo ko mna -ma hiate -li -lo heiso -wu
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 13
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	nofua	nofua	n  (fo)	_	_	_	_	_	Gloss=book
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	ko	ko	adv	_	_	_	_	_	Gloss=top
+5	mna	mna	n	_	_	_	_	_	Gloss=?
+6	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+7	hiate	hiate	v	_	_	_	_	_	Gloss=to_put_between_two_thing
+8	-li	-li_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+9	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+10	heiso	heiso_2	v	_	_	_	_	_	Gloss=to_put_inside
+11	-wu	-u	v:(Tense2)	_	_	_	_	_	Gloss=-same_morph?
+
+# sent_id = 2015.II.S9__15
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 14
+
+# sent_id = 2015.II.S9__16
+# text = iane pena -ha iani ne -pe heiso -wu
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 15
+1	iane	iani	n  (fe)	_	_	_	_	_	Gloss=hand
+2	pena	_	_	_	_	_	_	_	_
+3	-ha	_	_	_	_	_	_	_	_
+4	iani	iani	n  (fe)	_	_	_	_	_	Gloss=hand
+5	ne	_	_	_	_	_	_	_	_
+6	-pe	-pe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VIII.SG
+7	heiso	heiso_2	v	_	_	_	_	_	Gloss=to_put_inside
+8	-wu	-u	v:(Tense2)	_	_	_	_	_	Gloss=-same_morph?
+
+# sent_id = 2015.II.S9__17
+# text = iani motou -pe iani iefelia -pe iani toulei -fe
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 16
+1	iani	iani	n  (fe)	_	_	_	_	_	Gloss=finger
+2	motou	motou	cardnum	_	_	_	_	_	Gloss=one
+3	-pe	-pe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VIII.SG
+4	iani	iani	n  (fe)	_	_	_	_	_	Gloss=finger
+5	iefelia	iefelia	cardnum	_	_	_	_	_	Gloss=two
+6	-pe	-pe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VIII.SG
+7	iani	iani	n  (fe)	_	_	_	_	_	Gloss=hand
+8	toulei	toulei	cardnum	_	_	_	_	_	Gloss=three
+9	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+
+# sent_id = 2015.II.S9__18
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 17
+
+# sent_id = 2015.II.S9__19
+# text = iefla -mo ko u -pao -ma -lo u -pao -ma -i
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 18
+1	iefla	iefa	n  (mo)	_	_	_	_	_	Gloss=canoe
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	ko	ko	adv	_	_	_	_	_	Gloss=top
+4	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+5	-pao	-pao	Noun	_	_	_	_	_	Gloss=deep
+6	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+7	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+8	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+9	-pao	-pao	Noun	_	_	_	_	_	Gloss=deep
+10	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+11	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.II.S9__20
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 19
+
+# sent_id = 2015.II.S9__21
+# text = nemesi -he tiapi -he senefei
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 20.1
+1	nemesi	nemesi	n	_	_	_	_	_	Gloss=blood
+2	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+3	tiapi	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+4	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+5	senefei	senefei	v	_	_	_	_	_	Gloss=to_cover?
+
+# sent_id = 2015.II.S9__22
+# text = a nofua nofua tu- -no -ma -lo onoma fusaai
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 20.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	nofua	nofua	n  (fo)	_	_	_	_	_	Gloss=leaf
+3	nofua	nofua	n	_	_	_	_	_	Gloss=notebook
+4	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+5	-no	-no_3	adv	_	_	_	_	_	Gloss=-inside
+6	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+7	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+8	onoma	onoma	adv	_	_	_	_	_	Gloss=inside
+9	fusaai	fusaei	v	_	_	_	_	_	Gloss=to_hide
+
+# sent_id = 2015.II.S9__23
+# text = nofua -fo taase -fo senefei
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 20.3
+1	nofua	nofua	n  (fo)	_	_	_	_	_	Gloss=book
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	taase	taase	indfpro	_	_	_	_	_	Gloss=another
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+5	senefei	senefei	v	_	_	_	_	_	Gloss=to_cover?
+
+# sent_id = 2015.II.S9__24
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 21
+
+# sent_id = 2015.II.S9__25
+# text = menia -le nou onoma fu
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 22
+1	menia	menia	n  (fo)	_	_	_	_	_	Gloss=clothes
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	nou	nou_1	n  (mo)	_	_	_	_	_	Gloss=bilum
+4	onoma	onoma	adv	_	_	_	_	_	Gloss=inside
+5	fu	fu_2	v	_	_	_	_	_	Gloss=to_put
+
+# sent_id = 2015.II.S9__26
+# text = me te -mse heapolo -no
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 23.1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	te	te_1	n	_	_	_	_	_	Gloss=woman->wife?
+3	-mse	-mse_1	n:Tout	_	_	_	_	_	Gloss=-DEM1:SG.F
+4	heapolo	heapolo	v	_	_	_	_	_	Gloss=to_have_sexual_intercourse
+5	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2015.II.S9__27
+# text = he to -mwe heapolo -no
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 23.2
+1	he	he_2	pers	_	_	_	_	_	Gloss=2SG.F
+2	to	to_1	n	_	_	_	_	_	Gloss=man
+3	-mwe	-mwe_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=DEM1:3SG.M
+4	heapolo	heapolo	v	_	_	_	_	_	Gloss=to_have_sexual_intercourse
+5	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2015.II.S9__28
+# text = heiso -le u -le me- heiti -io
+# text_en = to menstruate
+# doc_id = 2015.II.S9
+# doc_title = 2015.II.S9 topological relation
+# origin_s_id = 24
+1	heiso	heiso_1	n	_	_	_	_	_	Gloss=woman
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	heiti	heiti	v	_	_	_	_	_	Gloss=to_menstruate
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

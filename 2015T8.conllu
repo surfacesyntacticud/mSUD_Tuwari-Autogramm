@@ -1,0 +1,12 @@
+# sent_id = 2015T8__1
+# text = nua -ne mu -nami plete olu
+# doc_id = 2015T8
+# doc_title = 2015T8
+# origin_s_id = 1
+1	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+2	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+3	mu	_	_	_	_	_	_	_	_
+4	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+5	plete	pleti	n	_	_	_	_	_	Gloss=plate
+6	olu	olu	v	_	_	_	_	_	Gloss=to_run_away
+

@@ -1,0 +1,190 @@
+# sent_id = 2014.I.S11__1
+# text = me usi hele -si -no
+# text_en = Do you suffer?
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	usi	usi	adv	_	_	_	_	_	Gloss=inside
+3	hele	hele_2	adj	_	_	_	_	_	Gloss=sick?
+4	-si	se_4	v:Tout	_	_	_	_	_	Gloss=DEM3.INDEF.Q
+5	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2014.I.S11__2
+# text = a usi hele -io
+# text_en = I'm sick.
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	usi	usi	adv	_	_	_	_	_	Gloss=inside
+3	hele	hele_2	adj	_	_	_	_	_	Gloss=sick?
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S11__3
+# text = a fali peisa lo -wo
+# text_en = I'm alright.
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	peisa	peisa	adv	_	_	_	_	_	Gloss=good
+4	lo	lo_2	v	_	_	_	_	_	Gloss=COP
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S11__4
+# text = samue -we ule -se -i
+# text_en = ‎Samuel's little girl.
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 4
+1	samue	samuel	PN	_	_	_	_	_	Gloss=Samuel
+2	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+3	ule	ule	n	_	_	_	_	_	Gloss=little_girl
+4	-se	-se_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-F.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S11__5
+# text = samue -we o -we -i
+# text_en = Samuel's little boy.
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 5
+1	samue	samuel	PN	_	_	_	_	_	Gloss=Samuel
+2	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+3	o	o_3	n	_	_	_	_	_	Gloss=child
+4	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S11__6
+# text = a fali fofu -fo o -wo
+# text_en = I have eaten a papaye.
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 6
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	fofu	fufu	n  (fo)	_	_	_	_	_	Gloss=papaye
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+5	o	o_4	v	_	_	_	_	_	Gloss=to_eat
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S11__7
+# text = a fali fufu eiteli -fo o -wo
+# text_en = I have finished eating a mature papaye.
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 7
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	fufu	fufu	n  (fo)	_	_	_	_	_	Gloss=papaye
+4	eiteli	eiteli	adj	_	_	_	_	_	Gloss=mature
+5	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+6	o	o_4	v	_	_	_	_	_	Gloss=to_eat
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S11__8
+# text = wiise peisa -mo -i
+# text_en = mature sago.
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 8
+1	wiise	wiise	n  (mo)	_	_	_	_	_	Gloss=sago
+2	peisa	peisa	adv	_	_	_	_	_	Gloss=mature
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S11__9
+# text = sinali peisa -mo -i
+# text_en = mature sweet potato
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 9
+1	sinali	sinali	n	_	_	_	_	_	Gloss=sweet_potato
+2	peisa	peisa	adv	_	_	_	_	_	Gloss=mature
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S11__10
+# text = fefe peisa -mo -i
+# text_en = mature taro
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 10
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	peisa	peisa	adv	_	_	_	_	_	Gloss=mature
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S11__11
+# text = nemoio
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 11
+1	nemoio	nemoio	adj	_	_	_	_	_	Gloss=sweet
+
+# sent_id = 2014.I.S11__12
+# text = fefe -mo esiei -o
+# text_en = tarot not mature(?)
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 12
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	esiei	esiei	adj	_	_	_	_	_	Gloss=dry
+4	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S11__13
+# text = painale -fo esiei -io
+# text_en = coconut not mature
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 13
+1	painale	painale	n  (fo)	_	_	_	_	_	Gloss=coconut
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	esiei	esiei	adj	_	_	_	_	_	Gloss=dry
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S11__14
+# text = painale esiei -foi
+# text_en = coconut not mau (?)
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 14
+1	painale	painale	n  (fo)	_	_	_	_	_	Gloss=coconut
+2	esiei	esiei	adj	_	_	_	_	_	Gloss=dry
+3	-foi	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+
+# sent_id = 2014.I.S11__15
+# text = epau -mo fali me- po esi
+# text_en = The wound have dried.
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 15
+1	epau	hopalu	n  (mo)	_	_	_	_	_	Gloss=wound
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+4	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	po	_	_	_	_	_	_	_	_
+6	esi	esiei	adj	_	_	_	_	_	Gloss=dry
+
+# sent_id = 2014.I.S11__16
+# text = hepalo
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 16
+1	hepalo	hopalu	n  (mo)	_	_	_	_	_	Gloss=wound
+
+# sent_id = 2014.I.S11__17
+# text = hepau -mo fali mo- pol esi
+# doc_id = 2014.I.S11
+# doc_title = 2014.I.S11
+# origin_s_id = 17
+1	hepau	hopalu	n  (mo)	_	_	_	_	_	Gloss=wound
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+4	mo-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	pol	_	_	_	_	_	_	_	_
+6	esi	esiei	adj	_	_	_	_	_	Gloss=dry
+

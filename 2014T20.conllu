@@ -1,0 +1,14 @@
+# sent_id = 2014T20__1
+# text = a otoiso sumwari -ma i -nai -mwii
+# text_en = tomorrow I will go to Sumwari
+# doc_id = 2014T20
+# doc_title = 141108_08_T20
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	otoiso	otoiso	adv	_	_	_	_	_	Gloss=tomorrow
+3	sumwari	sumwari	PN_toponyme	_	_	_	_	_	Gloss=Sumwari
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+7	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

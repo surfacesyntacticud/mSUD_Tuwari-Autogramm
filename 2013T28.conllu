@@ -1,0 +1,25 @@
+# sent_id = 2013T28__1
+# text = ta kopulo a -lo otoiso mi -tano pase -ma i -ne kalase -le inamin eisefe onoma wa- ia -ni
+# doc_id = 2013T28
+# doc_title = 2013T28
+# origin_s_id = 1
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	kopulo	kopulo	adv	_	_	_	_	_	Gloss=together
+3	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+4	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+5	otoiso	otoiso	adv	_	_	_	_	_	Gloss=tomorrow
+6	mi	mi_4	PN_hydronym	_	_	_	_	_	Gloss=River_mi
+7	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+8	pase	pase	n	_	_	_	_	_	Gloss=sand
+9	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+10	i	i	light verb	_	_	_	_	_	Gloss=to_go
+11	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+12	kalase	kalase	n	_	_	_	_	_	Gloss=fish_specie
+13	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+14	inamin	inamin	v	_	_	_	_	_	Gloss=to_fish?
+15	eisefe	eisefe	adv	_	_	_	_	_	Gloss=back
+16	onoma	onoma	adv	_	_	_	_	_	Gloss=inside
+17	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+18	ia	ia_1	v	_	_	_	_	_	Gloss=to_go
+19	-ni	-ni_2	v:(Tense)	_	_	_	_	_	Gloss=FUT.PURP.2PL
+

@@ -1,0 +1,86 @@
+# sent_id = 2019.II.61QuatroQ__1
+# doc_id = 2019.II.61QuatroQ
+# doc_title = Eight sentences questionary
+# origin_s_id = 1
+
+# sent_id = 2019.II.61QuatroQ__2
+# text = pojsa
+# doc_id = 2019.II.61QuatroQ
+# doc_title = Eight sentences questionary
+# origin_s_id = 2
+1	pojsa	peisa	adv	_	_	_	_	_	Gloss=good
+
+# sent_id = 2019.II.61QuatroQ__3
+# text = a tiapi kali se -he fu -ne
+# doc_id = 2019.II.61QuatroQ
+# doc_title = Eight sentences questionary
+# origin_s_id = 3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	tiapi	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	se	se_4	n:Tout	_	_	_	_	_	Gloss=DEM3.INDEF.NEG
+5	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+6	fu	fu_5	v	_	_	_	_	_	Gloss=to_buy
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2019.II.61QuatroQ__4
+# text = a haa -o -le -io tema -fo fo -ne fo -o -nu -le -io
+# doc_id = 2019.II.61QuatroQ
+# doc_title = Eight sentences questionary
+# origin_s_id = 4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	haa	haha	v	_	_	_	_	_	_
+3	-o	_	_	_	_	_	_	_	_
+4	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+6	tema	tema	n  (fo)	_	_	_	_	_	Gloss=fence
+7	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+8	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+9	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+10	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+11	-o	_	_	_	_	_	_	_	_
+12	-nu	-nu_2	v:Tout	_	_	_	_	_	Gloss=-?
+13	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+14	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.61QuatroQ__5
+# text = a kali -mi ow -u -wo
+# doc_id = 2019.II.61QuatroQ
+# doc_title = Eight sentences questionary
+# origin_s_id = 5
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	kali	kali_1	n	_	_	_	_	_	Gloss=car
+3	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+4	ow	ho_3	v	_	_	_	_	_	Gloss=to_sing
+5	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.61QuatroQ__6
+# text = mwe
+# doc_id = 2019.II.61QuatroQ
+# doc_title = Eight sentences questionary
+# origin_s_id = 6
+1	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+
+# sent_id = 2019.II.61QuatroQ__7
+# text = u -le o -wo so -ho
+# doc_id = 2019.II.61QuatroQ
+# doc_title = Eight sentences questionary
+# origin_s_id = 7
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	o	o_4	v	_	_	_	_	_	Gloss=to_eat
+4	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+5	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+6	-ho	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+
+# sent_id = 2019.II.61QuatroQ__8
+# text = a -io heneli -ne
+# doc_id = 2019.II.61QuatroQ
+# doc_title = Eight sentences questionary
+# origin_s_id = 8
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	-io	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+3	heneli	heneli_1	n  (fo)	_	_	_	_	_	Gloss=sun
+4	-ne	-ne_3	Noun	_	_	_	_	_	Gloss=-?
+

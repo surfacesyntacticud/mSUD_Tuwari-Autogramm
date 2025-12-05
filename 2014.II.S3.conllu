@@ -1,0 +1,117 @@
+# sent_id = 2014.II.S3__1
+# text = nomu sle
+# text_en = sit down here!
+# doc_id = 2014.II.S3
+# doc_title = 2014.II.S3
+# origin_s_id = 1
+1	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+2	sle	sele_1	v	_	_	_	_	_	Gloss=to_sit
+
+# sent_id = 2014.II.S3__2
+# text = sinali -molo heifa -lelo a o -wo
+# doc_id = 2014.II.S3
+# doc_title = 2014.II.S3
+# origin_s_id = 2
+1	sinali	sinali	n	_	_	_	_	_	Gloss=sweet_potato
+2	-molo	-molo	Noun	_	_	_	_	_	Gloss=-COORD
+3	heifa	heifa	n	_	_	_	_	_	Gloss=vegetable
+4	-lelo	-lelo	Noun	_	_	_	_	_	Gloss=-COORD
+5	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+6	o	o_4	v	_	_	_	_	_	Gloss=to_eat
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S3__3
+# text = sinali -molo heifa -lelo a
+# doc_id = 2014.II.S3
+# doc_title = 2014.II.S3
+# origin_s_id = 3
+1	sinali	sinali	n	_	_	_	_	_	Gloss=sweet_potato
+2	-molo	-molo	Noun	_	_	_	_	_	Gloss=-COORD
+3	heifa	heifa	n	_	_	_	_	_	Gloss=vegetable
+4	-lelo	-lelo	Noun	_	_	_	_	_	Gloss=-COORD
+5	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+
+# sent_id = 2014.II.S3__4
+# text = fefe -molo sinali -molo
+# doc_id = 2014.II.S3
+# doc_title = 2014.II.S3
+# origin_s_id = 4
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	-molo	-molo	Noun	_	_	_	_	_	Gloss=-COORD
+3	sinali	sinali	n	_	_	_	_	_	Gloss=sweet_potato
+4	-molo	-molo	Noun	_	_	_	_	_	Gloss=-COORD
+
+# sent_id = 2014.II.S3__5
+# text = sinali eito eito -molo heifa eito eito -lelo fali m- a -aplo -wo
+# doc_id = 2014.II.S3
+# doc_title = 2014.II.S3
+# origin_s_id = 5
+1	sinali	sinali	n	_	_	_	_	_	Gloss=sweet_potato
+2	eito	eito	adj	_	_	_	_	_	Gloss=too_much
+3	eito	eito	adj	_	_	_	_	_	Gloss=too_much
+4	-molo	-molo	Noun	_	_	_	_	_	Gloss=-COORD
+5	heifa	heifa	n	_	_	_	_	_	Gloss=vegetable
+6	eito	eito	adj	_	_	_	_	_	Gloss=too_much
+7	eito	eito	adj	_	_	_	_	_	Gloss=too_much
+8	-lelo	-lelo	Noun	_	_	_	_	_	Gloss=-COORD
+9	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+10	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+11	a	o_4	v	_	_	_	_	_	Gloss=to_eat
+12	-aplo	-aple	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PRF
+13	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S3__6
+# text = teia kali -e -i
+# doc_id = 2014.II.S3
+# doc_title = 2014.II.S3
+# origin_s_id = 6
+1	teia	teia	n  (ei)	_	_	_	_	_	Gloss=garden
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-e	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S3__7
+# text = o fefe teia -sapo kolo -wo
+# doc_id = 2014.II.S3
+# doc_title = 2014.II.S3
+# origin_s_id = 7
+1	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+2	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+3	teia	teia	n  (ei)	_	_	_	_	_	Gloss=garden
+4	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+5	kolo	kolo	n	_	_	_	_	_	Gloss=build_house
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S3__8
+# text = so -he kokua lo -wo
+# text_en = the weather is bad.
+# doc_id = 2014.II.S3
+# doc_title = 2014.II.S3
+# origin_s_id = 8
+1	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+2	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+3	kokua	kokua	adj	_	_	_	_	_	Gloss=bad
+4	lo	lo_2	v	_	_	_	_	_	Gloss=COP
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S3__9
+# text = so -nehe a
+# doc_id = 2014.II.S3
+# doc_title = 2014.II.S3
+# origin_s_id = 9
+1	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+2	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+3	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+
+# sent_id = 2014.II.S3__10
+# text = sisomu -he eitau -ne i -io
+# doc_id = 2014.II.S3
+# doc_title = 2014.II.S3
+# origin_s_id = 10
+1	sisomu	sisomumi	n	_	_	_	_	_	Gloss=grass
+2	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+3	eitau	eitau	v	_	_	_	_	_	Gloss=to_cut
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

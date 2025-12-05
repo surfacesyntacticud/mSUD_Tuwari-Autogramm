@@ -1,0 +1,18 @@
+# sent_id = 2019.II.66__1
+# text = touteia
+# doc_id = 2019.II.66
+# origin_s_id = 1
+1	touteia	touteia	n	_	_	_	_	_	Gloss=big_knife
+
+# sent_id = 2019.II.66__2
+# text = me tiapi kali se -he fu -ne
+# doc_id = 2019.II.66
+# origin_s_id = 2
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	tiapi	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	se	se_4	n:Tout	_	_	_	_	_	Gloss=DEM3.INDEF.NEG
+5	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+6	fu	fu_5	v	_	_	_	_	_	Gloss=to_sell
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+

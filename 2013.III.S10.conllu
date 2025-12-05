@@ -1,0 +1,81 @@
+# sent_id = 2013.III.S10__1
+# text = ai -no -wo a esei -le u -le
+# doc_id = 2013.III.S10
+# origin_s_id = 1
+1	ai	ai	v	_	_	_	_	_	Gloss=leave,loose(lusim)
+2	-no	-no_8	v	_	_	_	_	_	Gloss=-INTL
+3	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+5	esei	esei	n	_	_	_	_	_	Gloss=water
+6	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+7	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+8	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2013.III.S10__2
+# text = a u -le
+# doc_id = 2013.III.S10
+# origin_s_id = 2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2013.III.S10__3
+# doc_id = 2013.III.S10
+# origin_s_id = 3
+
+# sent_id = 2013.III.S10__4
+# doc_id = 2013.III.S10
+# origin_s_id = 4
+
+# sent_id = 2013.III.S10__5
+# text = u -mwi munwene
+# doc_id = 2013.III.S10
+# origin_s_id = 5
+1	u	u_2	v	_	_	_	_	_	Gloss=to_stay
+2	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+3	munwene	_	_	_	_	_	_	_	_
+
+# sent_id = 2013.III.S10__6
+# text = tei -io mene
+# doc_id = 2013.III.S10
+# origin_s_id = 6
+1	tei	tei_1	v	_	_	_	_	_	Gloss=to_go
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+3	mene	mene_1	v	_	_	_	_	_	Gloss=to_go
+
+# sent_id = 2013.III.S10__7
+# text = m- i -se -ne
+# doc_id = 2013.III.S10
+# origin_s_id = 7
+1	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	i	i	light verb	_	_	_	_	_	Gloss=to_go
+3	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2013.III.S10__8
+# text = tea -io mea -ne
+# doc_id = 2013.III.S10
+# origin_s_id = 8
+1	tea	tei_1	v	_	_	_	_	_	Gloss=to_come
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+3	mea	miʔa	v	_	_	_	_	_	Gloss=to_cross
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2013.III.S10__9
+# doc_id = 2013.III.S10
+# origin_s_id = 9
+
+# sent_id = 2013.III.S10__10
+# text = me- ne -ne m- nua -ne m- a -ne
+# doc_id = 2013.III.S10
+# origin_s_id = 11
+1	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+4	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+6	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+7	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+8	a	a_1	v	_	_	_	_	_	Gloss=to_come
+9	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+

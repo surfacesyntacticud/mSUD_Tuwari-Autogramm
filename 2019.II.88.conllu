@@ -1,0 +1,15 @@
+# sent_id = 2019.II.88__1
+# text = opo ofu -le -i
+# doc_id = 2019.II.88
+# origin_s_id = 1
+1	opo	opo	n	_	_	_	_	_	Gloss=bird
+2	ofu	ofu	n	_	_	_	_	_	Gloss=egg
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2019.II.88__2
+# text = opo
+# doc_id = 2019.II.88
+# origin_s_id = 2
+1	opo	opo	n	_	_	_	_	_	Gloss=bird
+

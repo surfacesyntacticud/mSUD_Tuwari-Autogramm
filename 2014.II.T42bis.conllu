@@ -1,0 +1,228 @@
+# sent_id = 2014.II.T42bis__1
+# text = heiani -fo flame -fo m- a -ne ho weteto efoe a -no -fo
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 1
+1	heiani	heiane	n  (fo)	_	_	_	_	_	Gloss=spear
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	flame	flame	n	_	_	_	_	_	Gloss=?
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+5	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	a	a_1	v	_	_	_	_	_	Gloss=to_come
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	ho	_	_	_	_	_	_	_	_
+9	weteto	weteto	v	_	_	_	_	_	Gloss=to_catch(for a spear)
+10	efoe	efoe	n	_	_	_	_	_	Gloss=body
+11	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+12	-no	-no_2	n:Tout	_	_	_	_	_	Gloss=-DEM2
+13	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+
+# sent_id = 2014.II.T42bis__2
+# text = wea kali -foi
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 2
+1	wea	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-foi	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+
+# sent_id = 2014.II.T42bis__3
+# text = mi- se -ne ko hali
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 3
+1	mi-	mi-	v:(dir-)	_	_	_	_	_	Gloss=up-
+2	se	se_2	v	_	_	_	_	_	Gloss=to_go
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+4	ko	ko	adv	_	_	_	_	_	Gloss=top
+5	hali	hali_1	n	_	_	_	_	_	Gloss=summit
+
+# sent_id = 2014.II.T42bis__4
+# text = m- u- se -ne ko hali
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 4.1
+1	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	u-	u-_1	v:(dir-)	_	_	_	_	_	Gloss=up-
+3	se	se_2	v	_	_	_	_	_	Gloss=to_go
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	ko	ko	adv	_	_	_	_	_	Gloss=top
+6	hali	hali_1	n	_	_	_	_	_	Gloss=summit
+
+# sent_id = 2014.II.T42bis__5
+# text = a nomu slo -mwii
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 4.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+3	slo	_	v	_	_	_	_	_	Gloss=to_sit
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.II.T42bis__6
+# text = a me- sele -se tiou -mwii
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 4.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+3	sele	sele_1	v	_	_	_	_	_	Gloss=to_sit
+4	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+5	tiou	tiao	v	_	_	_	_	_	Gloss=to_killap
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.II.T42bis__7
+# text = -nami nou
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 4.4
+1	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+2	nou	nou_1	n  (mo)	_	_	_	_	_	Gloss=bilum
+
+# sent_id = 2014.II.T42bis__8
+# text = soli tiapi sane heiani
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 4.5
+1	soli	soli	n  (fe)	_	_	_	_	_	Gloss=axe
+2	tiapi	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+3	sane	sane	n  (pe)	_	_	_	_	_	Gloss=bow
+4	heiani	heiane	n  (fo)	_	_	_	_	_	Gloss=spear
+
+# sent_id = 2014.II.T42bis__9
+# text = a mi- tiau -ne tei -mwi -io
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 4.6
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mi-	mi-	v:(dir-)	_	_	_	_	_	Gloss=up-
+3	tiau	tiao	v	_	_	_	_	_	Gloss=to_stand_up_wake_up
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	tei	tei_1	v	_	_	_	_	_	Gloss=to_go
+6	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.T42bis__10
+# text = taa -ma -e i -mwii
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 5.1
+1	taa	taa_1	n  (he)	_	_	_	_	_	Gloss=side
+2	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+3	-e	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	i	i	light verb	_	_	_	_	_	Gloss=to_go
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.II.T42bis__11
+# text = taa
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 5.2
+1	taa	taa_1	n  (he)	_	_	_	_	_	Gloss=side
+
+# sent_id = 2014.II.T42bis__12
+# text = waai taa -ia
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 5.3
+1	waai	waai_1	cardnum	_	_	_	_	_	Gloss=one
+2	taa	taa_1	n  (he)	_	_	_	_	_	Gloss=side
+3	-ia	_	_	_	_	_	_	_	_
+
+# sent_id = 2014.II.T42bis__13
+# text = a -io taai -ma mio- -mwii
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 5.4
+1	a	a_1	v	_	_	_	_	_	Gloss=to_go
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+3	taai	taai_1	adv	_	_	_	_	_	Gloss=other_side
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.II.T42bis__14
+# text = a mio- se mio- se mio- se tu- umo
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 5.5
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+3	se	se_2	v	_	_	_	_	_	Gloss=to_go
+4	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+5	se	se_2	v	_	_	_	_	_	Gloss=to_go
+6	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+7	se	se_2	v	_	_	_	_	_	Gloss=to_go
+8	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+9	umo	umo	n	_	_	_	_	_	Gloss=water?
+
+# sent_id = 2014.II.T42bis__15
+# text = umo -ma -mu mio- toto -mwii
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 5.6
+1	umo	umo	n	_	_	_	_	_	Gloss=water?
+2	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+3	-mu	-mu_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+4	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+5	toto	teto	v	_	_	_	_	_	Gloss=to_stand_up
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.II.T42bis__16
+# text = nomo solo -mwii
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 5.7
+1	nomo	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+2	solo	sele_1	v	_	_	_	_	_	Gloss=to_sit
+3	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.II.T42bis__17
+# text = fu -fo ko -ma solo -mwiio
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 5.8
+1	fu	fu_1	n  (fo)	_	_	_	_	_	Gloss=stone
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	ko	ko	adv	_	_	_	_	_	Gloss=top
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	solo	sele_1	v	_	_	_	_	_	Gloss=to_sit
+6	-mwiio	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.II.T42bis__18
+# text = me- sele -ne tiou -mwii
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 5.9
+1	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	sele	sele_1	v	_	_	_	_	_	Gloss=to_sit
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+4	tiou	tiao	v	_	_	_	_	_	Gloss=to_killap
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.II.T42bis__19
+# text = to motou wea -foi
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 6
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	motou	motou	cardnum	_	_	_	_	_	Gloss=one
+3	wea	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+4	-foi	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+
+# sent_id = 2014.II.T42bis__20
+# text = walu
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 7
+1	walu	walu	PN_oronym	_	_	_	_	_	Gloss=Mountain_Walu
+
+# sent_id = 2014.II.T42bis__21
+# text = toiso tete -hei
+# doc_id = 2014.II.T42bis
+# doc_title = 2014.II.T42bis
+# origin_s_id = 8
+1	toiso	toiso	n	_	_	_	_	_	Gloss=morning
+2	tete	tete_3	adv	_	_	_	_	_	Gloss=thru
+3	-hei	_	_	_	_	_	_	_	_
+

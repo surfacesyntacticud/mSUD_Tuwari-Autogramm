@@ -1,0 +1,441 @@
+# sent_id = 2014T55 __1
+# text = ta maa- mi ta maa- na -o wafo -nu mo- to -ne a fali ufu -ma ife -melio
+# text_en = mipla tasol (ta ma'a) katim wanpla diwai alima mi go pinis la hap (ufu-ma= la hap)
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.1
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	maa-	maa-_2	_	_	_	_	_	_	Gloss=only-
+3	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+4	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+5	maa-	maa-_2	_	_	_	_	_	_	Gloss=only-
+6	na	_	_	_	_	_	_	_	_
+7	-o	-o	n:(Class)	_	_	_	_	_	Gloss=-VI_tree
+8	wafo	wafe_1	adv	_	_	_	_	_	Gloss=downstream
+9	-nu	-nu_1	Noun	_	_	_	_	_	Gloss=-LOC
+10	mo-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+11	to	tou_1	v	_	_	_	_	_	Gloss=to_cut
+12	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+13	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+14	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+15	ufu	ufu	adv	_	_	_	_	_	Gloss=this_side
+16	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+17	ife	ife	adv	_	_	_	_	_	Gloss=upstream
+18	-melio	_	_	_	_	_	_	_	_
+
+# sent_id = 2014T55 __2
+# text = mi no maa- ne tlotlo lia sion -we so numo -ne tlotlo
+# text_en = noma'a = displa wanpla tlotlo = tasol , lia= pinisim sentence. Jon displa taim. so = time, de, wik....  ; sonumone tlotlo = sampla taim mi no save . mi luk save (mi lukim na mi sawe)
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.2
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	no	no_3	dem	_	_	_	_	_	Gloss=DEM2
+3	maa-	maa-_2	_	_	_	_	_	_	Gloss=one-
+4	ne	ne_1	v	_	_	_	_	_	Gloss=to_put
+5	tlotlo	tlotlo	ideo	_	_	_	_	_	Gloss=enough
+6	lia	lia	v	_	_	_	_	_	Gloss=to_spend_time
+7	sion	sion	PN	_	_	_	_	_	Gloss=John
+8	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+9	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+10	numo	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+11	-ne	-ne_5	Pro-form	_	_	_	_	_	Gloss=-DEM2.CONTRAST
+12	tlotlo	tlotlo	ideo	_	_	_	_	_	Gloss=to_be_full
+
+# sent_id = 2014T55 __3
+# text = ta fefe -ni heni amlo -wo a f- aoweli -ne
+# text_en = taro blo mipla em i stap olsem mi no lukim gud
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.3
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+3	-ni	-no_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-DEM2
+4	heni	henia_2	dem	_	_	_	_	_	Gloss=this_way
+5	amlo	amlo	dem	_	_	_	_	_	Gloss=?
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+7	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+8	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+9	aoweli	_	_	_	_	_	_	_	_
+10	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+
+# sent_id = 2014T55 __4
+# text = so numo -ne tlotlo iono -mwe nemehe
+# text_en = displa taim john em i lukim
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.4
+1	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+2	numo	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+3	-ne	-ne_5	Pro-form	_	_	_	_	_	Gloss=-DEM2.CONTRAST
+4	tlotlo	tlotlo	ideo	_	_	_	_	_	Gloss=to_be_full
+5	iono	sion	PN	_	_	_	_	_	Gloss=John
+6	-mwe	-mwe_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=DEM1:3SG.M
+7	nemehe	nemehe	pro	_	_	_	_	_	Gloss=DEM2:DEM1:DEM4_this
+
+# sent_id = 2014T55 __5
+# text = mle -ne -na mi -o motototu sopu mamo haali
+# text_en = olsem na  go down planim onepla diwai (as bl diwai, liklik) (kustom blo stretim tarot)
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.5
+1	mle	mle	pers	_	_	_	_	_	Gloss=DEM1:PL
+2	-ne	-ne_5	Pro-form	_	_	_	_	_	Gloss=-DEM2.CONTRAST
+3	-na	-na_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?INTSFIER?
+4	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+5	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+6	motototu	_	_	_	_	_	_	_	_
+7	sopu	sopu	n	_	_	_	_	_	Gloss=young
+8	mamo	mamo_1	n	_	_	_	_	_	Gloss=brother_of_the_mother
+9	haali	haali	v	_	_	_	_	_	Gloss=to_fight
+
+# sent_id = 2014T55 __6
+# text = nemehe -ne tlotlo ili -nai io -lo mehe
+# text_en = displa taim bai mipla makim olsem
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.6
+1	nemehe	nemehe	pro	_	_	_	_	_	Gloss=DEM2:DEM1:DEM4_this
+2	-ne	-ne_5	Pro-form	_	_	_	_	_	Gloss=-DEM2.CONTRAST
+3	tlotlo	tlotlo	ideo	_	_	_	_	_	Gloss=algeta
+4	ili	_	_	_	_	_	_	_	_
+5	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+6	io	io	v	_	_	_	_	_	Gloss=to_go
+7	-lo	-lo_4	v:(Tense)	_	_	_	_	_	Gloss=-PST
+8	mehe	mehe	pers	_	_	_	_	_	Gloss=DEM1:DEM4_it
+
+# sent_id = 2014T55 __7
+# text = fefe no so -nomoli kokua a -mo -i
+# text_en = sapos displa taim fefe em i no gut em bagarap i stap
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.7
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	no	no_3	dem	_	_	_	_	_	Gloss=DEM2
+3	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+4	-nomoli	_	_	_	_	_	_	_	_
+5	kokua	kokua	adj	_	_	_	_	_	Gloss=bad
+6	a	a_1	v	_	_	_	_	_	Gloss=to_go
+7	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+8	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014T55 __8
+# text = tlotlo fefe -ni
+# text_en = displa taim taro no gut
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.8
+1	tlotlo	tlotlo	ideo	_	_	_	_	_	Gloss=algeta
+2	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+3	-ni	-no_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-DEM2
+
+# sent_id = 2014T55 __9
+# text = waro ok waro tlotlo honua nomo -nue ta -lo honu m- a -ne
+# text_en = displa taim lapun wanai kam slip wantem mipla
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.9
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	ok	ok	interj	_	_	_	_	_	Gloss=ok
+3	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+4	tlotlo	tlotlo	ideo	_	_	_	_	_	Gloss=algeta
+5	honua	honua	n	_	_	_	_	_	Gloss=elder
+6	nomo	nomo_1	n	_	_	_	_	_	Gloss=eye
+7	-nue	-nwe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-DEM2:SG.M
+8	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+9	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+10	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+11	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+12	a	a_1	v	_	_	_	_	_	Gloss=to_come
+13	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2014T55 __10
+# text = waro
+# text_en = em
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.10
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+
+# sent_id = 2014T55 __11
+# text = waro -mwe -io timoti -n -uo -lo name -nwo -lo waro nomu u -wo
+# text_en = (one eye to timoty) yu stap na harim
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.11
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	-mwe	-mwe_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	timoti	timoti	PN	_	_	_	_	_	Gloss=Timothy
+5	-n	-no_2	n:Tout	_	_	_	_	_	Gloss=-DEM2
+6	-uo	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+7	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+8	name	name	n	_	_	_	_	_	Gloss=thing (namele, namene)
+9	-nwo	-nwe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-DEM2:SG.M
+10	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+11	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+12	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+13	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+14	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014T55 __12
+# text = waro mwe ife -ma -mu
+# text_en = lo antap em (wan-eye) i talkim em (to timoty)
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.12
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+3	ife	ife	adv	_	_	_	_	_	Gloss=upstream
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	-mu	-mu_2	Noun	_	_	_	_	_	Gloss=-LOC/ABL?
+
+# sent_id = 2014T55 __13
+# text = waro en ples sumwari
+# text_en = em i talk lo sumwari
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.13
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	en	ano_2	v	_	_	_	_	_	Gloss=to_round_make_build
+3	ples	ples	n	_	_	_	_	_	Gloss=place
+4	sumwari	sumwari	PN_toponyme	_	_	_	_	_	Gloss=Sumwari
+
+# sent_id = 2014T55 __14
+# text = waro awa me
+# text_en = brata (timoty : wan-eye is brata blo timoty) yu i stap na harim
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.14
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	awa	awa	n	_	_	_	_	_	Gloss=sibling
+3	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+
+# sent_id = 2014T55 __15
+# text = waro nemehe
+# text_en = lone i stap lo akusta (name blo meri, kustom pikini blo wan eye) ??? : akusta no givim money to wan eye
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.15
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	nemehe	nemehe	pro	_	_	_	_	_	Gloss=DEM2:DEM1:DEM4_this
+
+# sent_id = 2014T55 __16
+# text = waro lo nemehe
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.16
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+3	nemehe	nemehe	pro	_	_	_	_	_	Gloss=DEM2:DEM1:DEM4_this
+
+# sent_id = 2014T55 __17
+# text = honua
+# text_en = Ron i stap lo akusta em i no givim hed pay (père d'akusta mort) lo lupen (papa blo akusta)
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.17
+1	honua	honua	n	_	_	_	_	_	Gloss=elder
+
+# sent_id = 2014T55 __18
+# text = waro
+# text_en = olsem na brata (timoty) yu stap na harim
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.18
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+
+# sent_id = 2014T55 __19
+# text = waro nomu a -ne -fe mali -o
+# text_en = long displa hap i stap hungry
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.19
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+3	a	o_4	v	_	_	_	_	_	Gloss=to_eat
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+6	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+7	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014T55 __20
+# text = waro nemehe -li fei -io waro le ne lui
+# text_en = mi tok pinis
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.20
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	nemehe	nemehe	pro	_	_	_	_	_	Gloss=DEM2:DEM1:DEM4_this
+3	-li	-li_1	Pro-form	_	_	_	_	_	Gloss=-?
+4	fei	fa_1	v	_	_	_	_	_	Gloss=to_cry
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+6	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+7	le	lo_2	v	_	_	_	_	_	Gloss=to_make
+8	ne	ne_1	v	_	_	_	_	_	Gloss=to_put
+9	lui	lui	v	_	_	_	_	_	Gloss=?
+
+# sent_id = 2014T55 __21
+# text = waro
+# text_en = belhot long akusta
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.21
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+
+# sent_id = 2014T55 __22
+# text = waro oteia -nue i -io
+# text_en = em i laik go now na tok save lo timoty
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.22
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	oteia	oto	n	_	_	_	_	_	Gloss=young_woman_not_maried
+3	-nue	-nwe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-DEM2:SG.M
+4	i	i	light verb	_	_	_	_	_	Gloss=to_go
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014T55 __23
+# text = waro lo to
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.23
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+3	to	to_1	n	_	_	_	_	_	Gloss=man
+
+# sent_id = 2014T55 __24
+# text = mali -tele -ne i -mwii
+# text_en = hofa = today bai i go (timoty) na tok save lo kuntry blong en (tambu blo imanuel = Elemelia = christian name = inok)
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.24
+1	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+2	-tele	-tele	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=completely
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+4	i	i	light verb	_	_	_	_	_	Gloss=to_be
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014T55 __25
+# text = waro io mwe
+# text_en = timoty em toktok
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.25
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	io	io	v	_	_	_	_	_	Gloss=to_come
+3	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+
+# sent_id = 2014T55 __26
+# text = waro wolo
+# text_en = (timoty) tok save lo matin
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.26
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	wolo	wolo	n	_	_	_	_	_	Gloss=water
+
+# sent_id = 2014T55 __27
+# text = waro mwe timoti
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.27
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+3	timoti	timoti	PN	_	_	_	_	_	Gloss=Timothy
+
+# sent_id = 2014T55 __28
+# text = -mwii
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.28
+1	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014T55 __29
+# text = meio awa asi fenia
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.29
+1	meio	mei	?	_	_	_	_	_	Gloss=QUOTED_SPEECH
+2	awa	awa	n	_	_	_	_	_	Gloss=sibling
+3	asi	asi	PN_hydronym	_	_	_	_	_	Gloss=Asi_river
+4	fenia	feni_1	n  (fo)	_	_	_	_	_	Gloss=thought
+
+# sent_id = 2014T55 __30
+# text = ei fefe sinari -le maia aleiio kono famo
+# text_en = wan eye  i stap antap tok save lo timoty ielifu (=christian timoty). Yupla no givim money blo mi ? Yupla now kaikai taro koko na amamas he ?
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.30
+1	ei	mei	?	_	_	_	_	_	Gloss=QUOTED_SPEECH
+2	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+3	sinari	sinali	n	_	_	_	_	_	Gloss=sweet_potato
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	maia	maia	v	_	_	_	_	_	Gloss=to_must
+6	aleiio	_	_	_	_	_	_	_	_
+7	kono	kono_1	v	_	_	_	_	_	Gloss=NC_feel?__no_good
+8	famo	famo	interrog	_	_	_	_	_	Gloss=or_no?
+
+# sent_id = 2014T55 __31
+# text = waro tuafe otue -le ka- nefi -na no i
+# text_en = next time he came hir mipla bai no givim kai kai long en
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.31
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	tuafe	tuafe	adv	_	_	_	_	_	Gloss=behind
+3	otue	otue	n	_	_	_	_	_	Gloss=food
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+6	nefi	nefi_1	v	_	_	_	_	_	Gloss=to_give
+7	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+8	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+9	i	i	light verb	_	_	_	_	_	Gloss=to_go
+
+# sent_id = 2014T55 __32
+# text = waro waro neme waro neme ha -ha
+# text_en = displa em bai olsem
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.32
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+3	neme	neme_1	v	_	_	_	_	_	Gloss=i_stap
+4	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+5	neme	neme_1	v	_	_	_	_	_	Gloss=i_stap
+6	ha	ha_1	adj	_	_	_	_	_	Gloss=small
+7	-ha	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+
+# sent_id = 2014T55 __33
+# text = waro lo i i -na no nau
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.33
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+3	i	i	light verb	_	_	_	_	_	Gloss=to_go
+4	i	i	light verb	_	_	_	_	_	Gloss=to_go
+5	-na	-na_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?INTSFIER?
+6	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+7	nau	nau	n	_	_	_	_	_	Gloss=smoke_or_light
+
+# sent_id = 2014T55 __34
+# text = waro ok fo -ne -nami a ia iomoli le te- mali ofa fa
+# text_en = Nau mi lukim toktok stret longtaikm mipla toking no gut
+# doc_id = 2014T55
+# doc_title = 2014T55_251_waro_taro TODO
+# origin_s_id = 1.34
+1	waro	waro	PN	_	_	_	_	_	Gloss=Waro
+2	ok	ok	interj	_	_	_	_	_	Gloss=ok
+3	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+6	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+7	ia	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+8	iomoli	iaamela	v	_	_	_	_	_	Gloss=to_correct
+9	le	lo_2	v	_	_	_	_	_	Gloss=to_make
+10	te-	te-_2	v:(Modality1)	_	_	_	_	_	Gloss=JUSS-
+11	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+12	ofa	ofa	adv	_	_	_	_	_	Gloss=today_morning
+13	fa	fa_2	adv	_	_	_	_	_	Gloss=yet
+

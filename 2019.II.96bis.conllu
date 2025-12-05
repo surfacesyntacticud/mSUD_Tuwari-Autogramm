@@ -1,0 +1,98 @@
+# sent_id = 2019.II.96bis__1
+# text = ta honu tiei -le -i
+# doc_id = 2019.II.96bis
+# origin_s_id = 1.1
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+3	tiei	sele_1	v	_	_	_	_	_	Gloss=to_sit
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.96bis__2
+# text = me tia nomu sele
+# doc_id = 2019.II.96bis
+# origin_s_id = 1.2
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	tia	tea	v	_	_	_	_	_	Gloss=to_kam
+3	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+4	sele	sele_1	v	_	_	_	_	_	Gloss=to_sit
+
+# sent_id = 2019.II.96bis__3
+# text = me tei -io ta honu tie -io
+# doc_id = 2019.II.96bis
+# origin_s_id = 2
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	tei	tei_1	v	_	_	_	_	_	Gloss=to_go
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+5	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+6	tie	tia_1	v	_	_	_	_	_	Gloss=to_sit
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.96bis__4
+# text = tiʔa
+# doc_id = 2019.II.96bis
+# origin_s_id = 3.1
+1	tiʔa	tiaai	v	_	_	_	_	_	Gloss=kam
+
+# sent_id = 2019.II.96bis__5
+# text = tiʔa
+# doc_id = 2019.II.96bis
+# origin_s_id = 3.2
+1	tiʔa	tiaai	v	_	_	_	_	_	Gloss=to_go
+
+# sent_id = 2019.II.96bis__6
+# text = a menia -fo oflei niolo lo
+# doc_id = 2019.II.96bis
+# origin_s_id = 4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	menia	menia	n  (fo)	_	_	_	_	_	Gloss=clothes
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	oflei	oflei	v	_	_	_	_	_	Gloss=to_turn
+5	niolo	niolo	v	_	_	_	_	_	Gloss=put_down
+6	lo	lo_2	v	_	_	_	_	_	Gloss=to_have
+
+# sent_id = 2019.II.96bis__7
+# text = wapuso tepeso
+# doc_id = 2019.II.96bis
+# origin_s_id = 5
+1	wapuso	wapuso	PN_toponyme	_	_	_	_	_	Gloss=Wapuso
+2	tepeso	tepeso	PN_toponyme	_	_	_	_	_	Gloss=Tepeso
+
+# sent_id = 2019.II.96bis__8
+# text = heiane salepu -oi
+# doc_id = 2019.II.96bis
+# origin_s_id = 6.1
+1	heiane	heiane	n  (fo)	_	_	_	_	_	Gloss=spear
+2	salepu	salepu	_	_	_	_	_	_	Gloss=pig_arrow
+3	-oi	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+
+# sent_id = 2019.II.96bis__9
+# text = tlam
+# doc_id = 2019.II.96bis
+# origin_s_id = 6.2
+1	tlam	tlam	n	_	_	_	_	_	Gloss=(petrol)drum
+
+# sent_id = 2019.II.96bis__10
+# text = a samwel -we -lo -ma i -mwii
+# doc_id = 2019.II.96bis
+# origin_s_id = 7.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	samwel	samuel	PN	_	_	_	_	_	Gloss=Samuel
+3	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+4	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+5	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+6	i	i	light verb	_	_	_	_	_	Gloss=to_go
+7	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2019.II.96bis__11
+# text = a samwele la -ne i -mwii
+# doc_id = 2019.II.96bis
+# origin_s_id = 7.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	samwele	samuel	PN	_	_	_	_	_	Gloss=Samuel
+3	la	lei_1	v	_	_	_	_	_	Gloss=to_look
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

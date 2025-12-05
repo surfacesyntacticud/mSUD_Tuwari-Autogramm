@@ -1,0 +1,258 @@
+# sent_id = 2019.I.13Dcom__1
+# text = a wafe -ma tema -fo fo -ne mio -wo
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 1.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	wafe	wafe_1	adv	_	_	_	_	_	Gloss=downstream
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	tema	tema	n  (fo)	_	_	_	_	_	Gloss=fence
+5	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+6	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+9	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__2
+# text = a ife -ma tema -fo fo -ne i -io
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 1.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ife	ife	adv	_	_	_	_	_	Gloss=upstream
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	tema	tema	n  (fo)	_	_	_	_	_	Gloss=fence
+5	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+6	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	i	i	light verb	_	_	_	_	_	Gloss=to_go
+9	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__3
+# text = a wea -ma tema -fo fo -ne u -wo
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 1.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	wea	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	tema	tema	n  (fo)	_	_	_	_	_	Gloss=fence
+5	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+6	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	u	u_3	v	_	_	_	_	_	Gloss=to_go_up
+9	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__4
+# text = a tu- -ma tema -fo fo -ne mio -wo miio -wo
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 1.4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	tema	tema	n  (fo)	_	_	_	_	_	Gloss=fence
+5	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+6	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+9	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+10	miio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+11	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__5
+# text = mio u -wo
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 1.5
+1	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+2	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+3	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__6
+# text = tu- ola'o kali -fo -i
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 2.1
+1	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+2	ola'o	ola'o	n	_	_	_	_	_	Gloss=nambis
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__7
+# text = tu- upase -ma u -wo
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 2.2
+1	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+2	upase	upase	n  (he)	_	_	_	_	_	Gloss=sand_bank
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__8
+# text = keisiiolo -ho -io keisalo -ho -io
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 3
+1	keisiiolo	keisiiolo	interj	_	_	_	_	_	Gloss=good_afternoon!
+2	-ho	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	keisalo	keisiiolo	n	_	_	_	_	_	Gloss=apinun
+5	-ho	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__9
+# text = mi omoli -a -le
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 4.1
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	omoli	omoli	adj	_	_	_	_	_	Gloss=straight
+3	-a	-a_2	n:Tout	_	_	_	_	_	Gloss=-?
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2019.I.13Dcom__10
+# text = mi omole fia fia
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 4.2
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	omole	omoli	adj	_	_	_	_	_	Gloss=straight
+3	fia	fia	adv	_	_	_	_	_	Gloss=straight_ahead
+4	fia	fia	adv	_	_	_	_	_	Gloss=straight_ahead
+
+# sent_id = 2019.I.13Dcom__11
+# text = mi wao lali -o -io
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 5.1
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	wao	wao	n	_	_	_	_	_	Gloss=tree_specie
+3	lali	_	_	_	_	_	_	_	_
+4	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__12
+# text = mi wao lali kali -fo -io
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 5.2
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	wao	wao	n	_	_	_	_	_	Gloss=tree_specie
+3	lali	_	_	_	_	_	_	_	_
+4	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+5	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__13
+# text = mi -o -i
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 6.1
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__14
+# text = mi -fo -i
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 6.2
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__15
+# text = mi wowei -o -i
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 7.1
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	wowei	wowei	n	_	_	_	_	_	Gloss=tree_species
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__16
+# text = mi wowei esiei -o -i
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 7.2
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	wowei	wowei	n	_	_	_	_	_	Gloss=tree_species
+3	esiei	esiei	adj	_	_	_	_	_	Gloss=dry
+4	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__17
+# text = mi toni
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 8
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	toni	toni_1	n	_	_	_	_	_	Gloss=tree_species
+
+# sent_id = 2019.I.13Dcom__18
+# text = mi meniaalapo -o -i
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 9
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	meniaalapo	meniaalapo	n	_	_	_	_	_	Gloss=tree_species
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__19
+# text = mi heliwiise -o -i
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 10
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	heliwiise	heliwiise	n	_	_	_	_	_	Gloss=tree_species
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__20
+# text = mi heisepi
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 11
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	heisepi	heisepi	n	_	_	_	_	_	Gloss=tree_species
+
+# sent_id = 2019.I.13Dcom__21
+# text = mi iambo -o -i
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 12
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	iambo	iambo	n	_	_	_	_	_	Gloss=tree_species
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__22
+# text = mi paso -o -i
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 13
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	paso	paso	n	_	_	_	_	_	Gloss=tree_species
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__23
+# text = mi hemesi tepasu -fo -i
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 14
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	hemesi	hemesi	n	_	_	_	_	_	Gloss=bark_floor
+3	tepasu	tepasu	n	_	_	_	_	_	Gloss=nambis bilum
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__24
+# text = a onoma tei -io
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 15.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	onoma	onoma	adv	_	_	_	_	_	Gloss=to_house
+3	tei	tei_1	v	_	_	_	_	_	Gloss=to_go
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__25
+# text = tale onoma tea -io
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 15.2
+1	tale	tale	pers	_	_	_	_	_	Gloss=1DU.brother
+2	onoma	onoma	adv	_	_	_	_	_	Gloss=to_house
+3	tea	tei_1	v	_	_	_	_	_	Gloss=to_go
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.13Dcom__26
+# text = ta onoma tea -io
+# doc_id = 2019.I.13Dcom
+# origin_s_id = 15.3
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	onoma	onoma	adv	_	_	_	_	_	Gloss=to_house
+3	tea	tei_1	v	_	_	_	_	_	Gloss=to_go
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

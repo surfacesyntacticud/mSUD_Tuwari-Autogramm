@@ -1,0 +1,76 @@
+# sent_id = 2019.I.45S__1
+# text = me onoma to- u -mwii
+# doc_id = 2019.I.45S
+# origin_s_id = 1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	onoma	onoma	adv	_	_	_	_	_	Gloss=to_house
+3	to-	to-_1	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	u	u_3	v	_	_	_	_	_	Gloss=to_go_up
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2019.I.45S__2
+# text = to nele fali miuleli -io
+# doc_id = 2019.I.45S
+# origin_s_id = 2
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	nele	nele_1	pers	_	_	_	_	_	Gloss=all
+3	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+4	miuleli	_	_	_	_	_	_	_	_
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.45S__3
+# text = he o -sapo awa -wo u -wo
+# doc_id = 2019.I.45S
+# origin_s_id = 3.1
+1	he	he_2	poss	_	_	_	_	_	Gloss=2SG.F.POSS
+2	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+3	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+4	awa	awa	n	_	_	_	_	_	Gloss=sibling
+5	-wo	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+6	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.45S__4
+# text = awa -we m- a -ne he o -sapo u -wo
+# doc_id = 2019.I.45S
+# origin_s_id = 3.2
+1	awa	awa	n	_	_	_	_	_	Gloss=sibling
+2	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+3	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	a	a_1	v	_	_	_	_	_	Gloss=to_come
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	he	he_2	poss	_	_	_	_	_	Gloss=2SG.F.POSS
+7	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+8	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+9	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+10	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.45S__5
+# text = a mesi -mo feijou u -pao -ma mene m- opule -ne iowe me- tefi -lea ahali -fo m- opulo aha aha mena -fo -i
+# doc_id = 2019.I.45S
+# origin_s_id = 4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mesi	mesi_2	n	_	_	_	_	_	Gloss=hook
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	feijou	feiolu	v	_	_	_	_	_	Gloss=to_throw
+5	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+6	-pao	-pao	Noun	_	_	_	_	_	Gloss=deep
+7	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+8	mene	mene_1	v	_	_	_	_	_	Gloss=to_go
+9	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+10	opule	opule	v	_	_	_	_	_	Gloss=to_throw
+11	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+12	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+13	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+14	tefi	tefi	v	_	_	_	_	_	Gloss=to_push_to_pull
+15	-lea	-lia	v:(Tense2)	_	_	_	_	_	Gloss=-?
+16	ahali	_	_	_	_	_	_	_	_
+17	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+18	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+19	opulo	opule	v	_	_	_	_	_	Gloss=to_hang
+20	aha	nahaa	v	_	_	_	_	_	Gloss=to_gather
+21	aha	nahaa	v	_	_	_	_	_	Gloss=to_gather
+22	mena	mesi_2	n	_	_	_	_	_	Gloss=hook
+23	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+24	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

@@ -1,0 +1,138 @@
+# sent_id = 2015.I.S17__1
+# text = pe -sapo ko -ma lo -wo
+# doc_id = 2015.I.S17
+# doc_title = 2015.I.S17 Topological relation
+# origin_s_id = 1.1
+1	pe	pe_1	n  (sapoi)sapo	_	_	_	_	_	Gloss=bed
+2	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+3	ko	ko	adv	_	_	_	_	_	Gloss=top
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S17__2
+# text = eise
+# doc_id = 2015.I.S17
+# doc_title = 2015.I.S17 Topological relation
+# origin_s_id = 1.2
+1	eise	eise	n	_	_	_	_	_	Gloss=board
+
+# sent_id = 2015.I.S17__3
+# text = kapi -sehe ko eise tao -ma lo -wo
+# doc_id = 2015.I.S17
+# doc_title = 2015.I.S17 Topological relation
+# origin_s_id = 1.3
+1	kapi	kapi_2	n	_	_	_	_	_	Gloss=cup
+2	-sehe	-sehe	_	_	_	_	_	_	Gloss=-DEM3:DEM4
+3	ko	ko	adv	_	_	_	_	_	Gloss=top
+4	eise	eise	n	_	_	_	_	_	Gloss=board
+5	tao	taa_1	n  (he)	_	_	_	_	_	Gloss=side
+6	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+7	lo	lo_2	v	_	_	_	_	_	Gloss=to_be_located
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S17__4
+# text = eise -te eise tao
+# doc_id = 2015.I.S17
+# doc_title = 2015.I.S17 Topological relation
+# origin_s_id = 1.4
+1	eise	eise	n	_	_	_	_	_	Gloss=board
+2	-te	-te_2	Adverb	_	_	_	_	_	Gloss=along
+3	eise	eise	n	_	_	_	_	_	Gloss=board
+4	tao	taa_1	n  (he)	_	_	_	_	_	Gloss=side
+
+# sent_id = 2015.I.S17__5
+# text = inale -fo eseise se onoma lo -wo
+# doc_id = 2015.I.S17
+# doc_title = 2015.I.S17 Topological relation
+# origin_s_id = 2.1
+1	inale	inale	n	_	_	_	_	_	Gloss=pumpkin
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	eseise	eseise	n  (he)	_	_	_	_	_	Gloss=plate
+4	se	se_1	v	_	_	_	_	_	Gloss=to_make
+5	onoma	onoma	adv	_	_	_	_	_	Gloss=to_house
+6	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S17__6
+# text = eseise kali -he
+# doc_id = 2015.I.S17
+# doc_title = 2015.I.S17 Topological relation
+# origin_s_id = 2.2
+1	eseise	eseise	n  (he)	_	_	_	_	_	Gloss=plate
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+
+# sent_id = 2015.I.S17__7
+# text = hahe
+# doc_id = 2015.I.S17
+# doc_title = 2015.I.S17 Topological relation
+# origin_s_id = 3.1
+1	hahe	hahe	n	_	_	_	_	_	Gloss=cap
+
+# sent_id = 2015.I.S17__8
+# text = hahe tise -ma mopolu -lo -wo
+# text_en = put a cap on the head.
+# doc_id = 2015.I.S17
+# doc_title = 2015.I.S17 Topological relation
+# origin_s_id = 3.2
+1	hahe	hahe	n	_	_	_	_	_	Gloss=cap
+2	tise	tese	n	_	_	_	_	_	Gloss=head_top
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	mopolu	mopolu	v	_	_	_	_	_	Gloss=to_put
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S17__9
+# text = heifo o -sapo tema slo -wo
+# doc_id = 2015.I.S17
+# doc_title = 2015.I.S17 Topological relation
+# origin_s_id = 4.1
+1	heifo	heifo_1	n  (mo)	_	_	_	_	_	Gloss=dog
+2	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+3	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+4	tema	tema	n  (fo)	_	_	_	_	_	Gloss=fence
+5	slo	sele_1	v	_	_	_	_	_	Gloss=to_stay
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S17__10
+# text = heifo o -sapo homo -fe -ma slo -wo
+# doc_id = 2015.I.S17
+# doc_title = 2015.I.S17 Topological relation
+# origin_s_id = 4.2
+1	heifo	heifo_1	n  (mo)	_	_	_	_	_	Gloss=dog
+2	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+3	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+4	homo	homo	adv	_	_	_	_	_	Gloss=outside
+5	-fe	-fe_5	Adposition	_	_	_	_	_	Gloss=outside
+6	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+7	slo	sele_1	v	_	_	_	_	_	Gloss=to_sit
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S17__11
+# text = haotapisia
+# doc_id = 2015.I.S17
+# doc_title = 2015.I.S17 Topological relation
+# origin_s_id = 5.1
+1	haotapisia	haotapisia	n	_	_	_	_	_	Gloss=spider
+
+# sent_id = 2015.I.S17__12
+# text = haomese
+# doc_id = 2015.I.S17
+# doc_title = 2015.I.S17 Topological relation
+# origin_s_id = 5.2
+1	haomese	haomese	n	_	_	_	_	_	Gloss=spider_net
+
+# sent_id = 2015.I.S17__13
+# text = haotapisia ko mna -ma a naano -wo
+# doc_id = 2015.I.S17
+# doc_title = 2015.I.S17 Topological relation
+# origin_s_id = 5.3
+1	haotapisia	haotapisia	n	_	_	_	_	_	Gloss=spider
+2	ko	ko	adv	_	_	_	_	_	Gloss=top
+3	mna	mna	n	_	_	_	_	_	Gloss=?
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	a	a_1	v	_	_	_	_	_	Gloss=to_go
+6	naano	naano_1	v	_	_	_	_	_	Gloss=to_round
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

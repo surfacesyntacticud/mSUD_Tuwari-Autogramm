@@ -1,0 +1,470 @@
+# sent_id = 2013T1__1
+# text = ofa toiso mi- tia -i -ne ofa toiso sante moina
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.1
+1	ofa	ofa	adv	_	_	_	_	_	Gloss=today
+2	toiso	toiso	n	_	_	_	_	_	Gloss=morning
+3	mi-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	tia	tia_1	v	_	_	_	_	_	Gloss=to_rest
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+6	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+7	ofa	ofa	adv	_	_	_	_	_	Gloss=today
+8	toiso	toiso	n	_	_	_	_	_	Gloss=morning
+9	sante	sande	n	_	_	_	_	_	Gloss=sunday
+10	moina	moina	n	_	_	_	_	_	Gloss=morning
+
+# sent_id = 2013T1__2
+# text = ta ofa toiso mi- tia -i -ne tii -lii
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.2
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	ofa	ofa	adv	_	_	_	_	_	Gloss=today
+3	toiso	toiso	n	_	_	_	_	_	Gloss=morning
+4	mi-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	tia	tia_1	v	_	_	_	_	_	Gloss=to_rest
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	tii	tii	v	_	_	_	_	_	Gloss=?
+9	-lii	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2013T1__3
+# text = u kali mia a -mwi -na
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.3
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	mia	_	_	_	_	_	_	_	_
+4	a	a_1	v	_	_	_	_	_	Gloss=to_go
+5	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+6	-na	-na_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?INTSFIER?
+
+# sent_id = 2013T1__4
+# text = ta homo si f- i -nai -le -io
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.4
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	homo	homo	n	_	_	_	_	_	Gloss=bush
+3	si	si_2	n  (fo)	_	_	_	_	_	Gloss=bush_ground
+4	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+7	-le	-le_3	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T1__5
+# text = ta
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.5
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+
+# sent_id = 2013T1__6
+# text = mi- tia -ne mi- tia -ne te to -ne nomo sipia -le male -ne i -le iowe ii -lei
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.6
+1	mi-	m-	v:Tout	_	_	_	_	_	Gloss=CONSEC
+2	tia	tia_1	v	_	_	_	_	_	Gloss=to_rest
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+4	mi-	m-	v:Tout	_	_	_	_	_	Gloss=CONSEC
+5	tia	tia_1	v	_	_	_	_	_	Gloss=to_rest
+6	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+7	te	te_1	n	_	_	_	_	_	Gloss=woman->wife?
+8	to	to_1	n	_	_	_	_	_	Gloss=man
+9	-ne	-ne_3	Noun	_	_	_	_	_	Gloss=-?
+10	nomo	nomo_1	n	_	_	_	_	_	Gloss=eye
+11	sipia	sipia	adj	_	_	_	_	_	Gloss=close
+12	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+13	male	mali	v	_	_	_	_	_	Gloss=to_pray
+14	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+15	i	i	light verb	_	_	_	_	_	Gloss=to_be
+16	-le	-le_3	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+17	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+18	ii	io	v	_	_	_	_	_	Gloss=to_go
+19	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2013T1__7
+# text = male -aplo -mwii nomo sipia -le -i male -aplo -mwii
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.7
+1	male	mali	v	_	_	_	_	_	Gloss=to_pray
+2	-aplo	-aple	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PRF
+3	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+4	nomo	nomo_1	n	_	_	_	_	_	Gloss=eye
+5	sipia	sipia	adj	_	_	_	_	_	Gloss=close
+6	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+7	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+8	male	mali	v	_	_	_	_	_	Gloss=to_pray
+9	-aplo	-aple	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PRF
+10	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2013T1__8
+# text = wa- ma -ne
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.8
+1	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+2	ma	ma	v	_	_	_	_	_	Gloss=to_go
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2013T1__9
+# text = efe napomai -mwii mwe m- a -ne ta -lo honu u -mwii
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.9
+1	efe	efe_2	n  (mo)	_	_	_	_	_	Gloss=skin
+2	napomai	napomai	adj	_	_	_	_	_	Gloss=yellow_pink?
+3	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+4	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+5	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	a	a_1	v	_	_	_	_	_	Gloss=to_come
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+9	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+10	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+11	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+12	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2013T1__10
+# text = mwe iah tokples ia -nehe ne -no -wo
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.10
+1	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+2	iah	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+3	tokples	tokples	n	_	_	_	_	_	Gloss=vernacular
+4	ia	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+5	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+6	ne	ne_1	v	_	_	_	_	_	Gloss=to_understand
+7	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PURP
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T1__11
+# text = mio waha'ai -mwii
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.11
+1	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+2	waha'ai	_	_	_	_	_	_	_	_
+3	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2013T1__12
+# text = mio naha'ai -mwii ta mwe tuali io -sapo lua mne fi -aple
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.12
+1	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+2	naha'ai	_	_	_	_	_	_	_	_
+3	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+4	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+5	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+6	tuali	tuali	n	_	_	_	_	_	Gloss=dance
+7	io	_	_	_	_	_	_	_	_
+8	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+9	lua	iolua	cardnum	_	_	_	_	_	Gloss=two
+10	mne	_	_	_	_	_	_	_	_
+11	fi	fe_1	n  (sapoi)sapo	_	_	_	_	_	Gloss=song
+12	-aple	-aple	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PRF
+
+# sent_id = 2013T1__13
+# text = ta -lo honu u -no -wo
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.13
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+3	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+4	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+5	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-FUT
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T1__14
+# text = u -nai fe- male -ne
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.14
+1	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+2	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+3	fe-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+4	male	mali	v	_	_	_	_	_	Gloss=to_talk
+5	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+
+# sent_id = 2013T1__15
+# text = m- ne male m- ne male ne -o
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.15
+1	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+3	male	mali	v	_	_	_	_	_	Gloss=to_talk
+4	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+6	male	mali	v	_	_	_	_	_	Gloss=to_talk
+7	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+8	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T1__16
+# text = male -aplo -ne ia -mwii
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.16
+1	male	mali	v	_	_	_	_	_	Gloss=to_talk
+2	-aplo	-aple	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PRF
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+4	ia	ia_1	v	_	_	_	_	_	Gloss=to_go
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2013T1__17
+# text = m i tia -ne a miiane so -le u -mwii
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.17
+1	m	mo_1	pers	_	_	_	_	_	Gloss=DEM1.3SG.NOT_HUM
+2	i	i	light verb	_	_	_	_	_	Gloss=to_go
+3	tia	sele_1	v	_	_	_	_	_	Gloss=to_be(in_such_condition)
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+6	miiane	_	_	_	_	_	_	_	_
+7	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+8	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+9	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+10	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2013T1__18
+# text = tue -s -le kemia insopu -lo tu -lei
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.18
+1	tue	tuwe	adv	_	_	_	_	_	Gloss=half
+2	-s	se_4	n:Tout	_	_	_	_	_	Gloss=DEM3:INDEF_QUANTITY
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	kemia	kemia	n	_	_	_	_	_	Gloss=red_pandanus
+5	insopu	nesopu	n  (mo)	_	_	_	_	_	Gloss=braising
+6	-lo	-lo_3	n	_	_	_	_	_	Gloss=-INS
+7	tu	tu_1	v	_	_	_	_	_	Gloss=cook
+8	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2013T1__19
+# text = ma'atu -fe
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.19
+1	ma'atu	_	_	_	_	_	_	_	_
+2	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+
+# sent_id = 2013T1__20
+# text = wa'ei wafe te -ia motu
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.20
+1	wa'ei	waai_1	cardnum	_	_	_	_	_	Gloss=one
+2	wafe	wafe_1	adv	_	_	_	_	_	Gloss=downstream
+3	te	ta_3	n  (ei)	_	_	_	_	_	Gloss=mouth
+4	-ia	-ia_1	n	_	_	_	_	_	Gloss=-LOC
+5	motu	motu_1	v	_	_	_	_	_	Gloss=put_leaves_for_braising
+
+# sent_id = 2013T1__21
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.21
+
+# sent_id = 2013T1__22
+# text = mne ta miane tatii -mwii
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.22
+1	mne	_	_	_	_	_	_	_	_
+2	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+3	miane	_	_	_	_	_	_	_	_
+4	tatii	_	_	_	_	_	_	_	_
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2013T1__23
+# text = a mene ta otue -le ui -lei
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.23
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mene	mene_1	v	_	_	_	_	_	Gloss=to_go
+3	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+4	otue	otue	n	_	_	_	_	_	Gloss=food
+5	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+6	ui	_	_	_	_	_	_	_	_
+7	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2013T1__24
+# text = mia- ne otue -le nefi -mwii -na
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.24
+1	mia-	mia-	v:(dir-)	_	_	_	_	_	Gloss=down?-
+2	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+3	otue	otue	n	_	_	_	_	_	Gloss=food
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	nefi	nefi_1	v	_	_	_	_	_	Gloss=to_give
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+7	-na	-na_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?INTSFIER?
+
+# sent_id = 2013T1__25
+# text = sinali -le -lo heifa
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.25
+1	sinali	sinali	n	_	_	_	_	_	Gloss=sweet_potato
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+4	heifa	heifa	n	_	_	_	_	_	Gloss=vegetable
+
+# sent_id = 2013T1__26
+# text = sinali heifa mle hefi -mwii
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.26
+1	sinali	sinali	n	_	_	_	_	_	Gloss=sweet_potato
+2	heifa	heifa	n	_	_	_	_	_	Gloss=vegetable
+3	mle	mle	pers	_	_	_	_	_	Gloss=DEM1:PL
+4	hefi	nefi_1	v	_	_	_	_	_	Gloss=to_give
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2013T1__27
+# text = mwe mali -o a fali tlotlo lo -wo kope -ma fu -o
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.27
+1	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+2	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+3	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+5	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+6	tlotlo	tlotlo	ideo	_	_	_	_	_	Gloss=to_be_full
+7	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+9	kope	kapaile	n	_	_	_	_	_	Gloss=feces
+10	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+11	fu	fu_2	v	_	_	_	_	_	Gloss=to_urinate_excrate
+12	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T1__28
+# text = meimo kope -ma fu -lei
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.28
+1	meimo	meimo	correlconn	_	_	_	_	_	Gloss=when
+2	kope	kapaile	n	_	_	_	_	_	Gloss=feces
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	fu	fu_2	v	_	_	_	_	_	Gloss=to_blow
+5	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2013T1__29
+# text = ta honu nalo sle tieii -s -wi -i ilaisa  waa -le solo -mwii
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.29
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+3	nalo	nalo	interrog	_	_	_	_	_	Gloss=how_much
+4	sle	sele_1	v	_	_	_	_	_	Gloss=to_sit
+5	tieii	_	_	_	_	_	_	_	_
+6	-s	se_4	v:Tout	_	_	_	_	_	Gloss=DEM3.INDEF.Q
+7	-wi	-we_5	v:Tout	_	_	_	_	_	Gloss=-M.SG
+8	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+9	ilaisa	elaisa	PN	_	_	_	_	_	Gloss=Elaïsa
+10	 waa	waai_1	adj	_	_	_	_	_	Gloss=together
+11	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+12	solo	sele_1	v	_	_	_	_	_	Gloss=to_sit
+13	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2013T1__30
+# text = sosepu  waa -le solo -mwii
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.30
+1	sosepu	sosep	PN	_	_	_	_	_	Gloss=Joseph
+2	 waa	waai_1	adj	_	_	_	_	_	Gloss=together
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	solo	sele_1	v	_	_	_	_	_	Gloss=to_sit
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2013T1__31
+# text = silviase slo -msei
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.31
+1	silviase	_	_	_	_	_	_	_	_
+2	slo	sele_1	v	_	_	_	_	_	Gloss=to_sit
+3	-msei	-msei	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.F
+
+# sent_id = 2013T1__32
+# text = martin -we slo -mwii
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.32
+1	martin	martin	PN	_	_	_	_	_	Gloss=Martin
+2	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+3	slo	sele_1	v	_	_	_	_	_	Gloss=to_stay
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2013T1__33
+# text = senifase slo -msei -i
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.33
+1	senifase	senifase	PN	_	_	_	_	_	Gloss=Senifase
+2	slo	sele_1	v	_	_	_	_	_	Gloss=to_sit
+3	-msei	-msei	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.F
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T1__34
+# text = slo -mwii
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.34
+1	slo	sele_1	v	_	_	_	_	_	Gloss=to_stay
+2	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2013T1__35
+# text = ta mi- tia -ne
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.35
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	mi-	m-	v:Tout	_	_	_	_	_	Gloss=CONSEC
+3	tia	tia_1	v	_	_	_	_	_	Gloss=to_rest
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2013T1__36
+# text = mwe ia tokples ia -nehe m- hefafe -no -wo m- hefafe mali -no -wo a meli -mwi -io
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.36
+1	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+2	ia	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+3	tokples	tokples	n	_	_	_	_	_	Gloss=vernacular
+4	ia	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+5	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+6	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+7	hefafe	hefafe	v	_	_	_	_	_	Gloss=to_hear
+8	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PURP
+9	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+10	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+11	hefafe	hefafe	v	_	_	_	_	_	Gloss=to_hear
+12	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+13	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PURP
+14	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+15	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+16	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+17	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+18	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T1__37
+# text = wa'ei
+# doc_id = 2013T1
+# doc_title = 2013T1
+# origin_s_id = 1.37
+1	wa'ei	waai_1	cardnum	_	_	_	_	_	Gloss=one
+

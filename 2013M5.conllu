@@ -1,0 +1,13 @@
+# sent_id = 2013M5__1
+# text = kemia -mi esei -le hafe -io
+# text_en = I wash, powder, mix marita (with) water... ?
+# doc_id = 2013M5
+# doc_title = 2013M5
+# origin_s_id = 1
+1	kemia	kemia	n	_	_	_	_	_	Gloss=red_pandanus
+2	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+3	esei	esei	n	_	_	_	_	_	Gloss=water
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	hafe	hafe	v	_	_	_	_	_	Gloss=to_flow?
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

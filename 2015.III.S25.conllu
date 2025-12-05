@@ -1,0 +1,37 @@
+# sent_id = 2015.III.S25__1
+# text = a plasai -mwii a plaupa -se -i
+# text_en = [I'm the elder boy, the elder woman]
+# doc_id = 2015.III.S25
+# doc_title = 2015.III.S25
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	plasai	plesai	n	_	_	_	_	_	Gloss=first_boy
+3	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+4	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+5	plaupa	plaupla	n	_	_	_	_	_	Gloss=first_daughter
+6	-se	-se_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-F.SG
+7	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S25__2
+# text = plasai pafe fnai eimose keliau
+# doc_id = 2015.III.S25
+# doc_title = 2015.III.S25
+# origin_s_id = 2
+1	plasai	plesai	n	_	_	_	_	_	Gloss=first_boy
+2	pafe	pafe	n	_	_	_	_	_	Gloss=second_boy
+3	fnai	fenai	n	_	_	_	_	_	Gloss=third_boy
+4	eimose	eimose	n	_	_	_	_	_	Gloss=fourth_boy
+5	keliau	kliau	n	_	_	_	_	_	Gloss=fifth_boy
+
+# sent_id = 2015.III.S25__3
+# text = plaupase pafiau pafe feneia waloko kelia
+# doc_id = 2015.III.S25
+# doc_title = 2015.III.S25
+# origin_s_id = 3
+1	plaupase	plaupla	n	_	_	_	_	_	Gloss=first_daughter
+2	pafiau	pafiau	n	_	_	_	_	_	Gloss=second_daughter
+3	pafe	pafe	n	_	_	_	_	_	Gloss=second_boy
+4	feneia	feneia	n	_	_	_	_	_	Gloss=third_daughter
+5	waloko	waloo	n	_	_	_	_	_	Gloss=fourth_daughter
+6	kelia	klia	n	_	_	_	_	_	Gloss=fifth_daughter
+

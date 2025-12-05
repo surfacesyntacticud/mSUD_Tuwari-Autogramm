@@ -1,0 +1,166 @@
+# sent_id = 2015.I.S23__1
+# text = kapi iteli fu -fo iteli iteli painale esi
+# doc_id = 2015.I.S23
+# doc_title = 2015.I.S23 session dictionnaire 1.5.6
+# origin_s_id = 1.1
+1	kapi	kapi_1	n	_	_	_	_	_	Gloss=banana
+2	iteli	eiteli	adj	_	_	_	_	_	Gloss=mature
+3	fu	fu_1	n  (fo)	_	_	_	_	_	Gloss=stone
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+5	iteli	eiteli	adj	_	_	_	_	_	Gloss=mature
+6	iteli	eiteli	adj	_	_	_	_	_	Gloss=mature
+7	painale	painale	n  (fo)	_	_	_	_	_	Gloss=coconut
+8	esi	esiei	adj	_	_	_	_	_	Gloss=dry
+
+# sent_id = 2015.I.S23__2
+# text = a me -li painale esi nefi
+# doc_id = 2015.I.S23
+# doc_title = 2015.I.S23 session dictionnaire 1.5.6
+# origin_s_id = 1.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+3	-li	-li_7	pro-form	_	_	_	_	_	Gloss=-O
+4	painale	painale	n  (fo)	_	_	_	_	_	Gloss=coconut
+5	esi	esiei	adj	_	_	_	_	_	Gloss=dry
+6	nefi	nefi_1	v	_	_	_	_	_	Gloss=to_give
+
+# sent_id = 2015.I.S23__3
+# text = me nomu lamla -io painale -fo esiei -o
+# doc_id = 2015.I.S23
+# doc_title = 2015.I.S23 session dictionnaire 1.5.6
+# origin_s_id = 1.3
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+3	lamla	lei_1	v	_	_	_	_	_	Gloss=to_look
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+5	painale	painale	n  (fo)	_	_	_	_	_	Gloss=coconut
+6	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+7	esiei	esiei	adj	_	_	_	_	_	Gloss=dry
+8	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S23__4
+# text = painale apolo -fo nomu lo -wo
+# doc_id = 2015.I.S23
+# doc_title = 2015.I.S23 session dictionnaire 1.5.6
+# origin_s_id = 2.1
+1	painale	painale	n  (fo)	_	_	_	_	_	Gloss=coconut
+2	apolo	apolo	adj	_	_	_	_	_	Gloss=not_dry
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+5	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S23__5
+# text = painale apolo -le nomu lo -wo
+# doc_id = 2015.I.S23
+# doc_title = 2015.I.S23 session dictionnaire 1.5.6
+# origin_s_id = 2.2
+1	painale	painale	n  (fo)	_	_	_	_	_	Gloss=coconut
+2	apolo	apolo	adj	_	_	_	_	_	Gloss=not_dry
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+5	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S23__6
+# text = fufu nemoio
+# doc_id = 2015.I.S23
+# doc_title = 2015.I.S23 session dictionnaire 1.5.6
+# origin_s_id = 3.1
+1	fufu	fufu	n  (fo)	_	_	_	_	_	Gloss=papaye
+2	nemoio	nemoio	adj	_	_	_	_	_	Gloss=sweet
+
+# sent_id = 2015.I.S23__7
+# text = a fufu nomo -fo mi- ali -io fufu nomo -fo nemoio
+# doc_id = 2015.I.S23
+# doc_title = 2015.I.S23 session dictionnaire 1.5.6
+# origin_s_id = 3.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fufu	fufu	n  (fo)	_	_	_	_	_	Gloss=papaye
+3	nomo	nomu	det	_	_	_	_	_	Gloss=DEM:this
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+5	mi-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	ali	ali_2	pers	_	_	_	_	_	Gloss=we
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+8	fufu	fufu	n  (fo)	_	_	_	_	_	Gloss=papaye
+9	nomo	nomu	det	_	_	_	_	_	Gloss=DEM:this
+10	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+11	nemoio	nemoio	adj	_	_	_	_	_	Gloss=sweet
+
+# sent_id = 2015.I.S23__8
+# text = ne ne nia
+# doc_id = 2015.I.S23
+# doc_title = 2015.I.S23 session dictionnaire 1.5.6
+# origin_s_id = 4
+1	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+2	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+3	nia	nia	v	_	_	_	_	_	Gloss=to_give
+
+# sent_id = 2015.I.S23__9
+# text = oplasi
+# doc_id = 2015.I.S23
+# doc_title = 2015.I.S23 session dictionnaire 1.5.6
+# origin_s_id = 5.1
+1	oplasi	oplasi	v	_	_	_	_	_	Gloss=to_dry
+
+# sent_id = 2015.I.S23__10
+# text = a hopalo -mo te- mo- oplesi -io
+# doc_id = 2015.I.S23
+# doc_title = 2015.I.S23 session dictionnaire 1.5.6
+# origin_s_id = 5.2
+1	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+2	hopalo	hopalu	n  (mo)	_	_	_	_	_	Gloss=wound
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	te-	te-_2	Verb	_	_	_	_	_	Gloss=almost
+5	mo-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	oplesi	oplasi	v	_	_	_	_	_	Gloss=to_dry
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S23__11
+# text = a hopalo -mo fali ma- oplasi -k -oplo -wo
+# doc_id = 2015.I.S23
+# doc_title = 2015.I.S23 session dictionnaire 1.5.6
+# origin_s_id = 5.3
+1	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+2	hopalo	hopalu	n  (mo)	_	_	_	_	_	Gloss=wound
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+5	ma-	ma-_1	_	_	_	_	_	_	Gloss=?-
+6	oplasi	oplasi	v	_	_	_	_	_	Gloss=to_dry
+7	-k	-k	Verb	_	_	_	_	_	Gloss=-?
+8	-oplo	-aple	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PRF
+9	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S23__12
+# text = hao piliena
+# doc_id = 2015.I.S23
+# doc_title = 2015.I.S23 session dictionnaire 1.5.6
+# origin_s_id = 6
+1	hao	hao	n  (fo)	_	_	_	_	_	Gloss=fish
+2	piliena	filienani	n	_	_	_	_	_	Gloss=fish_specie
+
+# sent_id = 2015.I.S23__13
+# text = hefaa
+# doc_id = 2015.I.S23
+# doc_title = 2015.I.S23 session dictionnaire 1.5.6
+# origin_s_id = 7.1
+1	hefaa	hefa	v	_	_	_	_	_	Gloss=to_bite_for_dog
+
+# sent_id = 2015.I.S23__14
+# text = heio -wu
+# doc_id = 2015.I.S23
+# doc_title = 2015.I.S23 session dictionnaire 1.5.6
+# origin_s_id = 7.2
+1	heio	heio	v	_	_	_	_	_	Gloss=to_bite
+2	-wu	-u	v:(Tense2)	_	_	_	_	_	Gloss=-same_morph?
+
+# sent_id = 2015.I.S23__15
+# text = heitolu kali -mo
+# text_en = bone
+# doc_id = 2015.I.S23
+# doc_title = 2015.I.S23 session dictionnaire 1.5.6
+# origin_s_id = 7.3
+1	heitolu	heitolu_1	n  (mo)	_	_	_	_	_	Gloss=bone
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+

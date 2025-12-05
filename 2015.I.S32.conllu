@@ -1,0 +1,101 @@
+# sent_id = 2015.I.S32__1
+# text = a iaai -ma iaa- i iaa- i -mwi -io
+# doc_id = 2015.I.S32
+# doc_title = 2015.I.S32 commentaire texte 2015T14 et 2015T15
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	iaai	iaai	v	_	_	_	_	_	Gloss=to_cross
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	iaa-	iaa-	v:(dir-)	_	_	_	_	_	Gloss=cross_side
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	iaa-	iaa-	v:(dir-)	_	_	_	_	_	Gloss=cross_side
+7	i	i	light verb	_	_	_	_	_	Gloss=to_go
+8	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+9	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S32__2
+# text = iowe -lei mla -ia -no -wo mla -na naa -i -io
+# doc_id = 2015.I.S32
+# doc_title = 2015.I.S32 commentaire texte 2015T14 et 2015T15
+# origin_s_id = 2
+1	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+2	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+3	mla	lei_1	v	_	_	_	_	_	Gloss=to_look
+4	-ia	-ia_2	v:(Tense)	_	_	_	_	_	Gloss=-PST
+5	-no	-no_7	Verb	_	_	_	_	_	Gloss=?
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+7	mla	lei_1	v	_	_	_	_	_	Gloss=to_look
+8	-na	-na_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?INTSFIER?
+9	naa	naa	v	_	_	_	_	_	Gloss=to_look_for
+10	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+11	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S32__3
+# text = a tiape honu -lo a tiape miʔa -lo
+# doc_id = 2015.I.S32
+# doc_title = 2015.I.S32 commentaire texte 2015T14 et 2015T15
+# origin_s_id = 3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	tiape	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+3	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+4	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+5	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+6	tiape	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+7	miʔa	miʔa	v	_	_	_	_	_	Gloss=to_cross
+8	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2015.I.S32__4
+# text = tiasolo
+# doc_id = 2015.I.S32
+# doc_title = 2015.I.S32 commentaire texte 2015T14 et 2015T15
+# origin_s_id = 4.1
+1	tiasolo	tiasolo	v	_	_	_	_	_	Gloss=to_put__boy
+
+# sent_id = 2015.I.S32__5
+# text = owe opsono -ma tiasolo
+# doc_id = 2015.I.S32
+# doc_title = 2015.I.S32 commentaire texte 2015T14 et 2015T15
+# origin_s_id = 4.2
+1	owe	owei	n	_	_	_	_	_	Gloss=little_boy
+2	opsono	opsono	n	_	_	_	_	_	Gloss=village
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	tiasolo	tiasolo	v	_	_	_	_	_	Gloss=to_put__boy
+
+# sent_id = 2015.I.S32__6
+# text = wuliʔale iafe me -li -a mami -mo
+# text_en = [yu have to shoot a pig]
+# doc_id = 2015.I.S32
+# doc_title = 2015.I.S32 commentaire texte 2015T14 et 2015T15
+# origin_s_id = 5
+1	wuliʔale	wuliʔale	v	_	_	_	_	_	Gloss=to_have_to
+2	iafe	iefi	v	_	_	_	_	_	Gloss=to_shoot
+3	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+4	-li	-li_1	pro-form	_	_	_	_	_	Gloss=yet
+5	-a	-a_2	n:Tout	_	_	_	_	_	Gloss=-?
+6	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+7	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+
+# sent_id = 2015.I.S32__7
+# text = molwano
+# doc_id = 2015.I.S32
+# doc_title = 2015.I.S32 commentaire texte 2015T14 et 2015T15
+# origin_s_id = 6.1
+1	molwano	molwano	v	_	_	_	_	_	Gloss=to_pull
+
+# sent_id = 2015.I.S32__8
+# text = eni molwano
+# text_en = to pull a rope
+# doc_id = 2015.I.S32
+# doc_title = 2015.I.S32 commentaire texte 2015T14 et 2015T15
+# origin_s_id = 6.2
+1	eni	eni	n  (mo)	_	_	_	_	_	Gloss=rope
+2	molwano	molwano	v	_	_	_	_	_	Gloss=to_pull
+
+# sent_id = 2015.I.S32__9
+# text = tiapi -he
+# doc_id = 2015.I.S32
+# doc_title = 2015.I.S32 commentaire texte 2015T14 et 2015T15
+# origin_s_id = 6.3
+1	tiapi	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+2	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+

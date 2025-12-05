@@ -1,0 +1,33 @@
+# sent_id = 141108_11_T23__1
+# text = ita ana a -li -lo uwei uliei ka- mali -na -io
+# text_en = papa, mama, no ken toktok tumas lo mi. I thought a lot in my heart.
+# doc_id = 141108_11_T23
+# doc_title = 141108_11_T23 A young man asking to leave the village (1/2)
+# origin_s_id = 1.1
+1	ita	ita	n	_	_	_	_	_	Gloss=father
+2	ana	ana	n	_	_	_	_	_	Gloss=mother
+3	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+4	-li	-li_7	pro-form	_	_	_	_	_	Gloss=-O
+5	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+6	uwei	uwai	v	_	_	_	_	_	Gloss=cant
+7	uliei	uliei	adj	_	_	_	_	_	Gloss=too_much/long
+8	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+9	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+10	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+11	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 141108_11_T23__2
+# text = a meimo fene -fo ma- hali -na -na -io
+# doc_id = 141108_11_T23
+# doc_title = 141108_11_T23 A young man asking to leave the village (1/2)
+# origin_s_id = 1.2
+1	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+2	meimo	meimo	adv	_	_	_	_	_	Gloss=yet
+3	fene	feni_1	n  (fo)	_	_	_	_	_	Gloss=heart
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+5	ma-	ma-_2	v:(dir-)	_	_	_	_	_	Gloss=down?-
+6	hali	heli_2	v	_	_	_	_	_	Gloss=to_think
+7	-na	-na_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?INTSFIER?
+8	-na	-na_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?INTSFIER?
+9	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

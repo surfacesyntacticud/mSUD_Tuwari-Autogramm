@@ -1,0 +1,88 @@
+# sent_id = 2013.II.S3__1
+# text = howaali
+# doc_id = 2013.II.S3
+# doc_title = 2013.II.S3 Samuel : préparation de la marita
+# origin_s_id = 1
+1	howaali	howaali	n	_	_	_	_	_	Gloss=knife_with_cassoari_femur
+
+# sent_id = 2013.II.S3__2
+# text = fefe -mi
+# doc_id = 2013.II.S3
+# doc_title = 2013.II.S3 Samuel : préparation de la marita
+# origin_s_id = 2
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+
+# sent_id = 2013.II.S3__3
+# text = elefei -io
+# doc_id = 2013.II.S3
+# doc_title = 2013.II.S3 Samuel : préparation de la marita
+# origin_s_id = 3
+1	elefei	elefei	v	_	_	_	_	_	Gloss=to_powder
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S3__4
+# text = kemia fefe -mi elefei -io
+# text_en = to make a powder with taro.
+# doc_id = 2013.II.S3
+# doc_title = 2013.II.S3 Samuel : préparation de la marita
+# origin_s_id = 4
+1	kemia	kemia	n	_	_	_	_	_	Gloss=red_pandanus
+2	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+3	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+4	elefei	elefei	v	_	_	_	_	_	Gloss=to_powder
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S3__5
+# text = fefe -mi
+# text_en = to make a paste
+# doc_id = 2013.II.S3
+# doc_title = 2013.II.S3 Samuel : préparation de la marita
+# origin_s_id = 5
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+
+# sent_id = 2013.II.S3__6
+# text = kamia -mi
+# text_en = to wash the marita.
+# doc_id = 2013.II.S3
+# doc_title = 2013.II.S3 Samuel : préparation de la marita
+# origin_s_id = 6
+1	kamia	_	_	_	_	_	_	_	_
+2	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+
+# sent_id = 2013.II.S3__7
+# text_en = the inside of the marita that is removed.
+# doc_id = 2013.II.S3
+# doc_title = 2013.II.S3 Samuel : préparation de la marita
+# origin_s_id = 7
+
+# sent_id = 2013.II.S3__8
+# text = kamia -mi
+# text_en = ‎‎to pour the water on the red pandanus
+# doc_id = 2013.II.S3
+# doc_title = 2013.II.S3 Samuel : préparation de la marita
+# origin_s_id = 8
+1	kamia	_	_	_	_	_	_	_	_
+2	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+
+# sent_id = 2013.II.S3__9
+# text = kamia -mi
+# text_en = to liquefy?
+# doc_id = 2013.II.S3
+# doc_title = 2013.II.S3 Samuel : préparation de la marita
+# origin_s_id = 9
+1	kamia	_	_	_	_	_	_	_	_
+2	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+
+# sent_id = 2013.II.S3__10
+# text = kamia -mi fali aplo -wo
+# doc_id = 2013.II.S3
+# doc_title = 2013.II.S3 Samuel : préparation de la marita
+# origin_s_id = 10
+1	kamia	_	_	_	_	_	_	_	_
+2	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+3	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+4	aplo	aplo_1	v	_	_	_	_	_	Gloss=to_finish
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

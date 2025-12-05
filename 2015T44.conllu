@@ -1,0 +1,140 @@
+# sent_id = 2015T44__1
+# text = to napumai iowe mle m- a -ne mali -io ka- iafioupa -na peisa -ale u -wo iowe
+# doc_id = 2015T44
+# doc_title = 2015T44
+# origin_s_id = 1
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	napumai	napumai	adj	_	_	_	_	_	Gloss=white
+3	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+4	mle	mle	pers	_	_	_	_	_	Gloss=DEM1:PL
+5	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	a	a_1	v	_	_	_	_	_	Gloss=to_come
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+9	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+10	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+11	iafioupa	_	_	_	_	_	_	_	_
+12	-na	-na_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?INTSFIER?
+13	peisa	peisa	adv	_	_	_	_	_	Gloss=good
+14	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+15	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+16	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+17	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+
+# sent_id = 2015T44__2
+# text = peisa -ale muli -io
+# doc_id = 2015T44
+# doc_title = 2015T44
+# origin_s_id = 2.1
+1	peisa	peisa	adv	_	_	_	_	_	Gloss=good
+2	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+3	muli	mulu	v	_	_	_	_	_	Gloss=to_stay?
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T44__3
+# text = m- u -se -ne mutaano u -se -ne
+# doc_id = 2015T44
+# doc_title = 2015T44
+# origin_s_id = 2.2
+1	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	u	u_2	v	_	_	_	_	_	Gloss=to_stay
+3	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	mutaano	mutaano	v	_	_	_	_	_	Gloss=to_stay
+6	u	u_3	v	_	_	_	_	_	Gloss=to_go_up
+7	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+8	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2015T44__4
+# text = iowe la -io to misionari -la m- a -ne ita -we kod -we -ne ia -he iowe maili -a -io
+# doc_id = 2015T44
+# doc_title = 2015T44
+# origin_s_id = 2.3
+1	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+2	la	lei_1	v	_	_	_	_	_	Gloss=to_look
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	to	to_1	n	_	_	_	_	_	Gloss=man
+5	misionari	misionari	n	_	_	_	_	_	Gloss=misionary
+6	-la	-la	Verb	_	_	_	_	_	Gloss=-?
+7	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+8	a	a_1	v	_	_	_	_	_	Gloss=to_come
+9	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+10	ita	ita	n	_	_	_	_	_	Gloss=father
+11	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+12	kod	kot	n	_	_	_	_	_	Gloss=god
+13	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+14	-ne	-ne_2	Possessive pronoun	_	_	_	_	_	Gloss=-POSSor
+15	ia	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+16	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+17	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+18	maili	_	_	_	_	_	_	_	_
+19	-a	-a_1	v:(Tense)	_	_	_	_	_	Gloss=-?
+20	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T44__5
+# text = nomo soupiia
+# doc_id = 2015T44
+# doc_title = 2015T44
+# origin_s_id = 2.4
+1	nomo	nomo_1	n	_	_	_	_	_	Gloss=eye
+2	soupiia	siia	v	_	_	_	_	_	Gloss=to_be_closed
+
+# sent_id = 2015T44__6
+# text = meimi -nami u -le hei hei sioto
+# text_en = [baptizing]
+# doc_id = 2015T44
+# doc_title = 2015T44
+# origin_s_id = 3.1
+1	meimi	_	_	_	_	_	_	_	_
+2	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+3	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	hei	hei_1	v	_	_	_	_	_	Gloss=to_go_in_water
+6	hei	hei_1	v	_	_	_	_	_	Gloss=to_go_in_water
+7	sioto	_	_	_	_	_	_	_	_
+
+# sent_id = 2015T44__7
+# text = meinami -o sisote hei -lo mali -o u -le tihe -io
+# doc_id = 2015T44
+# doc_title = 2015T44
+# origin_s_id = 3.2
+1	meinami	meinami	adv	_	_	_	_	_	Gloss=after
+2	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+3	sisote	sisote	n	_	_	_	_	_	Gloss=jesus?
+4	hei	hei_2	n  (mo)	_	_	_	_	_	Gloss=name
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+6	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+7	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+8	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+9	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+10	tihe	tiheli	v	_	_	_	_	_	Gloss=to_be_on_top
+11	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T44__8
+# text = ta mule m- a -se muta -lu musene fonane me m- a -ne ta ia tokples ia -nehe me -lo mali tiomene
+# doc_id = 2015T44
+# doc_title = 2015T44
+# origin_s_id = 4
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	mule	mulu	v	_	_	_	_	_	Gloss=to_stay?
+3	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	a	a_1	v	_	_	_	_	_	Gloss=to_go
+5	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+6	muta	_	_	_	_	_	_	_	_
+7	-lu	-lu	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+8	musene	_	_	_	_	_	_	_	_
+9	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+10	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+11	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+12	a	a_1	v	_	_	_	_	_	Gloss=to_come
+13	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+14	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+15	ia	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+16	tokples	tokples	n	_	_	_	_	_	Gloss=vernacular
+17	ia	ia_2	n	_	_	_	_	_	Gloss=language
+18	-nehe	-nehe	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM2:DEM4
+19	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+20	-lo	-lo_3	n:Tout	_	_	_	_	_	Gloss=-BEN
+21	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+22	tiomene	tiomene	v	_	_	_	_	_	Gloss=to_learn
+

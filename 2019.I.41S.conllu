@@ -1,0 +1,147 @@
+# sent_id = 2019.I.41S__1
+# text = nasi ato
+# doc_id = 2019.I.41S
+# origin_s_id = 1
+1	nasi	nasi	interrog	_	_	_	_	_	Gloss=what
+2	ato	ato	v	_	_	_	_	_	Gloss=to_hold
+
+# sent_id = 2019.I.41S__2
+# text = nasi iani -ma ato
+# doc_id = 2019.I.41S
+# origin_s_id = 2
+1	nasi	nasi	interrog	_	_	_	_	_	Gloss=what
+2	iani	iani	n  (fe)	_	_	_	_	_	Gloss=hand
+3	-ma	-ma_1	n	_	_	_	_	_	Gloss=-INSTR
+4	ato	ato	v	_	_	_	_	_	Gloss=to_hold
+
+# sent_id = 2019.I.41S__3
+# text = fali hou -lei
+# doc_id = 2019.I.41S
+# origin_s_id = 3
+1	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+2	hou	hou_3	n	_	_	_	_	_	Gloss=smell
+3	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2019.I.41S__4
+# text = a ia tuwali -ha meli -mwi -i
+# doc_id = 2019.I.41S
+# origin_s_id = 4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ia	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+3	tuwali	tuwali_1	PN_demonym	_	_	_	_	_	Gloss=Tuwari
+4	-ha	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+5	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+6	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+7	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.41S__5
+# text = eseise -he inale -fo -i
+# doc_id = 2019.I.41S
+# origin_s_id = 5
+1	eseise	eseise	n  (he)	_	_	_	_	_	Gloss=plate
+2	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+3	inale	inale	n	_	_	_	_	_	Gloss=pumpkin
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+5	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2019.I.41S__6
+# text = a ho otoiso fonane wa i ia -io
+# doc_id = 2019.I.41S
+# origin_s_id = 6.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ho	ho_1	adv	_	_	_	_	_	Gloss=yesterday
+3	otoiso	otoiso	adv	_	_	_	_	_	Gloss=tomorrow
+4	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+5	wa	wa_2	v	_	_	_	_	_	Gloss=back
+6	i	i	light verb	_	_	_	_	_	Gloss=to_go
+7	ia	ia_1	v	_	_	_	_	_	Gloss=kam_upstream
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.41S__7
+# text = a ho otoiso fonane wa- ia -io
+# doc_id = 2019.I.41S
+# origin_s_id = 6.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ho	ho_1	adv	_	_	_	_	_	Gloss=yesterday
+3	otoiso	otoiso	adv	_	_	_	_	_	Gloss=tomorrow
+4	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+5	wa-	wa-_1	v:(dir-)	_	_	_	_	_	Gloss=again
+6	ia	ia_1	v	_	_	_	_	_	Gloss=kam
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.41S__8
+# text = me wa i ia -io
+# doc_id = 2019.I.41S
+# origin_s_id = 7.1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	wa	wa_2	v	_	_	_	_	_	Gloss=back
+3	i	i	light verb	_	_	_	_	_	Gloss=to_go
+4	ia	ia_1	v	_	_	_	_	_	Gloss=kam_upstream
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.41S__9
+# text = me wa- ia -io
+# doc_id = 2019.I.41S
+# origin_s_id = 7.2
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	wa-	wa-_1	v:(dir-)	_	_	_	_	_	Gloss=again
+3	ia	ia_1	v	_	_	_	_	_	Gloss=kam
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.41S__10
+# text = weseso
+# doc_id = 2019.I.41S
+# origin_s_id = 8
+1	weseso	weseso	n	_	_	_	_	_	Gloss=tree_specie(karuka)
+
+# sent_id = 2019.I.41S__11
+# text = me tu- wa- i ia -io
+# doc_id = 2019.I.41S
+# origin_s_id = 9
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	tu-	tu-	_	_	_	_	_	_	Gloss=?
+3	wa-	wa-_1	v:(dir-)	_	_	_	_	_	Gloss=again
+4	i	i	light verb	_	_	_	_	_	Gloss=to_go
+5	ia	ia_1	v	_	_	_	_	_	Gloss=kam_antap
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.41S__12
+# text = me iowe a -io
+# doc_id = 2019.I.41S
+# origin_s_id = 10
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+3	a	a_1	v	_	_	_	_	_	Gloss=to_come
+4	-io	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2019.I.41S__13
+# text = naswaia i -no me naswaia i -no
+# doc_id = 2019.I.41S
+# origin_s_id = 11
+1	naswaia	naswaia	interrog	_	_	_	_	_	Gloss=where
+2	i	i	light verb	_	_	_	_	_	Gloss=to_go
+3	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+4	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+5	naswaia	naswaia	interrog	_	_	_	_	_	Gloss=where
+6	i	i	light verb	_	_	_	_	_	Gloss=to_go
+7	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.I.41S__14
+# text = me iowe wa -io
+# doc_id = 2019.I.41S
+# origin_s_id = 12.1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	iowe	iowe	_	_	_	_	_	_	Gloss=down?
+3	wa	wa_2	v	_	_	_	_	_	Gloss=back
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.41S__15
+# text = me ife -ma wa- i
+# doc_id = 2019.I.41S
+# origin_s_id = 12.2
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	ife	ife	adv	_	_	_	_	_	Gloss=upstream
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+

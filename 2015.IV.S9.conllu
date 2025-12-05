@@ -1,0 +1,121 @@
+# sent_id = 2015.IV.S9__1
+# doc_id = 2015.IV.S9
+# doc_title = 2015.IV.S9 TODO
+# origin_s_id = 1
+
+# sent_id = 2015.IV.S9__2
+# text = waia wiwao
+# doc_id = 2015.IV.S9
+# doc_title = 2015.IV.S9 TODO
+# origin_s_id = 2
+1	waia	waia_3	PN	_	_	_	_	_	Gloss=Waia
+2	wiwao	wiwao	PN	_	_	_	_	_	Gloss=Wiwao
+
+# sent_id = 2015.IV.S9__3
+# text = a helefe hono -ma ma- halea -lu -wo
+# doc_id = 2015.IV.S9
+# doc_title = 2015.IV.S9 TODO
+# origin_s_id = 3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	helefe	helefe	n	_	_	_	_	_	Gloss=leg
+3	hono	hono_1	n	_	_	_	_	_	Gloss=hole
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	ma-	ma-_2	v:(dir-)	_	_	_	_	_	Gloss=down?-
+6	halea	halaa	v	_	_	_	_	_	Gloss=to_enter_insaid_hole
+7	-lu	-lu	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.IV.S9__4
+# text = awa hono -mo nomo meio halaa -lu -we -ne io fau -ni
+# doc_id = 2015.IV.S9
+# doc_title = 2015.IV.S9 TODO
+# origin_s_id = 4
+1	awa	awa	n	_	_	_	_	_	Gloss=sibling
+2	hono	hono_1	n	_	_	_	_	_	Gloss=hole
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	nomo	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+5	meio	mei	?	_	_	_	_	_	Gloss=QUOTED_SPEECH
+6	halaa	halaa	v	_	_	_	_	_	Gloss=to_enter_insaid_hole
+7	-lu	-lu	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+8	-we	-we_5	v:Tout	_	_	_	_	_	Gloss=-M.SG
+9	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+10	io	io	v	_	_	_	_	_	Gloss=go_down
+11	fau	fao	v	_	_	_	_	_	Gloss=to_fall_down
+12	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+
+# sent_id = 2015.IV.S9__5
+# text = muanuo -mo nomo
+# doc_id = 2015.IV.S9
+# doc_title = 2015.IV.S9 TODO
+# origin_s_id = 5
+1	muanuo	muanuo	n	_	_	_	_	_	Gloss=bikpla_diwai
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	nomo	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+
+# sent_id = 2015.IV.S9__6
+# text = mua fiholi -ho fiholi -lo
+# doc_id = 2015.IV.S9
+# doc_title = 2015.IV.S9 TODO
+# origin_s_id = 6
+1	mua	muanuo	n  (mo)	_	_	_	_	_	Gloss=wood
+2	fiholi	fiholi	adj	_	_	_	_	_	Gloss=slippy
+3	-ho	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	fiholi	fiholi	adj	_	_	_	_	_	Gloss=slippy
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2015.IV.S9__7
+# text = hotau -le -ni io fau -ni
+# doc_id = 2015.IV.S9
+# doc_title = 2015.IV.S9 TODO
+# origin_s_id = 7
+1	hotau	hotau	v	_	_	_	_	_	Gloss=to_slip_and_fall
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+4	io	io	v	_	_	_	_	_	Gloss=go_down
+5	fau	fao	v	_	_	_	_	_	Gloss=to_fall_down
+6	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+
+# sent_id = 2015.IV.S9__8
+# text = hotau -la -mwii hotau -la -msei
+# doc_id = 2015.IV.S9
+# doc_title = 2015.IV.S9 TODO
+# origin_s_id = 8
+1	hotau	hotau	v	_	_	_	_	_	Gloss=to_slip_and_fall
+2	-la	-la	Verb	_	_	_	_	_	Gloss=-?
+3	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+4	hotau	hotau	v	_	_	_	_	_	Gloss=to_slip_and_fall
+5	-la	-la	Verb	_	_	_	_	_	Gloss=-?
+6	-msei	-msei	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.F
+
+# sent_id = 2015.IV.S9__9
+# text = tiia pamo -li
+# doc_id = 2015.IV.S9
+# doc_title = 2015.IV.S9 TODO
+# origin_s_id = 9
+1	tiia	tiia	adv	_	_	_	_	_	Gloss=long(_before)
+2	pamo	pamo	adv	_	_	_	_	_	Gloss=before
+3	-li	-li_1	Pro-form	_	_	_	_	_	Gloss=-?
+
+# sent_id = 2015.IV.S9__10
+# doc_id = 2015.IV.S9
+# doc_title = 2015.IV.S9 TODO
+# origin_s_id = 10
+
+# sent_id = 2015.IV.S9__11
+# text = tia pamo -li ita ouwo mle womi
+# doc_id = 2015.IV.S9
+# doc_title = 2015.IV.S9 TODO
+# origin_s_id = 11.1
+1	tia	tiia	adv	_	_	_	_	_	Gloss=long(_before)
+2	pamo	pamo	adv	_	_	_	_	_	Gloss=before
+3	-li	-li_1	Pro-form	_	_	_	_	_	Gloss=-?
+4	ita	ita	n	_	_	_	_	_	Gloss=father
+5	ouwo	ouwo	n	_	_	_	_	_	Gloss=grand_father
+6	mle	mle	pers	_	_	_	_	_	Gloss=DEM1:PL
+7	womi	womi	v	_	_	_	_	_	Gloss=to_fight
+
+# sent_id = 2015.IV.S9__12
+# doc_id = 2015.IV.S9
+# doc_title = 2015.IV.S9 TODO
+# origin_s_id = 11.2
+

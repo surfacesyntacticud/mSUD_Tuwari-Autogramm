@@ -1,0 +1,56 @@
+# sent_id = 2014.I.S22__1
+# text = a no iani kopulo efiane wa- ia -nai -mwii
+# doc_id = 2014.I.S22
+# doc_title = 2014.I.S22
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+3	iani	iani	cardnum	_	_	_	_	_	Gloss=five
+4	kopulo	kopulo	adv	_	_	_	_	_	Gloss=together
+5	efiane	efiane	adv	_	_	_	_	_	Gloss=ACC
+6	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+7	ia	ia_1	v	_	_	_	_	_	Gloss=kam
+8	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+9	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.I.S22__2
+# text = opo noua
+# doc_id = 2014.I.S22
+# doc_title = 2014.I.S22
+# origin_s_id = 2
+1	opo	opo	n	_	_	_	_	_	Gloss=bird
+2	noua	noua	n	_	_	_	_	_	Gloss=bird_specie
+
+# sent_id = 2014.I.S22__3
+# text = mami isani -mwii
+# text_en = brown pig
+# doc_id = 2014.I.S22
+# doc_title = 2014.I.S22
+# origin_s_id = 3
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	isani	isani	adj	_	_	_	_	_	Gloss=brown
+3	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.I.S22__4
+# text = mami touteli -mwii
+# text_en = black pig
+# doc_id = 2014.I.S22
+# doc_title = 2014.I.S22
+# origin_s_id = 4
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	touteli	touteli	adj	_	_	_	_	_	Gloss=dark_black
+3	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.I.S22__5
+# text = mami -mo seso -no touteli -mwii
+# text_en = a pig almost dark.
+# doc_id = 2014.I.S22
+# doc_title = 2014.I.S22
+# origin_s_id = 5
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	seso	siso	adv	_	_	_	_	_	Gloss=almost
+4	-no	_	_	_	_	_	_	_	_
+5	touteli	touteli	adj	_	_	_	_	_	Gloss=dark_black
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

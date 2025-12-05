@@ -1,0 +1,350 @@
+# sent_id = 2015.I.S6__1
+# text = fonane heneli ha ha -li -fo helo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 1
+1	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+2	heneli	heneli_1	n  (fo)	_	_	_	_	_	Gloss=sun
+3	ha	ha_1	adj	_	_	_	_	_	Gloss=small
+4	ha	ha_1	adj	_	_	_	_	_	Gloss=small
+5	-li	-li_1	Pro-form	_	_	_	_	_	Gloss=-?
+6	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+7	helo	helo_1	v	_	_	_	_	_	Gloss=to_shine
+
+# sent_id = 2015.I.S6__2
+# text = ia honolu -mo honu wa- ia a -io
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 2
+1	ia	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+2	honolu	honolu	n	_	_	_	_	_	Gloss=wind
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+5	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+6	ia	ia_1	v	_	_	_	_	_	Gloss=to_go
+7	a	a_1	v	_	_	_	_	_	Gloss=to_go
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__3
+# text = me to uso -mwii
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 3
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	to	to_1	n	_	_	_	_	_	Gloss=man
+3	uso	uso	n	_	_	_	_	_	Gloss=originate(as_place)
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.I.S6__4
+# text = sleaupo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 4.1
+1	sleaupo	sleaupo	n	_	_	_	_	_	Gloss=rainbow
+
+# sent_id = 2015.I.S6__5
+# text = sleaupo kali -mi waa nomu ma- miʔa- -i
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 4.2
+1	sleaupo	sleaupo	n	_	_	_	_	_	Gloss=rainbow
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+4	waa	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+5	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+6	ma-	ma-_2	v:(dir-)	_	_	_	_	_	Gloss=down?-
+7	miʔa-	miʔa-	v:(dir-)	_	_	_	_	_	Gloss=crossing
+8	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__6
+# text = sapu -mo -i
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 5.1
+1	sapu	sapu_1	n  (mo)	_	_	_	_	_	Gloss=cloud
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__7
+# text = sumoo sapu fou -wo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 5.2
+1	sumoo	sumoo	n  (he)	_	_	_	_	_	Gloss=rain
+2	sapu	sapu_1	n  (mo)	_	_	_	_	_	Gloss=cloud
+3	fou	fou	v	_	_	_	_	_	Gloss=to_break
+4	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__8
+# text = nonomu'ale
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 6.1
+1	nonomu'ale	nonomu'ale	adv	_	_	_	_	_	Gloss=nobody
+
+# sent_id = 2015.I.S6__9
+# text = o -sapo nonomu'ale -lo -wo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 6.2
+1	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+2	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+3	nonomu'ale	nonomu'ale	adv	_	_	_	_	_	Gloss=nobody
+4	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__10
+# text = nonomu'ale
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 6.3
+1	nonomu'ale	nonomu'ale	adv	_	_	_	_	_	Gloss=nobody
+
+# sent_id = 2015.I.S6__11
+# text = a nonomu'ale -ma i -ne a -no -wo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 6.4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	nonomu'ale	nonomu'ale	adv	_	_	_	_	_	Gloss=nobody
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	i	i	light verb	_	_	_	_	_	Gloss=to_go
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	a	a_1	v	_	_	_	_	_	Gloss=to_go
+7	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-FUT
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__12
+# text = a nonomu'ale -ma i -ne sele -no -wo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 6.5
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	nonomu'ale	nonomu'ale	adv	_	_	_	_	_	Gloss=nobody
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	i	i	light verb	_	_	_	_	_	Gloss=to_go
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	sele	sele_1	v	_	_	_	_	_	Gloss=to_sit
+7	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-FUT
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__13
+# text = a toiso me- tiau -ne lei -mo sapu -mo wea -no -fo fo -u -wo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 7.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	toiso	toiso	n	_	_	_	_	_	Gloss=morning
+3	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	tiau	tiao	v	_	_	_	_	_	Gloss=to_stand_up_wake_up
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	lei	lei_1	v	_	_	_	_	_	Gloss=to_look
+7	-mo	-mo_6	v	_	_	_	_	_	Gloss=-MED2simultaneous
+8	sapu	sapu_1	n  (mo)	_	_	_	_	_	Gloss=cloud
+9	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+10	wea	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+11	-no	-no_2	n:Tout	_	_	_	_	_	Gloss=-DEM2
+12	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+13	fo	fo_3	v	_	_	_	_	_	Gloss=to_encircle
+14	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+15	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__14
+# text = tuafe lei -mo sapu -mo fali fo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 7.2
+1	tuafe	tuafe	adv	_	_	_	_	_	Gloss=behind
+2	lei	lei_1	v	_	_	_	_	_	Gloss=to_look
+3	-mo	-mo_6	v	_	_	_	_	_	Gloss=-MED2simultaneous
+4	sapu	sapu_1	n  (mo)	_	_	_	_	_	Gloss=cloud
+5	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+6	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+7	fo	fou	v	_	_	_	_	_	Gloss=to_break
+
+# sent_id = 2015.I.S6__15
+# text = selese sapu -mo fo -u -wo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 7.3
+1	selese	selese	n	_	_	_	_	_	Gloss=sky
+2	sapu	sapu_1	n  (mo)	_	_	_	_	_	Gloss=cloud
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+5	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__16
+# text = selese pelemu -he
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 8.1
+1	selese	selese	n	_	_	_	_	_	Gloss=sky
+2	pelemu	pelemu	adj	_	_	_	_	_	Gloss=blue
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+
+# sent_id = 2015.I.S6__17
+# text = selese -nehe sele -mai -ne touwano hene -le tofu -wo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 8.2
+1	selese	selese	n	_	_	_	_	_	Gloss=sky
+2	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+3	sele	sele_1	v	_	_	_	_	_	Gloss=to_sit
+4	-mai	_	_	_	_	_	_	_	_
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	touwano	touano	n  (fo)	_	_	_	_	_	Gloss=moon
+7	hene	hene_2	dem	_	_	_	_	_	Gloss=DEM4:DEM2
+8	-le	-li_1	Pro-form	_	_	_	_	_	Gloss=-?
+9	tofu	tofu_2	v	_	_	_	_	_	Gloss=to_arrive
+10	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__18
+# text = sosu'a kali -mo u- -wo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 9.1
+1	sosu'a	so'a'uwo	n	_	_	_	_	_	Gloss=dray_season
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	u-	u-_1	v:(dir-)	_	_	_	_	_	Gloss=up-
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__19
+# text = soa
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 9.2
+1	soa	soa	n	_	_	_	_	_	Gloss=dry_season
+
+# sent_id = 2015.I.S6__20
+# text = so soa
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 9.3
+1	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+2	soa	soa	n	_	_	_	_	_	Gloss=dry_season
+
+# sent_id = 2015.I.S6__21
+# text = soa u- -wo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 9.4
+1	soa	soa	n	_	_	_	_	_	Gloss=dry_season
+2	u-	u-_1	v:(dir-)	_	_	_	_	_	Gloss=up-
+3	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__22
+# text = no waai -mo soa u- -wo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 9.5
+1	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+2	waai	waai_1	cardnum	_	_	_	_	_	Gloss=one
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	soa	soa	n	_	_	_	_	_	Gloss=dry_season
+5	u-	u-_1	v:(dir-)	_	_	_	_	_	Gloss=up-
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__23
+# text = soili
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 10.1
+1	soili	soilia	n	_	_	_	_	_	Gloss=storm
+
+# sent_id = 2015.I.S6__24
+# text = a so -le u -mo soilia kali -mi iou -mo
+# text_en = [I sleep and a strong thunder cracks]
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 10.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+5	-mo	-mo_6	v	_	_	_	_	_	Gloss=-MED2simultaneous
+6	soilia	soilia	n	_	_	_	_	_	Gloss=storm
+7	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+8	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+9	iou	iowa	v	_	_	_	_	_	Gloss=to_sing_a
+10	-mo	-mo_6	v	_	_	_	_	_	Gloss=-MED2simultaneous
+
+# sent_id = 2015.I.S6__25
+# text = a komua'amule hei -io maa- -ne ti -io u- -wo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 10.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	komua'amule	_	_	_	_	_	_	_	_
+3	hei	hei_1	v	_	_	_	_	_	Gloss=to_go_in_water
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+5	maa-	maa-_2	_	_	_	_	_	_	Gloss=one-
+6	-ne	-ne_3	Noun	_	_	_	_	_	Gloss=-?
+7	ti	ti_1	v	_	_	_	_	_	Gloss=to_go_down
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+9	u-	u-_1	v:(dir-)	_	_	_	_	_	Gloss=up-
+10	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__26
+# text = somoo u lei -io
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 11
+1	somoo	sumoo	n  (he)	_	_	_	_	_	Gloss=rain
+2	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+3	lei	lei_1	v	_	_	_	_	_	Gloss=to_look
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__27
+# text = topolu
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 12.1
+1	topolu	topolu	adj	_	_	_	_	_	Gloss=cold
+
+# sent_id = 2015.I.S6__28
+# text = a topolu -lo -wo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 12.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	topolu	topolu	adj	_	_	_	_	_	Gloss=cold
+3	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+4	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__29
+# text = nemeli topolu -mo fu -wo
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 12.3
+1	nemeli	nemeli_1	n  (mo)	_	_	_	_	_	Gloss=wind
+2	topolu	topolu	adj	_	_	_	_	_	Gloss=cold
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	fu	fu_2	v	_	_	_	_	_	Gloss=to_blow
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S6__30
+# text = tou
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 13.1
+1	tou	tou_2	n  (ei)	_	_	_	_	_	Gloss=night
+
+# sent_id = 2015.I.S6__31
+# text = a
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 13.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+
+# sent_id = 2015.I.S6__32
+# text = a tou -nai -mwii
+# doc_id = 2015.I.S6
+# doc_title = 2015.I.S6 Séance dictionnaire 1
+# origin_s_id = 13.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	tou	tou_2	n  (ei)	_	_	_	_	_	Gloss=night
+3	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

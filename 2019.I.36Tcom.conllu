@@ -1,0 +1,106 @@
+# sent_id = 2019.I.36Tcom__1
+# text = me meli meli -mwii
+# doc_id = 2019.I.36Tcom
+# origin_s_id = 1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	meli	meli_3	n	_	_	_	_	_	Gloss=true
+3	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2019.I.36Tcom__2
+# text = i -mwii
+# doc_id = 2019.I.36Tcom
+# origin_s_id = 2.1
+1	i	i	light verb	_	_	_	_	_	Gloss=to_go
+2	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2019.I.36Tcom__3
+# text = i -mwii
+# doc_id = 2019.I.36Tcom
+# origin_s_id = 2.2
+1	i	i	light verb	_	_	_	_	_	Gloss=to_go
+2	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2019.I.36Tcom__4
+# text = a nepiia -ma i -nai -mwi -io
+# doc_id = 2019.I.36Tcom
+# origin_s_id = 3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	nepiia	nepia	adj	_	_	_	_	_	Gloss=far_away
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	i	i	light verb	_	_	_	_	_	Gloss=to_go
+5	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+6	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.36Tcom__5
+# text = ka- wali -na ka- tawa mali -na ka- wa mali -na
+# doc_id = 2019.I.36Tcom
+# origin_s_id = 4
+1	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+2	wali	wali	PN	_	_	_	_	_	Gloss=wali
+3	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+4	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+5	tawa	_	_	_	_	_	_	_	_
+6	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+7	-na	-na_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?INTSFIER?
+8	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+9	wa	wa_2	v	_	_	_	_	_	Gloss=back
+10	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+11	-na	-na_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?INTSFIER?
+
+# sent_id = 2019.I.36Tcom__6
+# text = asba
+# doc_id = 2019.I.36Tcom
+# origin_s_id = 5.1
+1	asba	asabano	PN_toponyme	_	_	_	_	_	Gloss=Asabano
+
+# sent_id = 2019.I.36Tcom__7
+# text = konama
+# doc_id = 2019.I.36Tcom
+# origin_s_id = 5.2
+1	konama	konama	PN_toponyme	_	_	_	_	_	Gloss=Duranmin
+
+# sent_id = 2019.I.36Tcom__8
+# text = fufu nemesi -li fufu seniia fufu aku
+# doc_id = 2019.I.36Tcom
+# origin_s_id = 6.1
+1	fufu	fufu	n  (fo)	_	_	_	_	_	Gloss=papaye
+2	nemesi	nemesi	adj	_	_	_	_	_	Gloss=red
+3	-li	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	fufu	fufu	n  (fo)	_	_	_	_	_	Gloss=papaye
+5	seniia	seniia	n	_	_	_	_	_	Gloss=papaye_species
+6	fufu	fufu	n  (fo)	_	_	_	_	_	Gloss=papaye
+7	aku	aku	n	_	_	_	_	_	Gloss=papaye_species
+
+# sent_id = 2019.I.36Tcom__9
+# text = fufu no -fo nilei i -io nilei i -io
+# doc_id = 2019.I.36Tcom
+# origin_s_id = 6.2
+1	fufu	fufu	n  (fo)	_	_	_	_	_	Gloss=papaye
+2	no	no_3	dem	_	_	_	_	_	Gloss=DEM2
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	nilei	nilei	adj	_	_	_	_	_	Gloss=sweet
+5	i	i	light verb	_	_	_	_	_	Gloss=to_be
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+7	nilei	nilei	adj	_	_	_	_	_	Gloss=sweet
+8	i	i	light verb	_	_	_	_	_	Gloss=to_be
+9	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.36Tcom__10
+# text = mihapo moni -si neheisa nai -si
+# doc_id = 2019.I.36Tcom
+# origin_s_id = 7
+1	mihapo	mihapo	correlconn	_	_	_	_	_	Gloss=olsem_wanem
+2	moni	moni	n	_	_	_	_	_	Gloss=money
+3	-si	se_4	n:Tout	_	_	_	_	_	Gloss=DEM3.INDEF.NEG
+4	neheisa	neheisa	v	_	_	_	_	_	Gloss=to_buy
+5	nai	_	_	_	_	_	_	_	_
+6	-si	se_4	n	_	_	_	_	_	Gloss=DEM3:other_one
+
+# sent_id = 2019.I.36Tcom__11
+# text = nihapo
+# doc_id = 2019.I.36Tcom
+# origin_s_id = 8
+1	nihapo	nihapo	_	_	_	_	_	_	Gloss=?
+

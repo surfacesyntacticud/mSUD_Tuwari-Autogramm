@@ -1,0 +1,85 @@
+# sent_id = 2015T19bis__1
+# text = heli -to honu tia
+# doc_id = 2015T19bis
+# doc_title = 2015T19bis
+# origin_s_id = 1.1
+1	heli	ei	pers	_	_	_	_	_	Gloss=2PL
+2	-to	-to_2	pers:Tout	_	_	_	_	_	Gloss=-DU.parent_and_child
+3	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+4	tia	tea	v	_	_	_	_	_	Gloss=to_kam
+
+# sent_id = 2015T19bis__2
+# text = a i -ne mi -o
+# doc_id = 2015T19bis
+# doc_title = 2015T19bis
+# origin_s_id = 1.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	i	i	light verb	_	_	_	_	_	Gloss=to_go
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+4	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+5	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+
+# sent_id = 2015T19bis__3
+# text = nua -ne a -ne neiau -fo u -ne haleni
+# doc_id = 2015T19bis
+# doc_title = 2015T19bis
+# origin_s_id = 1.3
+1	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+2	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+3	a	a_1	v	_	_	_	_	_	Gloss=to_come
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	neiau	neiau	n  (fo)	_	_	_	_	_	Gloss=kapiok
+6	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+7	u	u_3	v	_	_	_	_	_	Gloss=to_go_up
+8	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+9	haleni	haleni	v	_	_	_	_	_	Gloss=to_remove
+
+# sent_id = 2015T19bis__4
+# text = i -ne -nami ni -tano alu -ne o -ni
+# doc_id = 2015T19bis
+# doc_title = 2015T19bis
+# origin_s_id = 1.4
+1	i	i	light verb	_	_	_	_	_	Gloss=to_be
+2	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+3	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+4	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+5	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+6	alu	alu	v	_	_	_	_	_	Gloss=to_light_fire
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	o	o_1	v	_	_	_	_	_	Gloss=to_cook
+9	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+
+# sent_id = 2015T19bis__5
+# text = o -ne -nami o -ni
+# doc_id = 2015T19bis
+# doc_title = 2015T19bis
+# origin_s_id = 1.5
+1	o	o_1	v	_	_	_	_	_	Gloss=to_cook
+2	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+3	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+4	o	o_1	v	_	_	_	_	_	Gloss=to_cook
+5	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+
+# sent_id = 2015T19bis__6
+# text = o -ni -nami iowa a -ni
+# doc_id = 2015T19bis
+# doc_title = 2015T19bis
+# origin_s_id = 1.6
+1	o	o_1	v	_	_	_	_	_	Gloss=to_cook
+2	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+3	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+4	iowa	iowe	v	_	_	_	_	_	Gloss=to_go
+5	a	a_1	v	_	_	_	_	_	Gloss=to_go
+6	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+
+# sent_id = 2015T19bis__7
+# text = ta apulo iowa a -ni
+# doc_id = 2015T19bis
+# doc_title = 2015T19bis
+# origin_s_id = 1.7
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	apulo	apulo	adv	_	_	_	_	_	Gloss=algeta
+3	iowa	iowe	v	_	_	_	_	_	Gloss=to_go
+4	a	o_4	v	_	_	_	_	_	Gloss=to_eat
+5	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+

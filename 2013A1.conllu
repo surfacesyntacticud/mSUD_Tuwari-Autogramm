@@ -1,0 +1,98 @@
+# sent_id = 2013A1__1
+# text = motou
+# doc_id = 2013A1
+# doc_title = 2013A1: Josep count from one to fifteen.
+# origin_s_id = 1
+1	motou	motou	cardnum	_	_	_	_	_	Gloss=one
+
+# sent_id = 2013A1__2
+# text = motounami
+# doc_id = 2013A1
+# doc_title = 2013A1: Josep count from one to fifteen.
+# origin_s_id = 2
+1	motounami	motounami	cardnum	_	_	_	_	_	Gloss=two
+
+# sent_id = 2013A1__3
+# text = toulei
+# doc_id = 2013A1
+# doc_title = 2013A1: Josep count from one to fifteen.
+# origin_s_id = 3
+1	toulei	toulei	cardnum	_	_	_	_	_	Gloss=three
+
+# sent_id = 2013A1__4
+# text = saalenami
+# doc_id = 2013A1
+# doc_title = 2013A1: Josep count from one to fifteen.
+# origin_s_id = 4
+1	saalenami	saalenami	cardnum	_	_	_	_	_	Gloss=four
+
+# sent_id = 2013A1__5
+# text = snaetia
+# doc_id = 2013A1
+# doc_title = 2013A1: Josep count from one to fifteen.
+# origin_s_id = 5
+1	snaetia	sinaetia	cardnum	_	_	_	_	_	Gloss=five
+
+# sent_id = 2013A1__6
+# text = heitofo
+# doc_id = 2013A1
+# doc_title = 2013A1: Josep count from one to fifteen.
+# origin_s_id = 6
+1	heitofo	heitofo	cardnum	_	_	_	_	_	Gloss=six
+
+# sent_id = 2013A1__7
+# text = kape
+# doc_id = 2013A1
+# doc_title = 2013A1: Josep count from one to fifteen.
+# origin_s_id = 7
+1	kape	kape	cardnum	_	_	_	_	_	Gloss=seven
+
+# sent_id = 2013A1__8
+# text = watelito
+# doc_id = 2013A1
+# doc_title = 2013A1: Josep count from one to fifteen.
+# origin_s_id = 8
+1	watelito	watelito	cardnum	_	_	_	_	_	Gloss=eight
+
+# sent_id = 2013A1__9
+# text = ienipe
+# doc_id = 2013A1
+# doc_title = 2013A1: Josep count from one to fifteen.
+# origin_s_id = 9
+1	ienipe	ienipe	cardnum	_	_	_	_	_	Gloss=nine
+
+# sent_id = 2013A1__10
+# text = ieniso
+# doc_id = 2013A1
+# doc_title = 2013A1: Josep count from one to fifteen.
+# origin_s_id = 10
+1	ieniso	ieniso	cardnum	_	_	_	_	_	Gloss=ten
+
+# sent_id = 2013A1__11
+# text = tioi
+# doc_id = 2013A1
+# doc_title = 2013A1: Josep count from one to fifteen.
+# origin_s_id = 11
+1	tioi	tioi	cardnum	_	_	_	_	_	Gloss=eleven
+
+# sent_id = 2013A1__12
+# text = tuasei
+# doc_id = 2013A1
+# doc_title = 2013A1: Josep count from one to fifteen.
+# origin_s_id = 12
+1	tuasei	tuasi	cardnum	_	_	_	_	_	Gloss=twelve
+
+# sent_id = 2013A1__13
+# text = nou
+# doc_id = 2013A1
+# doc_title = 2013A1: Josep count from one to fifteen.
+# origin_s_id = 13
+1	nou	nou_2	cardnum	_	_	_	_	_	Gloss=thirteen
+
+# sent_id = 2013A1__14
+# text = tuia
+# doc_id = 2013A1
+# doc_title = 2013A1: Josep count from one to fifteen.
+# origin_s_id = 14
+1	tuia	tuia	cardnum	_	_	_	_	_	Gloss=fourteen
+

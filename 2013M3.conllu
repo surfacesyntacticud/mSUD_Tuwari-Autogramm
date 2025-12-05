@@ -1,0 +1,11 @@
+# sent_id = 2013M3__1
+# text = kemia -mi hei -io
+# text_en = I wash pandanut
+# doc_id = 2013M3
+# doc_title = 2013M3
+# origin_s_id = 1
+1	kemia	kemia	n	_	_	_	_	_	Gloss=red_pandanus
+2	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+3	hei	hei_1	v	_	_	_	_	_	Gloss=to_go_in_water
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

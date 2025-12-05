@@ -1,0 +1,644 @@
+# sent_id = 2015T3com__1
+# text = mio- -neio
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 1.1
+1	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+2	-neio	-neio	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=?
+
+# sent_id = 2015T3com__2
+# text = miʔa -neio
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 1.2
+1	miʔa	miʔa	v	_	_	_	_	_	Gloss=to_cross
+2	-neio	-neio	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=?
+
+# sent_id = 2015T3com__3
+# text = miʔai -neio
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 1.3
+1	miʔai	miʔai	v	_	_	_	_	_	Gloss=to_cross_toward_the_other_side
+2	-neio	-neio	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=?
+
+# sent_id = 2015T3com__4
+# text = a mototo miʔai -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 1.4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mototo	_	_	_	_	_	_	_	_
+3	miʔai	miʔai	v	_	_	_	_	_	Gloss=to_cross_toward_the_other_side
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__5
+# text = a mototo miʔa -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 1.5
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mototo	_	_	_	_	_	_	_	_
+3	miʔa	miʔa	v	_	_	_	_	_	Gloss=to_cross
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__6
+# text = a wea -mo u- -mwii
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 2.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	wea	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	u-	u-_1	v:(dir-)	_	_	_	_	_	Gloss=up-
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015T3com__7
+# text = a fonane wea -ma u- -nai -mwii
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 2.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+3	wea	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	u-	u-_1	v:(dir-)	_	_	_	_	_	Gloss=up-
+6	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+7	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015T3com__8
+# text = me naswaia u -no
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 3.1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	naswaia	naswaia	interrog	_	_	_	_	_	Gloss=where
+3	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+4	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2015T3com__9
+# text = a wea -ma to- u- -wo
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 3.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	wea	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	to-	to-_1	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	u-	u-_1	v:(dir-)	_	_	_	_	_	Gloss=up-
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__10
+# text = a wea teiapapo -ma tei -o
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	wea	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+3	teiapapo	teiapapo	adj	_	_	_	_	_	Gloss=middle
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	tei	tei_1	v	_	_	_	_	_	Gloss=to_go
+6	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__11
+# text = teiapapo
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 5
+1	teiapapo	teiapapo	adj	_	_	_	_	_	Gloss=middle
+
+# sent_id = 2015T3com__12
+# text = a u -pao teiapapo -ma mototo miʔa -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 6
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+3	-pao	-pao	Noun	_	_	_	_	_	Gloss=deep
+4	teiapapo	teiapapo	adj	_	_	_	_	_	Gloss=middle
+5	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+6	mototo	_	_	_	_	_	_	_	_
+7	miʔa	miʔa	v	_	_	_	_	_	Gloss=to_cross
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__13
+# text = u -pao
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 7
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	-pao	-pao	Noun	_	_	_	_	_	Gloss=deep
+
+# sent_id = 2015T3com__14
+# text = aio teiapapo -ma me- hei mio -wo tau sumwari
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 8
+1	aio	_	_	_	_	_	_	_	_
+2	teiapapo	teiapapo	adj	_	_	_	_	_	Gloss=middle
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	hei	hei_1	v	_	_	_	_	_	Gloss=to_paddle
+6	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+8	tau	tau	PN_toponyme	_	_	_	_	_	Gloss=Tau
+9	sumwari	sumwari	PN_toponyme	_	_	_	_	_	Gloss=Sumwari
+
+# sent_id = 2015T3com__15
+# text = ha
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 9.1
+1	ha	ha_1	adj	_	_	_	_	_	Gloss=small
+
+# sent_id = 2015T3com__16
+# text = kali
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 9.2
+1	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+
+# sent_id = 2015T3com__17
+# text = kaliia
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 9.3
+1	kaliia	kaliia	adj	_	_	_	_	_	Gloss=long
+
+# sent_id = 2015T3com__18
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 9.4
+
+# sent_id = 2015T3com__19
+# text = keitia
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 9.5
+1	keitia	keitia	adj	_	_	_	_	_	Gloss=short
+
+# sent_id = 2015T3com__20
+# text = tia
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 9.6
+1	tia	tia_4	adj	_	_	_	_	_	Gloss=shirt
+
+# sent_id = 2015T3com__21
+# text = mi kalia -oi
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 9.7
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	kalia	kaliia	adj	_	_	_	_	_	Gloss=long
+3	-oi	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+
+# sent_id = 2015T3com__22
+# text = ei -fa ne -mele -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 10
+1	ei	ei	pers	_	_	_	_	_	Gloss=2PL
+2	-fa	-fa_3	Pro-form	_	_	_	_	_	Gloss=-DISTR
+3	ne	ne_2	v	_	_	_	_	_	Gloss=to_stay
+4	-mele	-mle	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:PL
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__23
+# text = tei taa -u -lei
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 11
+1	tei	tei_2	pers	_	_	_	_	_	Gloss=2PL
+2	taa	tou_1	v	_	_	_	_	_	Gloss=to_cut
+3	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+4	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2015T3com__24
+# text = a fefe -le tau
+# text_en = [I cut taro]
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 12
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	tau	tou_1	v	_	_	_	_	_	Gloss=to_cut
+
+# sent_id = 2015T3com__25
+# text = a fefe -mo tiape -he -lo mo- taa -lo
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 13.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	tiape	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+5	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+6	-lo	-lo_3	n	_	_	_	_	_	Gloss=-INS
+7	mo-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+8	taa	tou_1	v	_	_	_	_	_	Gloss=to_cut
+9	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2015T3com__26
+# text = a fefe -mo tiape -he -lo mo- tou
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 13.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	tiape	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+5	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+6	-lo	-lo_3	n	_	_	_	_	_	Gloss=-INS
+7	mo-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+8	tou	tou_1	v	_	_	_	_	_	Gloss=to_cut
+
+# sent_id = 2015T3com__27
+# text = a fefe -mo tiape -he -lo o- tou -wo
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 13.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	tiape	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+5	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+6	-lo	-lo_3	n	_	_	_	_	_	Gloss=-INS
+7	o-	o-	Verb	_	_	_	_	_	Gloss=?-
+8	tou	tou_1	v	_	_	_	_	_	Gloss=to_cut
+9	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__28
+# text = a fali tiape -he -lo moi- tou -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 14
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	tiape	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+4	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+5	-lo	-lo_3	n	_	_	_	_	_	Gloss=-INS
+6	moi-	moi-	Verb	_	_	_	_	_	Gloss=?(to)-
+7	tou	tou_1	v	_	_	_	_	_	Gloss=to_cut
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__29
+# text = a fefe he -mo he- taa -lo -wo
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 15.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+3	he	he_1	n	_	_	_	_	_	Gloss=shoot
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	he-	he-	Verb	_	_	_	_	_	Gloss=?-
+6	taa	tou_1	v	_	_	_	_	_	Gloss=to_cut
+7	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__30
+# text = a fefe -mo ha ha ha ha mo- taa -le fu -wo
+# text_en = to cut in very small pieces
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 15.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	ha	ha_1	adj	_	_	_	_	_	Gloss=small
+5	ha	ha_1	adj	_	_	_	_	_	Gloss=small
+6	ha	ha_1	adj	_	_	_	_	_	Gloss=small
+7	ha	ha_1	adj	_	_	_	_	_	Gloss=small
+8	mo-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+9	taa	tou_1	v	_	_	_	_	_	Gloss=to_cut
+10	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+11	fu	fu_2	v	_	_	_	_	_	Gloss=to_put
+12	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__31
+# text = a me- naano
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 16.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+3	naano	naano_1	v	_	_	_	_	_	Gloss=to_round
+
+# sent_id = 2015T3com__32
+# text = me naano
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 16.2
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	naano	naano_1	v	_	_	_	_	_	Gloss=to_like
+
+# sent_id = 2015T3com__33
+# text = me nasi ano -no
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 16.3
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	nasi	nasi	interrog	_	_	_	_	_	Gloss=what
+3	ano	ano_2	v	_	_	_	_	_	Gloss=to_make
+4	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2015T3com__34
+# text = me nela ano
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 16.4
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	nela	nela	interrog	_	_	_	_	_	Gloss=what?
+3	ano	ano_2	v	_	_	_	_	_	Gloss=to_make
+
+# sent_id = 2015T3com__35
+# text = me tiape taleli -lo -no
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 17
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	tiape	tiape	n	_	_	_	_	_	Gloss=spirit(?)
+3	taleli	taleli	adj	_	_	_	_	_	Gloss=PRIVATION
+4	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+5	-no	-no_7	Verb	_	_	_	_	_	Gloss=?
+
+# sent_id = 2015T3com__36
+# text = a naano
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 18.1
+1	a	a_1	v	_	_	_	_	_	Gloss=to_go
+2	naano	naano_1	v	_	_	_	_	_	Gloss=to_round
+
+# sent_id = 2015T3com__37
+# text = me- naano
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 18.2
+1	me-	_	_	_	_	_	_	_	_
+2	naano	naano_1	v	_	_	_	_	_	Gloss=to_round
+
+# sent_id = 2015T3com__38
+# text = m- io naano
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 18.3
+1	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	io	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+3	naano	naano_1	v	_	_	_	_	_	Gloss=to_round
+
+# sent_id = 2015T3com__39
+# text = me daniel -we ia -le io naano -wo
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 18.4
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	daniel	daniel	PN	_	_	_	_	_	Gloss=Daniel
+3	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+4	ia	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+5	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+6	io	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+7	naano	naano_1	v	_	_	_	_	_	Gloss=to_round
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__40
+# text = a fali daniel -we ia -le m- io naano -ne wa- ia -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 18.5
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	daniel	daniel	PN	_	_	_	_	_	Gloss=Daniel
+4	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+5	ia	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+6	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+7	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+8	io	ia_2	n  (he)	_	_	_	_	_	Gloss=speech
+9	naano	naano_1	v	_	_	_	_	_	Gloss=to_round
+10	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+11	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+12	ia	ia_1	v	_	_	_	_	_	Gloss=to_go
+13	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__41
+# text = a mi -le sue -fi -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 19.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	sue	suwe_1	v	_	_	_	_	_	Gloss=to_sharpen
+5	-fi	-fi	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__42
+# text = a mi -le sua -fi -li -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 19.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	sua	suwe_1	v	_	_	_	_	_	Gloss=to_sharpen
+5	-fi	-fi	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+6	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PRS
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__43
+# text = a mi -le sua -fi -lo -wo
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 19.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	sua	suwe_1	v	_	_	_	_	_	Gloss=to_sharpen
+5	-fi	-fi	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+6	-lo	-lo_4	v:(Tense)	_	_	_	_	_	Gloss=-PST
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__44
+# text = a mi -o to -li -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 20.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	to	tou_1	v	_	_	_	_	_	Gloss=to_cut
+5	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PRS
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__45
+# text = a mi -o to -lo -wo
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 20.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	to	tou_1	v	_	_	_	_	_	Gloss=to_cut
+5	-lo	-lo_4	v:(Tense)	_	_	_	_	_	Gloss=-PST
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__46
+# text = a si -fo ateli -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 21.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	si	si_2	n  (fo)	_	_	_	_	_	Gloss=bush_ground
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	ateli	ateli	v	_	_	_	_	_	Gloss=to_weed
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__47
+# text = a si -fo ateli -lo -wo
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 21.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	si	si_2	n  (fo)	_	_	_	_	_	Gloss=bush_ground
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	ateli	ateli	v	_	_	_	_	_	Gloss=to_weed
+5	-lo	-lo_4	v:(Tense)	_	_	_	_	_	Gloss=-PST
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__48
+# text = a sisomu -he ota -u -li -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 22.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	sisomu	sisomumi	n	_	_	_	_	_	Gloss=grass
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	ota	ota	v	_	_	_	_	_	Gloss=to_chase_out
+5	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+6	-li	-li_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__49
+# text = a sisomu -he ota -u -lo -wo
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 22.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	sisomu	sisomumi	n	_	_	_	_	_	Gloss=grass
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	ota	ota	v	_	_	_	_	_	Gloss=to_chase_out
+5	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+6	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__50
+# text = ne -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 23.1
+1	ne	ne_3	v	_	_	_	_	_	Gloss=to_give
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__51
+# text = ne a -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 23.2
+1	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+2	a	a_1	v	_	_	_	_	_	Gloss=to_go
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__52
+# text = efe -mo oluo
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 24.1
+1	efe	efe_3	n  (mo)	_	_	_	_	_	Gloss=door
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	oluo	alu	v	_	_	_	_	_	Gloss=to_close_door
+
+# sent_id = 2015T3com__53
+# text = a fali efe -mo alu -o
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 24.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	efe	efe_3	n  (mo)	_	_	_	_	_	Gloss=door
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	alu	alu	_	_	_	_	_	_	_
+6	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__54
+# text = ni -tano oluo
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 24.3
+1	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+2	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+3	oluo	alu	v	_	_	_	_	_	Gloss=to_light_fire
+
+# sent_id = 2015T3com__55
+# text = a pamo -li nua -ne a -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 25.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	pamo	pamo	adv	_	_	_	_	_	Gloss=before
+3	-li	-li_1	Pro-form	_	_	_	_	_	Gloss=-?
+4	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	a	a_1	v	_	_	_	_	_	Gloss=to_go
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__56
+# text = a fonane nua -ne a -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 25.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+3	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	a	a_1	v	_	_	_	_	_	Gloss=to_go
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__57
+# text = a fali efe -ma alu -li -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 26.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	efe	efe_3	n  (mo)	_	_	_	_	_	Gloss=door
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	alu	alu	v	_	_	_	_	_	Gloss=to_close_door
+6	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PRS
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__58
+# text = a fali efe -ma olu -wo
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 26.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	efe	efe_3	n  (mo)	_	_	_	_	_	Gloss=door
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	olu	alu	v	_	_	_	_	_	Gloss=to_close_door
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T3com__59
+# text = a fali moni -le ne -li -io
+# doc_id = 2015T3com
+# doc_title = 2015T3com
+# origin_s_id = 27
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	moni	moni	n	_	_	_	_	_	Gloss=money
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+6	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PRS
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

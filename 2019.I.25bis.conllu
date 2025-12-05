@@ -1,0 +1,147 @@
+# sent_id = 2019.I.25bis__1
+# text = u -tano f- a -nai -ni -tano -i
+# doc_id = 2019.I.25bis
+# origin_s_id = 1.1
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+3	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+4	a	a_1	v	_	_	_	_	_	Gloss=to_go
+5	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-CAP
+6	-ni	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+7	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+8	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.25bis__2
+# text = a f- a -nai -ne -mwi -i
+# doc_id = 2019.I.25bis
+# origin_s_id = 1.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+3	a	a_1	v	_	_	_	_	_	Gloss=to_come
+4	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-CAP
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+7	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.25bis__3
+# text = fonane a o -sapo kene -nai -mwi -i
+# text_en = Today I will build a house.
+# doc_id = 2019.I.25bis
+# origin_s_id = 2.1
+1	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+4	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+5	kene	kono_2	v	_	_	_	_	_	Gloss=to_make
+6	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+7	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+8	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.25bis__4
+# text = otoiso a holo sle hei -nai -mwi -i
+# text_en = Tomorrow I will rest.
+# doc_id = 2019.I.25bis
+# origin_s_id = 2.2
+1	otoiso	otoiso	adv	_	_	_	_	_	Gloss=tomorrow
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	holo	holua	v	_	_	_	_	_	Gloss=to_work
+4	sle	sele_1	v	_	_	_	_	_	Gloss=to_sit
+5	hei	he_4	v	_	_	_	_	_	Gloss=to_rest
+6	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+7	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+8	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.25bis__5
+# text = to -ne maa- -s -le hapo o -sapo kene -nai -li -i
+# text_en = Other men this time will build a house.
+# doc_id = 2019.I.25bis
+# origin_s_id = 2.3
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	-ne	-ne_7	Noun	_	_	_	_	_	Gloss=-?
+3	maa-	maa-_2	Noun	_	_	_	_	_	Gloss=another_one
+4	-s	se_4	n	_	_	_	_	_	Gloss=DEM3:other_one
+5	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+6	hapo	hapo	n	_	_	_	_	_	Gloss=time
+7	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+8	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+9	kene	kono_2	v	_	_	_	_	_	Gloss=to_make
+10	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+11	-li	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+12	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.25bis__6
+# text = sumoe fali mesa aplo
+# doc_id = 2019.I.25bis
+# origin_s_id = 3
+1	sumoe	sumoo	n  (he)	_	_	_	_	_	Gloss=rain
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	mesa	mese_1	v	_	_	_	_	_	Gloss=to_go
+4	aplo	aplo_1	v	_	_	_	_	_	Gloss=to_finish
+
+# sent_id = 2019.I.25bis__7
+# text = me fali tihesi
+# doc_id = 2019.I.25bis
+# origin_s_id = 4.1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	tihesi	tehasi	v	_	_	_	_	_	Gloss=to_write
+
+# sent_id = 2019.I.25bis__8
+# text = joo a fali tihesi
+# doc_id = 2019.I.25bis
+# origin_s_id = 4.2
+1	joo	yoho	adv	_	_	_	_	_	Gloss=yes
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+4	tihesi	tehasi	v	_	_	_	_	_	Gloss=to_write
+
+# sent_id = 2019.I.25bis__9
+# text = awa samuele tele sande -mo tei -nai -le -i
+# doc_id = 2019.I.25bis
+# origin_s_id = 5
+1	awa	awa	n	_	_	_	_	_	Gloss=sibling
+2	samuele	samuel	PN	_	_	_	_	_	Gloss=Samuel
+3	tele	tele	pers	_	_	_	_	_	Gloss=2DU
+4	sande	sande	n	_	_	_	_	_	Gloss=sunday
+5	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+6	tei	tei_1	v	_	_	_	_	_	Gloss=to_go
+7	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+8	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+9	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.25bis__10
+# text = tiʔa -io tia -io
+# doc_id = 2019.I.25bis
+# origin_s_id = 6
+1	tiʔa	tiaai	_	_	_	_	_	_	Gloss=to_go.1PL
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+3	tia	tia_1	v	_	_	_	_	_	Gloss=to_sit
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.25bis__11
+# text = sumoo tuwa sou -wo
+# doc_id = 2019.I.25bis
+# origin_s_id = 7.1
+1	sumoo	sumoo	n  (he)	_	_	_	_	_	Gloss=rain
+2	tuwa	tuane	v	_	_	_	_	_	Gloss=to_come_back
+3	sou	sou	v	_	_	_	_	_	Gloss=to_rain
+4	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.25bis__12
+# text = tu- -ma heisefe wa ia nai
+# doc_id = 2019.I.25bis
+# origin_s_id = 7.2
+1	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+2	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+3	heisefe	eisefe	adv	_	_	_	_	_	Gloss=back
+4	wa	wa_2	v	_	_	_	_	_	Gloss=back
+5	ia	ia_1	v	_	_	_	_	_	Gloss=to_go
+6	nai	_	_	_	_	_	_	_	_
+
+# sent_id = 2019.I.25bis__13
+# text = ne neia
+# doc_id = 2019.I.25bis
+# origin_s_id = 7.3
+1	ne	ne_1	v	_	_	_	_	_	Gloss=to_carry
+2	neia	_	_	_	_	_	_	_	_
+

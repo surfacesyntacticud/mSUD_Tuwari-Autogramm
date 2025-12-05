@@ -1,0 +1,68 @@
+# sent_id = 2015.I.S21__1
+# text = mi tinaari
+# doc_id = 2015.I.S21
+# doc_title = 2015.I.S21
+# origin_s_id = 1
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	tinaari	tinaari	adj	_	_	_	_	_	Gloss=for_sitting
+
+# sent_id = 2015.I.S21__2
+# text = mami -mo tali hei'au -nai -mwii
+# doc_id = 2015.I.S21
+# doc_title = 2015.I.S21
+# origin_s_id = 2
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	tali	tali	pers	_	_	_	_	_	Gloss=all_of_us
+4	hei'au	hei'au	v	_	_	_	_	_	Gloss=to_fight
+5	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.I.S21__3
+# text = mi toni
+# text_en = cf . photo #1074
+# doc_id = 2015.I.S21
+# doc_title = 2015.I.S21
+# origin_s_id = 3
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	toni	_	_	_	_	_	_	_	_
+
+# sent_id = 2015.I.S21__4
+# text = upasi teinale samuel -we nomu tete a naano
+# doc_id = 2015.I.S21
+# doc_title = 2015.I.S21
+# origin_s_id = 4.1
+1	upasi	upase	n  (he)	_	_	_	_	_	Gloss=sand_bank
+2	teinale	teinale	adp	_	_	_	_	_	Gloss=middle
+3	samuel	samuel	PN	_	_	_	_	_	Gloss=Samuel
+4	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+5	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+6	tete	teto	v	_	_	_	_	_	Gloss=to_stand_up
+7	a	a_1	v	_	_	_	_	_	Gloss=to_go
+8	naano	naano_1	v	_	_	_	_	_	Gloss=to_round
+
+# sent_id = 2015.I.S21__5
+# text = heifo -le toa -ne a -nami to nele heian sane -le ate -ne mami -mo iafi -nai -mwii
+# text_en = After ‎‎the dogs will have singaut and come, all the men will take their spears and their bows and will shoot the pig.
+# doc_id = 2015.I.S21
+# doc_title = 2015.I.S21
+# origin_s_id = 4.2
+1	heifo	heifo_1	n  (mo)	_	_	_	_	_	Gloss=dog
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	toa	toa	v	_	_	_	_	_	Gloss=to_bark
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	a	a_1	v	_	_	_	_	_	Gloss=to_come
+6	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+7	to	to_1	n	_	_	_	_	_	Gloss=man
+8	nele	nele_1	pers	_	_	_	_	_	Gloss=all
+9	heian	heiane	n  (fo)	_	_	_	_	_	Gloss=spear
+10	sane	sane	n  (pe)	_	_	_	_	_	Gloss=bow
+11	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+12	ate	ato	v	_	_	_	_	_	Gloss=to_hold
+13	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+14	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+15	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+16	iafi	iefi	v	_	_	_	_	_	Gloss=to_shoot
+17	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+18	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

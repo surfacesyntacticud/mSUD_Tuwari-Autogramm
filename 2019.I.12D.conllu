@@ -1,0 +1,157 @@
+# sent_id = 2019.I.12D__1
+# text = a sopute -le fu -no -wo a sopute -le fu -ne ano -wo
+# doc_id = 2019.I.12D
+# doc_title = Dialog: Meri tru, o?
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	sopute	sopute	n	_	_	_	_	_	Gloss=tabac
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	fu	fu_2	v	_	_	_	_	_	Gloss=to_smoke
+5	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PURP
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+7	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+8	sopute	sopute	n	_	_	_	_	_	Gloss=tabac
+9	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+10	fu	fu_2	v	_	_	_	_	_	Gloss=to_smoke
+11	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+12	ano	ano_1	v	_	_	_	_	_	Gloss=to_want
+13	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.12D__2
+# text = a -fa sopute -le fu -no -wo
+# doc_id = 2019.I.12D
+# doc_title = Dialog: Meri tru, o?
+# origin_s_id = 2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	-fa	-fa_3	Pro-form	_	_	_	_	_	Gloss=-DISTR
+3	sopute	sopute	n	_	_	_	_	_	Gloss=tabac
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	fu	fu_2	v	_	_	_	_	_	Gloss=to_smoke
+6	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-FUT
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.12D__3
+# text = sopute -le fali kouwa -le lo -wo
+# doc_id = 2019.I.12D
+# doc_title = Dialog: Meri tru, o?
+# origin_s_id = 3.1
+1	sopute	sopute	n	_	_	_	_	_	Gloss=tabac
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+4	kouwa	kowa	?	_	_	_	_	_	Gloss=NEG.existantial
+5	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+6	lo	lo_2	v	_	_	_	_	_	Gloss=to_exist
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.12D__4
+# text = soputo -le hei'ale me- na'a -i f- le -io
+# doc_id = 2019.I.12D
+# doc_title = Dialog: Meri tru, o?
+# origin_s_id = 3.2
+1	soputo	sopute	n	_	_	_	_	_	Gloss=tabac
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	hei'ale	heiai	v	_	_	_	_	_	Gloss=look_for
+4	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	na'a	naa	v	_	_	_	_	_	Gloss=to_want
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+7	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+8	le	lo_2	v	_	_	_	_	_	Gloss=to_have
+9	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.12D__5
+# text = e o menai a nou lamla -io
+# doc_id = 2019.I.12D
+# doc_title = Dialog: Meri tru, o?
+# origin_s_id = 4.1
+1	e	e	v	_	_	_	_	_	Gloss=?
+2	o	o_3	n	_	_	_	_	_	Gloss=child
+3	menai	menai	n	_	_	_	_	_	Gloss=VOC
+4	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+5	nou	nou_1	n  (mo)	_	_	_	_	_	Gloss=bilum
+6	lamla	lei_1	v	_	_	_	_	_	Gloss=to_look
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.12D__6
+# text = sopute se -le tofu famo
+# doc_id = 2019.I.12D
+# doc_title = Dialog: Meri tru, o?
+# origin_s_id = 4.2
+1	sopute	sopute	n	_	_	_	_	_	Gloss=tabac
+2	se	se_4	v:Tout	_	_	_	_	_	Gloss=DEM3.INDEF.Q
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	tofu	tofu_2	v	_	_	_	_	_	Gloss=there_is
+5	famo	famo	interrog	_	_	_	_	_	Gloss=or_no?
+
+# sent_id = 2019.I.12D__7
+# text = uweio
+# doc_id = 2019.I.12D
+# doc_title = Dialog: Meri tru, o?
+# origin_s_id = 5.1
+1	uweio	uweio_1	adv	_	_	_	_	_	Gloss=no
+
+# sent_id = 2019.I.12D__8
+# text = fali pamo -li kuwa le -la -io
+# doc_id = 2019.I.12D
+# doc_title = Dialog: Meri tru, o?
+# origin_s_id = 5.2
+1	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+2	pamo	pamo	adv	_	_	_	_	_	Gloss=before
+3	-li	-li_1	Pro-form	_	_	_	_	_	Gloss=-?
+4	kuwa	kowa	?	_	_	_	_	_	Gloss=NEG.existantial
+5	le	lo_2	v	_	_	_	_	_	Gloss=to_have
+6	-la	-la	Verb	_	_	_	_	_	Gloss=-?
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.12D__9
+# text = me -fa tywe kom teteli sla hemalo fali maa- nefi -io
+# doc_id = 2019.I.12D
+# doc_title = Dialog: Meri tru, o?
+# origin_s_id = 6
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	-fa	-fa_3	Pro-form	_	_	_	_	_	Gloss=-DISTR
+3	tywe	tuwe	adv	_	_	_	_	_	Gloss=half
+4	kom	_	_	_	_	_	_	_	_
+5	teteli	_	_	_	_	_	_	_	_
+6	sla	sele_1	v	_	_	_	_	_	Gloss=to_sit
+7	hemalo	hamalo	v	_	_	_	_	_	Gloss=to steal
+8	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+9	maa-	maa-_1	v:(Modality1)	_	_	_	_	_	Gloss=DEO-
+10	nefi	nefi_1	v	_	_	_	_	_	Gloss=to_take
+11	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.12D__10
+# text = uweio
+# doc_id = 2019.I.12D
+# doc_title = Dialog: Meri tru, o?
+# origin_s_id = 7.1
+1	uweio	uweio_1	adv	_	_	_	_	_	Gloss=no
+
+# sent_id = 2019.I.12D__11
+# text = me toiso -li soputo -le me- naa -i f- le -io
+# doc_id = 2019.I.12D
+# doc_title = Dialog: Meri tru, o?
+# origin_s_id = 7.2
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	toiso	toiso	n	_	_	_	_	_	Gloss=morning
+3	-li	-li_3	Noun	_	_	_	_	_	Gloss=-?
+4	soputo	sopute	n	_	_	_	_	_	Gloss=tabac
+5	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+6	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+7	naa	naa	v	_	_	_	_	_	Gloss=to_look_for
+8	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+9	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+10	le	lo_2	v	_	_	_	_	_	Gloss=to_have
+11	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.12D__12
+# text = soputo -le kowa -le lo -wo
+# doc_id = 2019.I.12D
+# doc_title = Dialog: Meri tru, o?
+# origin_s_id = 7.3
+1	soputo	sopute	n	_	_	_	_	_	Gloss=tabac
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	kowa	kowa	?	_	_	_	_	_	Gloss=NEG.existantial
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

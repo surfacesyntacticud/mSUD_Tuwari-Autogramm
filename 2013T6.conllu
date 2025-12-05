@@ -1,0 +1,56 @@
+# sent_id = 2013T6__1
+# text = daniele ta -i -to mene efe napumai -mwe -lo mene u -le me- hei -tele -ne wa- ma -ne mwe= kali sau -le mu- nwa -ne mio- -ne o ilo kali -saplo m- usi -aplo -mu
+# text_en = Daniele and I, together with the white man have gone wash, then we came back and go down with his stuff to the big new house.
+# doc_id = 2013T6
+# doc_title = 2013T6 Moving the white man to his new house
+# origin_s_id = 1.1
+1	daniele	daniel	PN	_	_	_	_	_	Gloss=Daniel
+2	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+3	-i	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	-to	-to_2	pers:Tout	_	_	_	_	_	Gloss=-DU.parent_and_child
+5	mene	mene_1	v	_	_	_	_	_	Gloss=to_go
+6	efe	efe_2	n  (mo)	_	_	_	_	_	Gloss=skin
+7	napumai	napumai	adj	_	_	_	_	_	Gloss=white
+8	-mwe	-mwe_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=DEM1:3SG.M
+9	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+10	mene	mene_1	v	_	_	_	_	_	Gloss=to_go
+11	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+12	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+13	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+14	hei	hei_1	v	_	_	_	_	_	Gloss=to_go_in_water
+15	-tele	-tele	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=completely
+16	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+17	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+18	ma	ma	v	_	_	_	_	_	Gloss=to_go
+19	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+20	mwe=	mwe=	poss	_	_	_	_	_	Gloss=3S.M.POSS==
+21	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+22	sau	sau	n	_	_	_	_	_	Gloss=thing
+23	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+24	mu-	mu-	v:(dir-)	_	_	_	_	_	Gloss=up-
+25	nwa	nua	v	_	_	_	_	_	Gloss=to_carry
+26	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+27	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+28	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+29	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+30	ilo	ilo	adj	_	_	_	_	_	Gloss=new
+31	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+32	-saplo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+33	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+34	usi	usi	adv	_	_	_	_	_	Gloss=inside
+35	-aplo	-aple	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PRF
+36	-mu	-mu_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+
+# sent_id = 2013T6__2
+# text = mwe fonane honu u -nai -mwii
+# text_en = He will now sleep here.
+# doc_id = 2013T6
+# doc_title = 2013T6 Moving the white man to his new house
+# origin_s_id = 1.2
+1	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+2	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+3	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+4	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+5	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

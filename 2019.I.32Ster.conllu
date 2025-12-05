@@ -1,0 +1,126 @@
+# sent_id = 2019.I.32Ster__1
+# text = miʔa -io miʔai -io
+# doc_id = 2019.I.32Ster
+# origin_s_id = 1
+1	miʔa	miʔa	v	_	_	_	_	_	Gloss=to_cross
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+3	miʔai	miʔai	v	_	_	_	_	_	Gloss=to_cross_toward_the_other_side
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.32Ster__2
+# text = iiʔai jiʔaj -io iiʔa-
+# doc_id = 2019.I.32Ster
+# origin_s_id = 2
+1	iiʔai	iaai	v	_	_	_	_	_	Gloss=cross_to_the_other_side
+2	jiʔaj	_	_	_	_	_	_	_	_
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	iiʔa-	iaa-	v:(dir-)	_	_	_	_	_	Gloss=cross_side
+
+# sent_id = 2019.I.32Ster__3
+# text = me fali m- a -aplo -wo
+# doc_id = 2019.I.32Ster
+# origin_s_id = 3.1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	a	o_4	v	_	_	_	_	_	Gloss=to_eat
+5	-aplo	-aple	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PRF
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.32Ster__4
+# text = me fali a -io
+# doc_id = 2019.I.32Ster
+# origin_s_id = 3.2
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	a	a_1	v	_	_	_	_	_	Gloss=to_come
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.32Ster__5
+# text = me fali mafou -wo
+# doc_id = 2019.I.32Ster
+# origin_s_id = 3.3
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	mafou	mafou	v	_	_	_	_	_	Gloss=to_be_full
+4	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.32Ster__6
+# text = ieniso -ma nua -ne mio -wo
+# doc_id = 2019.I.32Ster
+# origin_s_id = 4.1
+1	ieniso	ieniso	n  (he)	_	_	_	_	_	Gloss=shoulder
+2	-ma	-ma_1	n	_	_	_	_	_	Gloss=-INSTR
+3	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.32Ster__7
+# text = ieniso -ma nua -ne wafe -ma i -io
+# text_en = [idem]
+# doc_id = 2019.I.32Ster
+# origin_s_id = 4.2
+1	ieniso	ieniso	n  (he)	_	_	_	_	_	Gloss=shoulder
+2	-ma	-ma_1	n	_	_	_	_	_	Gloss=-INSTR
+3	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	wafe	wafe_1	adv	_	_	_	_	_	Gloss=downstream
+6	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+7	i	i	light verb	_	_	_	_	_	Gloss=to_go
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.32Ster__8
+# text = ieniso -ma nua -ne ife -ma i -io
+# doc_id = 2019.I.32Ster
+# origin_s_id = 4.3
+1	ieniso	ieniso	n  (he)	_	_	_	_	_	Gloss=shoulder
+2	-ma	-ma_1	n	_	_	_	_	_	Gloss=-INSTR
+3	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	ife	ife	adv	_	_	_	_	_	Gloss=upstream
+6	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+7	i	i	light verb	_	_	_	_	_	Gloss=to_go
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.32Ster__9
+# text = a otoiso honu tau -tano m- afeteli -ne waibu -tano uniane -ma io -nai -mwii
+# doc_id = 2019.I.32Ster
+# origin_s_id = 5.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	otoiso	otoiso	adv	_	_	_	_	_	Gloss=tomorrow
+3	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+4	tau	tau	PN_hydronym	_	_	_	_	_	Gloss=Tau
+5	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+6	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+7	afeteli	afetei	v	_	_	_	_	_	Gloss=to_leave
+8	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+9	waibu	waibu	PN_hydronym	_	_	_	_	_	Gloss=Waibu
+10	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+11	uniane	uniane	n	_	_	_	_	_	Gloss=confluence
+12	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+13	io	io	v	_	_	_	_	_	Gloss=go_down
+14	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+15	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2019.I.32Ster__10
+# text = a ho hepi -tano uniane m- afeteli -ne honu m- io -wa
+# doc_id = 2019.I.32Ster
+# origin_s_id = 5.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	ho	ho_1	adv	_	_	_	_	_	Gloss=yesterday
+3	hepi	hepi_3	PN_hydronym	_	_	_	_	_	Gloss=hepi
+4	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+5	uniane	uniane	n	_	_	_	_	_	Gloss=confluence
+6	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+7	afeteli	afetei	v	_	_	_	_	_	Gloss=to_leave
+8	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+9	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+10	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+11	io	io	v	_	_	_	_	_	Gloss=go_down
+12	-wa	-ia_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PST_also?
+
+# sent_id = 2019.I.32Ster__11
+# doc_id = 2019.I.32Ster
+# origin_s_id = 6
+

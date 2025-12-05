@@ -1,0 +1,194 @@
+# sent_id = 2015.I.S13__1
+# text = me -fa ne -mwiio
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	-fa	-fa_3	Pro-form	_	_	_	_	_	Gloss=-DISTR
+3	ne	ne_2	v	_	_	_	_	_	Gloss=to_stay
+4	-mwiio	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.I.S13__2
+# text = me fa i -ne peiso aluw
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 2
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	fa	fa_2	adv	_	_	_	_	_	Gloss=now
+3	i	i	light verb	_	_	_	_	_	Gloss=to_go
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	peiso	peisa	adv	_	_	_	_	_	Gloss=good
+6	aluw	_	_	_	_	_	_	_	_
+
+# sent_id = 2015.I.S13__3
+# text = nomu nomu -fa
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 3.1
+1	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+2	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+3	-fa	-fa_3	Adverb	_	_	_	_	_	Gloss=-CONTRAST
+
+# sent_id = 2015.I.S13__4
+# text = a nomo u -mwii
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 3.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	nomo	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+3	u	u_2	v	_	_	_	_	_	Gloss=to_stay
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.I.S13__5
+# text = wea -ma m- u- -ne we mio
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 4
+1	wea	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+2	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+3	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	u-	u-_1	v:(dir-)	_	_	_	_	_	Gloss=up-
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	we	wea	n  (fo)	_	_	_	_	_	Gloss=mountain
+7	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+
+# sent_id = 2015.I.S13__6
+# text = nemei
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 5
+1	nemei	nemei	dem	_	_	_	_	_	Gloss=DEM2:DEM1:?_this
+
+# sent_id = 2015.I.S13__7
+# text = tele -to
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 6
+1	tele	tele	pers	_	_	_	_	_	Gloss=2PL
+2	-to	-to_2	pers:Tout	_	_	_	_	_	Gloss=-DU.parent_and_child
+
+# sent_id = 2015.I.S13__8
+# text = ta -le -to
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 7
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	-to	-to_2	pers:Tout	_	_	_	_	_	Gloss=-DU.parent_and_child
+
+# sent_id = 2015.I.S13__9
+# text = ta -le -to ita -wii
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 8
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	-to	-to_2	pers:Tout	_	_	_	_	_	Gloss=-DU.parent_and_child
+4	ita	ita	n	_	_	_	_	_	Gloss=father
+5	-wii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.I.S13__10
+# text = he -le -to
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 9
+1	he	he_2	pers	_	_	_	_	_	Gloss=2SG.F
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	-to	-to_2	pers:Tout	_	_	_	_	_	Gloss=-DU.parent_and_child
+
+# sent_id = 2015.I.S13__11
+# text = elaisa ouwo a -mii
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 10
+1	elaisa	elaisa	PN	_	_	_	_	_	Gloss=Elaïsa
+2	ouwo	ouwo	n	_	_	_	_	_	Gloss=grand_father
+3	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+4	-mii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.I.S13__12
+# text = hou -lei -io
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 11
+1	hou	hou_3	n	_	_	_	_	_	Gloss=smell
+2	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S13__13
+# text = a wale fia meli -o
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 12.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	wale	hale	n	_	_	_	_	_	Gloss=a_cry
+3	fia	fia	adv	_	_	_	_	_	Gloss=straight_ahead
+4	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+5	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S13__14
+# text = wale fia
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 12.2
+1	wale	hale	n	_	_	_	_	_	Gloss=a_cry
+2	fia	fia	adv	_	_	_	_	_	Gloss=straight_ahead
+
+# sent_id = 2015.I.S13__15
+# text = a feneh -ale meli -o
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 12.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	feneh	iafena	adj	_	_	_	_	_	Gloss=fake
+3	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+4	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+5	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S13__16
+# text = hei -io k- ople -io
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 13
+1	hei	_	_	_	_	_	_	_	_
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+3	k-	k-	v:(Modality1)	_	_	_	_	_	Gloss=?-(+aplo)
+4	ople	aplo_1	v	_	_	_	_	_	Gloss=to_leave
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S13__17
+# text = a tuafe me -li nefi -ni -io
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 14.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	tuafe	tuafe	adv	_	_	_	_	_	Gloss=behind
+3	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+4	-li	-li_7	pro-form	_	_	_	_	_	Gloss=-O
+5	nefi	nefi_1	v	_	_	_	_	_	Gloss=to_give
+6	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S13__18
+# text = a tuafe me -li nefi -o
+# text_en = same meaning
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 14.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	tuafe	tuafe	adv	_	_	_	_	_	Gloss=behind
+3	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+4	-li	-li_7	pro-form	_	_	_	_	_	Gloss=-O
+5	nefi	nefi_1	v	_	_	_	_	_	Gloss=to_give
+6	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S13__19
+# text = me nasi ano -no
+# doc_id = 2015.I.S13
+# doc_title = 2015.I.S13
+# origin_s_id = 15
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	nasi	nasi	interrog	_	_	_	_	_	Gloss=what
+3	ano	ano_2	v	_	_	_	_	_	Gloss=to_make
+4	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+

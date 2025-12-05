@@ -1,0 +1,77 @@
+# sent_id = 2014.I.S21__1
+# text = mse heni -io
+# text_en = she is afraid
+# doc_id = 2014.I.S21
+# doc_title = 2014.I.S21 impératif et impératif négatif
+# origin_s_id = 1
+1	mse	mse	pers	_	_	_	_	_	Gloss=DEM1:3SG.F
+2	heni	heni_1	v	_	_	_	_	_	Gloss=to_be_afraid
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S21__2
+# text = ka- hanie -ne
+# text_en = don't be afraid!
+# doc_id = 2014.I.S21
+# doc_title = 2014.I.S21 impératif et impératif négatif
+# origin_s_id = 2
+1	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+2	hanie	heni_1	v	_	_	_	_	_	Gloss=to_be_afraid
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2014.I.S21__3
+# text = mse hali musi
+# text_en = She cry out
+# doc_id = 2014.I.S21
+# doc_title = 2014.I.S21 impératif et impératif négatif
+# origin_s_id = 3
+1	mse	mse	pers	_	_	_	_	_	Gloss=DEM1:3SG.F
+2	hali	hale	n	_	_	_	_	_	Gloss=a_cry
+3	musi	mosi	v	_	_	_	_	_	Gloss=to_singout
+
+# sent_id = 2014.I.S21__4
+# text = wale ka- fii -na
+# doc_id = 2014.I.S21
+# doc_title = 2014.I.S21 impératif et impératif négatif
+# origin_s_id = 4
+1	wale	hale	n	_	_	_	_	_	Gloss=a_cry
+2	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+3	fii	_	_	_	_	_	_	_	_
+4	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2014.I.S21__5
+# text = msei faau
+# doc_id = 2014.I.S21
+# doc_title = 2014.I.S21 impératif et impératif négatif
+# origin_s_id = 5
+1	msei	mse	pers	_	_	_	_	_	Gloss=DEM1:3SG.F
+2	faau	fao	v	_	_	_	_	_	Gloss=to_fall_down
+
+# sent_id = 2014.I.S21__6
+# text = ka- faau -na
+# text_en = don't pull down!
+# doc_id = 2014.I.S21
+# doc_title = 2014.I.S21 impératif et impératif négatif
+# origin_s_id = 6
+1	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+2	faau	fao	v	_	_	_	_	_	Gloss=to_fall_down
+3	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2014.I.S21__7
+# text = msei mali -o
+# doc_id = 2014.I.S21
+# doc_title = 2014.I.S21 impératif et impératif négatif
+# origin_s_id = 7
+1	msei	mse	pers	_	_	_	_	_	Gloss=DEM1:3SG.F
+2	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+3	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.I.S21__8
+# text = ka- mali -na
+# text_en = don't talk!
+# doc_id = 2014.I.S21
+# doc_title = 2014.I.S21 impératif et impératif négatif
+# origin_s_id = 8
+1	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+2	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+3	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+

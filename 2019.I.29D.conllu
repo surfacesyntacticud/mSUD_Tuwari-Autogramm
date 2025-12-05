@@ -1,0 +1,17 @@
+# sent_id = 2019.I.29D__1
+# text = awa me hapo nasi ano -mo mi kali ne hele -no
+# doc_id = 2019.I.29D
+# doc_title = Dialog "karim diwai": ELAN
+# origin_s_id = 1
+1	awa	awa	n	_	_	_	_	_	Gloss=sibling
+2	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+3	hapo	hapo	n	_	_	_	_	_	Gloss=time
+4	nasi	nasi	interrog	_	_	_	_	_	Gloss=what
+5	ano	ano_1	v	_	_	_	_	_	Gloss=to_want
+6	-mo	-mo_6	v	_	_	_	_	_	Gloss=-MED2_goal
+7	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+8	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+9	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+10	hele	helo_2	v	_	_	_	_	_	Gloss=to_carry_on_shoulder
+11	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+

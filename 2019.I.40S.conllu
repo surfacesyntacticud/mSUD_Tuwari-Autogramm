@@ -1,0 +1,104 @@
+# sent_id = 2019.I.40S__1
+# text = to -mwe no -mwe a fali le -io lei -mwii
+# doc_id = 2019.I.40S
+# origin_s_id = 1.1
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	-mwe	-mwe_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=DEM1:3SG.M
+3	no	no_3	dem	_	_	_	_	_	Gloss=DEM2
+4	-mwe	-mwe_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=DEM1:3SG.M
+5	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+6	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+7	le	lei_1	v	_	_	_	_	_	Gloss=to_see
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+9	lei	lei_1	v	_	_	_	_	_	Gloss=to_see
+10	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2019.I.40S__2
+# text = mami -mo ne -mo a fali le -io lei -mwii
+# doc_id = 2019.I.40S
+# origin_s_id = 1.2
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	ne	no_3	dem	_	_	_	_	_	Gloss=DEM2
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+6	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+7	le	lei_1	v	_	_	_	_	_	Gloss=to_see
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+9	lei	lei_1	v	_	_	_	_	_	Gloss=to_see
+10	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2019.I.40S__3
+# text = to -mwe no -mwe nemo toto -mwii
+# doc_id = 2019.I.40S
+# origin_s_id = 2
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	-mwe	-mwe_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=DEM1:3SG.M
+3	no	no_3	dem	_	_	_	_	_	Gloss=DEM2
+4	-mwe	-mwe_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=DEM1:3SG.M
+5	nemo	_	_	_	_	_	_	_	_
+6	toto	teto	v	_	_	_	_	_	Gloss=sanap
+7	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2019.I.40S__4
+# doc_id = 2019.I.40S
+# origin_s_id = 3
+
+# sent_id = 2019.I.40S__5
+# text = to -no -mwe awii -no
+# doc_id = 2019.I.40S
+# origin_s_id = 4.1
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	-no	-no_2	n:Tout	_	_	_	_	_	Gloss=-DEM2
+3	-mwe	-mwe_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=DEM1:3SG.M
+4	awii	awii	interrog	_	_	_	_	_	Gloss=who
+5	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.I.40S__6
+# text = mwe awa samwel -we -io
+# doc_id = 2019.I.40S
+# origin_s_id = 4.2
+1	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+2	awa	awa	n	_	_	_	_	_	Gloss=sibling
+3	samwel	samuel	PN	_	_	_	_	_	Gloss=Samuel
+4	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+5	-io	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2019.I.40S__7
+# text = tu- opsono -ma opsono -no
+# doc_id = 2019.I.40S
+# origin_s_id = 5.1
+1	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+2	opsono	opsono	n	_	_	_	_	_	Gloss=village
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	opsono	opsono	n	_	_	_	_	_	Gloss=village
+5	-no	-no_3	n	_	_	_	_	_	Gloss=-LOCgen?
+
+# sent_id = 2019.I.40S__8
+# text = tu- teto -no -no
+# doc_id = 2019.I.40S
+# origin_s_id = 5.2
+1	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+2	teto	teto	v	_	_	_	_	_	Gloss=to_stand_up
+3	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+4	-no	-no_3	n	_	_	_	_	_	Gloss=-LOCgen?
+
+# sent_id = 2019.I.40S__9
+# text = tu- -no teto -nwe awii -no
+# doc_id = 2019.I.40S
+# origin_s_id = 5.3
+1	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+2	-no	-no_3	n	_	_	_	_	_	Gloss=-LOCgen?
+3	teto	teto	v	_	_	_	_	_	Gloss=to_stand_up
+4	-nwe	-nwe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-DEM2:SG.M
+5	awii	awii	interrog	_	_	_	_	_	Gloss=who
+6	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.I.40S__10
+# text = a -li -io
+# doc_id = 2019.I.40S
+# origin_s_id = 5.4
+1	a	a_1	v	_	_	_	_	_	Gloss=to_go
+2	-li	-li_1	pro-form	_	_	_	_	_	Gloss=yet
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

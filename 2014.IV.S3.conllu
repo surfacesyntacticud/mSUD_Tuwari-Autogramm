@@ -1,0 +1,519 @@
+# sent_id = 2014.IV.S3__1
+# text = mi napio
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 1
+1	mi napio	mi napio	n	_	_	_	_	_	Gloss=?
+
+# sent_id = 2014.IV.S3__2
+# text = tou
+# text_en = glosed as "kut i pull daun"
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 2.1
+1	tou	tou_1	v	_	_	_	_	_	Gloss=to_cut
+
+# sent_id = 2014.IV.S3__3
+# text = moi- tou
+# text_en = cut in the middle and lay
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 2.2
+1	moi-	moi-	Verb	_	_	_	_	_	Gloss=?(to)-
+2	tou	tou_1	v	_	_	_	_	_	Gloss=to_cut
+
+# sent_id = 2014.IV.S3__4
+# text = mi- fau
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 3.1
+1	mi-	mi-	v:(dir-)	_	_	_	_	_	Gloss=up-
+2	fau	fao	v	_	_	_	_	_	Gloss=to_fall_down
+
+# sent_id = 2014.IV.S3__5
+# text = mio- fau
+# text_en = [fall down and lay on the ground]
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 3.2
+1	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+2	fau	fao	v	_	_	_	_	_	Gloss=to_fall_down
+
+# sent_id = 2014.IV.S3__6
+# text = honua
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 4
+1	honua	honua	n	_	_	_	_	_	Gloss=elder
+
+# sent_id = 2014.IV.S3__7
+# text = maha nua -ne
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 5.1
+1	maha	maha_1	v	_	_	_	_	_	Gloss=to_hold
+2	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2014.IV.S3__8
+# text = a maha to
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 5.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	maha	maha_1	v	_	_	_	_	_	Gloss=to_hold
+3	to	to_1	n	_	_	_	_	_	Gloss=man
+
+# sent_id = 2014.IV.S3__9
+# text = a topo -mwii
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 5.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	topo	topo	v	_	_	_	_	_	Gloss=to_hold_gud
+3	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.IV.S3__10
+# text = a honua faneni -io
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 5.4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	honua	honua	n	_	_	_	_	_	Gloss=elder
+3	faneni	efaneni	v	_	_	_	_	_	Gloss=to_hold_and_go
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S3__11
+# text = sipia -le
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 6
+1	sipia	sipia	adj	_	_	_	_	_	Gloss=close
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2014.IV.S3__12
+# text = a efe -mo oluo
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 7.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	efe	efe_3	n  (mo)	_	_	_	_	_	Gloss=door
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	oluo	alu	v	_	_	_	_	_	Gloss=to_close_door
+
+# sent_id = 2014.IV.S3__13
+# text = a efe -mo otao
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 7.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	efe	efe_3	n  (mo)	_	_	_	_	_	Gloss=door
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	otao	otao	v	_	_	_	_	_	Gloss=to_open
+
+# sent_id = 2014.IV.S3__14
+# text = a mami -mo iafe -nai tiaptiaple heli -io
+# text_en = [I would be happy if I shoot a pig]
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 8
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	iafe	iefi	v	_	_	_	_	_	Gloss=to_shoot
+5	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+6	tiaptiaple	tiapitiapi	ideo	_	_	_	_	_	Gloss=happy
+7	heli	heli_2	v	_	_	_	_	_	Gloss=to_think
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S3__15
+# text = i -ne aniamo
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 9
+1	i	i	light verb	_	_	_	_	_	Gloss=to_go
+2	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+3	aniamo	aniamo	v	_	_	_	_	_	Gloss=to_want.PST
+
+# sent_id = 2014.IV.S3__16
+# text = motesele
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 10
+1	motesele	motesele	v	_	_	_	_	_	Gloss=to_broke
+
+# sent_id = 2014.IV.S3__17
+# text = me heitolu -mo teiolu
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 11
+1	me	me_1	poss	_	_	_	_	_	Gloss=2SGM.POSS
+2	heitolu	heitolu_1	n  (mo)	_	_	_	_	_	Gloss=bone
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	teiolu	teiolu	v	_	_	_	_	_	Gloss=to_bruk
+
+# sent_id = 2014.IV.S3__18
+# text = a heitolu -mo mo- motesele -ne onoma wa- ia -mwii
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 12
+1	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+2	heitolu	heitolu_1	n  (mo)	_	_	_	_	_	Gloss=bone
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	mo-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	motesele	motesele	v	_	_	_	_	_	Gloss=to_broke
+6	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+7	onoma	onoma	adv	_	_	_	_	_	Gloss=to_house
+8	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+9	ia	ia_1	v	_	_	_	_	_	Gloss=kam
+10	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.IV.S3__19
+# text = esei se -he hema -mu lo maha
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 13
+1	esei	esei	n	_	_	_	_	_	Gloss=water
+2	se	se_3	n  (he)	_	_	_	_	_	Gloss=container
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	hema	hema_1	n	_	_	_	_	_	Gloss=LOC:there(away)
+5	-mu	-mu_2	Noun	_	_	_	_	_	Gloss=-LOC/ABL?
+6	lo	lo_2	v	_	_	_	_	_	Gloss=to_be_laying_sitting(to be put)
+7	maha	mehe	dem	_	_	_	_	_	Gloss=DEM.DISTAL
+
+# sent_id = 2014.IV.S3__20
+# text = a heitolu -no mi mi ialo me- teiolu
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 14
+1	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+2	heitolu	heitolu_1	n  (mo)	_	_	_	_	_	Gloss=bone
+3	-no	-no_4	Noun	_	_	_	_	_	Gloss=-?
+4	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+5	mi	mi_3	correlconn	_	_	_	_	_	Gloss=COMPAR
+6	ialo	ialo	?	_	_	_	_	_	Gloss=COMP
+7	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+8	teiolu	teiolu	v	_	_	_	_	_	Gloss=to_bruk
+
+# sent_id = 2014.IV.S3__21
+# text = nofua -foi hono -fo opo ialo tuano mi ialo mio- fuau mi
+# text_en = This leaf fall down the same way as a bird flies.
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 15
+1	nofua	nofua	n  (fo)	_	_	_	_	_	Gloss=leaf
+2	-foi	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	hono	hene_2	dem	_	_	_	_	_	Gloss=DEM4:DEM2
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+5	opo	opo	n	_	_	_	_	_	Gloss=bird
+6	ialo	ialo	?	_	_	_	_	_	Gloss=COMP
+7	tuano	tuano	v	_	_	_	_	_	Gloss=to_fly
+8	mi	mi_3	correlconn	_	_	_	_	_	Gloss=COMPAR
+9	ialo	ialo	?	_	_	_	_	_	Gloss=COMP
+10	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+11	fuau	fao	v	_	_	_	_	_	Gloss=to_fall_down
+12	mi	mi_3	correlconn	_	_	_	_	_	Gloss=COMPAR
+
+# sent_id = 2014.IV.S3__22
+# text = a fali mali -o mol -wii
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 16
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+4	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+5	mol	mol	v	_	_	_	_	_	Gloss=to_correct
+6	-wii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.IV.S3__23
+# text = a iaamele -io
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 17
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	iaamele	iaamela	v	_	_	_	_	_	Gloss=to_work
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S3__24
+# text = a m- i -ne iaamle -io
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 18
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+3	i	i	light verb	_	_	_	_	_	Gloss=to_go
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	iaamle	iaamela	v	_	_	_	_	_	Gloss=to_correct
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S3__25
+# text = miaa- -i
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 19.1
+1	miaa-	miʔa-	v:(dir-)	_	_	_	_	_	Gloss=crossing
+2	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S3__26
+# text = a miaa- -i tete
+# text_en = mi go kamap.
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 19.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	miaa-	miʔa-	v:(dir-)	_	_	_	_	_	Gloss=crossing
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	tete	teto	v	_	_	_	_	_	Gloss=kamap_sanap
+
+# sent_id = 2014.IV.S3__27
+# text = a miaa- -i tete a -io
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 19.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	miaa-	miʔa-	v:(dir-)	_	_	_	_	_	Gloss=crossing
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	tete	teto	v	_	_	_	_	_	Gloss=to_stand_up
+5	a	a_1	v	_	_	_	_	_	Gloss=to_go
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S3__28
+# text = a tau -tano miaa- -io
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 19.4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	tau	tau	PN_hydronym	_	_	_	_	_	Gloss=Tau
+3	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	miaa-	miʔa-	v:(dir-)	_	_	_	_	_	Gloss=crossing
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S3__29
+# text = o -u -wo
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 20.1
+1	o	o_1	v	_	_	_	_	_	Gloss=to_cook
+2	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+3	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S3__30
+# text = o -wo
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 20.2
+1	o	o_4	v	_	_	_	_	_	Gloss=to_eat
+2	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S3__31
+# text = a helefe fo -u -wo
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 21.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	helefe	helefe	n	_	_	_	_	_	Gloss=leg
+3	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+4	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S3__32
+# text = a helefe fo -mwii
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 21.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	helefe	helefe	n	_	_	_	_	_	Gloss=leg
+3	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.IV.S3__33
+# text = a heiane -fo fo -u -wo
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 21.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	heiane	heiane	n  (fo)	_	_	_	_	_	Gloss=spear
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+5	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.IV.S3__34
+# text = miaia -ne
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 22.1
+1	miaia	miaia	v	_	_	_	_	_	Gloss=to_faint
+2	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2014.IV.S3__35
+# text = tiape mau
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 22.2
+1	tiape	tiape	n  (mo)	_	_	_	_	_	Gloss=life
+2	mau	mau	v	_	_	_	_	_	Gloss=to_die
+
+# sent_id = 2014.IV.S3__36
+# text = upesili lo -wa lo -lo
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 23
+1	upesili	upeseli	adj	_	_	_	_	_	Gloss=to_wet_or_dry
+2	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+3	-wa	-ia_2	v:(Tense)	_	_	_	_	_	Gloss=-PST_yesterday
+4	lo	lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2014.IV.S3__37
+# text = heneli lo -wa -lo -lo
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 24
+1	heneli	heneli_2	adj	_	_	_	_	_	Gloss=hot
+2	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+3	-wa	-ia_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PST_also?
+4	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2014.IV.S3__38
+# text = a nemeli -lei i -wa -lo -lo
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 25
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	nemeli	nemeli_2	v	_	_	_	_	_	Gloss=be_cold
+3	-lei	-lei_2	Verb	_	_	_	_	_	Gloss=_?
+4	i	i	light verb	_	_	_	_	_	Gloss=to_be
+5	-wa	-ia_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PST_also?
+6	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+7	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2014.IV.S3__39
+# text = touteli -ho -wa -lo -lo
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 26
+1	touteli	touteli	adj	_	_	_	_	_	Gloss=dark_black
+2	-ho	_	_	_	_	_	_	_	_
+3	-wa	-ia_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PST_also?
+4	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2014.IV.S3__40
+# text = sesime lo -wa -lo -lo
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 27
+1	sesime	sesime	adv	_	_	_	_	_	Gloss=time_blo_sun(=day)
+2	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+3	-wa	-ia_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PST_also?
+4	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2014.IV.S3__41
+# text = a heneli -le owu
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 28
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	heneli	henele	v	_	_	_	_	_	Gloss=to_be_hot
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	owu	owu	v	_	_	_	_	_	Gloss=to_feel
+
+# sent_id = 2014.IV.S3__42
+# text = o -n -we heneli -le owu
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 29
+1	o	o_3	n	_	_	_	_	_	Gloss=child
+2	-n	-no_2	n:Tout	_	_	_	_	_	Gloss=-DEM2
+3	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+4	heneli	henele	v	_	_	_	_	_	Gloss=to_be_hot
+5	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+6	owu	owu	v	_	_	_	_	_	Gloss=to_feel
+
+# sent_id = 2014.IV.S3__43
+# text = u tau -tano topolu lo
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 30
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	tau	tau	PN_hydronym	_	_	_	_	_	Gloss=Tau
+3	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	topolu	topolu	adj	_	_	_	_	_	Gloss=cold
+5	lo	lo_2	v	_	_	_	_	_	Gloss=COP
+
+# sent_id = 2014.IV.S3__44
+# text = u tau -tano heneli -lo
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 31
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	tau	tau	PN_hydronym	_	_	_	_	_	Gloss=Tau
+3	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	heneli	henele	v	_	_	_	_	_	Gloss=to_be_hot
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2014.IV.S3__45
+# text = mami -le nomutau
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 32
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	nomutau	_	_	_	_	_	_	_	_
+
+# sent_id = 2014.IV.S3__46
+# text = mami -le lo -wa -lo -lo
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 33
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+4	-wa	-ia_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PST_also?
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+6	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2014.IV.S3__47
+# text = me nemeli -lei i -wa -lo -lo -no
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 34
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	nemeli	nemeli_2	v	_	_	_	_	_	Gloss=be_cold
+3	-lei	-lei_2	Verb	_	_	_	_	_	Gloss=_?
+4	i	i	light verb	_	_	_	_	_	Gloss=to_be
+5	-wa	-ia_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PST_also?
+6	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+7	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+8	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2014.IV.S3__48
+# text = daniel heneli lo -wa -lo -lo -no
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 35
+1	daniel	daniel	PN	_	_	_	_	_	Gloss=Daniel
+2	heneli	heneli_2	adj	_	_	_	_	_	Gloss=hot
+3	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+4	-wa	-ia_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PST_also?
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+6	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+7	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2014.IV.S3__49
+# text = yoo heneli lo -wa -lo -lo -wo
+# doc_id = 2014.IV.S3
+# doc_title = 2014.IV.S3 questions T1
+# origin_s_id = 36
+1	yoo	yoho	adv	_	_	_	_	_	Gloss=yes
+2	heneli	heneli_2	adj	_	_	_	_	_	Gloss=hot
+3	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+4	-wa	-ia_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PST_also?
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+6	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

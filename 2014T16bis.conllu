@@ -1,0 +1,18 @@
+# sent_id = 2014T16bis__1
+# text = tema -mi fa ople -ne -nami fefe he -le eli -io
+# text_en = The fence done i planted taro's sticks.
+# doc_id = 2014T16bis
+# doc_title = 141108_04_T16bis A day (2/4)
+# origin_s_id = 1
+1	tema	tema	n  (fo)	_	_	_	_	_	Gloss=fence
+2	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+3	fa	fo_3	v	_	_	_	_	_	Gloss=to_rope
+4	ople	aplo_1	v	_	_	_	_	_	Gloss=to_finish
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+7	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+8	he	he_1	n	_	_	_	_	_	Gloss=shoot
+9	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+10	eli	eli_1	v	_	_	_	_	_	Gloss=to_plant
+11	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

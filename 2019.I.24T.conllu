@@ -1,0 +1,31 @@
+# sent_id = 2019.I.24T__1
+# text = martine
+# doc_id = 2019.I.24T
+# doc_title = TODO
+# origin_s_id = 1.1
+1	martine	martin	PN	_	_	_	_	_	Gloss=Martin
+
+# sent_id = 2019.I.24T__2
+# doc_id = 2019.I.24T
+# doc_title = TODO
+# origin_s_id = 1.2
+
+# sent_id = 2019.I.24T__3
+# text = ita a -li taa
+# doc_id = 2019.I.24T
+# doc_title = TODO
+# origin_s_id = 2
+1	ita	ita	n	_	_	_	_	_	Gloss=father
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	-li	-li_7	pro-form	_	_	_	_	_	Gloss=-O
+4	taa	taa_1	n  (he)	_	_	_	_	_	Gloss=side
+
+# sent_id = 2019.I.24T__4
+# text = erik a -li
+# doc_id = 2019.I.24T
+# doc_title = TODO
+# origin_s_id = 3
+1	erik	erik	PN	_	_	_	_	_	Gloss=Erik
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	-li	-li_7	pro-form	_	_	_	_	_	Gloss=-O
+

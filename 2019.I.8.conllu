@@ -1,0 +1,45 @@
+# sent_id = 2019.I.8__1
+# text = mwe maa- a -mwii
+# text_en = [while hearing that Daniel is coming from Ok isai]
+# doc_id = 2019.I.8
+# origin_s_id = 1
+1	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+2	maa-	maa-_2	_	_	_	_	_	_	Gloss=alone-
+3	a	a_1	v	_	_	_	_	_	Gloss=to_come
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2019.I.8__2
+# text = to ielia -meli
+# doc_id = 2019.I.8
+# origin_s_id = 2
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	ielia	iolua	cardnum	_	_	_	_	_	Gloss=two
+3	-meli	-meli	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL.DU
+
+# sent_id = 2019.I.8__3
+# text = a eli -mi tia -io
+# doc_id = 2019.I.8
+# origin_s_id = 3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	eli	eli_2	n	_	_	_	_	_	Gloss=buai
+3	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+4	tia	tia_5	v	_	_	_	_	_	Gloss=to_eat
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.8__4
+# text = tia -io
+# doc_id = 2019.I.8
+# origin_s_id = 4
+1	tia	tia_5	v	_	_	_	_	_	Gloss=to_eat
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.8__5
+# text = pasta -we kolua lo -mwi
+# doc_id = 2019.I.8
+# origin_s_id = 6
+1	pasta	pasta	n	_	_	_	_	_	Gloss=paster
+2	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+3	kolua	kowa	?	_	_	_	_	_	Gloss=NEG.existantial
+4	lo	lo_2	v	_	_	_	_	_	Gloss=to_exist
+5	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

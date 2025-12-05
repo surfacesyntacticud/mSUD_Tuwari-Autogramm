@@ -1,0 +1,18 @@
+# sent_id = 2015T34__1
+# text = tei nisopu -mi wafe uniane -ma io -ne tu iano -le -io
+# doc_id = 2015T34
+# doc_title = 2015T34
+# origin_s_id = 1
+1	tei	tei_2	pers	_	_	_	_	_	Gloss=2PL
+2	nisopu	nesopu	n  (mo)	_	_	_	_	_	Gloss=braising
+3	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+4	wafe	wafe_1	adv	_	_	_	_	_	Gloss=downstream
+5	uniane	uniane	n	_	_	_	_	_	Gloss=confluence
+6	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+7	io	io	v	_	_	_	_	_	Gloss=to_go
+8	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+9	tu	tu_1	v	_	_	_	_	_	Gloss=cook
+10	iano	ianu_2	v	_	_	_	_	_	Gloss=to_wait
+11	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+12	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

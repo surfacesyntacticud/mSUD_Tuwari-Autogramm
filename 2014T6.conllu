@@ -1,0 +1,47 @@
+# sent_id = 2014T6__1
+# text = iaai -ma samuele -lo -ma miʔai -ne so -ho tou i -mo
+# text_en = I went visiting Samuel on the other bank, at the time the night was coming.
+# doc_id = 2014T6
+# doc_title = 141105_03_T6 Hurry, the night is coming
+# origin_s_id = 1.1
+1	iaai	iaai	v	_	_	_	_	_	Gloss=to_cross
+2	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+3	samuele	samuel	PN	_	_	_	_	_	Gloss=Samuel
+4	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+5	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+6	miʔai	miʔai	v	_	_	_	_	_	Gloss=to_cross_toward_the_other_side
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+9	-ho	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+10	tou	tou_2	n  (ei)	_	_	_	_	_	Gloss=night
+11	i	_	_	_	_	_	_	_	_
+12	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+
+# sent_id = 2014T6__2
+# text = waai -ale iaa- -io samuel -we nomolo iou -wo waai -ale -io iaa- -le meʔa -io meimo waai -ale mea -mwii
+# text_en = "hariap, hariap", shout Samuel, "hariap",  then I hurry up.
+# doc_id = 2014T6
+# doc_title = 141105_03_T6 Hurry, the night is coming
+# origin_s_id = 1.2
+1	waai	waai_3	adj	_	_	_	_	_	Gloss=go_quick
+2	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+3	iaa-	iaa-	v:(dir-)	_	_	_	_	_	Gloss=cross_side
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+5	samuel	samuel	PN	_	_	_	_	_	Gloss=Samuel
+6	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+7	nomolo	_	_	_	_	_	_	_	_
+8	iou	iowa	v	_	_	_	_	_	Gloss=to_sing_a
+9	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+10	waai	waai_3	adj	_	_	_	_	_	Gloss=go_quick
+11	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+12	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+13	iaa-	iaa-	v:(dir-)	_	_	_	_	_	Gloss=cross_side
+14	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+15	meʔa	miʔa	v	_	_	_	_	_	Gloss=to_cross
+16	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+17	meimo	meimo	correlconn	_	_	_	_	_	Gloss=then
+18	waai	waai_3	adj	_	_	_	_	_	Gloss=go_quick
+19	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+20	mea	miʔa	v	_	_	_	_	_	Gloss=to_cross
+21	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

@@ -1,0 +1,75 @@
+# sent_id = 2015.IV.S2__1
+# text = a tafali fe- lo -ne
+# doc_id = 2015.IV.S2
+# doc_title = 2015.IV.S2 négations
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	tafali	tafeli	v	_	_	_	_	_	Gloss=to_know
+3	fe-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+4	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+5	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+
+# sent_id = 2015.IV.S2__2
+# text = eni -no saa fe- lo -ne
+# text_en = Cette corde n'est pas assez solide.
+# doc_id = 2015.IV.S2
+# doc_title = 2015.IV.S2 négations
+# origin_s_id = 2.1
+1	eni	eni	n  (mo)	_	_	_	_	_	Gloss=rope
+2	-no	-no_2	n:Tout	_	_	_	_	_	Gloss=-DEM2
+3	saa	saa_1	adj	_	_	_	_	_	Gloss=strong
+4	fe-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+5	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+6	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+
+# sent_id = 2015.IV.S2__3
+# text = eni -no saa -mo -i
+# doc_id = 2015.IV.S2
+# doc_title = 2015.IV.S2 négations
+# origin_s_id = 2.2
+1	eni	eni	n  (mo)	_	_	_	_	_	Gloss=rope
+2	-no	-no_2	n:Tout	_	_	_	_	_	Gloss=-DEM2
+3	saa	saa_1	adj	_	_	_	_	_	Gloss=strong
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.IV.S2__4
+# text = u tau -tano topolu f- lo -ne
+# doc_id = 2015.IV.S2
+# doc_title = 2015.IV.S2 négations
+# origin_s_id = 3
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	tau	tau	PN_hydronym	_	_	_	_	_	Gloss=Tau
+3	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	topolu	topolu	adj	_	_	_	_	_	Gloss=cold
+5	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+6	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+7	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+
+# sent_id = 2015.IV.S2__5
+# text = a heneli -le fi- i -ne
+# doc_id = 2015.IV.S2
+# doc_title = 2015.IV.S2 négations
+# origin_s_id = 4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	heneli	henele	v	_	_	_	_	_	Gloss=to_have_pain
+3	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+4	fi-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+5	i	i	light verb	_	_	_	_	_	Gloss=to_be
+6	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+
+# sent_id = 2015.IV.S2__6
+# text = a henele -le f- ou -ne henele -le hou
+# doc_id = 2015.IV.S2
+# doc_title = 2015.IV.S2 négations
+# origin_s_id = 5
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	henele	henele	v	_	_	_	_	_	Gloss=to_be_hot
+3	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+4	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+5	ou	hou_2	v	_	_	_	_	_	Gloss=to_burn
+6	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+7	henele	henele	v	_	_	_	_	_	Gloss=to_be_hot
+8	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+9	hou	hou_2	v	_	_	_	_	_	Gloss=to_burn
+

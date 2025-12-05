@@ -1,0 +1,265 @@
+# sent_id = 2014.VI.S19__1
+# text = honu kowa -le -mi
+# text_en = hir no gat
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 1
+1	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+2	kowa	kowa	?	_	_	_	_	_	Gloss=NEG.existantial
+3	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+4	-mi	-mi_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+
+# sent_id = 2014.VI.S19__2
+# text = balu sapoi kowa -le -mi
+# text_en = balus no gat
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 2
+1	balu	balu	n  (sapoi)sapo	_	_	_	_	_	Gloss=plane
+2	sapoi	_	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+3	kowa	kowa	?	_	_	_	_	_	Gloss=NEG.existantial
+4	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+5	-mi	-mi_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+
+# sent_id = 2014.VI.S19__3
+# text = sooi -me mle tefale -lei
+# text_en = all i no save ass (=origine, =story blo tumbuna).
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 3
+1	sooi	sooi	n	_	_	_	_	_	Gloss=ass
+2	-me	-me_3	Noun	_	_	_	_	_	Gloss=-?
+3	mle	mle	pers	_	_	_	_	_	Gloss=DEM1:PL
+4	tefale	tafeli	v	_	_	_	_	_	Gloss=to_know
+5	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2014.VI.S19__4
+# text = pamo honu u -lo -mwii iosep -we
+# text_en = before em i stap hir josep.
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 4
+1	pamo	pamo	adv	_	_	_	_	_	Gloss=before
+2	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+3	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+4	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+6	iosep	iosep	PN	_	_	_	_	_	Gloss=Joesph
+7	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+
+# sent_id = 2014.VI.S19__5
+# text = ia -le meli -mo fe- fafe -ne mwe kesia -le i
+# text_en = [without hearing the talking he plays]
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 5
+1	ia	ia_2	n  (he)	_	_	3	comp:obj	_	Gloss=speech
+2	-le	-le_1	n:(Num)	_	_	1	comp:det	_	Gloss=-PL
+3	meli	meli_1	v	_	_	4	conj	_	Gloss=to_talk
+4	-mo	-mo_6	v	_	_	7	conj:appos	_	Gloss=-MED2relative
+5	fe-	fe-	v:(Polarity)	_	_	7	comp:aux	_	Gloss=NEG-
+6	fafe	hefafe	v	_	_	5	comp:aux	_	Gloss=to_hear
+7	-ne	-ne_9	v:(Polarity2)	_	_	11	conj:chain	_	Gloss=-NEG2
+8	mwe	mwe	pers	_	_	9	subj	_	Gloss=DEM1:3SG.M
+9	kesia	kesia	n	_	_	11	comp:aux	_	Gloss=play
+10	-le	-le_1	n:(Num)	_	_	9	comp	_	Gloss=-PL
+11	i	i	light verb	_	_	0	root	_	Gloss=to_make
+
+# sent_id = 2014.VI.S19__6
+# text = teto -se otei -na -no -mo mwe m- olu -ne i -i
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 6
+1	teto	toto	n	_	_	_	_	_	Gloss=sibling
+2	-se	-se_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-F.SG
+3	otei	otei	v	_	_	_	_	_	Gloss=to_fight
+4	-na	-na_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?INTSFIER?
+5	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-FUT
+6	-mo	-mo_6	v	_	_	_	_	_	Gloss=-MED2causal
+7	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+8	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+9	olu	olu	v	_	_	_	_	_	Gloss=to_run_away
+10	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+11	i	i	light verb	_	_	_	_	_	Gloss=to_go
+12	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.VI.S19__7
+# text = tei waai -lae solo u
+# text_en = yupla mas slip hariap
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 7.1
+1	tei	tei_2	pers	_	_	_	_	_	Gloss=2PL
+2	waai	waai_3	adj	_	_	_	_	_	Gloss=go_quick
+3	-lae	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+4	solo	solo	v	_	_	_	_	_	Gloss=to_sleep
+5	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+
+# sent_id = 2014.VI.S19__8
+# text = so -he nemeli -mo fu
+# text_en = Time wind i kam nau you harim pinis
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 7.2
+1	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+2	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+3	nemeli	nemeli_1	n  (mo)	_	_	_	_	_	Gloss=wind
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	fu	fu_2	v	_	_	_	_	_	Gloss=to_blow
+
+# sent_id = 2014.VI.S19__9
+# text = me fali mi- afafe -mle -i
+# text_en = [Ok, I understood / Ok, j'ai compris]
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 8
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	mi-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	afafe	hefafe	v	_	_	_	_	_	Gloss=to_hear
+5	-mle	-mle	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:PL
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.VI.S19__10
+# text = a fali hefafe
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 9
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	hefafe	hefafe	v	_	_	_	_	_	Gloss=to_hear
+
+# sent_id = 2014.VI.S19__11
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 10
+
+# sent_id = 2014.VI.S19__12
+# text = me sesime mi -le to -li -no
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 11
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	sesime	sesime	adv	_	_	_	_	_	Gloss=time_blo_sun(=day)
+3	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	to	tou_1	v	_	_	_	_	_	Gloss=to_cut
+6	-li	-li_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+7	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-FUT
+
+# sent_id = 2014.VI.S19__13
+# text = a nofua heitofo -lo -le fali m- tehasi -aplo -mwii
+# text_en = mi no raidim yet / no raidim pinis
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 12
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	nofua	nofua	n	_	_	_	_	_	Gloss=notebook
+3	heitofo	heitofo	cardnum	_	_	_	_	_	Gloss=six
+4	-lo	-lo_3	n	_	_	_	_	_	Gloss=-INS
+5	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+6	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+7	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+8	tehasi	tehasi	v	_	_	_	_	_	Gloss=to_write
+9	-aplo	-aple	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PRF
+10	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.VI.S19__14
+# text = a fa pe- teihasi -ne ople -ne
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 13
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fa	fa_2	adv	_	_	_	_	_	Gloss=now
+3	pe-	pe-	Verb	_	_	_	_	_	Gloss=?-
+4	teihasi	tehasi	v	_	_	_	_	_	Gloss=to_write
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	ople	aplo_1	v	_	_	_	_	_	Gloss=to_finish
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2014.VI.S19__15
+# text = me usiolo tehasi
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 14
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	usiolo	usiolo	v	_	_	_	_	_	Gloss=have_to
+3	tehasi	tehasi	v	_	_	_	_	_	Gloss=to_write
+
+# sent_id = 2014.VI.S19__16
+# text = a onoma solo u -li -mwii
+# text_en = yu slip insaid la haus.
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 15
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	onoma	onoma	adv	_	_	_	_	_	Gloss=to_house
+3	solo	solo	v	_	_	_	_	_	Gloss=to_sleep
+4	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+5	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PST_(this_morning)
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.VI.S19__17
+# text = a fiale i -li -mwii
+# text_en = mi singaut (genre yo'o à la chute d'un arbre).
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 16
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fiale	fiale	n	_	_	_	_	_	Gloss=singaut(cris)
+3	i	i	light verb	_	_	_	_	_	Gloss=to_do
+4	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PST_(this_morning)
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.VI.S19__18
+# text = mi -o me- fau -ne a fiale i -li -mwii
+# text_en = diwai pul daun pinis, mi singaut.
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 17
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+3	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	fau	fao	v	_	_	_	_	_	Gloss=to_fall_down
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+7	fiale	fiale	n	_	_	_	_	_	Gloss=singaut(cris)
+8	i	i	light verb	_	_	_	_	_	Gloss=to_do
+9	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PST_(this_morning)
+10	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.VI.S19__19
+# text = senia eli -ale teto -u -mwii
+# text_en = ‎‎em sanap as nating.
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 18
+1	senia	senia	?	_	_	_	_	_	Gloss=naked?
+2	eli	_	_	_	_	_	_	_	_
+3	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+4	teto	teto	v	_	_	_	_	_	Gloss=to_stand_up
+5	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.VI.S19__20
+# text = fali kali -lo -mwii
+# text_en = bikpla man.
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 19
+1	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.VI.S19__21
+# text = fa keitia -lo -mwii
+# text_en = shortpla man.
+# doc_id = 2014.VI.S19
+# doc_title = 2014.VI.S19 +
+# origin_s_id = 20
+1	fa	fa_2	adv	_	_	_	_	_	Gloss=yet
+2	keitia	_	_	_	_	_	_	_	_
+3	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

@@ -1,0 +1,176 @@
+# sent_id = 2019.I.42S__1
+# text = a tei ia -ni -no
+# doc_id = 2019.I.42S
+# origin_s_id = 1.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	tei	tei_1	v	_	_	_	_	_	Gloss=to_come
+3	ia	ia_1	v	_	_	_	_	_	Gloss=kam_antap
+4	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+5	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.I.42S__2
+# text = ioho
+# doc_id = 2019.I.42S
+# origin_s_id = 1.2
+1	ioho	yoho	adv	_	_	_	_	_	Gloss=yes
+
+# sent_id = 2019.I.42S__3
+# text = me tei ia -io
+# doc_id = 2019.I.42S
+# origin_s_id = 1.3
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	tei	tei_1	v	_	_	_	_	_	Gloss=to_go
+3	ia	ia_1	v	_	_	_	_	_	Gloss=kam_antap
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.42S__4
+# doc_id = 2019.I.42S
+# origin_s_id = 1.4
+
+# sent_id = 2019.I.42S__5
+# text = a -ni -no
+# doc_id = 2019.I.42S
+# origin_s_id = 2.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+3	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.I.42S__6
+# text = ioho
+# doc_id = 2019.I.42S
+# origin_s_id = 2.2
+1	ioho	yoho	adv	_	_	_	_	_	Gloss=yes
+
+# sent_id = 2019.I.42S__7
+# text = me
+# doc_id = 2019.I.42S
+# origin_s_id = 2.3
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+
+# sent_id = 2019.I.42S__8
+# text = awa f- a -ne
+# doc_id = 2019.I.42S
+# origin_s_id = 3.1
+1	awa	awa	n	_	_	_	_	_	Gloss=sibling
+2	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+3	a	a_1	v	_	_	_	_	_	Gloss=to_go
+4	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+
+# sent_id = 2019.I.42S__9
+# text = a me fufu -fo
+# doc_id = 2019.I.42S
+# origin_s_id = 3.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+3	fufu	fufu	n  (fo)	_	_	_	_	_	Gloss=papaye
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+
+# sent_id = 2019.I.42S__10
+# text = nisopu -mo
+# doc_id = 2019.I.42S
+# origin_s_id = 4
+1	nisopu	nesopu	n  (mo)	_	_	_	_	_	Gloss=braising
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+
+# sent_id = 2019.I.42S__11
+# text = mle ianu -le me- ne nua -ne nofua -le  waa -le ne -ne nua -ne a -io otue -le  waa -le me- ne nua -ne a -io nisopu -le futa -no -wo a -no -lei
+# doc_id = 2019.I.42S
+# origin_s_id = 5
+1	mle	mle	pers	_	_	_	_	_	Gloss=DEM1:PL
+2	ianu	ianu_1	n  (fe)	_	_	_	_	_	Gloss=fire_wood
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+6	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	nofua	nofua	n  (fo)	_	_	_	_	_	Gloss=leaf
+9	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+10	 waa	waai_1	adj	_	_	_	_	_	Gloss=together
+11	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+12	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+13	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+14	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+15	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+16	a	a_1	v	_	_	_	_	_	Gloss=to_go
+17	-io	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+18	otue	otue	n	_	_	_	_	_	Gloss=food
+19	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+20	 waa	waai_1	adj	_	_	_	_	_	Gloss=together
+21	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+22	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+23	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+24	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+25	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+26	a	a_1	v	_	_	_	_	_	Gloss=to_go
+27	-io	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+28	nisopu	nesopu	n  (mo)	_	_	_	_	_	Gloss=braising
+29	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+30	futa	futei	v	_	_	_	_	_	Gloss=to_cook_with_stone
+31	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PURP
+32	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+33	a	a_1	v	_	_	_	_	_	Gloss=to_go
+34	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PURP
+35	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2019.I.42S__12
+# doc_id = 2019.I.42S
+# origin_s_id = 6
+
+# sent_id = 2019.I.42S__13
+# text = tea tia -io tia -i tia -io tei -io me tia
+# doc_id = 2019.I.42S
+# origin_s_id = 7
+1	tea	tei_1	v	_	_	_	_	_	Gloss=eat.IMP
+2	tia	tei_1	v	_	_	_	_	_	Gloss=to_go
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	tia	tei_1	v	_	_	_	_	_	Gloss=to_go
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+6	tia	tei_1	v	_	_	_	_	_	Gloss=to_go
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+8	tei	tei_1	v	_	_	_	_	_	Gloss=to_go
+9	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+10	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+11	tia	tia_1	v	_	_	_	_	_	Gloss=to_sit
+
+# sent_id = 2019.I.42S__14
+# text = tia -io
+# doc_id = 2019.I.42S
+# origin_s_id = 8.1
+1	tia	tia_1	v	_	_	_	_	_	Gloss=to_sit
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.42S__15
+# text = me tiai
+# doc_id = 2019.I.42S
+# origin_s_id = 8.2
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	tiai	_	_	_	_	_	_	_	_
+
+# sent_id = 2019.I.42S__16
+# text = tei -io
+# doc_id = 2019.I.42S
+# origin_s_id = 8.3
+1	tei	tei_1	v	_	_	_	_	_	Gloss=to_go
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.42S__17
+# text = tea
+# doc_id = 2019.I.42S
+# origin_s_id = 8.4
+1	tea	tei_1	v	_	_	_	_	_	Gloss=eat.IMP
+
+# sent_id = 2019.I.42S__18
+# text = u tau -tano u kali -tano metine a -tano -i
+# doc_id = 2019.I.42S
+# origin_s_id = 9
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	tau	tau	PN_hydronym	_	_	_	_	_	Gloss=Tau
+3	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+5	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+6	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+7	metine	metine	n	_	_	_	_	_	Gloss=tide
+8	a	a_1	v	_	_	_	_	_	Gloss=to_come
+9	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+10	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

@@ -1,0 +1,21 @@
+# sent_id = 2019.I.9com__1
+# text = a iaai -ma iaai -li -io
+# doc_id = 2019.I.9com
+# origin_s_id = 1.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	iaai	iaai	v	_	_	_	_	_	Gloss=cross_to_the_other_side
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	iaai	iaai	v	_	_	_	_	_	Gloss=cross_to_the_other_side
+5	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PRS
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.9com__2
+# text = a eisefe wa- miʔa -io
+# doc_id = 2019.I.9com
+# origin_s_id = 1.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	eisefe	eisefe	adv	_	_	_	_	_	Gloss=back
+3	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+4	miʔa	miʔa	v	_	_	_	_	_	Gloss=to_cross
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

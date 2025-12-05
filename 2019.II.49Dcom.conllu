@@ -1,0 +1,37 @@
+# sent_id = 2019.II.49Dcom__1
+# text = tiapi -nehe nalo nehelisa -ne -no
+# doc_id = 2019.II.49Dcom
+# origin_s_id = 1
+1	tiapi	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+2	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+3	nalo	nalo	interrog	_	_	_	_	_	Gloss=how_much
+4	nehelisa	neheisa	v	_	_	_	_	_	Gloss=to_buy
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.II.49Dcom__2
+# text = awa tiapi -nehe kali se -he i -no
+# doc_id = 2019.II.49Dcom
+# origin_s_id = 2
+1	awa	awa	n	_	_	_	_	_	Gloss=sibling
+2	tiapi	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+3	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+4	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+5	se	se_4	n:Tout	_	_	_	_	_	Gloss=DEM3.INDEF.NEG
+6	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+7	i	i	light verb	_	_	_	_	_	Gloss=COP
+8	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.II.49Dcom__3
+# text = yoho a tiapi kali -he mi- ali -io
+# doc_id = 2019.II.49Dcom
+# origin_s_id = 3
+1	yoho	yoho	adv	_	_	_	_	_	Gloss=yes
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	tiapi	tiapi	n  (he)	_	_	_	_	_	Gloss=knife
+4	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+5	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+6	mi-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+7	ali	ali_4	v	_	_	_	_	_	Gloss=to_like
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

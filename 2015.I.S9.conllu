@@ -1,0 +1,312 @@
+# sent_id = 2015.I.S9__1
+# text = mwe sane -pe m- ate -ne toto
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 1
+1	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+2	sane	sane	n  (pe)	_	_	_	_	_	Gloss=bow
+3	-pe	-pe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VIII.SG
+4	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	ate	ato	v	_	_	_	_	_	Gloss=to_hold
+6	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+7	toto	teto	v	_	_	_	_	_	Gloss=to_stand_up
+
+# sent_id = 2015.I.S9__2
+# text = a kelia
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	kelia	klia	n	_	_	_	_	_	Gloss=fifth_daughter
+
+# sent_id = 2015.I.S9__3
+# text = ato
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 3
+1	ato	ato	v	_	_	_	_	_	Gloss=to_hold
+
+# sent_id = 2015.I.S9__4
+# text = efaneni
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 4
+1	efaneni	efaneni	v	_	_	_	_	_	Gloss=to_hold_and_go
+
+# sent_id = 2015.I.S9__5
+# text = fa eia fu
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 5
+1	fa	fa_2	adv	_	_	_	_	_	Gloss=first
+2	eia	_	_	_	_	_	_	_	_
+3	fu	fu_2	v	_	_	_	_	_	Gloss=to_put
+
+# sent_id = 2015.I.S9__6
+# text = me -fa a -li tete ianu -le a -fa u -le hei
+# text_en = (?a) : yu ?, I go wash
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 6
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	-fa	-fa_3	Pro-form	_	_	_	_	_	Gloss=-DISTR
+3	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+4	-li	-li_1	Pro-form	_	_	_	_	_	Gloss=-?
+5	tete	teto	v	_	_	_	_	_	Gloss=to_stand_up
+6	ianu	ianu_1	n  (fe)	_	_	_	_	_	Gloss=fire_wood
+7	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+8	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+9	-fa	-fa_3	Pro-form	_	_	_	_	_	Gloss=-DISTR
+10	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+11	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+12	hei	hei_1	v	_	_	_	_	_	Gloss=to_go_in_water
+
+# sent_id = 2015.I.S9__7
+# text = omna taso -ai taleli ka- le -na
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 7
+1	omna	omai	interj	_	_	_	_	_	Gloss=man
+2	taso	tuasi	n  (ai)	_	_	_	_	_	Gloss=ear
+3	-ai	-ai_1	n:(Class)	_	_	_	_	_	Gloss=-CL20
+4	taleli	taleli	adj	_	_	_	_	_	Gloss=PRIVATION
+5	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+6	le	lo_2	v	_	_	_	_	_	Gloss=to_be
+7	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2015.I.S9__8
+# text = olou -li sle
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 8
+1	olou	ololu	adj	_	_	_	_	_	Gloss=slow
+2	-li	-li_5	Adjective	_	_	_	_	_	Gloss=-?(= -ale?)
+3	sle	sele_1	v	_	_	_	_	_	Gloss=to_stay
+
+# sent_id = 2015.I.S9__9
+# text = a fali fusaei
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 9
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	fusaei	fusaei	v	_	_	_	_	_	Gloss=to_hide
+
+# sent_id = 2015.I.S9__10
+# text = a fali hepae -fe fusaei
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 10
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	hepae	hepae	n  (mo)	_	_	_	_	_	Gloss=back_side
+4	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+5	fusaei	fusaei	v	_	_	_	_	_	Gloss=to_hide
+
+# sent_id = 2015.I.S9__11
+# text = kesia -le i ka- i -na
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 11
+1	kesia	kesia	n	_	_	_	_	_	Gloss=play
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	i	i	light verb	_	_	_	_	_	Gloss=to_do
+4	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+5	i	i	light verb	_	_	_	_	_	Gloss=to_be
+6	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2015.I.S9__12
+# text = a opsono -ma feni heli
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 12
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	opsono	opsono	n	_	_	_	_	_	Gloss=village
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	feni	feni_1	n  (fo)	_	_	_	_	_	Gloss=thought
+5	heli	heli_2	v	_	_	_	_	_	Gloss=to_think
+
+# sent_id = 2015.I.S9__13
+# text = tiaptiapeli taleli -lo
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 13
+1	tiaptiapeli	tiapitiapi	ideo	_	_	_	_	_	Gloss=happy
+2	taleli	taleli	adj	_	_	_	_	_	Gloss=PRIVATION
+3	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2015.I.S9__14
+# text = omna tiaptiapeli ka- le -na
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 14
+1	omna	omai	interj	_	_	_	_	_	Gloss=man
+2	tiaptiapeli	tiapitiapi	ideo	_	_	_	_	_	Gloss=happy
+3	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+4	le	lo_2	v	_	_	_	_	_	Gloss=to_be
+5	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2015.I.S9__15
+# text = me otue -le ka- a -na
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 15
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	otue	otue	n	_	_	_	_	_	Gloss=food
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+5	a	o_4	v	_	_	_	_	_	Gloss=to_eat
+6	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2015.I.S9__16
+# text = omna olu -ne ka- i -na
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 16
+1	omna	omai	interj	_	_	_	_	_	Gloss=man
+2	olu	olu	v	_	_	_	_	_	Gloss=to_run_away
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+4	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2015.I.S9__17
+# text = omna efaneni -ne ka- i -na
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 17
+1	omna	omai	interj	_	_	_	_	_	Gloss=man
+2	efaneni	efaneni	v	_	_	_	_	_	Gloss=to_hold_and_go
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+4	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2015.I.S9__18
+# text = omna heili -le ka- a a -na
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 18
+1	omna	omai	interj	_	_	_	_	_	Gloss=man
+2	heili	_	_	_	_	_	_	_	_
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+5	a	a_3	v	_	_	_	_	_	Gloss=?
+6	a	a_3	v	_	_	_	_	_	Gloss=?
+7	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2015.I.S9__19
+# text = omena tiaptiapeli ka- a a -na
+# text_en = no ken stap amamas.
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 19
+1	omena	omai	interj	_	_	_	_	_	Gloss=man
+2	tiaptiapeli	tiapitiapi	ideo	_	_	_	_	_	Gloss=happy
+3	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+4	a	a_3	v	_	_	_	_	_	Gloss=?
+5	a	a_3	v	_	_	_	_	_	Gloss=?
+6	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2015.I.S9__20
+# text = iefle waai -ale waai -ale -lei
+# text_en = fr. 'un canoe rapide qui va lentement'
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 20
+1	iefle	befla	n	_	_	_	_	_	Gloss=canoe
+2	waai	waai_3	adj	_	_	_	_	_	Gloss=go_quick
+3	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+4	waai	waai_3	adj	_	_	_	_	_	Gloss=go_quick
+5	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+6	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2015.I.S9__21
+# text = hele
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 21
+1	hele	hele_1	n	_	_	_	_	_	Gloss=leg
+
+# sent_id = 2015.I.S9__22
+# text = heleheni
+# text_en = thigh, fr. 'cuisse'
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 22
+1	heleheni	heleheni	n	_	_	_	_	_	Gloss=thigh
+
+# sent_id = 2015.I.S9__23
+# text = helepaose
+# text_en = fr. 'genoux'
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 23
+1	helepaose	helepaose	v	_	_	_	_	_	Gloss=knee
+
+# sent_id = 2015.I.S9__24
+# text = he heleheni -fe kokua -lo
+# text_en = _
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 24
+1	he	he_2	poss	_	_	_	_	_	Gloss=2SG.F.POSS
+2	heleheni	heleheni	n	_	_	_	_	_	Gloss=thigh
+3	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+4	kokua	kokua	adj	_	_	_	_	_	Gloss=bad
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2015.I.S9__25
+# text = he heleheni -fe moaolu -msei
+# text_en = _
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 25
+1	he	he_2	poss	_	_	_	_	_	Gloss=2SG.F.POSS
+2	heleheni	heleheni	n	_	_	_	_	_	Gloss=thigh
+3	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+4	moaolu	moaolu	v	_	_	_	_	_	Gloss=bend
+5	-msei	-msei	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.F
+
+# sent_id = 2015.I.S9__26
+# text = malasine mle me f- iasa -nai -ne -lei
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 26
+1	malasine	malasine	n	_	_	_	_	_	Gloss=medic
+2	mle	mle	pers	_	_	_	_	_	Gloss=DEM1:PL
+3	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+4	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+5	iasa	iasane	v	_	_	_	_	_	Gloss=to_help
+6	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+7	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+8	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2015.I.S9__27
+# text = hailei -le ka- ne nua -na
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 27
+1	hailei	ailile	adv	_	_	_	_	_	Gloss=heavy
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	ka-	ka-	v:(Modality1)	_	_	_	_	_	Gloss=IMP.NEG-
+4	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+5	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+6	-na	-na_2	v:(Polarity2)	_	_	_	_	_	Gloss=-IMP.NEG2
+
+# sent_id = 2015.I.S9__28
+# text = me i -ne waai -ale i -ne konu -se nefi
+# doc_id = 2015.I.S9
+# doc_title = 2015.I.S9 et 10
+# origin_s_id = 28
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	i	i	light verb	_	_	_	_	_	Gloss=to_go
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+4	waai	waai_3	adj	_	_	_	_	_	Gloss=go_quick
+5	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+6	i	i	light verb	_	_	_	_	_	Gloss=to_go
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	konu	konu	n	_	_	_	_	_	Gloss=grand_mother
+9	-se	-se_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-F.SG
+10	nefi	nefi_1	v	_	_	_	_	_	Gloss=to_give
+

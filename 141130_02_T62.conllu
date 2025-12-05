@@ -1,0 +1,32 @@
+# sent_id = 141130_02_T62__1
+# text = daniele ta ho mia'ai -ne samuel -we m- iasane -ne mwe tema tuue -fo u- fo -ne fo -aple -ne ta ho eisefe wa- me'a -lei
+# doc_id = 141130_02_T62
+# doc_title = 141130_02_T62
+# origin_s_id = 1
+1	daniele	daniel	PN	_	_	_	_	_	Gloss=Daniel
+2	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+3	ho	ho_1	adv	_	_	_	_	_	Gloss=yesterday
+4	mia'ai	miʔai	v	_	_	_	_	_	Gloss=to_cross_toward_the_other_side
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	samuel	samuel	PN	_	_	_	_	_	Gloss=Samuel
+7	-we	-we_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-M.SG
+8	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+9	iasane	iasane	v	_	_	_	_	_	Gloss=to_help
+10	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+11	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+12	tema	tema	n  (fo)	_	_	_	_	_	Gloss=fence
+13	tuue	tuwe	adv	_	_	_	_	_	Gloss=half
+14	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+15	u-	u-_3	v:Tout	_	_	_	_	_	Gloss=?-
+16	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+17	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+18	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+19	-aple	-aple	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PRF
+20	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+21	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+22	ho	ho_1	adv	_	_	_	_	_	Gloss=yesterday
+23	eisefe	eisefe	adv	_	_	_	_	_	Gloss=back
+24	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+25	me'a	_	_	_	_	_	_	_	_
+26	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+

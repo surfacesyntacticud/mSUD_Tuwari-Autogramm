@@ -1,0 +1,25 @@
+# sent_id = 2013T8__1
+# text = a teia -ma mene sinali mo- holwa -ne onoma wa- ne -nami mowa -ne wa- ia -mwii -io
+# text_en = I went to the garden and
+# doc_id = 2013T8
+# doc_title = 2013T8
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	teia	teia	n  (ei)	_	_	_	_	_	Gloss=garden
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	mene	mene_1	v	_	_	_	_	_	Gloss=to_go
+5	sinali	sinali	n	_	_	_	_	_	Gloss=sweet_potato
+6	mo-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+7	holwa	holua	v	_	_	_	_	_	Gloss=to_work
+8	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+9	onoma	onoma	adv	_	_	_	_	_	Gloss=to_house
+10	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+11	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+12	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+13	mowa	mowa	v	_	_	_	_	_	Gloss=remove(rausim)
+14	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+15	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+16	ia	ia_1	v	_	_	_	_	_	Gloss=to_go
+17	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+18	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

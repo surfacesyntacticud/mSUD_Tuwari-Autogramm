@@ -1,0 +1,25 @@
+# sent_id = 2013T29__1
+# text = a nou ha -mo nia -io
+# doc_id = 2013T29
+# doc_title = 2013T29
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	nou	nou_1	n  (mo)	_	_	_	_	_	Gloss=bilum
+3	ha	ha_1	adj	_	_	_	_	_	Gloss=small
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	nia	nia	v	_	_	_	_	_	Gloss=to_give
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T29__2
+# text = a sopute -le fu -n ano -wo
+# doc_id = 2013T29
+# doc_title = 2013T29
+# origin_s_id = 2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	sopute	sopute	n	_	_	_	_	_	Gloss=tabac
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	fu	fu_2	v	_	_	_	_	_	Gloss=to_blow
+5	-n	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	ano	ano_1	v	_	_	_	_	_	Gloss=to_want
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

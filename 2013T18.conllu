@@ -1,0 +1,64 @@
+# sent_id = 2013T18__1
+# text = ta to ta nele m- afetei -nei -lei
+# text_en = Très dur de faire adhérer transcription du cahier et enregistrement
+# doc_id = 2013T18
+# doc_title = 2013T18
+# origin_s_id = 1
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	to	to_1	n	_	_	_	_	_	Gloss=man
+3	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+4	nele	nele_1	pers	_	_	_	_	_	Gloss=all
+5	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	afetei	afetei	v	_	_	_	_	_	Gloss=to_leave
+7	-nei	-nei	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-go?
+8	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2013T18__2
+# text = mele si -homolo holua -nei -lei
+# doc_id = 2013T18
+# doc_title = 2013T18
+# origin_s_id = 2
+1	mele	meli_2	pers	_	_	_	_	_	Gloss=3DU
+2	si	si_2	n  (fo)	_	_	_	_	_	Gloss=bush_ground
+3	-homolo	-homolo	Noun	_	_	_	_	_	Gloss=-?
+4	holua	holua	v	_	_	_	_	_	Gloss=to_work
+5	-nei	-nei	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-go?
+6	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2013T18__3
+# text = si -homolo holua -nei -ma eiso ta maa- honu u -lei
+# doc_id = 2013T18
+# doc_title = 2013T18
+# origin_s_id = 3
+1	si	si_2	n  (fo)	_	_	_	_	_	Gloss=bush_ground
+2	-homolo	-homolo	Noun	_	_	_	_	_	Gloss=-?
+3	holua	holua	v	_	_	_	_	_	Gloss=to_work
+4	-nei	-nei	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-go?
+5	-ma	-ma_2	v:(Tense)	_	_	_	_	_	Gloss=-NOW
+6	eiso	heiso_1	n	_	_	_	_	_	Gloss=woman
+7	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+8	maa-	maa-_2	_	_	_	_	_	_	Gloss=alone-
+9	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+10	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+11	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2013T18__4
+# text = ta a aitapi -se -lo meleline hepitia maa- -nie -lo ta maa- lui -lei
+# doc_id = 2013T18
+# doc_title = 2013T18
+# origin_s_id = 4
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+3	aitapi	aitapi	n	_	_	_	_	_	Gloss=stepbrother_or_sisterinlaw_of_spouse
+4	-se	-se_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-F.SG
+5	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+6	meleline	meleline	PN	_	_	_	_	_	Gloss=Meleline
+7	hepitia	hepitia	n	_	_	_	_	_	Gloss=children
+8	maa-	maa-_2	_	_	_	_	_	_	Gloss=alone-
+9	-nie	_	_	_	_	_	_	_	_
+10	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+11	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+12	maa-	maa-_2	_	_	_	_	_	_	Gloss=alone-
+13	lui	lui	v	_	_	_	_	_	Gloss=?
+14	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+

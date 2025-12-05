@@ -1,0 +1,235 @@
+# sent_id = 2014.V.S17__1
+# text = mwe hama -mo hali -fo eise taa -ne wou
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 1
+1	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+2	hama	hama	n	_	_	_	_	_	Gloss=hamer
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	hali	hali_1	n	_	_	_	_	_	Gloss=nail
+5	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+6	eise	eise	n	_	_	_	_	_	Gloss=board
+7	taa	taa_1	n  (he)	_	_	_	_	_	Gloss=side
+8	-ne	-ne_3	Noun	_	_	_	_	_	Gloss=-?
+9	wou	wou	v	_	_	_	_	_	Gloss=to_fight_to_nail
+
+# sent_id = 2014.V.S17__2
+# text = hama kali -mo
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 2
+1	hama	hama	n	_	_	_	_	_	Gloss=hamer
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+
+# sent_id = 2014.V.S17__3
+# text = hali kali -fo
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 3
+1	hali	hali_1	n	_	_	_	_	_	Gloss=nail
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+
+# sent_id = 2014.V.S17__4
+# text = eise -e
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 4
+1	eise	eise	n	_	_	_	_	_	Gloss=board
+2	-e	_	_	_	_	_	_	_	_
+
+# sent_id = 2014.V.S17__5
+# text = hale -fo u- sele -ne teaple
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 5
+1	hale	hali_1	n	_	_	_	_	_	Gloss=nail
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	u-	u-_2	v>v	_	_	_	_	_	Gloss=inside-
+4	sele	sele_1	v	_	_	_	_	_	Gloss=to_sit
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	teaple	teaple	v	_	_	_	_	_	Gloss=to_turn
+
+# sent_id = 2014.V.S17__6
+# text = mi tue -mo me- te- tou -mi
+# text_en = to saw a tree
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 6
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	tue	tuwe	adv	_	_	_	_	_	Gloss=half
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	te-	te-_2	Verb	_	_	_	_	_	Gloss=almost
+6	tou	tou_2	n  (ei)	_	_	_	_	_	Gloss=night
+7	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+
+# sent_id = 2014.V.S17__7
+# text = mami kau -nle siso -mu i -le me- tao o -lei
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 7
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	kau	kau	n	_	_	_	_	_	Gloss=cow
+3	-nle	-nle	n:Tout	_	_	_	_	_	Gloss=-DEM2:PL
+4	siso	siso	adv	_	_	_	_	_	Gloss=close
+5	-mu	-mu_2	Noun	_	_	_	_	_	Gloss=-LOC/ABL?
+6	i	i	light verb	_	_	_	_	_	Gloss=to_go
+7	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+8	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+9	tao	taa_2	v	_	_	_	_	_	Gloss=to_round
+10	o	o_4	v	_	_	_	_	_	Gloss=to_eat
+11	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2014.V.S17__8
+# text = to -nle to -nwe
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 8.1
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	-nle	-nle	n:Tout	_	_	_	_	_	Gloss=-DEM2:PL
+3	to	to_1	n	_	_	_	_	_	Gloss=man
+4	-nwe	-nwe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-DEM2:SG.M
+
+# sent_id = 2014.V.S17__9
+# text = to -nwe me- ne -ni -ne epalu -le fou o -sapo usi -io
+# text_en = This man beat a drum with a stick
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 8.2
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	-nwe	-nwe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-DEM2:SG.M
+3	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+5	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+6	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+7	epalu	hopalu	n  (mo)	_	_	_	_	_	Gloss=injury
+8	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+9	fou	fo_3	v	_	_	_	_	_	Gloss=to_rope
+10	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+11	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+12	usi	usi	adv	_	_	_	_	_	Gloss=inside
+13	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.V.S17__10
+# text = to -nwe mi tue -mo monate -ne iainafee mooilo
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 9
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	-nwe	-nwe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-DEM2:SG.M
+3	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+4	tue	tuwe	adv	_	_	_	_	_	Gloss=half
+5	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+6	monate	monate	v	_	_	_	_	_	Gloss=to_hold
+7	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+8	iainafee	iainafee	n	_	_	_	_	_	Gloss=drum
+9	mooilo	mooilo	v	_	_	_	_	_	Gloss=to_fight
+
+# sent_id = 2014.V.S17__11
+# text = su mefi kali -o numo sla
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 10
+1	su	su_1	n  (oi)	_	_	_	_	_	Gloss=frog
+2	mefi	_	_	_	_	_	_	_	_
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+5	numo	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+6	sla	sele_1	v	_	_	_	_	_	Gloss=to_sit(be sitting)
+
+# sent_id = 2014.V.S17__12
+# text = opsono -o eli slenem -lei -io
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 11
+1	opsono	opsono	n	_	_	_	_	_	Gloss=village
+2	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+3	eli	eli_2	n	_	_	_	_	_	Gloss=buai
+4	slenem	sele_1	v	_	_	_	_	_	Gloss=there_is
+5	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.V.S17__13
+# text = otia -nwe efia -mo me- hei ano u -pao -nu u -pao -mo me- hei ano
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 12
+1	otia	otia	n	_	_	_	_	_	Gloss=child
+2	-nwe	-nwe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-DEM2:SG.M
+3	efia	befla	n	_	_	_	_	_	Gloss=canoe
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+6	hei	hei_1	v	_	_	_	_	_	Gloss=to_paddle
+7	ano	ano_2	v	_	_	_	_	_	Gloss=to_round
+8	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+9	-pao	-pao	Noun	_	_	_	_	_	Gloss=deep
+10	-nu	-nu_1	Noun	_	_	_	_	_	Gloss=-LOC
+11	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+12	-pao	-pao	Noun	_	_	_	_	_	Gloss=deep
+13	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+14	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+15	hei	hei_1	v	_	_	_	_	_	Gloss=to_paddle
+16	ano	ano_2	v	_	_	_	_	_	Gloss=to_round
+
+# sent_id = 2014.V.S17__14
+# text = o kali -sapo neme -sapo kali kali -mi tu- tu- t onoma tu- uaflo
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 13
+1	o	o_2	n  (sapoi)	_	_	_	_	_	Gloss=house
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+4	neme	neme_1	v	_	_	_	_	_	Gloss=i_stap
+5	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+6	kali	kali_1	n	_	_	_	_	_	Gloss=car
+7	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+8	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+9	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+10	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+11	t	_	_	_	_	_	_	_	_
+12	onoma	onoma	adv	_	_	_	_	_	Gloss=to_house
+13	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+14	uaflo	waflo	v	_	_	_	_	_	Gloss=to_lay
+
+# sent_id = 2014.V.S17__15
+# text = hepitia -nle -io kesia -leio i -no -wo
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 14.1
+1	hepitia	hepitia	n	_	_	_	_	_	Gloss=children
+2	-nle	-nle	n:Tout	_	_	_	_	_	Gloss=-DEM2:PL
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	kesia	kesia	n	_	_	_	_	_	Gloss=play
+5	-leio	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+6	i	i	light verb	_	_	_	_	_	Gloss=to_go
+7	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-FUT
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.V.S17__16
+# text = kale kali nee
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 14.2
+1	kale	kali_1	n	_	_	_	_	_	Gloss=car
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	nee	_	_	_	_	_	_	_	_
+
+# sent_id = 2014.V.S17__17
+# text = muafiaineio
+# text_en = kalap insaid
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 15
+1	muafiaineio	_	_	_	_	_	_	_	_
+
+# sent_id = 2014.V.S17__18
+# text = i -lei
+# text_en = ol i go
+# doc_id = 2014.V.S17
+# doc_title = 2014.V.S17 Commentaire images kissim save (suite) +++
+# origin_s_id = 16
+1	i	i	light verb	_	_	_	_	_	Gloss=to_go
+2	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+

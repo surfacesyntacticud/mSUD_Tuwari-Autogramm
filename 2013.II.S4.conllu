@@ -1,0 +1,72 @@
+# sent_id = 2013.II.S4__1
+# text = hao
+# doc_id = 2013.II.S4
+# doc_title = 2013.II.S4 nourriture : animaux
+# origin_s_id = 1
+1	hao	hao	n  (fo)	_	_	_	_	_	Gloss=fish
+
+# sent_id = 2013.II.S4__2
+# text = opo neisi
+# doc_id = 2013.II.S4
+# doc_title = 2013.II.S4 nourriture : animaux
+# origin_s_id = 2
+1	opo neisi	opo neisi	n	_	_	_	_	_	Gloss=cassoari
+
+# sent_id = 2013.II.S4__3
+# text = mami
+# doc_id = 2013.II.S4
+# doc_title = 2013.II.S4 nourriture : animaux
+# origin_s_id = 3
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+
+# sent_id = 2013.II.S4__4
+# text = opo
+# doc_id = 2013.II.S4
+# doc_title = 2013.II.S4 nourriture : animaux
+# origin_s_id = 4
+1	opo	opo	n	_	_	_	_	_	Gloss=bird
+
+# sent_id = 2013.II.S4__5
+# text = hao heitolu
+# doc_id = 2013.II.S4
+# doc_title = 2013.II.S4 nourriture : animaux
+# origin_s_id = 5
+1	hao	hao	n  (fo)	_	_	_	_	_	Gloss=fish
+2	heitolu	heitolu_1	n  (mo)	_	_	_	_	_	Gloss=bone
+
+# sent_id = 2013.II.S4__6
+# text = to heitolu
+# doc_id = 2013.II.S4
+# doc_title = 2013.II.S4 nourriture : animaux
+# origin_s_id = 6
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	heitolu	heitolu_1	n  (mo)	_	_	_	_	_	Gloss=bone
+
+# sent_id = 2013.II.S4__7
+# text = mami heitolu -mo
+# doc_id = 2013.II.S4
+# doc_title = 2013.II.S4 nourriture : animaux
+# origin_s_id = 7
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	heitolu	heitolu_1	n  (mo)	_	_	_	_	_	Gloss=bone
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+
+# sent_id = 2013.II.S4__8
+# text = hao hale -fo -i
+# doc_id = 2013.II.S4
+# doc_title = 2013.II.S4 nourriture : animaux
+# origin_s_id = 8
+1	hao	hao	n  (fo)	_	_	_	_	_	Gloss=fish
+2	hale	hali_1	n	_	_	_	_	_	Gloss=fish_bone
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S4__9
+# text = homou -mo -i
+# doc_id = 2013.II.S4
+# doc_title = 2013.II.S4 nourriture : animaux
+# origin_s_id = 9
+1	homou	homou	n	_	_	_	_	_	Gloss=picture
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

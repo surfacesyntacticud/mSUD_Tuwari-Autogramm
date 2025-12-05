@@ -1,0 +1,45 @@
+# sent_id = 2015.I.S26__1
+# text = waiaia
+# doc_id = 2015.I.S26
+# doc_title = 2015.I.S26
+# origin_s_id = 1
+1	waiaia	waiaia	interj	_	_	_	_	_	Gloss=look!
+
+# sent_id = 2015.I.S26__2
+# text = waie
+# doc_id = 2015.I.S26
+# doc_title = 2015.I.S26
+# origin_s_id = 2
+1	waie	waie	interj	_	_	_	_	_	Gloss=look!
+
+# sent_id = 2015.I.S26__3
+# text = me ia fau -ni
+# text_en = don't fall!
+# doc_id = 2015.I.S26
+# doc_title = 2015.I.S26
+# origin_s_id = 3
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	ia	ia_1	v	_	_	_	_	_	Gloss=kam
+3	fau	fao	v	_	_	_	_	_	Gloss=to_fall_down
+4	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+
+# sent_id = 2015.I.S26__4
+# text = me otao -le -ni
+# doc_id = 2015.I.S26
+# doc_title = 2015.I.S26
+# origin_s_id = 4
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	otao	otao	v	_	_	_	_	_	Gloss=to_open
+3	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+4	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+
+# sent_id = 2015.I.S26__5
+# text = me oplo -lo -ni
+# doc_id = 2015.I.S26
+# doc_title = 2015.I.S26
+# origin_s_id = 5
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	oplo	aplo_1	v	_	_	_	_	_	Gloss=to_finish
+3	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+4	-ni	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+

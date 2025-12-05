@@ -1,0 +1,87 @@
+# sent_id = 2019.II.71__1
+# text = sinali tepapo
+# doc_id = 2019.II.71
+# origin_s_id = 1
+1	sinali	sinali	n	_	_	_	_	_	Gloss=sweet_potato
+2	tepapo	tepapu	n	_	_	_	_	_	Gloss=tapiok
+
+# sent_id = 2019.II.71__2
+# text = ou sinali
+# doc_id = 2019.II.71
+# origin_s_id = 2
+1	ou	ou_1	n  (he)	_	_	_	_	_	Gloss=snake
+2	sinali	sinali	n	_	_	_	_	_	Gloss=snake_species
+
+# sent_id = 2019.II.71__3
+# text = wiisei -mi osola'au fefe -mi osolaau
+# doc_id = 2019.II.71
+# origin_s_id = 3
+1	wiisei	wiise	n  (mo)	_	_	_	_	_	Gloss=sago
+2	-mi	-mi_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XII.SG
+3	osola'au	osola'au	_	_	_	_	_	_	Gloss=strong
+4	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+5	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+6	osolaau	osola'au	_	_	_	_	_	_	Gloss=strong
+
+# sent_id = 2019.II.71__4
+# text = hefialo -oi
+# doc_id = 2019.II.71
+# origin_s_id = 4.1
+1	hefialo	hefialo	n	_	_	_	_	_	Gloss=leech
+2	-oi	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+
+# sent_id = 2019.II.71__5
+# text = heiasi a hefialo heio -wy
+# doc_id = 2019.II.71
+# origin_s_id = 4.2
+1	heiasi	heiasi	interj	_	_	_	_	_	Gloss=shit!
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	hefialo	hefialo	n	_	_	_	_	_	Gloss=leech
+4	heio	heio	v	_	_	_	_	_	Gloss=to_bite
+5	-wy	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.71__6
+# text = opo wopula ia -le iou so -ho fali toywej
+# doc_id = 2019.II.71
+# origin_s_id = 5
+1	opo	opo	n	_	_	_	_	_	Gloss=bird
+2	wopula	wopula	n	_	_	_	_	_	Gloss=bird_species
+3	ia	ia_1	v	_	_	_	_	_	Gloss=to_go
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	iou	iowa	v	_	_	_	_	_	Gloss=to_sing_b
+6	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+7	-ho	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+8	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+9	toywej	touwei	n	_	_	_	_	_	_
+
+# sent_id = 2019.II.71__7
+# text = opo nemaia
+# doc_id = 2019.II.71
+# origin_s_id = 6
+1	opo	opo	n	_	_	_	_	_	Gloss=bird
+2	nemaia	nemaia	n	_	_	_	_	_	Gloss=parrot
+
+# sent_id = 2019.II.71__8
+# text = mi selia -o -i
+# doc_id = 2019.II.71
+# origin_s_id = 7
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	selia	selia	n	_	_	_	_	_	Gloss=tree_species
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.71__9
+# text = mi napi sooi ma- -o mi napi sooi ma- -o
+# doc_id = 2019.II.71
+# origin_s_id = 8
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	napi	napi	n	_	_	_	_	_	Gloss=Tree_species
+3	sooi	sooi	n	_	_	_	_	_	Gloss=ass
+4	ma-	ma-_2	adv	_	_	_	_	_	Gloss=there
+5	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+6	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+7	napi	napi	n	_	_	_	_	_	Gloss=Tree_species
+8	sooi	sooi	n	_	_	_	_	_	Gloss=ass
+9	ma-	ma-_2	adv	_	_	_	_	_	Gloss=there
+10	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

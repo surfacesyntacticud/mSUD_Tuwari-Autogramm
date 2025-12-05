@@ -1,0 +1,920 @@
+# sent_id = 2015.III.S17__1
+# text = fi- eli
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 1.1
+1	fi-	fi-	Verb	_	_	_	_	_	Gloss=?
+2	eli	eli_1	v	_	_	_	_	_	Gloss=to_plant
+
+# sent_id = 2015.III.S17__2
+# text = owo -u
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 1.2
+1	owo	owo	v	_	_	_	_	_	Gloss=to_plant
+2	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+
+# sent_id = 2015.III.S17__3
+# text = a fufu si -le owo -u fi- eli
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 1.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fufu	fufu	n  (fo)	_	_	_	_	_	Gloss=papaye
+3	si	si_1	n  (ei)	_	_	_	_	_	Gloss=seed
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	owo	owo	v	_	_	_	_	_	Gloss=to_plant
+6	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+7	fi-	fi-	Verb	_	_	_	_	_	Gloss=?
+8	eli	eli_1	v	_	_	_	_	_	Gloss=to_plant
+
+# sent_id = 2015.III.S17__4
+# text = fu
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 2.1
+1	fu	fu_2	v	_	_	_	_	_	Gloss=to_plant(a_shoot)
+
+# sent_id = 2015.III.S17__5
+# text = inale si -le fu
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 2.2
+1	inale	inale	n	_	_	_	_	_	Gloss=pumpkin
+2	si	si_1	n  (ei)	_	_	_	_	_	Gloss=seed
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	fu	fu_2	v	_	_	_	_	_	Gloss=to_plant(a_shoot)
+
+# sent_id = 2015.III.S17__6
+# text = fofo si -le fu
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 2.3
+1	fofo	fufu	n  (fo)	_	_	_	_	_	Gloss=papaye
+2	si	si_1	n  (ei)	_	_	_	_	_	Gloss=seed
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	fu	fu_2	v	_	_	_	_	_	Gloss=to_plant(a_shoot)
+
+# sent_id = 2015.III.S17__7
+# text = eli
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 3
+1	eli	eli_1	v	_	_	_	_	_	Gloss=to_plant_with_a_stick
+
+# sent_id = 2015.III.S17__8
+# text = oflo
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 4.1
+1	oflo	oflei	v	_	_	_	_	_	Gloss=to_encircle
+
+# sent_id = 2015.III.S17__9
+# text = a tema -fo fo oflo
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 4.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	tema	tema	n  (fo)	_	_	_	_	_	Gloss=fence
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+5	oflo	oflei	v	_	_	_	_	_	Gloss=to_encircle
+
+# sent_id = 2015.III.S17__10
+# text = a tema -fo fo -u -wo
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 4.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	tema	tema	n  (fo)	_	_	_	_	_	Gloss=fence
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+5	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__11
+# text = inane
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 5.1
+1	inane	inane	n	_	_	_	_	_	Gloss=gaden_work
+
+# sent_id = 2015.III.S17__12
+# text = a inane nle i -ne -io
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 5.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	inane	inane	n	_	_	_	_	_	Gloss=gaden_work
+3	nle	nle	dem	_	_	_	_	_	Gloss=DEM2:PL
+4	i	i	light verb	_	_	_	_	_	Gloss=to_go
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__13
+# text = si to -li ale
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 6.1
+1	si	se_1	v	_	_	_	_	_	Gloss=to_make
+2	to	tou_1	v	_	_	_	_	_	Gloss=to_cut
+3	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PST_(this_morning)
+4	ale	eli_1	v	_	_	_	_	_	Gloss=to_plant
+
+# sent_id = 2015.III.S17__14
+# text = a si to -li fa ale lo -wo
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 6.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	si	si_2	n  (fo)	_	_	_	_	_	Gloss=bush_to_be_cut
+3	to	tou_1	v	_	_	_	_	_	Gloss=to_cut
+4	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PST_(this_morning)
+5	fa	fa_2	adv	_	_	_	_	_	Gloss=now
+6	ale	eli_1	v	_	_	_	_	_	Gloss=to_plant
+7	lo	lo_2	v	_	_	_	_	_	Gloss=to_be_laying_sitting(to be put)
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__15
+# text = osua
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 7.1
+1	osua	osua	v	_	_	_	_	_	Gloss=to_plant_with_digging_stick
+
+# sent_id = 2015.III.S17__16
+# text = kapi he -li osua eli
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 7.2
+1	kapi	kapi_1	n	_	_	_	_	_	Gloss=banana
+2	he	he_1	n	_	_	_	_	_	Gloss=shoot
+3	-li	-li_7	pro-form	_	_	_	_	_	Gloss=-O
+4	osua	osua	v	_	_	_	_	_	Gloss=to_plant_with_digging_stick
+5	eli	eli_1	v	_	_	_	_	_	Gloss=to_plant_with_a_stick
+
+# sent_id = 2015.III.S17__17
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 8.1
+
+# sent_id = 2015.III.S17__18
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 8.2
+
+# sent_id = 2015.III.S17__19
+# text = heiani
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 9
+1	heiani	heiane	n  (fo)	_	_	_	_	_	Gloss=spear
+
+# sent_id = 2015.III.S17__20
+# text = heiei
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 10
+1	heiei	heiiei	v	_	_	_	_	_	Gloss=to_shoot_by_hand
+
+# sent_id = 2015.III.S17__21
+# text = teme
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 11
+1	teme	teme	v	_	_	_	_	_	Gloss=to_bend_a_bow
+
+# sent_id = 2015.III.S17__22
+# text = sane -pe eni -se saa -ale
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 12
+1	sane	sane	n  (pe)	_	_	_	_	_	Gloss=bow
+2	-pe	-pe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VIII.SG
+3	eni	eni	n  (mo)	_	_	_	_	_	Gloss=rope
+4	-se	-se_4	n>n	_	_	_	_	_	Gloss=-extremity?
+5	saa	saa_1	adj	_	_	_	_	_	Gloss=strong
+6	-ale	-ale	adj>adv	_	_	_	_	_	Gloss=-ADVLZ
+
+# sent_id = 2015.III.S17__23
+# text = iefla
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 13
+1	iefla	iefa	n  (mo)	_	_	_	_	_	Gloss=canoe
+
+# sent_id = 2015.III.S17__24
+# text = iainafi
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 14
+1	iainafi	iainafee	n	_	_	_	_	_	Gloss=drum
+
+# sent_id = 2015.III.S17__25
+# text = miʔai
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 15.1
+1	miʔai	miʔai	v	_	_	_	_	_	Gloss=to_cross_toward_the_other_side
+
+# sent_id = 2015.III.S17__26
+# text = a u -tano miʔa -io
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 15.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+3	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	miʔa	miʔa	v	_	_	_	_	_	Gloss=to_cross
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__27
+# text = miʔɔ
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 16
+1	miʔɔ	mio_1	n  (mo)	_	_	_	_	_	Gloss=stick
+
+# sent_id = 2015.III.S17__28
+# text = sa -pe
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 17.1
+1	sa	sa_2	n  (pe)	_	_	_	_	_	Gloss=raft
+2	-pe	-pe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VIII.SG
+
+# sent_id = 2015.III.S17__29
+# text = pe -sapo -i
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 17.2
+1	pe	pe_1	n  (sapoi)sapo	_	_	_	_	_	Gloss=bed
+2	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__30
+# text = sawa
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 18
+1	sawa	sawa	v	_	_	_	_	_	Gloss=to_pull
+
+# sent_id = 2015.III.S17__31
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 19
+
+# sent_id = 2015.III.S17__32
+# text = ni tosi
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 20.1
+1	ni	ni_1	n  (tanoi)tano	_	_	_	_	_	Gloss=fire
+2	tosi	tosi_1	n	_	_	_	_	_	Gloss=torch
+
+# sent_id = 2015.III.S17__33
+# text = tosi
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 20.2
+1	tosi	tosi_2	v	_	_	_	_	_	Gloss=make_a_raft
+
+# sent_id = 2015.III.S17__34
+# text = a sa -pe tosi -io
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 20.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	sa	sa_2	n  (pe)	_	_	_	_	_	Gloss=raft
+3	-pe	-pe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VIII.SG
+4	tosi	tosi_2	v	_	_	_	_	_	Gloss=make_a_raft
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__35
+# text = tuwe tywe tue
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 21
+1	tuwe	tuwe	adv	_	_	_	_	_	Gloss=half
+2	tywe	tuwe	adv	_	_	_	_	_	Gloss=half
+3	tue	_	_	_	_	_	_	_	_
+
+# sent_id = 2015.III.S17__36
+# text = neheisa
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 22
+1	neheisa	neheisa	v	_	_	_	_	_	Gloss=to_buy
+
+# sent_id = 2015.III.S17__37
+# text = wafu
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 23.1
+1	wafu	wafu	n	_	_	_	_	_	Gloss=price
+
+# sent_id = 2015.III.S17__38
+# text = a eiso wafu neheisa
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 23.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	eiso	heiso_1	n	_	_	_	_	_	Gloss=woman
+3	wafu	wafu	n	_	_	_	_	_	Gloss=price
+4	neheisa	neheisa	v	_	_	_	_	_	Gloss=to_buy
+
+# sent_id = 2015.III.S17__39
+# text = a solo waaiano
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 24
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	solo	solo	v	_	_	_	_	_	Gloss=to_sleep
+3	waaiano	waaiano	v	_	_	_	_	_	Gloss=to_sleep
+
+# sent_id = 2015.III.S17__40
+# text = a soli -fe ato -mwii
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 25
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	soli	soli	n  (fe)	_	_	_	_	_	Gloss=axe
+3	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+4	ato	ato	v	_	_	_	_	_	Gloss=to_hold
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.III.S17__41
+# text = elifei
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 26.1
+1	elifei	eifei	v	_	_	_	_	_	Gloss=to_hold
+
+# sent_id = 2015.III.S17__42
+# text = elifei
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 26.2
+1	elifei	eifei	n	_	_	_	_	_	Gloss=fire_clamp
+
+# sent_id = 2015.III.S17__43
+# text = a kapi -le menelefe -io
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 26.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	kapi	kapi_1	n	_	_	_	_	_	Gloss=banana
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	menelefe	menelefe	v	_	_	_	_	_	Gloss=to_hold
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__44
+# text = a te -mse elifei -o
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 26.4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	te	te_1	n	_	_	_	_	_	Gloss=woman->wife?
+3	-mse	-mse_1	n:Tout	_	_	_	_	_	Gloss=-DEM1:SG.F
+4	elifei	eifei	v	_	_	_	_	_	Gloss=to_hold
+5	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__45
+# text = a kapi -le elifei -o
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 26.5
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	kapi	kapi_1	n	_	_	_	_	_	Gloss=banana
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	elifei	eifei	v	_	_	_	_	_	Gloss=to_hold
+5	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__46
+# text = efaneni
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 27.1
+1	efaneni	efaneni	v	_	_	_	_	_	Gloss=to_hold_and_go
+
+# sent_id = 2015.III.S17__47
+# text = a te -mse m- efanine -io
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 27.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	te	te_1	n	_	_	_	_	_	Gloss=woman->wife?
+3	-mse	-mse_1	n:Tout	_	_	_	_	_	Gloss=-DEM1:SG.F
+4	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	efanine	efaneni	v	_	_	_	_	_	Gloss=to_hold_and_go
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__48
+# text = miafei
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 28.1
+1	miafei	miafei	v	_	_	_	_	_	Gloss=peel_dig_out?
+
+# sent_id = 2015.III.S17__49
+# text = fei
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 28.2
+1	fei	fei_2	v	_	_	_	_	_	Gloss=to_plant
+
+# sent_id = 2015.III.S17__50
+# text = feiolu
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 29
+1	feiolu	feiolu	v	_	_	_	_	_	Gloss=to_throw
+
+# sent_id = 2015.III.S17__51
+# text = hane
+# text_en = ‎‎? [fr. prend un enfant]
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 30.1
+1	hane	hane	_	_	_	_	_	_	_
+
+# sent_id = 2015.III.S17__52
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 30.2
+
+# sent_id = 2015.III.S17__53
+# text = kepinou
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 31
+1	kepinou	kepinou	v	_	_	_	_	_	Gloss=to_hold
+
+# sent_id = 2015.III.S17__54
+# text = maisi -ʔe -i
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 32.1
+1	maisi	maisi	v	_	_	_	_	_	Gloss=to_stop
+2	-ʔe	-he_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__55
+# text = me a maisi -ʔe -i
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 32.2
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	maisi	maisi	v	_	_	_	_	_	Gloss=to_stop
+4	-ʔe	-he_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__56
+# text = a sumwari -ma m- iano ei flei
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 33
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	sumwari	sumwari	PN_toponyme	_	_	_	_	_	Gloss=Sumwari
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	iano	ianu_2	v	_	_	_	_	_	Gloss=to_wait
+6	ei	ei	pers	_	_	_	_	_	Gloss=2PL
+7	flei	flei	v	_	_	_	_	_	Gloss=to_eat
+
+# sent_id = 2015.III.S17__57
+# text = a otue -le m- o n ato
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 34
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	otue	otue	n	_	_	_	_	_	Gloss=food
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	o	o_1	v	_	_	_	_	_	Gloss=to_cook
+6	n	_	_	_	_	_	_	_	_
+7	ato	ato	v	_	_	_	_	_	Gloss=to_hold
+
+# sent_id = 2015.III.S17__58
+# text = iainafi
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 35.1
+1	iainafi	iainafee	n	_	_	_	_	_	Gloss=drum
+
+# sent_id = 2015.III.S17__59
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 35.2
+
+# sent_id = 2015.III.S17__60
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 35.3
+
+# sent_id = 2015.III.S17__61
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 36.1
+
+# sent_id = 2015.III.S17__62
+# text = mio ato
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 36.2
+1	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+2	ato	ato	v	_	_	_	_	_	Gloss=to_hold
+
+# sent_id = 2015.III.S17__63
+# text = u ato
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 36.3
+1	u	u_3	v	_	_	_	_	_	Gloss=to_go_up
+2	ato	ato	v	_	_	_	_	_	Gloss=to_hold
+
+# sent_id = 2015.III.S17__64
+# text = iaai ato
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 36.4
+1	iaai	iaai	v	_	_	_	_	_	Gloss=to_cross
+2	ato	ato	v	_	_	_	_	_	Gloss=to_hold
+
+# sent_id = 2015.III.S17__65
+# text = mo- u nefi
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 37.1
+1	mo-	mo-	Verb	_	_	_	_	_	Gloss=?-
+2	u	u_3	v	_	_	_	_	_	Gloss=to_go_up
+3	nefi	nefi_1	v	_	_	_	_	_	Gloss=to_give
+
+# sent_id = 2015.III.S17__66
+# text = mo- u ne
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 37.2
+1	mo-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	u	u_3	v	_	_	_	_	_	Gloss=to_go_up
+3	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+
+# sent_id = 2015.III.S17__67
+# text = ia nefi
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 37.3
+1	ia	ia_1	v	_	_	_	_	_	Gloss=kam
+2	nefi	nefi_1	v	_	_	_	_	_	Gloss=to_give
+
+# sent_id = 2015.III.S17__68
+# text = ia ne
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 37.4
+1	ia	ia_1	v	_	_	_	_	_	Gloss=kam_antap
+2	ne	ne_1	v	_	_	_	_	_	Gloss=to_catch
+
+# sent_id = 2015.III.S17__69
+# text = a mami -mo nua -ne a -mwii
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 38
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	nua	nua	v	_	_	_	_	_	Gloss=to_carry
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	a	a_1	v	_	_	_	_	_	Gloss=to_go
+7	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.III.S17__70
+# text = a mi -o to feli
+# text_en = I cut down the/a tree
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 39.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	to	tou_1	v	_	_	_	_	_	Gloss=to_cut
+5	feli	feli	v	_	_	_	_	_	Gloss=to_break
+
+# sent_id = 2015.III.S17__71
+# text = mi -a mo feli
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 39.2
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	-a	-a_2	n:Tout	_	_	_	_	_	Gloss=-?
+3	mo	mo_2	dem	_	_	_	_	_	Gloss=DEM1
+4	feli	feli	v	_	_	_	_	_	Gloss=to_break
+
+# sent_id = 2015.III.S17__72
+# text = tafi
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 40.1
+1	tafi	tefi	v	_	_	_	_	_	Gloss=to_chase_out/empty
+
+# sent_id = 2015.III.S17__73
+# text = a nou tefi -mwii
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 40.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	nou	nou_1	n  (mo)	_	_	_	_	_	Gloss=bilum
+3	tefi	tefi	v	_	_	_	_	_	Gloss=to_chase_out/empty
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.III.S17__74
+# text = a me nou -mo keli sau -le tafi fu
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 40.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+3	nou	nou_1	n  (mo)	_	_	_	_	_	Gloss=bilum
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	keli	kali_2	adj	_	_	_	_	_	Gloss=big
+6	sau	sau	n	_	_	_	_	_	Gloss=thing
+7	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+8	tafi	tefi	v	_	_	_	_	_	Gloss=to_chase_out/empty
+9	fu	fu_2	v	_	_	_	_	_	Gloss=to_pull
+
+# sent_id = 2015.III.S17__75
+# text = tafi -ne tafi naa -i
+# text_en = [to empty something looking for something]
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 40.4
+1	tafi	tefi	v	_	_	_	_	_	Gloss=to_chase_out/empty
+2	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+3	tafi	tefi	v	_	_	_	_	_	Gloss=to_push_to_pull
+4	naa	naa	v	_	_	_	_	_	Gloss=to_look_for
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__76
+# text = tafi ato
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 40.5
+1	tafi	tefi	v	_	_	_	_	_	Gloss=to_chase_out/empty
+2	ato	ato	v	_	_	_	_	_	Gloss=to_hold
+
+# sent_id = 2015.III.S17__77
+# text = ti- aplo
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 41.1
+1	ti-	te-_2	v:(Modality1)	_	_	_	_	_	Gloss=too_also
+2	aplo	aplo_1	v	_	_	_	_	_	Gloss=to_roll
+
+# sent_id = 2015.III.S17__78
+# text = fu -fo m- aplo -lu -ne tu- -pao -mo mio- fau -wo
+# text_en = [the stone roll down and fall deep into the water]
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 41.2
+1	fu	fu_1	n  (fo)	_	_	_	_	_	Gloss=stone
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	aplo	aplo_1	v	_	_	_	_	_	Gloss=to_roll
+5	-lu	-lu	v	_	_	_	_	_	Gloss=-AWAY
+6	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+7	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+8	-pao	-pao	Noun	_	_	_	_	_	Gloss=deep
+9	-mo	-mo_3	Noun	_	_	_	_	_	Gloss=-inside
+10	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+11	fau	fao	v	_	_	_	_	_	Gloss=to_fall_down
+12	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__79
+# text = a fu -fo me- ti- aplo totu -wo fu -fo m- aplo -lu -ne m- i -se tu- -pao -ma mio- fau -wo
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 41.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fu	fu_1	n  (fo)	_	_	_	_	_	Gloss=stone
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	ti-	te-_2	v:(Modality1)	_	_	_	_	_	Gloss=too_also
+6	aplo	aplo_1	v	_	_	_	_	_	Gloss=to_roll
+7	totu	totu_2	v	_	_	_	_	_	Gloss=leave?
+8	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+9	fu	fu_1	n  (fo)	_	_	_	_	_	Gloss=stone
+10	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+11	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+12	aplo	aplo_1	v	_	_	_	_	_	Gloss=to_roll
+13	-lu	-lu	v	_	_	_	_	_	Gloss=-AWAY
+14	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+15	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+16	i	i	light verb	_	_	_	_	_	Gloss=to_go
+17	-se	-se_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-DUR?
+18	tu-	tu-	v:(dir-)	_	_	_	_	_	Gloss=under_down-
+19	-pao	-pao	Noun	_	_	_	_	_	Gloss=deep
+20	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+21	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+22	fau	fao	v	_	_	_	_	_	Gloss=to_fall_down
+23	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__80
+# text = a nou -mo menia -fo foflei -o
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 41.4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	nou	nou_1	n  (mo)	_	_	_	_	_	Gloss=bilum
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	menia	menia	n  (fo)	_	_	_	_	_	Gloss=clothes
+5	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+6	foflei	foflei_2	v	_	_	_	_	_	Gloss=to_fold
+7	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__81
+# text = a fu -fo me- ti- aplo totu -mwii
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 41.5
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fu	fu_1	n  (fo)	_	_	_	_	_	Gloss=stone
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	ti-	te-_2	v:(Modality1)	_	_	_	_	_	Gloss=too_also
+6	aplo	aplo_1	v	_	_	_	_	_	Gloss=to_roll
+7	totu	totu_2	v	_	_	_	_	_	Gloss=leave?
+8	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.III.S17__82
+# text = peisa mamu -le -io kokua mamu -le -lo aplo -lu -ne i -nai -mwii
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 41.6
+1	peisa	peisa	adv	_	_	_	_	_	Gloss=good
+2	mamu	mamu	adv	_	_	_	_	_	Gloss=LOC:there
+3	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+5	kokua	kokua	adj	_	_	_	_	_	Gloss=bad
+6	mamu	mamu	adv	_	_	_	_	_	Gloss=LOC:there
+7	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+8	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+9	aplo	aplo_1	v	_	_	_	_	_	Gloss=to_roll
+10	-lu	-lu	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+11	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+12	i	i	light verb	_	_	_	_	_	Gloss=to_go
+13	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+14	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.III.S17__83
+# text = to -nle drum se -he tieiteli -li -io
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 41.7
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	-nle	-nle	n:Tout	_	_	_	_	_	Gloss=-DEM2:PL
+3	drum	drum	n	_	_	_	_	_	Gloss=barrel_of_fuel
+4	se	se_3	n  (he)	_	_	_	_	_	Gloss=container
+5	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+6	tieiteli	tieiteli	v	_	_	_	_	_	Gloss=to_roll
+7	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PRS
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__84
+# text = tefi
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 42
+1	tefi	tefi	v	_	_	_	_	_	Gloss=to_pull
+
+# sent_id = 2015.III.S17__85
+# text = a mami -mo fau -wo
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 43
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	fau	fao	v	_	_	_	_	_	Gloss=to_beat
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__86
+# text = ateli
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 44
+1	ateli	ateli	v	_	_	_	_	_	Gloss=to_weed
+
+# sent_id = 2015.III.S17__87
+# text = a fu -fo feiolu -wo
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 45.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fu	fu_1	n  (fo)	_	_	_	_	_	Gloss=stone
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+4	feiolu	feiolu	v	_	_	_	_	_	Gloss=to_throw
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__88
+# text = tiʔo
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 45.2
+1	tiʔo	tiʔo	n	_	_	_	_	_	Gloss=bad_place
+
+# sent_id = 2015.III.S17__89
+# text = tiau
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 46
+1	tiau	tiao	v	_	_	_	_	_	Gloss=to_stand_up_wake_up
+
+# sent_id = 2015.III.S17__90
+# text = a mi -o tima ato -mwii
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 47
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	tima	timo	dem	_	_	_	_	_	Gloss=DEM
+5	ato	ato	v	_	_	_	_	_	Gloss=to_hold
+6	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015.III.S17__91
+# text = efe -le -io
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 48
+1	efe	efe_1	n  (mo)	_	_	_	_	_	Gloss=road
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__92
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 49
+
+# sent_id = 2015.III.S17__93
+# text = ta m- i -ne tuane -ne wa- mio -wo
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 50.1
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+3	i	i	light verb	_	_	_	_	_	Gloss=to_go
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	tuane	tuane	v	_	_	_	_	_	Gloss=to_turn_round
+6	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+7	wa-	wa-_1	v:(Modality1)	_	_	_	_	_	Gloss=back-
+8	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+9	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__94
+# text = balu -sapo m- a -ne tuane -li -io
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 50.2
+1	balu	balu	n  (sapoi)sapo	_	_	_	_	_	Gloss=plane
+2	-sapo	-sapo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IX.SG
+3	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	a	a_1	v	_	_	_	_	_	Gloss=to_come
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	tuane	tuane	v	_	_	_	_	_	Gloss=to_make_circle
+7	-li	-li_4	v:(Tense)	_	_	_	_	_	Gloss=-PST_(this_morning)
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.III.S17__95
+# text = weteto
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 51
+1	weteto	weteto	v	_	_	_	_	_	Gloss=to_catch(for a spear)
+
+# sent_id = 2015.III.S17__96
+# text = m- u -ne
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 52
+1	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+3	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+
+# sent_id = 2015.III.S17__97
+# text = nate -ne a
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 53.1
+1	nate	nate	v	_	_	_	_	_	Gloss=to_carry
+2	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+3	a	a_1	v	_	_	_	_	_	Gloss=to_come
+
+# sent_id = 2015.III.S17__98
+# text = nate naano
+# doc_id = 2015.III.S17
+# doc_title = 2015.III.S17 session dictionnaire (6.2, 6.4, 6.7, 7) TODO reporter correction.
+# origin_s_id = 53.2
+1	nate	nate	v	_	_	_	_	_	Gloss=to_carry
+2	naano	naano_1	v	_	_	_	_	_	Gloss=to_like
+

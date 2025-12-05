@@ -1,0 +1,12 @@
+# sent_id = 141112_01_T36__1
+# text = mle iale mali -no -wo
+# text_en = all will talk
+# doc_id = 141112_01_T36
+# doc_title = 141112_01_T36
+# origin_s_id = 1
+1	mle	mle	pers	_	_	_	_	_	Gloss=DEM1:PL
+2	iale	iale_1	n	_	_	_	_	_	Gloss=talk
+3	mali	mali	v	_	_	_	_	_	Gloss=to_talk
+4	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PURP
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

@@ -1,0 +1,91 @@
+# sent_id = 2019.96S__1
+# text = a awa -so f- i -ne
+# doc_id = 2019.96S
+# origin_s_id = 1
+1	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+2	awa	awa	n	_	_	_	_	_	Gloss=sibling
+3	-so	se_4	n:Tout	_	_	_	_	_	Gloss=DEM3.INDEF.NEG
+4	f-	fe-	v:(Polarity)	_	_	_	_	_	Gloss=NEG-
+5	i	i	light verb	_	_	_	_	_	Gloss=COP
+6	-ne	-ne_9	v:(Polarity2)	_	_	_	_	_	Gloss=-NEG2
+
+# sent_id = 2019.96S__2
+# text = me a ita halo
+# doc_id = 2019.96S
+# origin_s_id = 2
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	ita	ita	n	_	_	_	_	_	Gloss=father
+4	halo	halo	n	_	_	_	_	_	Gloss=younger_sibling
+
+# sent_id = 2019.96S__3
+# text = fefe a -mo -i
+# text_en = [it's my taro!]
+# doc_id = 2019.96S
+# origin_s_id = 3
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.96S__4
+# text = kapi a -he -i
+# text_en = [It's my banana]
+# doc_id = 2019.96S
+# origin_s_id = 4
+1	kapi	kapi_1	n	_	_	_	_	_	Gloss=banana
+2	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.96S__5
+# text = a fefe -mo ko pe -ma lo -m -wi -i
+# doc_id = 2019.96S
+# origin_s_id = 5
+1	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+2	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	ko	ko	adv	_	_	_	_	_	Gloss=top
+5	pe	pe_1	n  (sapoi)sapo	_	_	_	_	_	Gloss=bed
+6	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+7	lo	lo_2	v	_	_	_	_	_	Gloss=to_be_located
+8	-m	-me_5	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1
+9	-wi	-we_5	v:Tout	_	_	_	_	_	Gloss=-M.SG
+10	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.96S__6
+# text = a fefe -mo naswaia lo -no
+# doc_id = 2019.96S
+# origin_s_id = 6
+1	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+2	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	naswaia	naswaia	interrog	_	_	_	_	_	Gloss=where
+5	lo	lo_2	v	_	_	_	_	_	Gloss=to_be_laying_sitting(to be put)
+6	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.96S__7
+# text = fefe no awe -so -ij -no
+# doc_id = 2019.96S
+# origin_s_id = 7
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	no	no_3	dem	_	_	_	_	_	Gloss=DEM2
+3	awe	awii	interrog	_	_	_	_	_	Gloss=who
+4	-so	se_4	n	_	_	_	_	_	Gloss=DEM3:other_one
+5	-ij	_	_	_	_	_	_	_	_
+6	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.96S__8
+# text = me -fa fali kapaile a -fa saa lo -mwii
+# doc_id = 2019.96S
+# origin_s_id = 8
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	-fa	-fa_3	Pro-form	_	_	_	_	_	Gloss=-DISTR
+3	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+4	kapaile	kapaile	n	_	_	_	_	_	Gloss=excreta/shit
+5	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+6	-fa	-fa_3	Pro-form	_	_	_	_	_	Gloss=-DISTR
+7	saa	saa_1	adj	_	_	_	_	_	Gloss=strong
+8	lo	lo_2	v	_	_	_	_	_	Gloss=to_possess
+9	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

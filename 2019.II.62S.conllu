@@ -1,0 +1,25 @@
+# sent_id = 2019.II.62S__1
+# text = meli -io
+# doc_id = 2019.II.62S
+# origin_s_id = 1
+1	meli	meli_1	v	_	_	_	_	_	Gloss=to_talk
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.II.62S__2
+# text = so me- hei
+# doc_id = 2019.II.62S
+# origin_s_id = 2
+1	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+2	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+3	hei	hei_1	v	_	_	_	_	_	Gloss=to_go_in_water
+
+# sent_id = 2019.II.62S__3
+# text = mwe sopute -le fu -no
+# doc_id = 2019.II.62S
+# origin_s_id = 3
+1	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+2	sopute	sopute	n	_	_	_	_	_	Gloss=tabac
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	fu	fu_2	v	_	_	_	_	_	Gloss=to_possess
+5	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+

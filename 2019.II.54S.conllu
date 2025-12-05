@@ -1,0 +1,23 @@
+# sent_id = 2019.II.54S__1
+# text = heneli -fo tia -ma -fo
+# doc_id = 2019.II.54S
+# origin_s_id = 1
+1	heneli	heneli_1	n  (fo)	_	_	_	_	_	Gloss=sun
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	tia	tea	v	_	_	_	_	_	Gloss=to_kam
+4	-ma	-ma_2	v	_	_	_	_	_	Gloss=-MVT
+5	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+
+# sent_id = 2019.II.54S__2
+# text = tale waterfront -ma io -nai -me -to -i
+# doc_id = 2019.II.54S
+# origin_s_id = 2
+1	tale	tale	pers	_	_	_	_	_	Gloss=1DU.brother
+2	waterfront	waterfront	n	_	_	_	_	_	Gloss=water_front
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	io	io	v	_	_	_	_	_	Gloss=to_go
+5	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+6	-me	-me_5	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1
+7	-to	-to_2	pers:Tout	_	_	_	_	_	Gloss=-DU.parent_and_child
+8	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

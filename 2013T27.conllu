@@ -1,0 +1,21 @@
+# sent_id = 2013T27__1
+# text = a menia -le nenenia
+# doc_id = 2013T27
+# doc_title = 2013T27
+# origin_s_id = 1.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	menia	menia	n  (fo)	_	_	_	_	_	Gloss=clothes
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	nenenia	nenenia	v	_	_	_	_	_	Gloss=to_wet_or_dry
+
+# sent_id = 2013T27__2
+# text = a menia -le upeseli -lo
+# doc_id = 2013T27
+# doc_title = 2013T27
+# origin_s_id = 1.2
+1	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+2	menia	menia	n  (fo)	_	_	_	_	_	Gloss=clothes
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	upeseli	upeseli	adj	_	_	_	_	_	Gloss=to_wet_or_dry
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+

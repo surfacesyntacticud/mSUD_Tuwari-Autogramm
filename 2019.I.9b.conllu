@@ -1,0 +1,259 @@
+# sent_id = 2019.I.9b__1
+# text = heiso heisa nasu i -no
+# doc_id = 2019.I.9b
+# origin_s_id = 1.1
+1	heiso	heiso_1	n	_	_	_	_	_	Gloss=woman
+2	heisa	heisa	n	_	_	_	_	_	Gloss=women(2P?).VOC?
+3	nasu	nasu	interrog	_	_	_	_	_	Gloss=where
+4	i	i	light verb	_	_	_	_	_	Gloss=to_go
+5	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.I.9b__2
+# text = heiso nasu i -no
+# doc_id = 2019.I.9b
+# origin_s_id = 1.2
+1	heiso	heiso_1	n	_	_	_	_	_	Gloss=woman
+2	nasu	nasu	interrog	_	_	_	_	_	Gloss=where
+3	i	i	light verb	_	_	_	_	_	Gloss=to_go
+4	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.I.9b__3
+# text = heiso heisa ei nasu i -no
+# doc_id = 2019.I.9b
+# origin_s_id = 2.1
+1	heiso	heiso_1	n	_	_	_	_	_	Gloss=woman
+2	heisa	heisa	n	_	_	_	_	_	Gloss=women(2P?).VOC?
+3	ei	mei	?	_	_	_	_	_	Gloss=QUOTED_SPEECH
+4	nasu	nasu	interrog	_	_	_	_	_	Gloss=where
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.I.9b__4
+# text = ta upasi -ma i -io
+# text_en = [We are going on the river bank]
+# doc_id = 2019.I.9b
+# origin_s_id = 2.2
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	upasi	upase	n  (he)	_	_	_	_	_	Gloss=sand_bank
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	i	i	light verb	_	_	_	_	_	Gloss=to_go
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.9b__5
+# text = me nasu slo -no
+# doc_id = 2019.I.9b
+# origin_s_id = 3.1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	nasu	nasu	interrog	_	_	_	_	_	Gloss=where
+3	slo	sele_1	v	_	_	_	_	_	Gloss=to_stay
+4	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.I.9b__6
+# text = a upase -ma slo -wo
+# doc_id = 2019.I.9b
+# origin_s_id = 3.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	upase	upase	n  (he)	_	_	_	_	_	Gloss=sand_bank
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	slo	sele_1	v	_	_	_	_	_	Gloss=to_stay
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.9b__7
+# text = heisopitia ei nasu i -no
+# doc_id = 2019.I.9b
+# origin_s_id = 4.1
+1	heisopitia	heisepitia	n	_	_	_	_	_	Gloss=girls
+2	ei	mei	?	_	_	_	_	_	Gloss=QUOTED_SPEECH
+3	nasu	nasu	interrog	_	_	_	_	_	Gloss=where
+4	i	i	light verb	_	_	_	_	_	Gloss=to_go
+5	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.I.9b__8
+# text = heiso honua -i -se -i
+# doc_id = 2019.I.9b
+# origin_s_id = 4.2
+1	heiso	heiso_1	n	_	_	_	_	_	Gloss=woman
+2	honua	honua	n	_	_	_	_	_	Gloss=elder
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	-se	-se_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-F.SG
+5	-i	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2019.I.9b__9
+# text = to -isa ei
+# doc_id = 2019.I.9b
+# origin_s_id = 5
+1	to	to_1	n	_	_	_	_	_	Gloss=man
+2	-isa	-isa	Noun	_	_	_	_	_	Gloss=-VOC
+3	ei	mei	?	_	_	_	_	_	Gloss=QUOTED_SPEECH
+
+# sent_id = 2019.I.9b__10
+# text = hepitia heisa
+# doc_id = 2019.I.9b
+# origin_s_id = 6
+1	hepitia	hepitia	n	_	_	_	_	_	Gloss=boy(no children)
+2	heisa	heisa	interrog	_	_	_	_	_	Gloss=VOC
+
+# sent_id = 2019.I.9b__11
+# text = hesepitia heisa
+# doc_id = 2019.I.9b
+# origin_s_id = 7
+1	hesepitia	heisepitia	n	_	_	_	_	_	Gloss=girls
+2	heisa	heisa	interrog	_	_	_	_	_	Gloss=VOC
+
+# sent_id = 2019.I.9b__12
+# text = hepale -mo wafle ho- mol -wa -he -io
+# doc_id = 2019.I.9b
+# origin_s_id = 8
+1	hepale	hepae	n  (mo)	_	_	_	_	_	Gloss=back_side
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	wafle	waflo	v	_	_	_	_	_	Gloss=to_lay
+4	ho-	ho-	Verb	_	_	_	_	_	Gloss=?-
+5	mol	mol	v	_	_	_	_	_	Gloss=to_correct
+6	-wa	-ia_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PST_also?
+7	-he	-he_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?
+8	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.9b__13
+# text = toutiiihei -io
+# doc_id = 2019.I.9b
+# origin_s_id = 9.1
+1	toutiiihei	toutelihei	interj	_	_	_	_	_	Gloss=good night!
+2	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.9b__14
+# text = keiseiolohei
+# doc_id = 2019.I.9b
+# origin_s_id = 9.2
+1	keiseiolohei	keisiiolo	interj	_	_	_	_	_	Gloss=good_afternoon!
+
+# sent_id = 2019.I.9b__15
+# text = me nasi kono -mo kokua lo
+# doc_id = 2019.I.9b
+# origin_s_id = 10.1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	nasi	nasi	interrog	_	_	_	_	_	Gloss=what
+3	kono	kono_2	v	_	_	_	_	_	Gloss=to_make
+4	-mo	-mo_6	v	_	_	_	_	_	Gloss=-MED2previousness
+5	kokua	kokua	adj	_	_	_	_	_	Gloss=bad
+6	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+
+# sent_id = 2019.I.9b__16
+# text = a owe henei howu -mo wele fe -i
+# text_en = [the boy cry for a cooling bath]
+# doc_id = 2019.I.9b
+# origin_s_id = 10.2
+1	a	a_2	poss	_	_	_	_	_	Gloss=1SG.POSS
+2	owe	owei	n	_	_	_	_	_	Gloss=little_boy
+3	henei	heneli_2	adj	_	_	_	_	_	Gloss=hot
+4	howu	howaouu	v	_	_	_	_	_	Gloss=to_wash
+5	-mo	-mo_6	v	_	_	_	_	_	Gloss=-MED2_goal
+6	wele	wele	n	_	_	_	_	_	Gloss=weeping
+7	fe	fe_1	v	_	_	_	_	_	Gloss=to_sing
+8	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.9b__17
+# text = o menai a me feni -i
+# doc_id = 2019.I.9b
+# origin_s_id = 11
+1	o	o_3	n	_	_	_	_	_	Gloss=child
+2	menai	menai	n	_	_	_	_	_	Gloss=VOC
+3	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+4	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+5	feni	feni_1	n  (fo)	_	_	_	_	_	Gloss=sorry
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.9b__18
+# text = me nasu i -no
+# doc_id = 2019.I.9b
+# origin_s_id = 12.1
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	nasu	nasu	interrog	_	_	_	_	_	Gloss=where
+3	i	i	light verb	_	_	_	_	_	Gloss=to_go
+4	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.I.9b__19
+# text = a teia -ma i -io
+# text_en = [i go to the garden...]
+# doc_id = 2019.I.9b
+# origin_s_id = 12.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	teia	teia	n  (ei)	_	_	_	_	_	Gloss=garden
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	i	i	light verb	_	_	_	_	_	Gloss=to_go
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.9b__20
+# text = a wa ia -ne upase soaso -nio
+# text_en = [... and I come back to meet you on the bank.]
+# doc_id = 2019.I.9b
+# origin_s_id = 12.3
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	wa	wa_2	v	_	_	_	_	_	Gloss=back
+3	ia	ia_1	v	_	_	_	_	_	Gloss=kam_antap
+4	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+5	upase	upase	n  (he)	_	_	_	_	_	Gloss=sand_bank
+6	soaso	suaso	v	_	_	_	_	_	Gloss=to_meet
+7	-nio	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+
+# sent_id = 2019.I.9b__21
+# text = me honu sele -io
+# text_en = [yu stay there]
+# doc_id = 2019.I.9b
+# origin_s_id = 12.4
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+3	sele	sele_1	v	_	_	_	_	_	Gloss=to_sit
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.9b__22
+# text = ta -i -to kapi -le honu owa -nio upase -ma
+# text_en = [the two of us will eat banana here on the bank.]
+# doc_id = 2019.I.9b
+# origin_s_id = 12.5
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	-i	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	-to	-to_2	pers:Tout	_	_	_	_	_	Gloss=-DU.parent_and_child
+4	kapi	kapi_1	n	_	_	_	_	_	Gloss=banana
+5	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+6	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+7	owa	owo	v	_	_	_	_	_	Gloss=to_cook
+8	-nio	-ni_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?FUT.PROX
+9	upase	upase	n  (he)	_	_	_	_	_	Gloss=sand_bank
+10	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+
+# sent_id = 2019.I.9b__23
+# text = me nomu ianu -le -io
+# doc_id = 2019.I.9b
+# origin_s_id = 12.6
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	nomu	nomu	adv	_	_	_	_	_	Gloss=LOC:there
+3	ianu	ianu_2	v	_	_	_	_	_	Gloss=to_wait
+4	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.9b__24
+# text = ta -i -to kapi -le howa -tei -ne onoma i -nai -mwiio
+# doc_id = 2019.I.9b
+# origin_s_id = 12.7
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	-i	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	-to	-to_2	pers:Tout	_	_	_	_	_	Gloss=-DU.parent_and_child
+4	kapi	kapi_1	n	_	_	_	_	_	Gloss=banana
+5	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+6	howa	owo	v	_	_	_	_	_	Gloss=to_cook
+7	-tei	-tele	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=completely
+8	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+9	onoma	onoma	adv	_	_	_	_	_	Gloss=to_house
+10	i	i	light verb	_	_	_	_	_	Gloss=to_go
+11	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+12	-mwiio	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2019.I.9b__25
+# text = kapi -le sopo lo
+# doc_id = 2019.I.9b
+# origin_s_id = 12.8
+1	kapi	kapi_1	n	_	_	_	_	_	Gloss=banana
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	sopo	sopo	adj	_	_	_	_	_	Gloss=green(not ripe)
+4	lo	lo_2	v	_	_	_	_	_	Gloss=to_be
+

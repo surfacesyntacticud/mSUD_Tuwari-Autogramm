@@ -1,0 +1,107 @@
+# sent_id = 2015.I.S20__1
+# text = a fali tlotlo -lo -wo
+# doc_id = 2015.I.S20
+# doc_title = 2015.I.S20
+# origin_s_id = 1.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	tlotlo	tlotlo	ideo	_	_	_	_	_	Gloss=to_be_full
+4	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+5	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S20__2
+# text = a tefene -fe fali tlotlo -lo -wo
+# doc_id = 2015.I.S20
+# doc_title = 2015.I.S20
+# origin_s_id = 1.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	tefene	tefene	n  (fe)	_	_	_	_	_	Gloss=belly
+3	-fe	-fe_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VII.SG
+4	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+5	tlotlo	tlotlo	ideo	_	_	_	_	_	Gloss=to_be_full
+6	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015.I.S20__3
+# text = mami kali tusani
+# doc_id = 2015.I.S20
+# doc_title = 2015.I.S20
+# origin_s_id = 2.1
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	tusani	tusani	n	_	_	_	_	_	Gloss=male(animal)
+
+# sent_id = 2015.I.S20__4
+# text = mami kali homo -me
+# doc_id = 2015.I.S20
+# doc_title = 2015.I.S20
+# origin_s_id = 2.2
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	homo	homo	adj	_	_	_	_	_	Gloss=wild
+4	-me	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+
+# sent_id = 2015.I.S20__5
+# text = mami kali ieni -mo
+# doc_id = 2015.I.S20
+# doc_title = 2015.I.S20
+# origin_s_id = 2.3
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	ieni	ieni	adj	_	_	_	_	_	Gloss=domesticated
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+
+# sent_id = 2015.I.S20__6
+# text = mami kali tete
+# doc_id = 2015.I.S20
+# doc_title = 2015.I.S20
+# origin_s_id = 2.4
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+3	tete	tete_1	n	_	_	_	_	_	Gloss=food
+
+# sent_id = 2015.I.S20__7
+# text = fu -fo fiholi -lo
+# doc_id = 2015.I.S20
+# doc_title = 2015.I.S20
+# origin_s_id = 3
+1	fu	fu_1	n  (fo)	_	_	_	_	_	Gloss=stone
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	fiholi	fiholi	adj	_	_	_	_	_	Gloss=slippy
+4	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2015.I.S20__8
+# text = fu olua -fo
+# doc_id = 2015.I.S20
+# doc_title = 2015.I.S20
+# origin_s_id = 4
+1	fu	fu_1	n  (fo)	_	_	_	_	_	Gloss=stone
+2	olua	olua	adj	_	_	_	_	_	Gloss=white
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+
+# sent_id = 2015.I.S20__9
+# text = fu nemese -li -fo
+# doc_id = 2015.I.S20
+# doc_title = 2015.I.S20
+# origin_s_id = 5
+1	fu	fu_1	n  (fo)	_	_	_	_	_	Gloss=stone
+2	nemese	nemesi	adj	_	_	_	_	_	Gloss=red
+3	-li	-li_6	adj>v	_	_	_	_	_	Gloss=ADJ>VRB
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+
+# sent_id = 2015.I.S20__10
+# text = fu touteli -fo
+# doc_id = 2015.I.S20
+# doc_title = 2015.I.S20
+# origin_s_id = 6
+1	fu	fu_1	n  (fo)	_	_	_	_	_	Gloss=stone
+2	touteli	touteli	adj	_	_	_	_	_	Gloss=dark_black
+3	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+
+# sent_id = 2015.I.S20__11
+# text = napumai
+# doc_id = 2015.I.S20
+# doc_title = 2015.I.S20
+# origin_s_id = 7
+1	napumai	napumai	adj	_	_	_	_	_	Gloss=yellow
+

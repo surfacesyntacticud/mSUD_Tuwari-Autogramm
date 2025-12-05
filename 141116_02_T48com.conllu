@@ -1,0 +1,140 @@
+# sent_id = 141116_02_T48com__1
+# text = menefu
+# doc_id = 141116_02_T48com
+# doc_title = 141116_02_T48 com 1
+# origin_s_id = 1
+1	menefu	mnefu	n	_	_	_	_	_	Gloss=testicule
+
+# sent_id = 141116_02_T48com__2
+# text = kapi -le eiteli -le
+# doc_id = 141116_02_T48com
+# doc_title = 141116_02_T48 com 1
+# origin_s_id = 2
+1	kapi	kapi_1	n	_	_	_	_	_	Gloss=banana
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	eiteli	eiteli	adj	_	_	_	_	_	Gloss=mature
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 141116_02_T48com__3
+# text = kapi buka
+# doc_id = 141116_02_T48com
+# doc_title = 141116_02_T48 com 1
+# origin_s_id = 3
+1	kapi buka	kapi buka	n	_	_	_	_	_	Gloss=big banana put into fire
+
+# sent_id = 141116_02_T48com__4
+# text = kapi iolaei
+# doc_id = 141116_02_T48com
+# doc_title = 141116_02_T48 com 1
+# origin_s_id = 4
+1	kapi iolaei	kapi iolaei	n	_	_	_	_	_	Gloss=chinese_banana_variety
+
+# sent_id = 141116_02_T48com__5
+# text = miane ali
+# doc_id = 141116_02_T48com
+# doc_title = 141116_02_T48 com 1
+# origin_s_id = 5
+1	miane	_	_	_	_	_	_	_	_
+2	ali	_	_	_	_	_	_	_	_
+
+# sent_id = 141116_02_T48com__6
+# text = kapi buka -mi iowe nefi -io
+# doc_id = 141116_02_T48com
+# doc_title = 141116_02_T48 com 1
+# origin_s_id = 6
+1	kapi buka	kapi buka	n	_	_	_	_	_	Gloss=big banana put into fire
+2	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+3	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+4	nefi	nefi_1	v	_	_	_	_	_	Gloss=to_give
+5	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 141116_02_T48com__7
+# text = melo kokua -le -nai -lei
+# doc_id = 141116_02_T48com
+# doc_title = 141116_02_T48 com 1
+# origin_s_id = 7
+1	melo	_	_	_	_	_	_	_	_
+2	kokua	kokua	adj	_	_	_	_	_	Gloss=bad
+3	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+4	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+5	-lei	-lei_1	v:(GenderNumber)	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 141116_02_T48com__8
+# text = menia tlosi kali tia -fo -i
+# doc_id = 141116_02_T48com
+# doc_title = 141116_02_T48 com 1
+# origin_s_id = 8
+1	menia	menia	n  (fo)	_	_	_	_	_	Gloss=clothes
+2	tlosi	tlosi	n  (fo)	_	_	_	_	_	Gloss=throusers
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	tia	tia_2	n	_	_	_	_	_	Gloss=shirt(clothed)
+5	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 141116_02_T48com__9
+# text = menia tlosi kali -fo -i
+# doc_id = 141116_02_T48com
+# doc_title = 141116_02_T48 com 1
+# origin_s_id = 9
+1	menia	menia	n  (fo)	_	_	_	_	_	Gloss=clothes
+2	tlosi	tlosi	n  (fo)	_	_	_	_	_	Gloss=throusers
+3	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+4	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 141116_02_T48com__10
+# text = tia
+# doc_id = 141116_02_T48com
+# doc_title = 141116_02_T48 com 1
+# origin_s_id = 10
+1	tia	tia_2	n	_	_	_	_	_	Gloss=shirt(clothed)
+
+# sent_id = 141116_02_T48com__11
+# text = mese -he -i
+# doc_id = 141116_02_T48com
+# doc_title = 141116_02_T48 com 1
+# origin_s_id = 11
+1	mese	mese_3	n	_	_	_	_	_	Gloss=plastic
+2	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 141116_02_T48com__12
+# text = kamp mese -he -i
+# doc_id = 141116_02_T48com
+# doc_title = 141116_02_T48 com 1
+# origin_s_id = 12
+1	kamp	kamp	n  (he)	_	_	_	_	_	Gloss=bush_camp
+2	mese	mese_3	n	_	_	_	_	_	Gloss=plastic
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 141116_02_T48com__13
+# text = tene -ho -i
+# doc_id = 141116_02_T48com
+# doc_title = 141116_02_T48 com 1
+# origin_s_id = 13.1
+1	tene	tene_2	n  (he)	_	_	_	_	_	Gloss=cap
+2	-ho	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 141116_02_T48com__14
+# text = tene -he tese -ma mopolu -ho -i
+# text_en = [put the cap on the head]
+# doc_id = 141116_02_T48com
+# doc_title = 141116_02_T48 com 1
+# origin_s_id = 13.2
+1	tene	tene_2	n  (he)	_	_	_	_	_	Gloss=cap
+2	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+3	tese	tese	n  (fo)	_	_	_	_	_	Gloss=head
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	mopolu	mopolu	v	_	_	_	_	_	Gloss=to_put
+6	-ho	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+7	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 141116_02_T48com__15
+# text = wateale
+# doc_id = 141116_02_T48com
+# doc_title = 141116_02_T48 com 1
+# origin_s_id = 14
+1	wateale	watealemo	n	_	_	_	_	_	Gloss=ford
+

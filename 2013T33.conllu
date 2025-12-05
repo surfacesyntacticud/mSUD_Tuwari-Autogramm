@@ -1,0 +1,44 @@
+# sent_id = 2013T33__1
+# text = minami nou -mo iowe si -io
+# doc_id = 2013T33
+# doc_title = 2013T33 The making of bilum (2/2)
+# origin_s_id = 1.1
+1	minami	minami	adv	_	_	_	_	_	Gloss=then
+2	nou	nou_1	n  (mo)	_	_	_	_	_	Gloss=bilum
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+5	si	se_1	v	_	_	_	_	_	Gloss=to_make
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T33__2
+# text = ta mine fo
+# doc_id = 2013T33
+# doc_title = 2013T33 The making of bilum (2/2)
+# origin_s_id = 1.2
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	mine	meinami	adv	_	_	_	_	_	Gloss=after
+3	fo	fo_3	v	_	_	_	_	_	Gloss=to_rope
+
+# sent_id = 2013T33__3
+# text = minami tefe -he iowe tei -o
+# doc_id = 2013T33
+# doc_title = 2013T33 The making of bilum (2/2)
+# origin_s_id = 2
+1	minami	minami	adv	_	_	_	_	_	Gloss=then
+2	tefe	_	_	_	_	_	_	_	_
+3	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+4	iowe	iowe	v	_	_	_	_	_	Gloss=to_go
+5	tei	tei_1	v	_	_	_	_	_	Gloss=to_go
+6	-o	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013T33__4
+# text = me- tei -nami iowa ato
+# doc_id = 2013T33
+# doc_title = 2013T33 The making of bilum (2/2)
+# origin_s_id = 3
+1	me-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+2	tei	tei_1	v	_	_	_	_	_	Gloss=to_go
+3	-nami	-nami	v:(Chaining)	_	_	_	_	_	Gloss=-SEQ
+4	iowa	iowe	v	_	_	_	_	_	Gloss=to_go
+5	ato	ato	v	_	_	_	_	_	Gloss=to_hold
+

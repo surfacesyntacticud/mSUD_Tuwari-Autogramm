@@ -1,0 +1,66 @@
+# sent_id = 2015T6com__1
+# text = a opsono mutaano u -mwii
+# doc_id = 2015T6com
+# doc_title = 2015T6com
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	opsono	opsono	n	_	_	_	_	_	Gloss=village
+3	mutaano	mutaano	v	_	_	_	_	_	Gloss=to_stay
+4	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015T6com__2
+# text = a no waai -mo opsono mutaano m- u -ne -io
+# doc_id = 2015T6com
+# doc_title = 2015T6com
+# origin_s_id = 2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	no	no_1	n  (mo)	_	_	_	_	_	Gloss=week
+3	waai	waai_1	cardnum	_	_	_	_	_	Gloss=one
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+5	opsono	opsono	n	_	_	_	_	_	Gloss=village
+6	mutaano	mutaano	v	_	_	_	_	_	Gloss=to_stay
+7	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+8	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+9	-ne	-ne_4	v	_	_	_	_	_	Gloss=-IMM
+10	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T6com__3
+# text = a fali me -se -lo usaai -io
+# doc_id = 2015T6com
+# doc_title = 2015T6com
+# origin_s_id = 3.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+4	-se	-se_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-F.SG
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+6	usaai	usaai	v	_	_	_	_	_	Gloss=to_be_angry
+7	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T6com__4
+# text = a fali me -lo usaai -io
+# doc_id = 2015T6com
+# doc_title = 2015T6com
+# origin_s_id = 3.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+3	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+4	-lo	-lo_3	n	_	_	_	_	_	Gloss=-COM
+5	usaai	usaai	v	_	_	_	_	_	Gloss=to_be_angry
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T6com__5
+# text = a me tuwa tuwo totu -nai -mwii
+# text_en = what the mean says to the women he made go.
+# doc_id = 2015T6com
+# doc_title = 2015T6com
+# origin_s_id = 4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+3	tuwa	tuane	v	_	_	_	_	_	Gloss=to_turn_round
+4	tuwo	tuane	v	_	_	_	_	_	Gloss=to_turn_round
+5	totu	totu_2	v	_	_	_	_	_	Gloss=leave?
+6	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+7	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

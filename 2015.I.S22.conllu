@@ -1,0 +1,17 @@
+# sent_id = 2015.I.S22__1
+# text = mami ali m- olu -ne wafi -ma -i ife -ma -i
+# doc_id = 2015.I.S22
+# doc_title = 2015.I.S22
+# origin_s_id = 1
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	ali	_	_	_	_	_	_	_	_
+3	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+4	olu	olu	v	_	_	_	_	_	Gloss=to_run_away
+5	-ne	-ne_1	v:(Chaining)	_	_	_	_	_	Gloss=-MED
+6	wafi	wafe_1	adv	_	_	_	_	_	Gloss=downstream
+7	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+8	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+9	ife	ife	adv	_	_	_	_	_	Gloss=upstream
+10	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+11	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

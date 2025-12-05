@@ -1,0 +1,28 @@
+# sent_id = 2019.II.51Tcom__1
+# text = a
+# doc_id = 2019.II.51Tcom
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+
+# sent_id = 2019.II.51Tcom__2
+# text = otoiso honua -ia
+# doc_id = 2019.II.51Tcom
+# origin_s_id = 2.1
+1	otoiso	otoiso	adv	_	_	_	_	_	Gloss=tomorrow
+2	honua	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+3	-ia	-ia_1	n	_	_	_	_	_	Gloss=-LOC
+
+# sent_id = 2019.II.51Tcom__3
+# text = a fonane honu u -nai -mwi -i u -mwi
+# doc_id = 2019.II.51Tcom
+# origin_s_id = 2.2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	fonane	fonane	adv	_	_	_	_	_	Gloss=today
+3	honu	honu	adv	_	_	_	_	_	Gloss=LOC:here;there
+4	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+5	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+6	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+7	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+8	u	u_2	v	_	_	_	_	_	Gloss=to_stay
+9	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+

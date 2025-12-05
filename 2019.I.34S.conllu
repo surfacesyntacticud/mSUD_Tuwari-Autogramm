@@ -1,0 +1,61 @@
+# sent_id = 2019.I.34S__1
+# text = ana -se hei -mo
+# doc_id = 2019.I.34S
+# origin_s_id = 1.1
+1	ana	ana	n	_	_	_	_	_	Gloss=mother
+2	-se	-se_2	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-F.SG
+3	hei	hei_2	n  (mo)	_	_	_	_	_	Gloss=name
+4	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+
+# sent_id = 2019.I.34S__2
+# text = ita konou -wo hei -mo
+# doc_id = 2019.I.34S
+# origin_s_id = 1.2
+1	ita	ita	n	_	_	_	_	_	Gloss=father
+2	konou	konowu	n	_	_	_	_	_	Gloss=grand_mother__grand_children
+3	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+4	hei	hei_2	n  (mo)	_	_	_	_	_	Gloss=name
+5	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+
+# sent_id = 2019.I.34S__3
+# text = si homo -mo fihole: -lo
+# doc_id = 2019.I.34S
+# origin_s_id = 2.1
+1	si	si_2	n	_	_	_	_	_	Gloss=ground
+2	homo	homo	n	_	_	_	_	_	Gloss=bush
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	fihole:	fiholi	adj	_	_	_	_	_	Gloss=slippy
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2019.I.34S__4
+# text = meimo mi a otau -le -no
+# doc_id = 2019.I.34S
+# origin_s_id = 2.2
+1	meimo	meimo	adv	_	_	_	_	_	Gloss=so_that
+2	mi	_	_	_	_	_	_	_	_
+3	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+4	otau	hotau	v	_	_	_	_	_	Gloss=to_slip_and_fall
+5	-le	-le_2	v:(Tense)	_	_	_	_	_	Gloss=-?
+6	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-FUT
+
+# sent_id = 2019.I.34S__5
+# text = meimo a fali m- otau -lo
+# doc_id = 2019.I.34S
+# origin_s_id = 2.3
+1	meimo	meimo	adv	_	_	_	_	_	Gloss=so_that
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+4	m-	m-	v:(Modality1)	_	_	_	_	_	Gloss=?-
+5	otau	hotau	v	_	_	_	_	_	Gloss=to_slip_and_fall
+6	-lo	-lo_4	v:(Tense)	_	_	_	_	_	Gloss=-PST
+
+# sent_id = 2019.I.34S__6
+# text = a mami -mo iafi -no
+# doc_id = 2019.I.34S
+# origin_s_id = 2.4
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+3	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+4	iafi	iefi	v	_	_	_	_	_	Gloss=to_shoot
+5	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-FUT
+

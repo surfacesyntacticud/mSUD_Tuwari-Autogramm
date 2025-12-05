@@ -1,0 +1,11 @@
+# sent_id = 2013T24__1
+# text = a esei -le heitomu ano
+# doc_id = 2013T24
+# doc_title = 2013T24
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	esei	esei	n	_	_	_	_	_	Gloss=water
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	heitomu	heitomu	v	_	_	_	_	_	Gloss=hungry
+5	ano	ano_1	v	_	_	_	_	_	Gloss=to_want
+

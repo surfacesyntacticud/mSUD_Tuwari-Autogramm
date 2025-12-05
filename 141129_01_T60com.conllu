@@ -1,0 +1,51 @@
+# sent_id = 141129_01_T60com__1
+# text = mami -no -wo
+# doc_id = 141129_01_T60com
+# doc_title = 141129_01_T60com TODO
+# origin_s_id = 1
+1	mami	mami_1	n  (mo)	_	_	_	_	_	Gloss=pig
+2	-no	-no_2	n:Tout	_	_	_	_	_	Gloss=-DEM2
+3	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 141129_01_T60com__2
+# text = hao -nehe
+# doc_id = 141129_01_T60com
+# doc_title = 141129_01_T60com TODO
+# origin_s_id = 2
+1	hao	hao	n  (fo)	_	_	_	_	_	Gloss=fish
+2	-nehe	-nehe	n:Tout	_	_	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
+
+# sent_id = 141129_01_T60com__3
+# text = mi -no -o -wo mi kali -fo -i mi kali -o
+# doc_id = 141129_01_T60com
+# doc_title = 141129_01_T60com TODO
+# origin_s_id = 3
+1	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+2	-no	-no_2	n:Tout	_	_	_	_	_	Gloss=-DEM2
+3	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+4	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+5	mi	mi_7	n  (fo)	_	_	_	_	_	Gloss=house_pole
+6	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+7	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+8	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+9	mi	mi_1	n  (o)	_	_	_	_	_	Gloss=tree
+10	kali	kali_2	adj	_	_	_	_	_	Gloss=big
+11	-o	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+
+# sent_id = 141129_01_T60com__4
+# text = nou -mowo
+# doc_id = 141129_01_T60com
+# doc_title = 141129_01_T60com TODO
+# origin_s_id = 4
+1	nou	nou_1	n  (mo)	_	_	_	_	_	Gloss=bilum
+2	-mowo	-mowo	n:Tout	_	_	_	_	_	Gloss=-DEM
+
+# sent_id = 141129_01_T60com__5
+# text = nofua -fo -i
+# doc_id = 141129_01_T60com
+# doc_title = 141129_01_T60com TODO
+# origin_s_id = 5
+1	nofua	nofua	n  (fo)	_	_	_	_	_	Gloss=leaf
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

@@ -1,0 +1,133 @@
+# sent_id = 2015T17com__1
+# text = so -he wa nwe -mwii -na
+# doc_id = 2015T17com
+# doc_title = 2015T17com
+# origin_s_id = 1
+1	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+2	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+3	wa	wa_2	v	_	_	_	_	_	Gloss=back
+4	nwe	nue	n	_	_	_	_	_	Gloss=dark_light
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+6	-na	-na_1	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-?INTSFIER?
+
+# sent_id = 2015T17com__2
+# text = a wa mio -mwii
+# doc_id = 2015T17com
+# doc_title = 2015T17com
+# origin_s_id = 2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	wa	ia_1	v	_	_	_	_	_	Gloss=kam_antap
+3	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015T17com__3
+# text = a solo u wa naa -no -mwii
+# doc_id = 2015T17com
+# doc_title = 2015T17com
+# origin_s_id = 3.1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	solo	solo	v	_	_	_	_	_	Gloss=to_sleep
+3	u	u_2	v	_	_	_	_	_	Gloss=to_sleep
+4	wa	wa_2	v	_	_	_	_	_	Gloss=back
+5	naa	naa	v	_	_	_	_	_	Gloss=to_look_for
+6	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-FUT
+7	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015T17com__4
+# text = tofu taa -u -mwii
+# doc_id = 2015T17com
+# doc_title = 2015T17com
+# origin_s_id = 3.2
+1	tofu	tofu_2	v	_	_	_	_	_	Gloss=to_arrive
+2	taa	taa_2	v	_	_	_	_	_	Gloss=to_round
+3	-u	-u	v:(Tense2)	_	_	_	_	_	Gloss=-?
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015T17com__5
+# text = mai -mwii ife -ma i -io
+# doc_id = 2015T17com
+# doc_title = 2015T17com
+# origin_s_id = 4
+1	mai	mai	v	_	_	_	_	_	Gloss=to_go_up(stream)
+2	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+3	ife	ife	adv	_	_	_	_	_	Gloss=upstream
+4	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T17com__6
+# text = wa mio- tofu mio- tofu
+# doc_id = 2015T17com
+# doc_title = 2015T17com
+# origin_s_id = 5
+1	wa	ia_1	v	_	_	_	_	_	Gloss=to_go
+2	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+3	tofu	tofu_2	v	_	_	_	_	_	Gloss=to_arrive
+4	mio-	mio-_1	v:(dir-)	_	_	_	_	_	Gloss=down-
+5	tofu	tofu_2	v	_	_	_	_	_	Gloss=to_arrive
+
+# sent_id = 2015T17com__7
+# text = mei- tofu wa mei- tofu
+# doc_id = 2015T17com
+# doc_title = 2015T17com
+# origin_s_id = 6
+1	mei-	mei-	v:Tout	_	_	_	_	_	Gloss=to_go_up(stream)-
+2	tofu	tofu_2	v	_	_	_	_	_	Gloss=to_arrive
+3	wa	ia_1	v	_	_	_	_	_	Gloss=to_go
+4	mei-	mei-	v:Tout	_	_	_	_	_	Gloss=to_go_up(stream)-
+5	tofu	tofu_2	v	_	_	_	_	_	Gloss=to_arrive
+
+# sent_id = 2015T17com__8
+# text = a opo neisi pesia i -mwii
+# doc_id = 2015T17com
+# doc_title = 2015T17com
+# origin_s_id = 7
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	opo neisi	opo neisi	n	_	_	_	_	_	Gloss=cassoari
+3	pesia	pesia	v	_	_	_	_	_	Gloss=to_fetch
+4	i	i	light verb	_	_	_	_	_	Gloss=to_be
+5	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2015T17com__9
+# text = u -mo fo fia mio
+# doc_id = 2015T17com
+# doc_title = 2015T17com
+# origin_s_id = 8.1
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	-mo	-mo_4	Noun	_	_	_	_	_	Gloss=alongside_of
+3	fo	fo_4	adv	_	_	_	_	_	Gloss=TEM_LOC
+4	fia	fia	adv	_	_	_	_	_	Gloss=straight_ahead
+5	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+
+# sent_id = 2015T17com__10
+# text = u -mo fo fia mio
+# doc_id = 2015T17com
+# doc_title = 2015T17com
+# origin_s_id = 8.2
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	-mo	-mo_4	Noun	_	_	_	_	_	Gloss=alongside_of
+3	fo	fo_4	adv	_	_	_	_	_	Gloss=TEM_LOC
+4	fia	fia	adv	_	_	_	_	_	Gloss=straight_ahead
+5	mio	mio_2	v	_	_	_	_	_	Gloss=to_go_down
+
+# sent_id = 2015T17com__11
+# text = u -mo fo fia i -i
+# doc_id = 2015T17com
+# doc_title = 2015T17com
+# origin_s_id = 8.3
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	-mo	-mo_4	Noun	_	_	_	_	_	Gloss=alongside_of
+3	fo	fo_4	adv	_	_	_	_	_	Gloss=TEM_LOC
+4	fia	fia	adv	_	_	_	_	_	Gloss=straight_ahead
+5	i	i	light verb	_	_	_	_	_	Gloss=to_go
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2015T17com__12
+# text = u -mo mai
+# doc_id = 2015T17com
+# doc_title = 2015T17com
+# origin_s_id = 8.4
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	-mo	-mo_4	Noun	_	_	_	_	_	Gloss=alongside_of
+3	mai	mai	v	_	_	_	_	_	Gloss=to_go_up(stream)
+

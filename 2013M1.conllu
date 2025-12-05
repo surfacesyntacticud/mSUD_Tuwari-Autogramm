@@ -1,0 +1,11 @@
+# sent_id = 2013M1__1
+# text = fefe -mi elefei -io
+# text_en = To powder the taro
+# doc_id = 2013M1
+# doc_title = 2013M1
+# origin_s_id = 1
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+3	elefei	elefei	v	_	_	_	_	_	Gloss=to_powder
+4	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

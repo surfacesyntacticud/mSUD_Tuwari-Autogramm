@@ -1,0 +1,109 @@
+# sent_id = 2014.II.S14__1
+# text = kopu
+# doc_id = 2014.II.S14
+# doc_title = 2014.II.S14
+# origin_s_id = 1
+1	kopu	kopu	n	_	_	_	_	_	Gloss=cucumber
+
+# sent_id = 2014.II.S14__2
+# text = a kapi -le me -li nefe -mwii
+# text_en = I gave banana to you.
+# doc_id = 2014.II.S14
+# doc_title = 2014.II.S14
+# origin_s_id = 2
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	kapi	kapi_1	n	_	_	_	_	_	Gloss=banana
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+5	-li	-li_7	pro-form	_	_	_	_	_	Gloss=-O
+6	nefe	nefi_1	v	_	_	_	_	_	Gloss=to_give
+7	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.II.S14__3
+# text = me eitomla kono -mo
+# doc_id = 2014.II.S14
+# doc_title = 2014.II.S14
+# origin_s_id = 3
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	eitomla	heitomu	v	_	_	_	_	_	Gloss=hungry
+3	kono	kono_1	v	_	_	_	_	_	Gloss=to_want
+4	-mo	-mo_2	v:(GenderNumber)	_	_	_	_	_	Gloss=?
+
+# sent_id = 2014.II.S14__4
+# text = mwe uwe usaai -mwii
+# doc_id = 2014.II.S14
+# doc_title = 2014.II.S14
+# origin_s_id = 4
+1	mwe	mwe	pers	_	_	_	_	_	Gloss=DEM1:3SG.M
+2	uwe	uwe_2	n	_	_	_	_	_	Gloss=little_boy
+3	usaai	usaai	v	_	_	_	_	_	Gloss=to_be_angry
+4	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2014.II.S14__5
+# text = hawa eito eito -le tono -le heiu
+# text_en = the mosquitos bite the men.
+# doc_id = 2014.II.S14
+# doc_title = 2014.II.S14
+# origin_s_id = 5
+1	hawa	hawa	n	_	_	_	_	_	Gloss=mosquito
+2	eito	eito	adj	_	_	_	_	_	Gloss=too_much
+3	eito	eito	adj	_	_	_	_	_	Gloss=too_much
+4	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+5	tono	to_1	n	_	_	_	_	_	Gloss=man
+6	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+7	heiu	heio	v	_	_	_	_	_	Gloss=to_bite
+
+# sent_id = 2014.II.S14__6
+# text = so -he keisaalo peisa -lo
+# doc_id = 2014.II.S14
+# doc_title = 2014.II.S14
+# origin_s_id = 6
+1	so	so_1	n  (he)	_	_	_	_	_	Gloss=time
+2	-he	-he_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-IV.SG
+3	keisaalo	keisiiolo	n	_	_	_	_	_	Gloss=apinun
+4	peisa	peisa	adv	_	_	_	_	_	Gloss=good
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+
+# sent_id = 2014.II.S14__7
+# text = topolu -lo -wo
+# doc_id = 2014.II.S14
+# doc_title = 2014.II.S14
+# origin_s_id = 7
+1	topolu	topolu	adj	_	_	_	_	_	Gloss=cold
+2	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+3	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S14__8
+# text = hepetia kesia -le i fali kopulo
+# doc_id = 2014.II.S14
+# doc_title = 2014.II.S14
+# origin_s_id = 8
+1	hepetia	hepitia	n	_	_	_	_	_	Gloss=children
+2	kesia	kesia	n	_	_	_	_	_	Gloss=play
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	i	i	light verb	_	_	_	_	_	Gloss=to_do
+5	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+6	kopulo	kopulo	adv	_	_	_	_	_	Gloss=together
+
+# sent_id = 2014.II.S14__9
+# text = heneli hou -wo
+# text_en = the sun is hot (its too hot)
+# doc_id = 2014.II.S14
+# doc_title = 2014.II.S14
+# origin_s_id = 9
+1	heneli	heneli_1	n  (fo)	_	_	_	_	_	Gloss=sun
+2	hou	hou_2	v	_	_	_	_	_	Gloss=to_burn
+3	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2014.II.S14__10
+# text = u tau -tano topolu -lo -wo
+# doc_id = 2014.II.S14
+# doc_title = 2014.II.S14
+# origin_s_id = 10
+1	u	u_1	n  (tanoi)tano	_	_	_	_	_	Gloss=water
+2	tau	tau	PN_hydronym	_	_	_	_	_	Gloss=Tau
+3	-tano	-tano	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-X.SG
+4	topolu	topolu	adj	_	_	_	_	_	Gloss=cold
+5	-lo	-lo_2	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-COP?
+6	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

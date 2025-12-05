@@ -1,0 +1,14 @@
+# sent_id = 2013T11__1
+# text = a sopute -le fofu naa -no -wo
+# text_en = I like smoke OR I would like to smoke
+# doc_id = 2013T11
+# doc_title = 2013T11
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	sopute	sopute	n	_	_	_	_	_	Gloss=tabac
+3	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+4	fofu	fofu	v	_	_	_	_	_	Gloss=to_smoke
+5	naa	naa	v	_	_	_	_	_	Gloss=to_want
+6	-no	-no_8	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-PURP
+7	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

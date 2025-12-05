@@ -1,0 +1,233 @@
+# sent_id = 2013.II.S2__1
+# text = a flei -mwii
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 1
+1	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+2	flei	flei	v	_	_	_	_	_	Gloss=to_eat
+3	-mwii	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2013.II.S2__2
+# text = a -nai -mwiio
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 2
+1	a	o_4	v	_	_	_	_	_	Gloss=to_eat
+2	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+3	-mwiio	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2013.II.S2__3
+# text = ta kopulo a -nai -mwiio
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 3
+1	ta	ta_1	pers	_	_	_	_	_	Gloss=1PL
+2	kopulo	kopulo	adv	_	_	_	_	_	Gloss=together
+3	a	o_4	v	_	_	_	_	_	Gloss=to_eat
+4	-nai	-nai	v:(Aspect/Modality2)	_	_	_	_	_	Gloss=-IRR
+5	-mwiio	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+
+# sent_id = 2013.II.S2__4
+# text = otue -le o -wo
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 4
+1	otue	otue	n	_	_	_	_	_	Gloss=food
+2	-le	-le_1	n:(Num)	_	_	_	_	_	Gloss=-PL
+3	o	o_4	v	_	_	_	_	_	Gloss=to_eat
+4	-wo	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S2__5
+# text = fefe -mo -i
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 5
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S2__6
+# text = fefe -tei
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 6
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	-tei	-tei	Noun	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2013.II.S2__7
+# text = fefe -mi
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 7
+1	fefe	fefe	n  (mo)	_	_	_	_	_	Gloss=taro
+2	-mi	-mi_3	Noun	_	_	_	_	_	Gloss=-?
+
+# sent_id = 2013.II.S2__8
+# text = inale
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 8
+1	inale	inale	n	_	_	_	_	_	Gloss=pumpkin
+
+# sent_id = 2013.II.S2__9
+# text = heifa inale naa -i
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 9
+1	heifa	heifa	n	_	_	_	_	_	Gloss=vegetable
+2	inale	inale	n	_	_	_	_	_	Gloss=pumpkin
+3	naa	naa	v	_	_	_	_	_	Gloss=to_look_for
+4	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S2__10
+# text = sinale -mo -i
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 10
+1	sinale	sinali	n	_	_	_	_	_	Gloss=sweet_potato
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S2__11
+# text = kopu
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 11
+1	kopu	kopu	n	_	_	_	_	_	Gloss=cucumber
+
+# sent_id = 2013.II.S2__12
+# text = kape -oi
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 12
+1	kape	kapi_1	n	_	_	_	_	_	Gloss=banana
+2	-oi	-o	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VI.SG
+
+# sent_id = 2013.II.S2__13
+# text = kape -pla -i
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 13
+1	kape	kapi_1	n	_	_	_	_	_	Gloss=banana
+2	-pla	-apla	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-XI.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S2__14
+# text = kape -tei
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 14
+1	kape	kapi_1	n	_	_	_	_	_	Gloss=banana
+2	-tei	-tei	Noun	_	_	_	_	_	Gloss=-PL
+
+# sent_id = 2013.II.S2__15
+# text = ho -mo -i
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 15
+1	ho	ho_2	n	_	_	_	_	_	Gloss=sugar_cane
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S2__16
+# text = fofo -fo -i
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 16
+1	fofo	fufu	n  (fo)	_	_	_	_	_	Gloss=papaye
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S2__17
+# text = inale -mo -i
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 17
+1	inale	inale	n	_	_	_	_	_	Gloss=pumpkin
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+3	-i	-io_2	n:Tout	_	_	_	_	_	Gloss=-FIN_NOUN
+
+# sent_id = 2013.II.S2__18
+# text = inale tete
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 18
+1	inale	inale	n	_	_	_	_	_	Gloss=pumpkin
+2	tete	tete_1	n	_	_	_	_	_	Gloss=food
+
+# sent_id = 2013.II.S2__19
+# text = painaple
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 19
+1	painaple	painaple	n	_	_	_	_	_	Gloss=pine_apple
+
+# sent_id = 2013.II.S2__20
+# text = painele -fo -i
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 20
+1	painele	painale	n  (fo)	_	_	_	_	_	Gloss=coconut
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S2__21
+# text = nofua -fo -i
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 21
+1	nofua	nofua	n  (fo)	_	_	_	_	_	Gloss=leaf
+2	-fo	-fo	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-V.SG
+3	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2013.II.S2__22
+# text = epaaiteia
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 22
+1	epaaiteia	epaaiteia	n	_	_	_	_	_	Gloss=banana_specie
+
+# sent_id = 2013.II.S2__23
+# text = mamo
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 23
+1	mamo	mamo_2	n	_	_	_	_	_	Gloss=banana_specie
+
+# sent_id = 2013.II.S2__24
+# text = inale nae
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 24
+1	inale	inale	n	_	_	_	_	_	Gloss=pumpkin
+2	nae	nae	n	_	_	_	_	_	Gloss=green
+
+# sent_id = 2013.II.S2__25
+# text = komu
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 25
+1	komu	komu	n	_	_	_	_	_	Gloss=green(vegetable)?
+
+# sent_id = 2013.II.S2__26
+# text = kopu
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 26
+1	kopu	kopu	n	_	_	_	_	_	Gloss=cucumber
+
+# sent_id = 2013.II.S2__27
+# text = nesopu -mo
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 27
+1	nesopu	nesopu	n  (mo)	_	_	_	_	_	Gloss=braising
+2	-mo	-mo_1	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-III.SG
+
+# sent_id = 2013.II.S2__28
+# text = kemia
+# doc_id = 2013.II.S2
+# doc_title = 2013.II.S2 nourriture : plante
+# origin_s_id = 28
+1	kemia	kemia	n	_	_	_	_	_	Gloss=red_pandanus
+

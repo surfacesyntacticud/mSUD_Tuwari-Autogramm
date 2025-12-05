@@ -1,0 +1,43 @@
+# sent_id = 2019.I.7__1
+# text = awa toisooi
+# doc_id = 2019.I.7
+# origin_s_id = 1
+1	awa	awa	n	_	_	_	_	_	Gloss=sibling
+2	toisooi	toisooi	interj	_	_	_	_	_	Gloss=good_morning
+
+# sent_id = 2019.I.7__2
+# text = me teia -ma tei -s -wi -i -no
+# doc_id = 2019.I.7
+# origin_s_id = 2
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	teia	teia	n  (ei)	_	_	_	_	_	Gloss=garden
+3	-ma	-ma_1	n:Tout	_	_	_	_	_	Gloss=-ALL
+4	tei	tei_1	v	_	_	_	_	_	Gloss=to_go
+5	-s	se_4	pro-form:Tout	_	_	_	_	_	Gloss=DEM3.also
+6	-wi	-we_5	v:Tout	_	_	_	_	_	Gloss=-M.SG
+7	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+8	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.I.7__3
+# text = me neiau ale -s -wi -i -no
+# doc_id = 2019.I.7
+# origin_s_id = 3
+1	me	me_1	pers	_	_	_	_	_	Gloss=2SG.M
+2	neiau	neiau	n  (fo)	_	_	_	_	_	Gloss=kapiok
+3	ale	eli_1	v	_	_	_	_	_	Gloss=to_plant_with_a_stick
+4	-s	se_4	pro-form:Tout	_	_	_	_	_	Gloss=DEM3.also
+5	-wi	-we_5	v:Tout	_	_	_	_	_	Gloss=-M.SG
+6	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+7	-no	-no_1	v:(Mood)	_	_	_	_	_	Gloss=-Q
+
+# sent_id = 2019.I.7__4
+# text = ioho a fali ali -mwi -io
+# doc_id = 2019.I.7
+# origin_s_id = 4
+1	ioho	yoho	adv	_	_	_	_	_	Gloss=yes
+2	a	a_2	pers	_	_	_	_	_	Gloss=1SG
+3	fali	fali	v	_	_	_	_	_	Gloss=COMPL
+4	ali	eli_1	v	_	_	_	_	_	Gloss=to_plant_with_a_stick
+5	-mwi	-mwii	v:(GenderNumber)	_	_	_	_	_	Gloss=-DEM1:SG.M
+6	-io	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+

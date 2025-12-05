@@ -1,0 +1,16 @@
+# sent_id = 2019.I.33__1
+# text = sane -pe pojsa -pe -i
+# doc_id = 2019.I.33
+# origin_s_id = 1
+1	sane	sane	n  (pe)	_	_	_	_	_	Gloss=bow
+2	-pe	-pe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VIII.SG
+3	pojsa	peisa	adv	_	_	_	_	_	Gloss=good
+4	-pe	-pe	n:(NounGenderNumber)	_	_	_	_	_	Gloss=-VIII.SG
+5	-i	-io_1	v:(Chaining)	_	_	_	_	_	Gloss=-FIN
+
+# sent_id = 2019.I.33__2
+# text = asabano
+# doc_id = 2019.I.33
+# origin_s_id = 2
+1	asabano	asabano	PN_toponyme	_	_	_	_	_	Gloss=Asabano
+
